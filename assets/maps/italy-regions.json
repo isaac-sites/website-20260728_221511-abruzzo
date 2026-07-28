@@ -1,0 +1,796 @@
+{
+  "kind": "italy-regions",
+  "mapLayout": "italy-regions",
+  "mapFit": "linked-bounds",
+  "itemType": "region",
+  "mapAsset": "italy.svg",
+  "dataAsset": "italy-regions.json",
+  "mapLabel": "UFO and UAP Italian regions map",
+  "fallbackSummary": "Open this Italian region file from the map.",
+  "panelCopy": "Use the map to jump into an Italian region file, or browse the full region list below.",
+  "items": [
+    {
+      "id": "IT-57",
+      "iso": "IT-57",
+      "basename": "Marche_113fca",
+      "region": "Italy",
+      "mapName": "Marche",
+      "label": "Marche",
+      "mapAliases": [
+        "marche",
+        "it 57",
+        "57"
+      ],
+      "title": "How Marche's UFO Legends Took Shape",
+      "summary": "Marche has a long and unusually varied UFO record, but not a single regional incident supported by evidence strong enough to establish an extraordinary craft.",
+      "url": "how-marches-ufo-legends-took-shape/",
+      "image": "assets/images/Marche_113fca-overview.webp",
+      "pageCount": 11,
+      "code": "57"
+    },
+    {
+      "id": "IT-25",
+      "iso": "IT-25",
+      "basename": "Lombardy_9b46d3",
+      "region": "Italy",
+      "mapName": "Lombardy",
+      "label": "Lombardy",
+      "mapAliases": [
+        "lombardia",
+        "lombardy",
+        "it 25",
+        "25"
+      ],
+      "title": "Lombardy's UFO History Between Evidence and Myth",
+      "summary": "Lombardy has one of Italy’s richest UFO histories, but not because it contains a single, securely documented mystery.",
+      "url": "lombardys-ufo-history-between-evidence/",
+      "image": "assets/images/Lombardy_9b46d3-photo1.webp",
+      "pageCount": 11,
+      "code": "25"
+    },
+    {
+      "id": "IT-21",
+      "iso": "IT-21",
+      "basename": "Piedmont_9fde2b",
+      "region": "Italy",
+      "mapName": "Piedmont",
+      "label": "Piedmont",
+      "mapAliases": [
+        "piedmont",
+        "piemonte",
+        "it 21",
+        "21"
+      ],
+      "title": "Piedmont's UFO Mysteries Under Closer Examination",
+      "summary": "Piedmont’s UFO history is best understood not as a catalogue of alien visits, but as a mixture of one unusually substantial aviation case, several dramatic...",
+      "url": "piedmonts-ufo-mysteries-under-closer/",
+      "image": "assets/images/Piedmont_9fde2b-overview.webp",
+      "pageCount": 11,
+      "code": "21"
+    },
+    {
+      "id": "IT-52",
+      "iso": "IT-52",
+      "basename": "Tuscany_2685d2",
+      "region": "Italy",
+      "mapName": "Tuscany",
+      "label": "Tuscany",
+      "mapAliases": [
+        "toscana",
+        "tuscany",
+        "it 52",
+        "52"
+      ],
+      "title": "Tuscany's UFO History Between Mystery and...",
+      "summary": "Tuscany holds an unusually prominent place in Italian UFO history, chiefly because of two very different episodes: the mass sighting over Florence on 27...",
+      "url": "tuscanys-ufo-history-between-mystery-and/",
+      "image": "assets/images/Tuscany_2685d2-overview.webp",
+      "pageCount": 11,
+      "code": "52"
+    },
+    {
+      "id": "IT-34",
+      "iso": "IT-34",
+      "basename": "Veneto_862600",
+      "region": "Italy",
+      "mapName": "Veneto",
+      "label": "Veneto",
+      "mapAliases": [
+        "veneto",
+        "it 34",
+        "34"
+      ],
+      "title": "Veneto's UFO History Between Evidence and Folklore",
+      "summary": "Veneto’s UFO history is dominated by one unusually substantial incident: the 18 June 1979 encounter over Treviso involving Italian Air Force pilot Giancarlo...",
+      "url": "venetos-ufo-history-between-evidence-and/",
+      "image": "assets/images/Veneto_862600-overview.webp",
+      "pageCount": 11,
+      "code": "34"
+    },
+    {
+      "id": "IT-77",
+      "iso": "IT-77",
+      "basename": "Basilicata_3ea395",
+      "region": "Italy",
+      "mapName": "Basilicata",
+      "label": "Basilicata",
+      "mapAliases": [
+        "basilicata",
+        "it 77",
+        "77"
+      ],
+      "title": "Which Basilicata UFO Cases Still Withstand Scrutiny?",
+      "summary": "Basilicata has a long UFO tradition, but not a large body of strong cases.",
+      "url": "which-basilicata-ufo-cases-still/",
+      "image": "assets/images/Basilicata_3ea395-overview.webp",
+      "pageCount": 11,
+      "code": "77"
+    },
+    {
+      "id": "IT-65",
+      "iso": "IT-65",
+      "basename": "Abruzzo_4c71bb",
+      "region": "Italy",
+      "mapName": "Abruzzo",
+      "label": "Abruzzo",
+      "mapAliases": [
+        "abruzzo",
+        "it 65",
+        "65"
+      ],
+      "title": "Why Abruzzo Became Italy's UFO Hotspot",
+      "summary": "Abruzzo’s UFO history is dominated by one exceptional episode: the wave of reports that spread along the central Adriatic coast in autumn 1978.",
+      "url": "why-abruzzo-became-italys-ufo-hotspot/",
+      "image": "assets/images/Abruzzo_4c71bb-overview.webp",
+      "pageCount": 11,
+      "code": "65"
+    },
+    {
+      "id": "IT-32",
+      "iso": "IT-32",
+      "basename": "Trentino-Alto_Adige_27eb8f",
+      "region": "Italy",
+      "mapName": "Trentino-Alto Adige",
+      "label": "Trentino-Alto Adige",
+      "mapAliases": [
+        "trentino alto adige",
+        "it 32",
+        "32"
+      ],
+      "title": "Why Alpine UFO Sightings Stay So Difficult to Solve",
+      "summary": "Trentino-Alto Adige has a genuine but fragmented UFO history.",
+      "url": "trentino-alto-adige/",
+      "image": "assets/images/Trentino-Alto_Adige_27eb8f-overview.webp",
+      "pageCount": 11,
+      "code": "32"
+    },
+    {
+      "id": "IT-23",
+      "iso": "IT-23",
+      "basename": "Aosta_Valley_ccb120",
+      "region": "Italy",
+      "mapName": "Aosta Valley",
+      "label": "Aosta Valley",
+      "mapAliases": [
+        "aosta valley",
+        "valle daosta",
+        "val d aosta",
+        "it 23",
+        "23"
+      ],
+      "title": "Why Aosta Valley's UFO Record Looks So Different",
+      "summary": "Aosta Valley has a long but thinly documented UFO history.",
+      "url": "why-aosta-valleys-ufo-record-looks-so/",
+      "image": "assets/images/Aosta_Valley_ccb120-overview.webp",
+      "pageCount": 11,
+      "code": "23"
+    },
+    {
+      "id": "IT-75",
+      "iso": "IT-75",
+      "basename": "Apulia_98f3e8",
+      "region": "Italy",
+      "mapName": "Apulia",
+      "label": "Apulia",
+      "mapAliases": [
+        "apulia",
+        "puglia",
+        "it 75",
+        "75"
+      ],
+      "title": "Why Apulia's UFO Record Still Resists Easy Answers",
+      "summary": "Apulia has a long and unusually well-documented history of reported unidentified aerial phenomena, but the record is more revealing about how sightings are...",
+      "url": "why-apulias-ufo-record-still-resists/",
+      "image": "assets/images/Apulia_98f3e8-overview.webp",
+      "pageCount": 11,
+      "code": "75"
+    },
+    {
+      "id": "IT-78",
+      "iso": "IT-78",
+      "basename": "Calabria_663de5",
+      "region": "Italy",
+      "mapName": "Calabria",
+      "label": "Calabria",
+      "mapAliases": [
+        "calabria",
+        "it 78",
+        "78"
+      ],
+      "title": "Why Calabria Has Many UFO Reports but No Landmark Case",
+      "summary": "Calabria’s UFO history is not defined by one famous encounter, a confirmed radar incident or a persuasive military case.",
+      "url": "why-calabria-has-many-ufo-reports-but-no/",
+      "image": "assets/images/Calabria_663de5-overview.webp",
+      "pageCount": 11,
+      "code": "78"
+    },
+    {
+      "id": "IT-72",
+      "iso": "IT-72",
+      "basename": "Campania_5acc6a",
+      "region": "Italy",
+      "mapName": "Campania",
+      "label": "Campania",
+      "mapAliases": [
+        "campania",
+        "it 72",
+        "72"
+      ],
+      "title": "Why Campania's UFO Waves Looked So Convincing",
+      "summary": "Campania has a substantial UFO history, but its strongest lesson is not that the region has produced a single, decisive “alien encounter”.",
+      "url": "why-campanias-ufo-waves-looked-so/",
+      "image": "assets/images/Campania_5acc6a-overview.webp",
+      "pageCount": 11,
+      "code": "72"
+    },
+    {
+      "id": "IT-45",
+      "iso": "IT-45",
+      "basename": "Emilia-Romagna_e1c904",
+      "region": "Italy",
+      "mapName": "Emilia-Romagna",
+      "label": "Emilia-Romagna",
+      "mapAliases": [
+        "emilia romagna",
+        "it 45",
+        "45"
+      ],
+      "title": "Why Emilia Romagna Became a UFO Hotspot",
+      "summary": "Emilia-Romagna has a substantial UFO history, but not one dominated by a single spectacular encounter.",
+      "url": "why-emilia-romagna-became-a-ufo-hotspot/",
+      "image": "assets/images/Emilia-Romagna_e1c904-overview.webp",
+      "pageCount": 11,
+      "code": "45"
+    },
+    {
+      "id": "IT-36",
+      "iso": "IT-36",
+      "basename": "Friuli-Venezia_Giuli_608dd8",
+      "region": "Italy",
+      "mapName": "Friuli-Venezia Giulia",
+      "label": "Friuli-Venezia Giulia",
+      "mapAliases": [
+        "friuli venezia giulia",
+        "it 36",
+        "36"
+      ],
+      "title": "Why Friuli's UFO Cases Remain Unresolved",
+      "summary": "Friuli-Venezia Giulia has a real but uneven UFO history.",
+      "url": "friuli-venezia-giulia/",
+      "image": "assets/images/Friuli-Venezia_Giuli_608dd8-overview.webp",
+      "pageCount": 11,
+      "code": "36"
+    },
+    {
+      "id": "IT-62",
+      "iso": "IT-62",
+      "basename": "Lazio_2e255a",
+      "region": "Italy",
+      "mapName": "Lazio",
+      "label": "Lazio",
+      "mapAliases": [
+        "it 62",
+        "lazio",
+        "62"
+      ],
+      "title": "Why Lazio's UFO History Remains Unresolved",
+      "summary": "Lazio has no single UFO incident that is both spectacular and securely documented.",
+      "url": "why-lazios-ufo-history-remains/",
+      "image": "assets/images/Lazio_2e255a-overview.webp",
+      "pageCount": 11,
+      "code": "62"
+    },
+    {
+      "id": "IT-42",
+      "iso": "IT-42",
+      "basename": "Liguria_5b11e3",
+      "region": "Italy",
+      "mapName": "Liguria",
+      "label": "Liguria",
+      "mapAliases": [
+        "liguria",
+        "it 42",
+        "42"
+      ],
+      "title": "Why Liguria Became Italy's UFO Coast",
+      "summary": "Liguria’s UFO history is dominated by one extraordinary but disputed case: the experiences reported by security guard Pier Fortunato Zanfretta in the hills...",
+      "url": "why-liguria-became-italys-ufo-coast/",
+      "image": "assets/images/Liguria_5b11e3-overview.webp",
+      "pageCount": 11,
+      "code": "42"
+    },
+    {
+      "id": "IT-67",
+      "iso": "IT-67",
+      "basename": "Molise_7c6aa1",
+      "region": "Italy",
+      "mapName": "Molise",
+      "label": "Molise",
+      "mapAliases": [
+        "molise",
+        "it 67",
+        "67"
+      ],
+      "title": "Why Molise Has So Few Strong UFO Cases",
+      "summary": "Molise has no well-documented “classic” UFO incident comparable with Italy’s best-known close encounters, pilot reports or radar cases.",
+      "url": "why-molise-has-so-few-strong-ufo-cases/",
+      "image": "assets/images/Molise_7c6aa1-overview.webp",
+      "pageCount": 11,
+      "code": "67"
+    },
+    {
+      "id": "IT-88",
+      "iso": "IT-88",
+      "basename": "Sardinia_83a1a0",
+      "region": "Italy",
+      "mapName": "Sardinia",
+      "label": "Sardinia",
+      "mapAliases": [
+        "sardegna",
+        "sardinia",
+        "it 88",
+        "88"
+      ],
+      "title": "Why Sardinia's UFO Record Remains So Elusive",
+      "summary": "Sardinia has a long record of unusual lights and objects reported in its skies, but it does not possess a single, well-documented “landmark” incident...",
+      "url": "why-sardinias-ufo-record-remains-so/",
+      "image": "assets/images/Sardinia_83a1a0-overview.webp",
+      "pageCount": 11,
+      "code": "88"
+    },
+    {
+      "id": "IT-82",
+      "iso": "IT-82",
+      "basename": "Sicily_77b465",
+      "region": "Italy",
+      "mapName": "Sicily",
+      "label": "Sicily",
+      "mapAliases": [
+        "sicilia",
+        "sicily",
+        "it 82",
+        "82"
+      ],
+      "title": "Why Sicily's UFO Stories Still Resist Easy Answers",
+      "summary": "Sicily has a long and varied UFO history, but it does not rest on one exceptionally well-documented encounter.",
+      "url": "why-sicilys-ufo-stories-still-resist/",
+      "image": "assets/images/Sicily_77b465-overview.webp",
+      "pageCount": 11,
+      "code": "82"
+    },
+    {
+      "id": "IT-55",
+      "iso": "IT-55",
+      "basename": "Umbria_d4a7a8",
+      "region": "Italy",
+      "mapName": "Umbria",
+      "label": "Umbria",
+      "mapAliases": [
+        "umbria",
+        "it 55",
+        "55"
+      ],
+      "title": "Why Umbria's UFO Stories Still Resist Easy Answers",
+      "summary": "Umbria has no single UFO case comparable in fame to Italy’s best-known incidents, but it has a distinctive regional history built from scattered witness...",
+      "url": "why-umbrias-ufo-stories-still-resist/",
+      "image": "assets/images/Umbria_d4a7a8-overview.webp",
+      "pageCount": 11,
+      "code": "55"
+    }
+  ],
+  "regions": [
+    {
+      "id": "IT-57",
+      "iso": "IT-57",
+      "basename": "Marche_113fca",
+      "region": "Italy",
+      "mapName": "Marche",
+      "label": "Marche",
+      "mapAliases": [
+        "marche",
+        "it 57",
+        "57"
+      ],
+      "title": "How Marche's UFO Legends Took Shape",
+      "summary": "Marche has a long and unusually varied UFO record, but not a single regional incident supported by evidence strong enough to establish an extraordinary craft.",
+      "url": "how-marches-ufo-legends-took-shape/",
+      "image": "assets/images/Marche_113fca-overview.webp",
+      "pageCount": 11,
+      "code": "57"
+    },
+    {
+      "id": "IT-25",
+      "iso": "IT-25",
+      "basename": "Lombardy_9b46d3",
+      "region": "Italy",
+      "mapName": "Lombardy",
+      "label": "Lombardy",
+      "mapAliases": [
+        "lombardia",
+        "lombardy",
+        "it 25",
+        "25"
+      ],
+      "title": "Lombardy's UFO History Between Evidence and Myth",
+      "summary": "Lombardy has one of Italy’s richest UFO histories, but not because it contains a single, securely documented mystery.",
+      "url": "lombardys-ufo-history-between-evidence/",
+      "image": "assets/images/Lombardy_9b46d3-photo1.webp",
+      "pageCount": 11,
+      "code": "25"
+    },
+    {
+      "id": "IT-21",
+      "iso": "IT-21",
+      "basename": "Piedmont_9fde2b",
+      "region": "Italy",
+      "mapName": "Piedmont",
+      "label": "Piedmont",
+      "mapAliases": [
+        "piedmont",
+        "piemonte",
+        "it 21",
+        "21"
+      ],
+      "title": "Piedmont's UFO Mysteries Under Closer Examination",
+      "summary": "Piedmont’s UFO history is best understood not as a catalogue of alien visits, but as a mixture of one unusually substantial aviation case, several dramatic...",
+      "url": "piedmonts-ufo-mysteries-under-closer/",
+      "image": "assets/images/Piedmont_9fde2b-overview.webp",
+      "pageCount": 11,
+      "code": "21"
+    },
+    {
+      "id": "IT-52",
+      "iso": "IT-52",
+      "basename": "Tuscany_2685d2",
+      "region": "Italy",
+      "mapName": "Tuscany",
+      "label": "Tuscany",
+      "mapAliases": [
+        "toscana",
+        "tuscany",
+        "it 52",
+        "52"
+      ],
+      "title": "Tuscany's UFO History Between Mystery and...",
+      "summary": "Tuscany holds an unusually prominent place in Italian UFO history, chiefly because of two very different episodes: the mass sighting over Florence on 27...",
+      "url": "tuscanys-ufo-history-between-mystery-and/",
+      "image": "assets/images/Tuscany_2685d2-overview.webp",
+      "pageCount": 11,
+      "code": "52"
+    },
+    {
+      "id": "IT-34",
+      "iso": "IT-34",
+      "basename": "Veneto_862600",
+      "region": "Italy",
+      "mapName": "Veneto",
+      "label": "Veneto",
+      "mapAliases": [
+        "veneto",
+        "it 34",
+        "34"
+      ],
+      "title": "Veneto's UFO History Between Evidence and Folklore",
+      "summary": "Veneto’s UFO history is dominated by one unusually substantial incident: the 18 June 1979 encounter over Treviso involving Italian Air Force pilot Giancarlo...",
+      "url": "venetos-ufo-history-between-evidence-and/",
+      "image": "assets/images/Veneto_862600-overview.webp",
+      "pageCount": 11,
+      "code": "34"
+    },
+    {
+      "id": "IT-77",
+      "iso": "IT-77",
+      "basename": "Basilicata_3ea395",
+      "region": "Italy",
+      "mapName": "Basilicata",
+      "label": "Basilicata",
+      "mapAliases": [
+        "basilicata",
+        "it 77",
+        "77"
+      ],
+      "title": "Which Basilicata UFO Cases Still Withstand Scrutiny?",
+      "summary": "Basilicata has a long UFO tradition, but not a large body of strong cases.",
+      "url": "which-basilicata-ufo-cases-still/",
+      "image": "assets/images/Basilicata_3ea395-overview.webp",
+      "pageCount": 11,
+      "code": "77"
+    },
+    {
+      "id": "IT-65",
+      "iso": "IT-65",
+      "basename": "Abruzzo_4c71bb",
+      "region": "Italy",
+      "mapName": "Abruzzo",
+      "label": "Abruzzo",
+      "mapAliases": [
+        "abruzzo",
+        "it 65",
+        "65"
+      ],
+      "title": "Why Abruzzo Became Italy's UFO Hotspot",
+      "summary": "Abruzzo’s UFO history is dominated by one exceptional episode: the wave of reports that spread along the central Adriatic coast in autumn 1978.",
+      "url": "why-abruzzo-became-italys-ufo-hotspot/",
+      "image": "assets/images/Abruzzo_4c71bb-overview.webp",
+      "pageCount": 11,
+      "code": "65"
+    },
+    {
+      "id": "IT-32",
+      "iso": "IT-32",
+      "basename": "Trentino-Alto_Adige_27eb8f",
+      "region": "Italy",
+      "mapName": "Trentino-Alto Adige",
+      "label": "Trentino-Alto Adige",
+      "mapAliases": [
+        "trentino alto adige",
+        "it 32",
+        "32"
+      ],
+      "title": "Why Alpine UFO Sightings Stay So Difficult to Solve",
+      "summary": "Trentino-Alto Adige has a genuine but fragmented UFO history.",
+      "url": "trentino-alto-adige/",
+      "image": "assets/images/Trentino-Alto_Adige_27eb8f-overview.webp",
+      "pageCount": 11,
+      "code": "32"
+    },
+    {
+      "id": "IT-23",
+      "iso": "IT-23",
+      "basename": "Aosta_Valley_ccb120",
+      "region": "Italy",
+      "mapName": "Aosta Valley",
+      "label": "Aosta Valley",
+      "mapAliases": [
+        "aosta valley",
+        "valle daosta",
+        "val d aosta",
+        "it 23",
+        "23"
+      ],
+      "title": "Why Aosta Valley's UFO Record Looks So Different",
+      "summary": "Aosta Valley has a long but thinly documented UFO history.",
+      "url": "why-aosta-valleys-ufo-record-looks-so/",
+      "image": "assets/images/Aosta_Valley_ccb120-overview.webp",
+      "pageCount": 11,
+      "code": "23"
+    },
+    {
+      "id": "IT-75",
+      "iso": "IT-75",
+      "basename": "Apulia_98f3e8",
+      "region": "Italy",
+      "mapName": "Apulia",
+      "label": "Apulia",
+      "mapAliases": [
+        "apulia",
+        "puglia",
+        "it 75",
+        "75"
+      ],
+      "title": "Why Apulia's UFO Record Still Resists Easy Answers",
+      "summary": "Apulia has a long and unusually well-documented history of reported unidentified aerial phenomena, but the record is more revealing about how sightings are...",
+      "url": "why-apulias-ufo-record-still-resists/",
+      "image": "assets/images/Apulia_98f3e8-overview.webp",
+      "pageCount": 11,
+      "code": "75"
+    },
+    {
+      "id": "IT-78",
+      "iso": "IT-78",
+      "basename": "Calabria_663de5",
+      "region": "Italy",
+      "mapName": "Calabria",
+      "label": "Calabria",
+      "mapAliases": [
+        "calabria",
+        "it 78",
+        "78"
+      ],
+      "title": "Why Calabria Has Many UFO Reports but No Landmark Case",
+      "summary": "Calabria’s UFO history is not defined by one famous encounter, a confirmed radar incident or a persuasive military case.",
+      "url": "why-calabria-has-many-ufo-reports-but-no/",
+      "image": "assets/images/Calabria_663de5-overview.webp",
+      "pageCount": 11,
+      "code": "78"
+    },
+    {
+      "id": "IT-72",
+      "iso": "IT-72",
+      "basename": "Campania_5acc6a",
+      "region": "Italy",
+      "mapName": "Campania",
+      "label": "Campania",
+      "mapAliases": [
+        "campania",
+        "it 72",
+        "72"
+      ],
+      "title": "Why Campania's UFO Waves Looked So Convincing",
+      "summary": "Campania has a substantial UFO history, but its strongest lesson is not that the region has produced a single, decisive “alien encounter”.",
+      "url": "why-campanias-ufo-waves-looked-so/",
+      "image": "assets/images/Campania_5acc6a-overview.webp",
+      "pageCount": 11,
+      "code": "72"
+    },
+    {
+      "id": "IT-45",
+      "iso": "IT-45",
+      "basename": "Emilia-Romagna_e1c904",
+      "region": "Italy",
+      "mapName": "Emilia-Romagna",
+      "label": "Emilia-Romagna",
+      "mapAliases": [
+        "emilia romagna",
+        "it 45",
+        "45"
+      ],
+      "title": "Why Emilia Romagna Became a UFO Hotspot",
+      "summary": "Emilia-Romagna has a substantial UFO history, but not one dominated by a single spectacular encounter.",
+      "url": "why-emilia-romagna-became-a-ufo-hotspot/",
+      "image": "assets/images/Emilia-Romagna_e1c904-overview.webp",
+      "pageCount": 11,
+      "code": "45"
+    },
+    {
+      "id": "IT-36",
+      "iso": "IT-36",
+      "basename": "Friuli-Venezia_Giuli_608dd8",
+      "region": "Italy",
+      "mapName": "Friuli-Venezia Giulia",
+      "label": "Friuli-Venezia Giulia",
+      "mapAliases": [
+        "friuli venezia giulia",
+        "it 36",
+        "36"
+      ],
+      "title": "Why Friuli's UFO Cases Remain Unresolved",
+      "summary": "Friuli-Venezia Giulia has a real but uneven UFO history.",
+      "url": "friuli-venezia-giulia/",
+      "image": "assets/images/Friuli-Venezia_Giuli_608dd8-overview.webp",
+      "pageCount": 11,
+      "code": "36"
+    },
+    {
+      "id": "IT-62",
+      "iso": "IT-62",
+      "basename": "Lazio_2e255a",
+      "region": "Italy",
+      "mapName": "Lazio",
+      "label": "Lazio",
+      "mapAliases": [
+        "it 62",
+        "lazio",
+        "62"
+      ],
+      "title": "Why Lazio's UFO History Remains Unresolved",
+      "summary": "Lazio has no single UFO incident that is both spectacular and securely documented.",
+      "url": "why-lazios-ufo-history-remains/",
+      "image": "assets/images/Lazio_2e255a-overview.webp",
+      "pageCount": 11,
+      "code": "62"
+    },
+    {
+      "id": "IT-42",
+      "iso": "IT-42",
+      "basename": "Liguria_5b11e3",
+      "region": "Italy",
+      "mapName": "Liguria",
+      "label": "Liguria",
+      "mapAliases": [
+        "liguria",
+        "it 42",
+        "42"
+      ],
+      "title": "Why Liguria Became Italy's UFO Coast",
+      "summary": "Liguria’s UFO history is dominated by one extraordinary but disputed case: the experiences reported by security guard Pier Fortunato Zanfretta in the hills...",
+      "url": "why-liguria-became-italys-ufo-coast/",
+      "image": "assets/images/Liguria_5b11e3-overview.webp",
+      "pageCount": 11,
+      "code": "42"
+    },
+    {
+      "id": "IT-67",
+      "iso": "IT-67",
+      "basename": "Molise_7c6aa1",
+      "region": "Italy",
+      "mapName": "Molise",
+      "label": "Molise",
+      "mapAliases": [
+        "molise",
+        "it 67",
+        "67"
+      ],
+      "title": "Why Molise Has So Few Strong UFO Cases",
+      "summary": "Molise has no well-documented “classic” UFO incident comparable with Italy’s best-known close encounters, pilot reports or radar cases.",
+      "url": "why-molise-has-so-few-strong-ufo-cases/",
+      "image": "assets/images/Molise_7c6aa1-overview.webp",
+      "pageCount": 11,
+      "code": "67"
+    },
+    {
+      "id": "IT-88",
+      "iso": "IT-88",
+      "basename": "Sardinia_83a1a0",
+      "region": "Italy",
+      "mapName": "Sardinia",
+      "label": "Sardinia",
+      "mapAliases": [
+        "sardegna",
+        "sardinia",
+        "it 88",
+        "88"
+      ],
+      "title": "Why Sardinia's UFO Record Remains So Elusive",
+      "summary": "Sardinia has a long record of unusual lights and objects reported in its skies, but it does not possess a single, well-documented “landmark” incident...",
+      "url": "why-sardinias-ufo-record-remains-so/",
+      "image": "assets/images/Sardinia_83a1a0-overview.webp",
+      "pageCount": 11,
+      "code": "88"
+    },
+    {
+      "id": "IT-82",
+      "iso": "IT-82",
+      "basename": "Sicily_77b465",
+      "region": "Italy",
+      "mapName": "Sicily",
+      "label": "Sicily",
+      "mapAliases": [
+        "sicilia",
+        "sicily",
+        "it 82",
+        "82"
+      ],
+      "title": "Why Sicily's UFO Stories Still Resist Easy Answers",
+      "summary": "Sicily has a long and varied UFO history, but it does not rest on one exceptionally well-documented encounter.",
+      "url": "why-sicilys-ufo-stories-still-resist/",
+      "image": "assets/images/Sicily_77b465-overview.webp",
+      "pageCount": 11,
+      "code": "82"
+    },
+    {
+      "id": "IT-55",
+      "iso": "IT-55",
+      "basename": "Umbria_d4a7a8",
+      "region": "Italy",
+      "mapName": "Umbria",
+      "label": "Umbria",
+      "mapAliases": [
+        "umbria",
+        "it 55",
+        "55"
+      ],
+      "title": "Why Umbria's UFO Stories Still Resist Easy Answers",
+      "summary": "Umbria has no single UFO case comparable in fame to Italy’s best-known incidents, but it has a distinctive regional history built from scattered witness...",
+      "url": "why-umbrias-ufo-stories-still-resist/",
+      "image": "assets/images/Umbria_d4a7a8-overview.webp",
+      "pageCount": 11,
+      "code": "55"
+    }
+  ],
+  "matchedCount": 20,
+  "totalTopTopics": 20,
+  "source": "Generated from Stage 3 Italian region collection pages; CC0 base SVG from MapSVG.",
+  "sourceUrl": "https://mapsvg.com/maps/italy",
+  "license": "Commercial use allowed; no attribution required."
+}

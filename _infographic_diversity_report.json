@@ -1,0 +1,5291 @@
+{
+  "generated_at_utc": "2026-07-28T21:09:31.474821Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 220,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "Abruzzo_4c71bb",
+      "title": "Why Abruzzo Became Italy's UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Abruzzo UFO Wave Key Stages",
+        "Abruzzo UFO Evidence Analysis",
+        "Abruzzo Provincial Reporting Stats"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+      "title": "Inside Abruzzo's Extraordinary 1978 UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Chronology of the 1978 Adriatic Wave",
+        "Interpretations of Adriatic Maritime Phenomena",
+        "Official Records of the 1978 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+      "title": "How Abruzzo's UFO Wave Changed Official Reporting",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Official vs. Civilian UFO Data",
+        "Reasons for Unidentified Status"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+      "title": "Did Abruzzo Really Report More UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Abruzzo UFO Reporting Density 1978",
+        "Interpreting the 1978 Abruzzo Wave",
+        "CUN Archive Data Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+      "title": "How the Adriatic Triangle Became a UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1978 Abruzzo Wave",
+        "Interpretations of the Adriatic Triangle",
+        "Geographic Variations of the Triangle"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+      "title": "How Reliable Were Abruzzo's Fishermen Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Official Response to Abruzzo Sightings",
+        "Interpretations of Abruzzo Maritime Phenomena",
+        "Data Gaps in Maritime Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+      "title": "Was the Fishing Boat Tragedy Linked to UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Francesco Padre Sinking",
+        "Interpretations of the De Fulgentiis Tragedy",
+        "Evidence Layers of the Francesco Padre Sinking"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+      "title": "Where Is the Radar Evidence for Abruzzo's UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Italian Navy Surveillance Time line 1978",
+        "Radar Evidence vs. Folklore Claims",
+        "Required Data for Sensor Validation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+      "title": "What Did the Navy Find off Abruzzo?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "timeline_chain"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Italian Navy 1978 Adriatic Search",
+        "Interpretations of the 1978 Search",
+        "Naval Mission Operational Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+      "title": "What Could Abruzzo's UFO Witnesses Have Seen?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Maritime and Aerial Light Sources",
+        "Abruzzo 1978 Coastal Wave Interpretations",
+        "Evidence Requirements for Coastal Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Abruzzo_4c71bb_parliament_official_184be8",
+      "title": "The Documents That Put Abruzzo UFOs on Record",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_history",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of the 1978 Abruzzo Alarm",
+        "Naval Records vs. Popular Narratives",
+        "Scope of the 1978 Naval Response"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120",
+      "title": "Why Aosta Valley's UFO Record Looks So Different",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aosta Valley UFO Chronology",
+        "Official vs. Local Sightings Data",
+        "Aosta Valley Aerial Phenomena Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_air_force_reporting_bc5e2a",
+      "title": "What Did the Air Force Actually Record?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Aosta Valley Reporting Discrepancies",
+        "Aosta 1985 Case Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_alpine_cloud_misiden_0da585",
+      "title": "Can Alpine Weather Create Flying Saucer Shapes?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lenticular Cloud Formation Process",
+        "Aosta Valley UFO Interpretations",
+        "Visual Indicators of Lenticular Clouds"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_eighty_vs_two_cases_2aba79",
+      "title": "Why Do Aosta Valley's UFO Totals Clash?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Aosta Valley UFO Key Stages",
+        "Regional vs. Military Data sets",
+        "Aosta Valley Reporting Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_la_thuile_photo_55d22d",
+      "title": "How Strong Is the La Thuile UFO Photograph?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "La Thuile Photograph Evidence Chain",
+        "Potential Explanations for La Thuile",
+        "Missing Technical Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_local_press_and_memo_3aabf8",
+      "title": "How Local Reporting Built Aosta Valley's UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Lore Formation in Val Ferret",
+        "Aosta Valley Archival Data Gap",
+        "Factors Weakening Historical Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_meteors_and_reentry_985ee0",
+      "title": "When Bright Sky Events Became UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aosta Valley Atmospheric Key Stages",
+        "Identifying Atmospheric Phenomena Types",
+        "Factors Influencing Mountain Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_postwar_sighting_tim_0c3127",
+      "title": "How the Region's UFO Story Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aosta Valley UFO Chronology",
+        "Interpretations of the 1985 RAI Chase",
+        "Aosta Valley Reporting Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_rai_shape_changing_f_4ab9de",
+      "title": "Did the RAI Camera Capture a Changing Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAI Television UFO Investigation Time line",
+        "Interpretations of the Aosta Luminous Body",
+        "Technical Constraints of the RAI Footage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_rhemes_campsite_obje_6be8a8",
+      "title": "What Did Campers See at Rhemes Notre Dame?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rhêmes Notre Dame Sighting Characteristics",
+        "Potential Explanations for Rhêmes Objects",
+        "Evidence Gaps in Rhêmes Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aosta_Valley_ccb120_rutor_manoeuvring_li_0750ec",
+      "title": "Did a Light Really Manoeuvre Near Mount Rutor?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Missing Data in Rutor Sighting",
+        "Interpretations of Rutor Light Motion",
+        "Rutor Sighting Key Stages and Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8",
+      "title": "Why Apulia's UFO Record Still Resists Easy Answers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in Apulian UFO History",
+        "Apulian Evidence Classification Categories",
+        "Regional Distribution of Apulian Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_apulia_1978_wave_64d36d",
+      "title": "How the 1978 Wave Reached Apulia",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Italy's 1978 UFO Wave Key Stages",
+        "Interpretations of Apulian Sightings",
+        "Cultural Drivers of the 1978 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_apulia_ufo_explanati_ca846e",
+      "title": "What Usually Causes Apulia's Mystery Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Common Misidentifications in Apulian Skies",
+        "Visual Evidence vs. Physical Reality",
+        "Verifying Apulian Mystery Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_apulia_ufo_hotspots_bb076b",
+      "title": "Where Are Apulia's UFO Reports Concentrated?",
+      "infographic_count": 3,
+      "templates": [
+        "rank_podium",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "data",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Apulian UFO Reporting Totals by Province",
+        "Interpretations of Apulian Aerial Sightings",
+        "Factors Influencing Provincial Reporting Hotspots"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_barletta_multiwitnes_bcc811",
+      "title": "Did Barletta's Witnesses See the Same Object?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1978 Barletta Sightings",
+        "Interpretations of the Barletta Luminous Form",
+        "Data Gaps in the Barletta Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_cisu_apulia_map_c05912",
+      "title": "What Apulia's UFO Map Can and Cannot Show",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "timeline_vertical",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Arcangelo Cassano's Apulian Archive History",
+        "CISU Apulian Report Classifications",
+        "CISU Archive vs. Air Force Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_official_ufo_process_66dd84",
+      "title": "What Happens After an Apulian UFO Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Apulian UFO Reporting Chain",
+        "Official vs. Private Records",
+        "Apulian Aviation Environments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_polignano_1946_proje_0f57be",
+      "title": "Meteor, Missile or Mystery Over Polignano?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Polignano a Mare Sighting Time line",
+        "Meteor vs. Projectile Interpretations",
+        "Missing Data in Polignano Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_private_vs_official_87f263",
+      "title": "Why Apulia's UFO Totals Never Match",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Private Archives vs. Air Force Records",
+        "CISU Apulia Archive Categories",
+        "Air Force Investigation Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_san_pietro_1963_6934bd",
+      "title": "Inside Apulia's Strangest Close Encounter Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "San Pietro Vernotico 1963 Key Stages",
+        "San Pietro Vernotico Narrative Discrepancies",
+        "Missing Evidence in San Pietro Vernotico"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Apulia_98f3e8_ufo_reporting_waves_de814d",
+      "title": "How UFO Reporting Waves Build Themselves",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Apulian UFO Wave Feedback Loop",
+        "Physical vs. Social Wave Drivers",
+        "Common Apulian Sky Stimuli"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395",
+      "title": "Which Basilicata UFO Cases Still Withstand Scrutiny?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Basilicata UFO Chronology and Waves",
+        "Official vs Private UFO Archives",
+        "Basilicata Aerial Phenomena Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_early_potenza_report_d3e261",
+      "title": "Can Potenza's Earliest UFO Claims Still Be Tested?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Potenza UFO Sighting Key Stages",
+        "Evidence Gaps in Potenza Records",
+        "Requirements for Validating UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_inland_basilicata_si_11d365",
+      "title": "How Basilicata's Landscape Shapes Inland UFO Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Basilicata Inland Sightings",
+        "Visual Interpretation vs. Physical Reality",
+        "Requirements for Stronger Inland Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_ionian_coast_sightin_e2aff8",
+      "title": "Why Basilicata's Ionian Coast Produces UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ionian Coast UFO Reporting Time line",
+        "Coastal Optical Illusion Mechanisms",
+        "Required Data for Testable UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_montereale_humanoid_14ae20",
+      "title": "What Supports the Montereale Humanoid Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Montereale Park Encounter Key Stages",
+        "Evidence Gaps in Montereale Case",
+        "Basilicata UFO Record Discrepancies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_muro_lucano_aircraft_c5c852",
+      "title": "Did an Aircraft Explain the Muro Lucano Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Muro Lucano Encounter Key Stages",
+        "Muro Lucano Interpretations",
+        "Evidence Layers of Muro Lucano"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_official_vs_private_94d8d6",
+      "title": "Why Basilicata Has Two Very Different UFO Totals",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Basilicata UFO Archive Discrepancies",
+        "Basilicata Regional Sighting Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_potenza_1954_wave_8f4fde",
+      "title": "How the 1954 Italian UFO Wave Reached Potenza",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Italian Wave",
+        "Interpretations of the Potenza Sighting",
+        "Data Limitations of the Potenza Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_regional_ufo_flaps_a343e9",
+      "title": "How a Single Sky Event Can Trigger a UFO Flap",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of a Regional UFO Flap",
+        "Interpretations of the 2009 Basilicata Key Stages",
+        "Credibility Scale for Unresolved Aerial Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_strong_ufo_evidence_2d7a8f",
+      "title": "What Evidence Would Make a Basilicata UFO Case Convincing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Basilicata UFO Investigation Protocol",
+        "Witness Testimony vs. Technical Data",
+        "Types of Aviation Linked Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Basilicata_3ea395_ufo_height_speed_err_3977d1",
+      "title": "Why Low Flying UFO Estimates Are Often Unreliable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Validating Basilicata UFO Sightings",
+        "Perception vs. Physical Reality",
+        "Factors Influencing Night Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5",
+      "title": "Why Calabria Has Many UFO Reports but No Landmark Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Calabria UFO Archival Development",
+        "Evaluating Calabria Sighting Evidence",
+        "Calabrian UFO Record Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_air_force_unidentifi_84628b",
+      "title": "What an Official Unidentified Ruling Really Means",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Unidentified vs Extraordinary Criteria",
+        "Calabrian Archive Case Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_calabria_1978_ufo_wa_9da356",
+      "title": "How Italy's 1978 UFO Wave Reached Calabria",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in the 1978 Italian UFO Wave",
+        "Calabrian Case Analysis: San Tifeo vs Corigliano",
+        "Evidence Limits in the Air Force Archive"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_calabria_pandemic_uf_f892d6",
+      "title": "Why Calabria's UFO Reports Rose During Lockdown",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Calabrian UFO Reporting Mechanisms",
+        "Lockdown vs. Satellite Explanations",
+        "Calabria Regional Reporting Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_calabria_police_ufo_38cc8e",
+      "title": "What Did Calabria's Carabinieri Actually See?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "December 1978 Calabria Sighting Time line",
+        "San Tifeo vs Corigliano Calabro Details",
+        "Evidence Limitations in Calabria Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_calabria_ufo_catalog_276ef7",
+      "title": "Do Calabria's 1,164 UFO Reports Prove Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Calabria UFO Catalogue Development History",
+        "Reliability vs Strangeness in Calabria",
+        "Categories of Unidentified Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_calabria_ufo_false_a_acff32",
+      "title": "When Spectacular Lights Over Calabria Have Ordinary Causes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "June 2024 Falcon 9 Sighting Time line",
+        "Calabrian Aerial Light Interpretations",
+        "Verification Steps for Aerial Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_early_calabrian_sigh_5ede64",
+      "title": "Calabria's UFO Stories Before Flying Saucers",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of Pre UFO Calabria Reports",
+        "Interpretations of the Varapodio Case",
+        "Limitations of Pre UFO Catalogues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_judging_calabria_ufo_b79b3a",
+      "title": "How Strong Is the Evidence Behind Calabria's UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Calabrian UFO Case Verification Steps",
+        "Calabrian Evidence Quality Classifications",
+        "Common Calabrian Atmospheric Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_lamezia_ufo_video_cl_f03b31",
+      "title": "Why Lamezia's UFO Videos Remain Inconclusive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lamezia Terme UFO Cluster Chronology",
+        "Technical Limitations of Lamezia Imagery",
+        "Required Data for UAP Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calabria_663de5_rende_2004_lights_73c089",
+      "title": "Did the Rende Photographs Capture a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Rende Lights",
+        "Potential Explanations for Rende Lights",
+        "Evidence Limitations of Rende Photos"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a",
+      "title": "Why Campania's UFO Waves Looked So Convincing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Campania UFO Wave Key Stages",
+        "Interpretations of Campania Sightings",
+        "Aeronautica Militare OVNI Reporting System"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_air_force_ovni_files_a9d80e",
+      "title": "What Campania's Military UFO Files Actually Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Campania Sighting Interpretations",
+        "Notable Campania Archive Entries"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_campania_1978_flap_cc8663",
+      "title": "Why 1978 Still Shadows Campania's UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Institutionalization of Italy's UFO Records",
+        "Interpretations of the 1978 Adriatic Flap",
+        "Factors Shaping the Campania Regional Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_campania_2009_wave_0d1074",
+      "title": "How the 2009 UFO Wave Swept Campania",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the 2009 Italian UFO Wave",
+        "Campania Sightings: Lanterns vs. Exotic Craft",
+        "Key Evidence from the 2009 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_campania_2010_sighti_04fc98",
+      "title": "Why Red Spheres Kept Appearing in 2010",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "2010 Campania Sighting Key Stages",
+        "Sky Lantern vs. UFO Hypotheses",
+        "Evidence Gaps in Campania Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_campania_media_feedb_5cd5c8",
+      "title": "How UFO Headlines Amplified Campania's Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Campania UFO Wave Feedback Loop",
+        "Campania Sighting Interpretations",
+        "Evidence Quality Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_capodimonte_light_6643b1",
+      "title": "Why the Capodimonte Light Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Capodimonte Case Investigation Workflow",
+        "Plausible Explanations for Capodimonte Light",
+        "Missing Data in Capodimonte Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_cesa_sphere_claim_32e258",
+      "title": "How Strong Is the Cesa Sphere Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cesa UFO Reporting Workflow",
+        "Cesa Sighting Interpretations",
+        "Missing Evidence in Cesa Report"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_naples_airport_light_738468",
+      "title": "When Aircraft Lights Seem to Hover Over Naples",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanics of the Head on Illusion",
+        "Aircraft vs. Anomalous Light Reports",
+        "Evidence for Airport Light Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_sky_lantern_explanat_933d0c",
+      "title": "Why Sky Lanterns Look Like UFO Fleets",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Sky Lantern Flight Mechanism",
+        "Campania 2009 Sighting Interpretations",
+        "Lantern Identification Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Campania_5acc6a_varcaturo_seven_ligh_7d8544",
+      "title": "What Were the Seven Lights Over Varcaturo?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Varcaturo Sighting Technical Details",
+        "Varcaturo Sighting Explanations",
+        "Missing Data for Varcaturo Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904",
+      "title": "Why Emilia Romagna Became a UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "timeline_vertical",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Emilia Romagna UFO Reporting History",
+        "Lugo Fireball Investigation Flow",
+        "Evidence Hierarchy in Emilia Romagna"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_adriatic_coast_ufo_r_66f02a",
+      "title": "Why the Adriatic Coast Generates Unusual Sky Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Emilia Romagna Coastal Sighting Chronology",
+        "Coastal Optical Distortion Factors",
+        "Cervia Aviation and Environment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_air_force_ufo_files_5aff21",
+      "title": "What Italy's Air Force Files Actually Say",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Official Archive vs. Independent Records",
+        "Factors Influencing Emilia Romagna Totals"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_cervia_triangle_1972_e0cb7f",
+      "title": "Was the 1972 Cervia Triangle Truly Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Cervia UFO Observation Characteristics",
+        "Plausible Explanations for Cervia Sightings",
+        "Cervia Case Data Availability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_emilia_1954_ufo_wave_83f4f2",
+      "title": "Inside Emilia Romagna's Great UFO Wave of 1954",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "October 1954 Emilia Romagna UFO Wave",
+        "Potential Explanations for Regional Sightings",
+        "Factors Amplifying the 1954 UFO Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_march_1978_multicity_047e22",
+      "title": "What Cross Country Sightings Reveal About Bologna's 1978 UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 9 March 1978 Sighting",
+        "Potential Explanations for the Italian Luminous Phenomenon",
+        "Evidence Gaps in the 1978 Bologna Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_newspapers_ufo_flaps_6ea61d",
+      "title": "How Newspapers Helped Build Emilia Romagna's UFO Waves",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Newspaper Influence on UFO Waves",
+        "Interpretations of the 1954 Wave",
+        "Journalistic UFO Vocabulary"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_piacenza_fighter_cha_69756f",
+      "title": "Did NATO Fighters Chase a UFO Near Piacenza?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Piacenza UFO Narrative Evolution",
+        "Piacenza UFO Evidence Analysis",
+        "Verification Requirements for Interceptions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_poggio_renatico_rada_5cf98e",
+      "title": "Why Radar Matters in Emilia Romagna UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "satellite_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "geography"
+      ],
+      "titles": [
+        "Military Radar Identification Workflow",
+        "Interpretation of Unidentified Tracks",
+        "Poggio Renatico Surveillance Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_regional_ufo_totals_03c070",
+      "title": "Was Emilia Romagna Really One of Italy's UFO Hotspots?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Emilia Romagna Air Force Records Time line",
+        "Official vs. Civilian Archive Data",
+        "Italian Regional UFO Rankings (1972 2000)"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Emilia-Romagna_e1c904_ufo_misidentificatio_aa312a",
+      "title": "The Ordinary Events Most Often Mistaken for UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Atmospheric Phenomena in Emilia Romagna",
+        "Identifying Re entry vs. Meteors",
+        "Testing Regional UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8",
+      "title": "Why Friuli's UFO Cases Remain Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Friuli Venezia Giulia UFO Archive Time line",
+        "Interpretations of Lake Burida Sightings",
+        "Evidence Quality in Friuli Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
+      "title": "What Does an Official UFO File Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aeronautica Militare UFO Reporting Workflow",
+        "Interpretation of Unidentified Classifications",
+        "Data Points in Sighting Forms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
+      "title": "How Aviano Shapes Friuli's UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_snake",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Interpretations of Aviano Air Base Sightings",
+        "Italian Air Force UFO Investigation Workflow",
+        "Aviano Air Base Operational Profile"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
+      "title": "Why Did the Cordenons Story Change?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cordenons Sighting Reporting Time line",
+        "Cordenons Sighting Interpretations",
+        "Missing Data in Cordenons Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
+      "title": "What Can the Feletto Umberto Report Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Feletto Umberto Sighting Characteristics",
+        "Feletto Sighting Interpretations",
+        "Aeronautica Militare Archive Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
+      "title": "How Italy's Great UFO Wave Reached Friuli",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Friuli Venezia Giulia UFO Wave Key Stages",
+        "Evidence Limitations in Friuli Records",
+        "Institutional Framework of Italian UFOs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
+      "title": "Which Ordinary Lights Explain Friuli's UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Friuli UFO Sightings Explanations",
+        "Missing Evidence in Friuli Records",
+        "Friuli Regional Case Studies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
+      "title": "Were Lake Burida's Lights Chinese Lanterns?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lake Burida Sighting Key Stages",
+        "Lake Burida Lantern Evidence Analysis",
+        "Gaps in the Lake Burida Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
+      "title": "Did One Object Cross Pinzano and Pordenone?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "May 21, 2011 Friuli Sightings",
+        "Interpretations of the Friuli Sightings",
+        "Pordenone and Pinzano Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
+      "title": "Why Did UFO Reports Cluster Around Pordenone?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Pordenone Aerial Sightings Chronology",
+        "Interpretations of Pordenone Cluster",
+        "Evidence Limitations in Air Force Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
+      "title": "Can Witnesses Judge a UFO's Speed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Calculating Speed from Angular Motion",
+        "Distance Errors in Friuli Sightings",
+        "Required Data for Speed Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a",
+      "title": "Why Lazio's UFO History Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Lazio UFO Reporting Evolution",
+        "Lazio Case Evidence Analysis",
+        "Lazio Regional Reporting Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_1978_official_respon_a0fe18",
+      "title": "Why the 1978 Wave Changed UFO Reporting",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "1978 Wave Data Population Types",
+        "Factors Driving the 1978 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_air_force_ufo_archiv_d3beb5",
+      "title": "What Lazio's Official UFO Files Contain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Lazio Air Force Reporting Pipeline",
+        "Detailed Form vs. Published Summary",
+        "Lazio Archive Sighting Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_alitalia_1973_encoun_9596cc",
+      "title": "How Strong Is the 1973 Alitalia Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Alitalia Aviation Sightings",
+        "Latina Narrative vs. 1972 Records",
+        "Missing Data in Latina Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_ciampino_military_cl_aa1a53",
+      "title": "Did Ciampino Radar Track a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "1954 Rome Ciampino Sighting Time line",
+        "Interpretations of the 1954 Sighting",
+        "Evidence Layers of Ciampino Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_meaning_of_unidentif_199dca",
+      "title": "Does Unidentified Mean Extraterrestrial?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Italian Air Force Investigation Workflow",
+        "Unidentified vs. Extraordinary Evidence",
+        "Reasons for Unidentified Status"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_modern_rome_sighting_8203dc",
+      "title": "Why Rome Still Produces Unresolved Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rome Official UFO Archive Key Stages",
+        "Rome Sightings Evidence Limitations",
+        "Rome UFO Archive Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_ordinary_ufo_explana_25e14f",
+      "title": "What Could Explain Lazio's UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Common Lazio Aerial Misidentifications",
+        "Lazio Report Evidence Categories",
+        "Reconstructing a Lazio Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_ponza_military_sight_926e1d",
+      "title": "Why the Ponza Sighting Still Matters",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Italian Air Force Ponza Archive Process",
+        "Potential Explanations for Ponza Sighting",
+        "Missing Evidence in Public Ponza File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_rome_1954_ufo_wave_830435",
+      "title": "How Rome Joined Europe's Great UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Lazio UFO Wave Key Stages 1954",
+        "Interpretations of Lazio Aerial Sightings",
+        "Evidence Gaps in Rome UFO Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lazio_2e255a_witness_credibility_c6d46d",
+      "title": "Are Pilots and Military Witnesses More Reliable?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Aeronautica Militare Reporting Workflow",
+        "Pilot Perception vs. Physical Reality",
+        "Lazio Case Credibility Spectrum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3",
+      "title": "Why Liguria Became Italy's UFO Coast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1978 Zanfretta Case",
+        "Evidence Quality in Ligurian Sightings",
+        "Common Causes of Ligurian UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_genoa_airport_sighti_f2884f",
+      "title": "Are Genoa Airport UFOs Usually Aircraft?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "July 2023 Sestri Ponente Object Dispute",
+        "Factors Influencing Genoa Airport Misperceptions",
+        "Technical Requirements for Persuasive Airport Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_italy_official_ufo_s_16e050",
+      "title": "How Italy Officially Handles UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Interpreting Unidentified Classifications",
+        "Ligurian Archive Sightings Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_liguria_terrain_misp_22c2c6",
+      "title": "How Liguria's Hills Distort Night Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reconstructing a Torriglia Sighting",
+        "Ligurian Terrain Misperceptions",
+        "Torriglia Landscape Obstacles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_liguria_ufo_hotspots_c228fd",
+      "title": "Where Are Liguria's Main UFO Hotspots?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Historical Time line of Ligurian UFO Reports",
+        "Interpretations of Ligurian Aerial Phenomena",
+        "Geographic Hotspots in Liguria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_liguria_ufo_media_le_eba609",
+      "title": "How the Media Built Liguria's UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Zanfretta UFO Narrative",
+        "Evidence Quality vs. Media Narrative",
+        "Cultural Impact of the Zanfretta Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_ligurian_coastal_lig_15c923",
+      "title": "Why Liguria's Coast Produces Strange Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Validating Ligurian Sea Sightings",
+        "Ligurian Coastal Light Interpretations",
+        "Factors Creating Visual Uncertainty"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_torriglia_police_rec_1ac558",
+      "title": "How Strong Was the Torriglia Corroboration?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Zanfretta Case Judicial Time line",
+        "Evidence Grades in Torriglia",
+        "Physical Evidence at Casa Nostra"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_zanfretta_first_enco_870926",
+      "title": "What Happened to Zanfretta in Torriglia?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Zanfretta Patrol Key Stages 6 December 1978",
+        "Evidence vs. Narrative Analysis",
+        "Zanfretta Case Physical Elements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
+      "title": "Did Hypnosis Create the Zanfretta Saga?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Zanfretta Case Narrative Evolution",
+        "Pre and Post Hypnosis Evidence",
+        "Risks of Hypnotic Recall"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Liguria_5b11e3_zanfretta_physical_c_a7b700",
+      "title": "Where Is Zanfretta's Alleged Alien Sphere?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Zanfretta Case Physical Evidence Time line",
+        "Interpretations of Physical Anomalies",
+        "Evidence Quality Hierarchy in Zanfretta Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3",
+      "title": "Lombardy's UFO History Between Evidence and Myth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Lombardy UFO Historical Time line",
+        "Magenta Crash Evidence Analysis",
+        "Lombardy Aerial Observation Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_abbiate_guazzone_cas_ba1c3a",
+      "title": "How Strong Is the Abbiate Guazzone Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Abbiate Guazzone Case",
+        "Interpretations of the Facchini Encounter",
+        "Physical Evidence Analysis at Abbiate Guazzone"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_air_force_lombardy_f_690f20",
+      "title": "What Italy's Air Force Files Say About Lombardy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "rank_podium",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "Official Italian UFO Reporting Workflow",
+        "Lombardy Regional UFO Statistics 1991 2000",
+        "Interpretations of Unidentified Status"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_lombardy_report_proc_7ef31b",
+      "title": "How a Lombardy UFO Report Gets Investigated",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "list_vertical",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Lombardy UFO Reporting Workflow",
+        "Air Force Screening Categories",
+        "Lombardy UFO Record Interpretations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_lombardy_sighting_wa_82662b",
+      "title": "When Lombardy's UFO Reports Rose and Why",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lombardy UFO Wave Chronology",
+        "Wave Interpretation Models",
+        "Lombardy Regional Case Varieties"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_lombardy_sky_illusio_d04109",
+      "title": "How Lombardy's Landscape Can Distort the Sky",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Optical Interference in Po Valley Haze",
+        "Mechanisms of Apparent Motion",
+        "Lombardy Landscape Optical Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_magenta_crash_claim_ef3d9f",
+      "title": "Did a UFO Crash Near Magenta in 1933?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Magenta Crash Narrative Evolution",
+        "Evidence Gaps in the Magenta Case",
+        "Verification Requirements for Magenta Claim"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_marconi_magenta_link_3fa8cb",
+      "title": "Was Marconi Really Involved in a Secret UFO Study?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Marconi's Institutional Credentials",
+        "Magenta Narrative Evidence Analysis",
+        "Marconi's Role in the Legend"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_milan_airspace_misid_955ffb",
+      "title": "Why Strange Lights Are Common Around Milan",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Mechanics of Milanese Sightings",
+        "Milan Sky Interpretation Challenges",
+        "Evidence Quality for Milan Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_rs33_document_debate_bbfcb0",
+      "title": "Why Researchers Doubt the RS/33 Papers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "RS/33 Document Emergence Time line",
+        "RS/33 Archive Authenticity Perspectives",
+        "Key Components of the RS/33 Collection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lombardy_9b46d3_vatican_recovery_cla_b93e7c",
+      "title": "How the Vatican Entered the Magenta UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "bridge"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Magenta UFO Narrative Expansion",
+        "Magenta Claim Evidence Analysis",
+        "Magenta Story Structural Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca",
+      "title": "How Marche's UFO Legends Took Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Marche UFO Sighting Waves History",
+        "Interpretations of Adriatic Maritime Reports",
+        "Resolved vs. Unresolved Marche Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_adriatic_1978_storie_fbf3b1",
+      "title": "Did One Mystery Unite the 1978 Adriatic Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1978 Adriatic Mystery",
+        "Interpretations of the CP 2018 Sighting",
+        "Evidence Gaps in the Adriatic Triangle"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_adriatic_meteotsunam_d6f8b3",
+      "title": "Could Rare Sea Surges Explain Adriatic Alarm?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteotsunami Formation Stages",
+        "1978 Adriatic Disturbance Theories",
+        "Meteotsunami Identification Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_adriatic_radar_claim_9debc0",
+      "title": "What Can the Adriatic Radar Claims Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Types of Adriatic Radar Claims",
+        "Natural Causes of Radar Anomalies",
+        "Requirements for Valid Radar Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_air_force_official_r_dd3dd9",
+      "title": "What Do Official UFO Records Actually Establish?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Official Reporting Route to Air Force",
+        "Marche Archive Interpretation Limits",
+        "Marche Regional Sighting Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_ancona_coastal_wave_7ad705",
+      "title": "Why Did Ancona Become a UFO Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ancona Coastal UFO Wave Key Stages",
+        "Interpretations of Adriatic Sightings",
+        "Ancona Coastal Observation Hotspots"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_colcerasa_humanoid_c_60441d",
+      "title": "How Strong Is the Colcerasa Humanoid Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Colcerasa Narrative Reconstruction Time line",
+        "Colcerasa Interpretations and Explanations",
+        "Missing Evidence in Colcerasa Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_falconara_aviation_c_e3b9b5",
+      "title": "Do Falconara's Aviation Witnesses Strengthen the Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Falconara UFO Reporting Chronology",
+        "Falconara Airport Visual Explanations",
+        "Aviation Witness Data Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_october_1954_wave_f826d5",
+      "title": "Was Marche's 1954 UFO Wave a Fireball?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Marche UFO Wave Key Stages 1954",
+        "Marche Phenomenon Interpretations",
+        "Witness Descriptions of the 25 October Event"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_portonovo_formation_4a4e17",
+      "title": "What Were the 28 Lights Over Portonovo?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Portonovo Lights Interpretations",
+        "Missing Evidence for Portonovo",
+        "Factors Influencing Coastal Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marche_113fca_sea_entry_horizon_il_8d401e",
+      "title": "Did Marche's UFOs Really Enter the Sea?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Key Stages in Apparent Submergence",
+        "Marche Sea Entry Interpretations",
+        "Evidence Requirements for Sea Entry"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1",
+      "title": "Why Molise Has So Few Strong UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Molise Regional UFO Case Profiles",
+        "Molise Sighting Evidence Analysis",
+        "Molise Official Reporting Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_castelpetroso_camera_34efda",
+      "title": "Were Castelpetroso's UFOs Only Camera Artefacts?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Castelpetroso Photographic Evidence Workflow",
+        "Castelpetroso Sanctuary Image Interpretations",
+        "Technical Limitations of Single Images"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_difesa_grande_sphere_83c4d8",
+      "title": "What Was Seen Near Difesa Grande in 2007?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Difesa Grande Sighting",
+        "Interpretations of the Termoli Sphere",
+        "Missing Data in the Difesa Grande Report"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_guglionesi_2017_flap_2048a5",
+      "title": "How Guglionesi Became Molise's UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "2017 Guglionesi UFO Reporting Time line",
+        "Interpretations of Guglionesi Luminous Objects",
+        "Guglionesi Reporting and Evidence Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_molise_official_ufo_f790b6",
+      "title": "Why Molise Has Only One Official UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Official Molise UFO Reporting Path",
+        "Official Records vs. Local Claims",
+        "Italian Regional UFO Statistics 1972 2013"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_molise_ufo_evidence_9e33a3",
+      "title": "Why Molise's UFO Evidence Is So Hard to Test",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Italian Air Force UFO Verification Process",
+        "Molise Case Data Classification Standards",
+        "Technical Requirements for Testable Imagery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_molise_ufo_explanati_a9013e",
+      "title": "What Usually Explains Molise's Strange Sky Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Testing Molise Sightings Evidence",
+        "Natural vs. Human Explanations",
+        "Camera Artifacts in Molise"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_molise_ufo_media_amp_9ed718",
+      "title": "How Media Turned Weak Sightings Into Big Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Media Amplification of Molise UFOs",
+        "Molise Case Documentation Gaps",
+        "Specific Molise Sighting Locations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_molise_ufo_reporting_a8691d",
+      "title": "How a Molise UFO Sighting Becomes Official",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Report Types vs. Official Status",
+        "Air Force Investigation Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_molise_ufo_timeline_98de52",
+      "title": "Molise's UFO History From Sparse Reports to Mini Flaps",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Molise UFO Key Stages 2007 2017",
+        "Castelpetroso Photographic Anomalies Analysis",
+        "Molise Regional UFO Data Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Molise_7c6aa1_termoli_seafront_vid_978e8c",
+      "title": "Did Termoli's Seafront Video Capture a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Termoli Seafront Video Time line",
+        "Plausible Explanations for Termoli Footage",
+        "Evidence Gaps in the Termoli Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b",
+      "title": "Piedmont's UFO Mysteries Under Closer Examination",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Piedmont UFO History",
+        "Caselle 1973 Evidence Interpretations",
+        "Piedmont UFO Classification Levels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_caselle_1973_radar_v_03dd82",
+      "title": "Did Caselle Radar and Pilots See One Object?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Caselle Incident",
+        "Interpretations of the Susa Valley Light",
+        "Evidence Discrepancies in the Caselle Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_corio_2018_mini_flap_18e166",
+      "title": "Did the Corio Sighting Trigger a Reporting Flap?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Corio Sighting and Regional Mini Flap",
+        "Corio Incident Interpretations",
+        "Piedmont Regional Sighting Cluster"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_judging_piedmont_ufo_9fbe9d",
+      "title": "Which Piedmont UFO Claims Deserve the Most Confidence?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Piedmont UFO Evidence Confidence Scale",
+        "Caselle 1973 Evidence Analysis",
+        "Piedmont Report Reconstruction Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_monte_musine_encount_776fc7",
+      "title": "How Strong Is the Monte Musine Encounter Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Monte Musinè Encounter Key Stages",
+        "Interpretations of the Musinè Incident",
+        "Evidence Gaps in the Musinè Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_official_ufo_investi_b5c390",
+      "title": "What Happens When Piedmont Reports a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Piedmont Sighting Correlation Categories",
+        "Piedmont Archive Data Fields"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_piedmont_1978_ufo_wa_795a4f",
+      "title": "Why Did Piedmont Report So Many UFOs in 1978?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Piedmont UFO Wave Key Stages 1978",
+        "San Michele vs. Monte Musinè Evidence",
+        "Factors Driving the Piedmont Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_piedmont_aviation_ca_ad5924",
+      "title": "Why Aviation Witnesses Matter in Piedmont's UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1973 Caselle Incident",
+        "Interpretations of the Caselle Sightings",
+        "Evidence Categories in Piedmont Aviation Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_piedmont_media_legen_277f26",
+      "title": "How Did Piedmont's UFO Stories Grow in Retelling?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Piedmont UFO Legend Formation",
+        "Caselle Evidence vs. Legend",
+        "Mechanisms of Legend Growth"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_piedmont_sky_explana_17e16f",
+      "title": "Could Planets Explain Piedmont's Brightest UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception of Venus at Caselle",
+        "Caselle Incident Evidence Streams",
+        "Factors Influencing Pilot Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Piedmont_9fde2b_turin_ufo_archives_a1f7cb",
+      "title": "How Turin's Archives Changed Piedmont UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Turin UFO Research Evolution",
+        "Turin Caselle Incident Re examination",
+        "CISU Archive Inventory Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0",
+      "title": "Why Sardinia's UFO Record Remains So Elusive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Sardinian UFO Reporting Chronology",
+        "Interpretations of Sardinian Sightings",
+        "Sardinia UFO Data Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_campeda_lost_film_f9d377",
+      "title": "What Happened to the Alleged Campeda UFO Film?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Campeda Film Chain of Custody",
+        "Interpretations of the Campeda Footage",
+        "Missing Data for Campeda Reassessment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_elmas_airport_case_86fce1",
+      "title": "Did Something Unusual Approach Elmas Airport?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Elmas Airport Encounter Time line 1977",
+        "Interpretations of the Elmas Luminous Light",
+        "Critical Records for Elmas Case Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_military_ranges_ligh_a36ce2",
+      "title": "How Military Activity Complicates Sardinian UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Sardinian Military Range Geography",
+        "Visual Mechanisms of Misidentification",
+        "Sardinia Military Land Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_modern_ufo_explanati_6eaf8b",
+      "title": "What Modern Technology Looks Like a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Sardinian UFO Investigation Workflow",
+        "Drone vs. Aircraft Visual Cues",
+        "Satellite Train Identification Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_official_ufo_files_98c8b0",
+      "title": "What Sardinia's Official UFO Files Actually Record",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Sardinian Archive Data Interpretations",
+        "Notable Sardinian Archive Entries"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_salto_quirra_rockets_178764",
+      "title": "Could Rocket Tests Explain Sardinia's Strange Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Salto di Quirra Rocket History",
+        "Sardinian Sighting Explanations",
+        "Visual Characteristics of Rocket Plumes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_sardinia_1954_wave_8285e3",
+      "title": "How Sardinia Joined Europe's 1954 UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sardinia 1954 UFO Reporting Key Stages",
+        "Tavolara Sphere Interpretations",
+        "Sardinian Evidence Quality Assessment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_sardinia_1978_wave_b1a97b",
+      "title": "Was Sardinia Part of Italy's Great UFO Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1978 Italian Wave",
+        "Sardinian UFO Statistics Comparison",
+        "Factors Influencing the 1978 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_southern_sardinia_cl_ad8c9f",
+      "title": "Why Southern Sardinia Saw a Sudden UFO Cluster",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "March 2022 Sardinia Sightings Time line",
+        "Interpretations of the Poetto Recording",
+        "Factors Influencing Regional Flaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sardinia_83a1a0_why_cases_unresolved_fdb70d",
+      "title": "Why So Many Sardinian UFO Cases Stay Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Information Chain of Sightings",
+        "Sardinian Case Evidence Quality",
+        "Variables in Sardinian UFO Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465",
+      "title": "Why Sicily's UFO Stories Still Resist Easy Answers",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sicilian UFO History Time line",
+        "Canneto di Caronia Interpretations",
+        "Sicilian Sighting Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_caronia_fires_ufo_cl_98ce8c",
+      "title": "How the Caronia Fires Became a UFO Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Caronia Fire Investigation Key Stages",
+        "Caronia Fire Interpretations Comparison",
+        "Caronia Fire Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_judging_sicilian_ufo_1f7de3",
+      "title": "Which Sicilian UFO Cases Still Hold Up?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Sicilian UFO Evidence Quality Scale",
+        "Analysis of the 1978 Sicilian Wave",
+        "Evidence Standards for Strong Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_media_amplified_sigh_cc1600",
+      "title": "Did Media Attention Amplify Sicily's UFO Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "The 1978 Sicily UFO Feedback Loop",
+        "Interpretations of the 1978 Wave",
+        "Sicily UFO Data Comparison"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_military_airspace_si_f53ed5",
+      "title": "Do Sicily's Military Skies Explain More Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Aviation Assets at NAS Sigonella",
+        "Perceptual Errors in Sicilian Sightings",
+        "Non Aviation Sicilian Aerial Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_official_air_force_r_c3fc83",
+      "title": "How Sicily's UFO Reports Reach the Air Force",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Official Sicilian UFO Reporting Route",
+        "Sicilian UFO Classification Limits",
+        "Air Force Questionnaire Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_sicily_1978_ufo_wave_d9ca00",
+      "title": "What Drove Sicily's Great 1978 UFO Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1978 Sicilian Wave",
+        "Evidence Quality of Sicilian Reports",
+        "Factors Shaping the 1978 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_sicily_official_ufo_7ecae6",
+      "title": "What Do Sicily's Official UFO Numbers Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Italian Air Force Sighting Workflow",
+        "Official vs. Civilian Archive Scope",
+        "Sicily Regional Sighting Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_sicily_ufo_groups_ar_fc6bc3",
+      "title": "Who Built Sicily's UFO Record?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Sicilian UFO Archives",
+        "Archive Types in Sicily",
+        "Interpreting Sicilian UFO Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_siragusa_contactee_m_21f46f",
+      "title": "How Eugenio Siragusa Shaped Sicily's UFO Culture",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Eugenio Siragusa's Rise in Catania",
+        "Evidence vs. Narrative Analysis",
+        "Core Themes of Cosmic Brotherhood"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sicily_77b465_taormina_photo_evide_7503a1",
+      "title": "Can the Taormina UFO Photograph Still Be Trusted?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Taormina Photograph Press Distribution",
+        "Taormina Image Visual Anomalies",
+        "Missing Evidence for Taormina Photo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f",
+      "title": "Why Alpine UFO Sightings Stay So Difficult to Solve",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Italian UFO Reporting Evolution",
+        "Sciliar Massif Sighting Interpretations",
+        "Alpine Geography and Visual Confusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_air_force_ufo_record_e3988d",
+      "title": "What Italy's Air Force Records Reveal About the Region",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "timeline_vertical",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Trentino Alto Adige UFO Records",
+        "Italian Air Force Reporting Workflow",
+        "Limitations of Official UFO Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_alpine_distance_illu_9444d8",
+      "title": "Why Alpine Landscapes Make Strange Lights Hard to Judge",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "rank_podium",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Alpine Terrain Interpretations of Lights",
+        "Angular Speed and Distance Metrics",
+        "Alpine Nighttime Visual Illusions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_bolzano_radar_limits_be0e28",
+      "title": "Does No Radar Return Mean Nothing Was There?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bolzano Airport Radar Data Verification",
+        "Radar Detection vs. Visual Sighting",
+        "Factors Inhibiting Radar Detection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_bolzano_red_lights_b6714a",
+      "title": "What Formed the Red Lights Over Bolzano?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Oltrisarco Red Light Interpretations",
+        "Oltrisarco Witness Evidence Profile",
+        "Italian Military Investigation Protocol"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_cortellazzi_ufo_arch_a8e210",
+      "title": "Inside the Region's Long Running Private UFO Archive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Alessandro Cortellazzi's Investigative Career",
+        "Official vs Private Archive Data",
+        "Preserved Data in Regional Archives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_formation_sighting_c_931d69",
+      "title": "How Ordinary Lights Create Convincing UFO Formations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Perception of Formation",
+        "Aircraft vs. Lantern Explanations",
+        "Evidence for Credible Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_regional_ufo_timelin_832582",
+      "title": "How Trentino Alto Adige's UFO Story Developed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Trentino Alto Adige UFO Key Stages",
+        "Sciliar Light Interpretations",
+        "Modern Aerial Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_sciliar_light_disput_987d39",
+      "title": "Was the Sciliar Light a Distant Space Launch?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "DMSP F18 Launch and Observation Key Stages",
+        "Sciliar Light Interpretations and Evidence",
+        "Characteristics of the Sciliar Sighting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_space_objects_ufo_co_13f3c8",
+      "title": "When Space Activity Looks Like a UFO Over the Alps",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Testing Aerospace Explanations in Trentino Alto Adige",
+        "Satellite vs. Rocket Plume Interpretations",
+        "Characteristics of Re entry Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Trentino-Alto_Adige_27eb8f_ufo_witness_testimon_845b45",
+      "title": "How Reliable Are Alpine UFO Witness Accounts?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Layering for Trentino Alto Adige Cases",
+        "The Sciliar Account Interpretation Conflict",
+        "Factors Determining Witness Credibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2",
+      "title": "Tuscany's UFO History Between Mystery and Misidentification",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Florence Wave",
+        "Explanations for Florence Filament Debris",
+        "Evidence Quality in Torrita di Siena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_angel_hair_filaments_58b16b",
+      "title": "Did Florence's Angel Hair Prove Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chemical Profile of Florence Filaments",
+        "Natural vs. Artificial Explanations",
+        "Evidentiary Weaknesses of the 1954 Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_cennina_humanoid_cas_c6e066",
+      "title": "How Strong Is the Cennina Humanoid Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cennina Case Narrative Evolution",
+        "Cennina Evidence Quality Analysis",
+        "Cennina Encounter Physical Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_florence_stadium_sig_dbedae",
+      "title": "Why Did Florence's Football Match Stop?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Florence 1954 Match Interruption Key Stages",
+        "Natural vs. Artificial Explanations for Florence",
+        "Witness Descriptions of Aerial Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_military_chaff_theor_fa54af",
+      "title": "Could Military Chaff Explain Florence's UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Radar Chaff Atmospheric Behavior",
+        "Florence UFO Explanations Comparison",
+        "USS Lake Champlain Deployment Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_regional_1954_sighti_9bf14d",
+      "title": "What Else Was Seen Across Tuscany in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Tuscan Wave",
+        "Interpretations of Falling Filaments",
+        "Evidence Quality in Tuscan Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_spider_ballooning_th_102e15",
+      "title": "Were Florence's Falling Threads Spider Silk?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanics of Spider Ballooning",
+        "Florence 1954 Silk Explanations",
+        "Evidence for Spider Silk Theory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_torrita_close_encoun_5d1341",
+      "title": "What Happened on the Road at Torrita?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Torrita di Siena Encounter",
+        "Interpretations of the Torrita Road Marks",
+        "Evidence Quality in the Faralli Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_tuscan_ufo_press_91c345",
+      "title": "How Newspapers Shaped Tuscany's UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Florence UFO Case",
+        "Interpretations of the Tuscan Aerial Phenomena",
+        "Components of the 1954 Press Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_tuscany_1954_ufo_wav_6d6baf",
+      "title": "Why Did UFO Reports Surge Across Tuscany?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "masonry"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Tuscany 1954 UFO Wave Key Stages",
+        "Tuscan Filament Explanations",
+        "Tuscan Wave Evidence Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tuscany_2685d2_tuscany_ufo_evidence_566ab8",
+      "title": "How Reliable Is Tuscany's UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Florence 1954 Evidence Chain",
+        "Florence Filament Explanations",
+        "Tuscan UFO Evidence Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8",
+      "title": "Why Umbria's UFO Stories Still Resist Easy Answers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Umbrian UFO Records",
+        "Resolved vs Unresolved Umbrian Cases",
+        "Evidence Quality in Umbrian Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_air_force_ufo_record_e3988d",
+      "title": "What Official UFO Records Actually Prove in Umbria",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Italian Air Force Reporting Workflow",
+        "Umbrian Case Data Limitations",
+        "Hierarchy of Unidentified Classification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_apparent_light_motio_4370a3",
+      "title": "Why a Motionless Light Can Look Like a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Autokinetic Effect Perception Cycle",
+        "Binocular Shake vs. Stable Observation",
+        "Atmospheric Scintillation Factors in Umbria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_civilian_ufo_archive_a2ad13",
+      "title": "Who Preserved Umbria's Forgotten UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "CISU Regional Catalogue Workflow",
+        "Press Reports vs. Investigator Files",
+        "Umbrian Case Archive Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_nocera_umbra_1977_d9a042",
+      "title": "What Happened on the Road Near Nocera Umbra?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nocera Umbra Encounter Time line",
+        "Nocera Umbra Interpretations",
+        "Evidence Gaps in Nocera Umbra"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_orvieto_erratic_ligh_b23ae2",
+      "title": "Was the Orvieto Light Really Moving Erratically?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Orvieto Sighting Key Stages and Archival Drift",
+        "Orvieto Light Source Hypotheses",
+        "Mechanisms of Perceptual Misinterpretation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_polino_binocular_cas_d498fb",
+      "title": "Did Binoculars Strengthen the Polino UFO Case?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Polino Sighting Visual Characteristics",
+        "Alternative Explanations for Polino",
+        "Evidence Limits of the Polino Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_terni_1978_flap_216229",
+      "title": "Why the 1978 Terni Sighting Still Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "9 March 1978 Aviation Sighting Key Stages",
+        "Interpretations of the Terni Phenomenon",
+        "Components of the Air Force Archive"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_ufo_retelling_effect_6cf03a",
+      "title": "Did Retelling Make Umbria's UFO Stories Stranger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Nocera Umbra Case",
+        "Retelling vs. Original Evidence Gap",
+        "Umbrian UFO Case Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_umbria_landscape_eff_1090ec",
+      "title": "How Umbria's Hills Can Distort a UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Nighttime Visual Illusions",
+        "Factors Influencing Umbrian Sighting Accuracy",
+        "Evidence Requirements for Umbrian Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Umbria_d4a7a8_umbria_sighting_coun_23d23f",
+      "title": "How Many UFOs Were Really Reported in Umbria?",
+      "infographic_count": 3,
+      "templates": [
+        "funnel_layers",
+        "timeline_snake",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Reporting Hierarchy in Umbria",
+        "Umbrian Sighting Data Discrepancies",
+        "Factors Influencing Regional Totals"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600",
+      "title": "Veneto's UFO History Between Evidence and Folklore",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Veneto Aviation and UFO Records",
+        "Interpretations of the Cecconi Case",
+        "Veneto Regional Sighting Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_airport_sighting_clu_54b581",
+      "title": "Do UFOs Favour Airports or Better Observers?",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Veneto Aviation Reporting Infrastructure",
+        "Interpretations of the 1979 Cecconi Case",
+        "Visual Complexity at Veneto Airports"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_cecconi_encounter_7c42de",
+      "title": "Why the Cecconi Encounter Still Defies Closure",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1979 Cecconi Interception Key Stages",
+        "Treviso UFO Interpretations and Evidence",
+        "Limitations of the Cecconi Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_cecconi_photographs_e35280",
+      "title": "What Do the Cecconi Photographs Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Photogrammetric Requirements for Treviso Analysis",
+        "Interpretations of the Treviso Silhouette",
+        "Data Gaps in Public Archives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_common_ufo_explanati_51afb7",
+      "title": "What Veneto's UFO Witnesses May Have Seen",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Veneto Fireball vs. Ordinary Aircraft",
+        "Common Veneto Misidentifications",
+        "Verifying Veneto Sightings Protocol"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_istrana_airfield_rep_ad5cae",
+      "title": "Why Istrana Appears Repeatedly in UFO Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Istrana Military Aviation Time line",
+        "1973 vs 1979 Istrana Records",
+        "Factors Influencing Military UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_official_ufo_process_66dd84",
+      "title": "What an Official UFO Record Actually Means",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Official Italian UFO Reporting Process",
+        "Official Record vs. Public Folklore",
+        "Veneto Archive Data Fields"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_treviso_balloon_theo_d3ad1b",
+      "title": "Was the Treviso Object a Solar Balloon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Solar Balloon Flight Mechanism",
+        "Treviso UFO Interpretation Conflict",
+        "Evidence Gaps in Treviso Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_veneto_1978_wave_dbaa0e",
+      "title": "How the 1978 UFO Wave Reached Veneto",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Veneto's 1978 UFO Reporting Evolution",
+        "Vicenza Record Evidence Analysis",
+        "Factors Influencing 1978 Reporting Surge"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_venice_1988_sighting_a22415",
+      "title": "Was Venice's 1988 UFO Part of Something Larger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "August 17, 1988 Italian Sightings",
+        "Interpretations of the Venice Case",
+        "Evidence Quality in Venice Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Veneto_862600_villafranca_incomple_d76b4a",
+      "title": "When Unidentified Simply Means Too Little Data",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Villafranca Sighting Archive Details",
+        "Villafranca Data Deficits vs Requirements",
+        "Villafranca Case Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}
