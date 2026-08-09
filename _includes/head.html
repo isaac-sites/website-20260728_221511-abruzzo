@@ -6,6 +6,13 @@
   {% endif %}
 
   {% seo %}
+  {% assign social_image = page.header.og_image | default: page.image %}
+  {% if social_image %}
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ page.share_hook | default: page.description | default: page.title | escape }}">
+  <meta name="twitter:image:alt" content="{{ page.share_hook | default: page.description | default: page.title | escape }}">
+  {% endif %}
   <script>
     (function () {
       var root = document.documentElement;
@@ -53,17 +60,13 @@
   <link rel="alternate icon" href="{{ '/favicon.svg' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
   <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}"></script>
   <script src="{{ '/assets/js/page-enhancements.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}">
+  {% if site.data.site_integrations %}
+  <link rel="stylesheet" href="{{ '/assets/css/site-integrations.css' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}">
+  {% endif %}
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-67VRCP5C49"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag("js", new Date());
-    gtag("config", "G-67VRCP5C49");
-  </script>
 
 </head>

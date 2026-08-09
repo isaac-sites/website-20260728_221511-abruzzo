@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 220,
@@ -23,7 +23,7 @@
       "0": 20,
       "1": 200
     },
-    "p90_title_length": 16,
+    "p90_title_length": 15,
     "root_density_tier": "very-dense",
     "top_branch_density_counts": {
       "sparse": 0,
@@ -34,39 +34,102 @@
     "long_title_branch_count": 0,
     "single_root_tree": false,
     "topic_labels": [
-      "Why Abruzzo Became Italy's UFO Hotspot",
-      "Why Friuli's UFO Cases Remain Unresolved",
-      "Why Liguria Became Italy's UFO Coast",
-      "Why Molise Has So Few Strong UFO Cases",
-      "Why Sicily's UFO Stories Still Resist Easy Answers",
-      "Tuscany's UFO History Between Mystery and...",
-      "Why Umbria's UFO Stories Still Resist Easy Answers",
-      "Which Basilicata UFO Cases Still Withstand Scrutiny?",
-      "Why Calabria Has Many UFO Reports but No Landmark Case",
-      "Why Campania's UFO Waves Looked So Convincing",
-      "Why Emilia Romagna Became a UFO Hotspot",
-      "Why Lazio's UFO History Remains Unresolved",
-      "Lombardy's UFO History Between Evidence and Myth",
-      "How Marche's UFO Legends Took Shape",
-      "Piedmont's UFO Mysteries Under Closer Examination",
-      "Why Apulia's UFO Record Still Resists Easy Answers",
-      "Why Sardinia's UFO Record Remains So Elusive",
-      "Why Alpine UFO Sightings Stay So Difficult to Solve",
-      "Why Aosta Valley's UFO Record Looks So Different",
-      "Veneto's UFO History Between Evidence and Folklore"
+      "What Really Happened in Abruzzo's UFO Stories?",
+      "What Really Happened in Aosta's Skies?",
+      "What Really Happened in Apulia's UFO Skies?",
+      "What Really Happened in Basilicata's UFO Stories?",
+      "What Really Happened in Calabria's UFO Reports?",
+      "Why Campania Keeps Appearing in UFO Stories",
+      "What Really Happened in Emilia Romagna's UFO Files?",
+      "What Really Happened in Friuli's UFO Files?",
+      "What Really Happened in Lazio's UFO Files?",
+      "What Really Happened in Liguria's UFO Skies?",
+      "What Really Happened in Lombardy's UFO Skies?",
+      "What Really Happened Over Marche?",
+      "What Really Happened in Molise's UFO Record?",
+      "What Really Happened in Piedmont's UFO Stories?",
+      "What Makes Sardinia's UFO Record So Unusual?",
+      "What Really Happened in Sicily's UFO Stories?",
+      "What Really Happened in the Alpine Skies?",
+      "What Really Happened In Tuscany's UFO Skies?",
+      "What Really Happened in Umbrian Skies?",
+      "What Really Happened in Veneto's UFO Files?"
     ]
   },
   "selected": {
     "site_visual_identity": "signal-cobalt",
-    "site_visual_identity_source": "remote_model",
-    "site_visual_identity_confidence": "high",
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "site_visual_identity_source": "local_inference",
+    "site_visual_identity_confidence": "medium",
+    "visual_profile": "compact",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
     "palette": "signal-cobalt",
-    "motif": "horizon"
+    "motif": "constellation"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 58,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3700,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2320,
+      "reasons": [
+        "compact profile suits large hierarchies"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 2080,
+      "reasons": [
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 1280,
+      "reasons": []
+    }
+  ]
 }

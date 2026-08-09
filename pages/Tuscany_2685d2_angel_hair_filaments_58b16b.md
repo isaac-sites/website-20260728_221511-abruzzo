@@ -4,15 +4,15 @@ basename: Tuscany_2685d2_angel_hair_filaments_58b16b
 parent_basename: Tuscany_2685d2
 child_basenames: []
 sibling_basenames:
-- Tuscany_2685d2_cennina_humanoid_cas_c6e066
-- Tuscany_2685d2_florence_stadium_sig_dbedae
-- Tuscany_2685d2_military_chaff_theor_fa54af
-- Tuscany_2685d2_regional_1954_sighti_9bf14d
-- Tuscany_2685d2_spider_ballooning_th_102e15
-- Tuscany_2685d2_torrita_close_encoun_5d1341
-- Tuscany_2685d2_tuscan_ufo_press_91c345
-- Tuscany_2685d2_tuscany_1954_ufo_wav_6d6baf
-- Tuscany_2685d2_tuscany_ufo_evidence_566ab8
+- Tuscany_2685d2_air_force_checks_d303bd
+- Tuscany_2685d2_cennina_arezzo_case_73aecc
+- Tuscany_2685d2_florence_1954_stadiu_c876f3
+- Tuscany_2685d2_florence_sample_clai_6a6d7a
+- Tuscany_2685d2_florence_wave_cluste_5c6574
+- Tuscany_2685d2_gorgona_coastal_case_d2563b
+- Tuscany_2685d2_polcanto_case_status_f750e3
+- Tuscany_2685d2_sceptical_reinterpre_51152f
+- Tuscany_2685d2_tuscan_ufo_catalogue_160a19
 tags:
 - tuscany
 - angel-hair
@@ -21,34 +21,28 @@ keywords:
 - angel-hair
 affiliate_category: tuscany
 show_ads: true
-description: The white strands that fell after the Florence sighting became famous physical evidence, but no secure sample survives for modern testing.
-hero_summary: The white strands that fell after the Florence sighting became famous physical evidence, but no secure sample survives for modern testing.
+description: The falling white material made the Florence case famous, but spider silk and military chaff offer very different explanations.
+hero_summary: The falling white material made the Florence case famous, but spider silk and military chaff offer very different explanations.
 layout: default
 permalink: /angel-hair/
 sidebar_expanded_urls:
-- /tuscanys-ufo-history-between-mystery-and/
+- /what-really-happened-in-tuscanys-ufo/
 nav_short_title: Angel Hair
-title: Did Florence's Angel Hair Prove Anything?
-title_full: Did Florence's Angel Hair Prove Anything? | Tuscan UFO Files
+title: Was Florence's'Angel Hair' Natural Or Military?
+title_full: Was Florence's'Angel Hair' Natural Or Military?
 display_title_short: Angel Hair
 display_title: Angel Hair
-heading_title: Did Florence's Angel Hair Prove Anything?
-page_heading_title: Did Florence's Angel Hair Prove Anything?
-source_count: 91
+heading_title: Was Florence's'Angel Hair' Natural Or Military?
+page_heading_title: Was Florence's'Angel Hair' Natural Or Military?
+source_count: 93
 infographic_count: 3
-site_visual_identity: signal-cobalt
-site_visual_identity_confidence: high
-site_visual_motif: horizon
-site_typography_tone: editorial
 planned_sections:
-- Where the filaments were reported
-- What the laboratory analysis found
-- Why the evidence cannot be retested
-focal_unit_type: dataset_evidence
-topic_lens: critique_risk
+- What witnesses said fell from the sky
+- Spider ballooning as a natural explanation
+- Why military chaff remains a serious rival
+focal_unit_type: mechanism
+topic_lens: mechanism
 topic_granularity: theme_cluster
-search_intent: informational
-content_role: branch_hub
 output_language: English
 lang: en
 locale: en
@@ -192,18 +186,7 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
-  report_details: Report details
-  report_actions: Report actions
-  sources: sources
-  graphics: graphics
-  copy_link: Copy link
-  cite_page: Cite page
-  print_save: Print / save
-  link_copied: Link copied
-  citation_copied: Citation copied
-  copy_failed: Copy failed
   topics: Topics
-  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -221,85 +204,78 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-27 01:24:08'
-parent_title: Tuscan UFO Files
-parent_permalink: /tuscanys-ufo-history-between-mystery-and/
-parent_nav_short_title: Tuscan UFO Files
-parent_heading_title: Tuscany's UFO History Between Mystery and Misidentification
+date: '2026-07-01 09:38:41'
+parent_title: Tuscan Skies
+parent_permalink: /what-really-happened-in-tuscanys-ufo/
+parent_nav_short_title: Tuscan Skies
+parent_heading_title: What Really Happened In Tuscany's UFO Skies?
 ancestor_links:
 - basename: Tuscany_2685d2
-  title: Tuscan UFO Files
-  permalink: /tuscanys-ufo-history-between-mystery-and/
-  short_title: Tuscan UFO Files
+  title: Tuscan Skies
+  permalink: /what-really-happened-in-tuscanys-ufo/
+  short_title: Tuscan Skies
 breadcrumb_links:
 - basename: Tuscany_2685d2
-  title: Tuscan UFO Files
-  permalink: /tuscanys-ufo-history-between-mystery-and/
-  short_title: Tuscan UFO Files
+  title: Tuscan Skies
+  permalink: /what-really-happened-in-tuscanys-ufo/
+  short_title: Tuscan Skies
 sibling_links:
-- basename: Tuscany_2685d2_tuscany_1954_ufo_wav_6d6baf
-  title: 1954 Wave | Tuscany's UFO History Between Mystery and...
-  permalink: /1954-wave/
-  short_title: 1954 Wave
-  heading_title: Why Did UFO Reports Surge Across Tuscany?
-- basename: Tuscany_2685d2_cennina_humanoid_cas_c6e066
-  title: Cennina Case | Tuscany's UFO History Between Mystery and...
-  permalink: /cennina-case/
-  short_title: Cennina Case
-  heading_title: How Strong Is the Cennina Humanoid Story?
-- basename: Tuscany_2685d2_military_chaff_theor_fa54af
-  title: Chaff Theory | Tuscany's UFO History Between Mystery and...
-  permalink: /chaff-theory/
-  short_title: Chaff Theory
-  heading_title: Could Military Chaff Explain Florence's UFOs?
-- basename: Tuscany_2685d2_tuscany_ufo_evidence_566ab8
-  title: Evidence Tests | Tuscany's UFO History Between Mystery and...
-  permalink: /evidence-tests/
-  short_title: Evidence Tests
-  heading_title: How Reliable Is Tuscany's UFO Evidence?
-- basename: Tuscany_2685d2_florence_stadium_sig_dbedae
-  title: Florence 1954 | Tuscany's UFO History Between Mystery and...
+- basename: Tuscany_2685d2_tuscan_ufo_catalogue_160a19
+  title: Catalogues | What Really Happened In Tuscany's UFO Skies?
+  permalink: /catalogues/
+  short_title: Catalogues
+  heading_title: Which Tuscan UFO Cases Did Researchers Rate Highest?
+- basename: Tuscany_2685d2_cennina_arezzo_case_73aecc
+  title: Cennina | What Really Happened In Tuscany's UFO Skies?
+  permalink: /cennina/
+  short_title: Cennina
+  heading_title: Why The Cennina Case Needs Extra Caution
+- basename: Tuscany_2685d2_florence_1954_stadiu_c876f3
+  title: Florence 1954 | What Really Happened In Tuscany's UFO Skies?
   permalink: /florence-1954/
   short_title: Florence 1954
-  heading_title: Why Did Florence's Football Match Stop?
-- basename: Tuscany_2685d2_tuscan_ufo_press_91c345
-  title: Press Coverage | Tuscany's UFO History Between Mystery and...
-  permalink: /press-coverage/
-  short_title: Press Coverage
-  heading_title: How Newspapers Shaped Tuscany's UFO Wave
-- basename: Tuscany_2685d2_regional_1954_sighti_9bf14d
-  title: Regional Reports | Tuscany's UFO History Between Mystery and...
-  permalink: /regional-reports/
-  short_title: Regional Reports
-  heading_title: What Else Was Seen Across Tuscany in 1954?
-- basename: Tuscany_2685d2_spider_ballooning_th_102e15
-  title: Spider Silk | Tuscany's UFO History Between Mystery and...
-  permalink: /spider-silk/
-  short_title: Spider Silk
-  heading_title: Were Florence's Falling Threads Spider Silk?
-- basename: Tuscany_2685d2_torrita_close_encoun_5d1341
-  title: Torrita 1978 | Tuscany's UFO History Between Mystery and...
-  permalink: /torrita-1978/
-  short_title: Torrita 1978
-  heading_title: What Happened on the Road at Torrita?
+  heading_title: Why Florence 1954 Still Divides UFO Readers
+- basename: Tuscany_2685d2_florence_wave_cluste_5c6574
+  title: Florence Wave | What Really Happened In Tuscany's UFO Skies?
+  permalink: /florence-wave/
+  short_title: Florence Wave
+  heading_title: Was Florence 1954 One Sighting Or A Wave?
+- basename: Tuscany_2685d2_gorgona_coastal_case_d2563b
+  title: Gorgona | What Really Happened In Tuscany's UFO Skies?
+  permalink: /gorgona/
+  short_title: Gorgona
+  heading_title: Why Tuscany's Coast Became A UFO Setting
+- basename: Tuscany_2685d2_florence_sample_clai_6a6d7a
+  title: Lab Claims | What Really Happened In Tuscany's UFO Skies?
+  permalink: /lab-claims/
+  short_title: Lab Claims
+  heading_title: The Florence Sample No One Can Retest
+- basename: Tuscany_2685d2_air_force_checks_d303bd
+  title: Official Checks | What Really Happened In Tuscany's UFO Skies?
+  permalink: /official-checks/
+  short_title: Official Checks
+  heading_title: How Official Checks Change Tuscan UFO Claims
+- basename: Tuscany_2685d2_polcanto_case_status_f750e3
+  title: Polcanto | What Really Happened In Tuscany's UFO Skies?
+  permalink: /polcanto/
+  short_title: Polcanto
+  heading_title: How A Florence Province Case Gained UFO Status
+- basename: Tuscany_2685d2_sceptical_reinterpre_51152f
+  title: Sceptics | What Really Happened In Tuscany's UFO Skies?
+  permalink: /sceptics/
+  short_title: Sceptics
+  heading_title: What Sceptics Changed About Tuscany's UFO Story
 up_link:
   basename: Tuscany_2685d2
-  title: Tuscan UFO Files
-  permalink: /tuscanys-ufo-history-between-mystery-and/
-  short_title: Tuscan UFO Files
-has_inline_related_reports_panel: true
-prev_link:
-  basename: Tuscany_2685d2_tuscany_1954_ufo_wav_6d6baf
-  title: 1954 Wave | Tuscany's UFO History Between Mystery and...
-  permalink: /1954-wave/
-  short_title: 1954 Wave
-  heading_title: Why Did UFO Reports Surge Across Tuscany?
+  title: Tuscan Skies
+  permalink: /what-really-happened-in-tuscanys-ufo/
+  short_title: Tuscan Skies
 next_link:
-  basename: Tuscany_2685d2_cennina_humanoid_cas_c6e066
-  title: Cennina Case | Tuscany's UFO History Between Mystery and...
-  permalink: /cennina-case/
-  short_title: Cennina Case
-  heading_title: How Strong Is the Cennina Humanoid Story?
+  basename: Tuscany_2685d2_tuscan_ufo_catalogue_160a19
+  title: Catalogues | What Really Happened In Tuscany's UFO Skies?
+  permalink: /catalogues/
+  short_title: Catalogues
+  heading_title: Which Tuscan UFO Cases Did Researchers Rate Highest?
 header:
   og_image: /assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-overview-social.jpg
   preview_image: /assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-overview.webp
@@ -308,129 +284,67 @@ image: /assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-overview-social
 
 ## Introduction
 
-The white filaments reported over Florence on 27 October 1954 are often described as the case’s decisive physical evidence. Witnesses said that fine, sticky strands drifted down after the aerial display, settling on streets, roofs, trees, telephone wires and parts of the football stadium. At least one sample reportedly reached the University of Florence, where an examination found boron, silicon, calcium and magnesium and no radioactivity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamento_di_UFO_a_Firenze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento di UFO a Firenze</span><span class="citation-popover-snippet">Avvistamento di UFO a Firenze</span></span></span>
+The “angel hair” in the Florence case is the part of [Tuscany]({{'what-really-happened-in-tuscanys-ufo/' | relative_url }})’s 1954 UFO story that still feels most like physical evidence: white, shining filaments reportedly fell from the sky as strange objects were seen over the city and the Fiorentina–Pistoiese match was halted. The best answer is not that the material proves an extraordinary craft. It is that the filaments sit between two serious ordinary explanations. Spider ballooning explains why masses of fine silk can appear in autumn and drift over large areas. Military chaff explains why the Florence material was described as brittle, powdery and chemically unlike ordinary spider silk. The strongest cautious reading is that “angel hair” made the case memorable, but later comparison with known natural and aviation phenomena weakens the claim that the falling material was anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firenzeurbanlifestyle.com">[firenzeurbanlifestyle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firenzeurbanlifestyle.com</span><span class="citation-popover-title">ufo firenze 1954</span><span class="citation-popover-snippet">ufo firenze 1954</span></span></span><img src="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-overview.webp" | relative_url }}" alt="Overview image for Angel Hair" loading="eager" decoding="sync" fetchpriority="high">
+## What witnesses said fell from the sky
+
+The core reports place the best-known incident on 27 October 1954 at Florence’s municipal stadium, now the Artemio Franchi, during the second half of Fiorentina against Pistoiese. A Florence account says that at about 15:27 spectators and players looked up at two pale objects, while different witnesses compared their shapes to cigars, gull wings or a Chinese mandarin’s hat. The same account describes pale flakes or threads falling from above, later known in UFO writing as “angel hair” and locally discussed as a siliceous cotton-like substance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firenzeurbanlifestyle.com">[FUL Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firenzeurbanlifestyle.com</span><span class="citation-popover-title">ufo firenze 1954</span><span class="citation-popover-snippet">ufo firenze 1954</span></span></span>
+
+That variety of object descriptions matters. It supports the idea that many people saw something unusual in the sky, but it does not give a single, precise picture of a craft. The material was the more concrete feature. CICAP’s later summary describes whitish flakes like cotton wool that broke up while falling and, when handled, easily turned to powder. That detail is important because it is not exactly how ordinary cobwebs usually behave when picked up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/articolo.php?id=275998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[CICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">UFO sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span><span class="citation-popover-snippet">UFO sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span></span></span>
+
+The laboratory story is often told as the strongest evidence. One local account says student Alfredo Jacopozzi collected samples and took them to the University of Florence’s Institute of Analytical Chemistry, where Professor Giovanni Canneri reportedly identified boron, silicon, calcium and magnesium. CICAP’s encyclopaedia entry gives a related but not identical account, saying analyses at the same institute found the material mainly contained silicon, aluminium and boron. This discrepancy does not destroy the case, but it does warn readers that the “physical evidence” now reaches us through later reporting rather than through a preserved, independently retested sample.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firenzeurbanlifestyle.com">[FUL Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firenzeurbanlifestyle.com</span><span class="citation-popover-title">ufo firenze 1954</span><span class="citation-popover-snippet">ufo firenze 1954</span></span></span>
+
+The main question, then, is not simply “did something fall?” The better question is: what known things can create white aerial filaments that arrive suddenly, look strange to a crowd, and then disappear, fragment or seem to dissolve?<img src="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-1-dark.svg" | relative_url }}" alt="Angel Hair illustration 1" data-theme-src-dark="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How spider ballooning fits part of the Florence story
+
+Spider ballooning is a real biological mechanism, not a debunking catchphrase. Small spiders, especially young spiders, climb onto grass, posts or other raised points, lift their bodies, and release fine silk. The wind catches the thread and can carry the spider away; the British Arachnological Society notes that such silk is especially visible in late summer and autumn, often shimmering across fields in early light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishspiders.org.uk/flying-spiders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishspiders.org.uk">[British Arachnological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishspiders.org.uk</span><span class="citation-popover-title">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span><span class="citation-popover-snippet">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span></span></span>
+
+This gives the spider explanation several strengths for Florence. The timing fits: the sighting was in late October, when mass drifting silk is plausible. The visual impression also fits part of the witness story: fine white or silvery strands can float, descend, catch light, and look far more uncanny when a crowd is already looking upward after a strange aerial sighting. Modern research has also made ballooning less mysterious than it once was. University of Bristol researchers reported that electric fields at atmospheric strengths can trigger ballooning and provide lift even without air movement, adding electrostatic forces to the older wind-and-thermal explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bristol.ac.uk/news/2018/july/spiders-electric-fields-.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristol.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristol.ac.uk</span><span class="citation-popover-snippet">Open source on bristol.ac.uk.</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfrg0rhIaGg" title="UFO Emits Weird White Material Onto Small French Town | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer">UFO Emits Weird White Material Onto Small French Town | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfrg0rhIaGg">Open on YouTube</a></p></div></div></div>
+
+## Why military chaff remains a serious rival
+
+Military chaff is the stronger explanation for the most awkward details in the Florence filament story. Chaff is a radar countermeasure: aircraft release clouds of thin reflective material to confuse radar by creating false or distracting returns. A UK Ministry of Defence-linked page describes aluminium-coated glass fibre as the most commonly used chaff material, while a United States General Accounting Office report describes chaff as aluminium-coated silica glass fibres that can be spread by aircraft, ships or vehicles to help evade radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/improving-performance-of-chaff-countermeasures-through-the-use-of-microwires" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Improving performance of chaff countermeasures through the use of microwires</span><span class="citation-popover-snippet">Improving performance of chaff countermeasures through the use of microwires</span></span></span>
+
+That material description is strikingly close to the “glass fibre” flavour of the Florence reports. CICAP’s encyclopaedia says the Florence filaments were mainly silicon, aluminium and boron, and argues that this composition matches anti-radar chaff made of very fine glass filaments coated with aluminium. It also notes the behavioural match: chaff can powder or break down within minutes, whereas many other angel-hair falls look more like cottony spider silk and do not behave in the same way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/files/Enciclopedia_CICAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[CICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">Enciclopedia del CICAP</span><span class="citation-popover-snippet">Enciclopedia del CICAP</span></span></span>
+
+The aviation setting also matters. CICAP’s later discussion identifies its proposed solution as military aircraft exercises involving chaff, and uses the case to explain why high-altitude aircraft can appear as silent, disc-like objects to observers on the ground. At thousands of metres, outlines blur, haze and light change shape perception, and engine noise may not be obvious at all. This does not prove that every witness saw aircraft, but it does show why “silent discs” are not automatically evidence of unconventional craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/articolo.php?id=275998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[CICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">UFO sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span><span class="citation-popover-snippet">UFO sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span></span></span>
+
+The chaff explanation also has a regional logic. Tuscany in 1954 was not an empty sky: Livorno, on the Tuscan coast, was a plausible military and naval context, and later sceptical accounts connect the week of the Florence sighting with US Navy activity and aircraft exercises. A local Florence article summarises the CICAP-linked explanation as training activity using chaff during that week, with the falling material’s chemistry and tendency to dissolve or disintegrate matching the collected substance better than spider silk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firenzeurbanlifestyle.com">[FUL Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firenzeurbanlifestyle.com</span><span class="citation-popover-title">ufo firenze 1954</span><span class="citation-popover-snippet">ufo firenze 1954</span></span></span>
+
+The weakness of the chaff argument is that it relies on reconstruction. To close the case fully, one would want dated military records, flight logs, release locations, wind data, and a preserved sample tested under modern conditions. The public case is persuasive as a mechanism, but it is still an explanation built from compatibility rather than a single decisive surviving document that says: this aircraft released this material over Florence at that time.<img src="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-2-dark.svg" | relative_url }}" alt="Angel Hair illustration 2" data-theme-src-dark="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The two explanations do different jobs
+
+The debate is often presented as “spiders versus UFOs”, but for Florence the sharper comparison is “spiders versus chaff”. They solve different parts of the puzzle.
+
+**Spider ballooning explains the general phenomenon.** It shows how white, drifting filaments can appear naturally, especially in autumn, and why similar “angel hair” reports in other places may have ordinary biological causes. It also explains why witnesses can be startled by something that is real but unfamiliar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishspiders.org.uk/flying-spiders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishspiders.org.uk">[British Arachnological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishspiders.org.uk</span><span class="citation-popover-title">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span><span class="citation-popover-snippet">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span></span></span>
+
+**Chaff explains the Florence-specific physical clues better.** The reported mineral or glass-like composition, the powdering on contact, and the possibility of aircraft activity over Tuscany all sit more comfortably with radar-confusing material than with spider silk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/files/Enciclopedia_CICAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[CICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">Enciclopedia del CICAP</span><span class="citation-popover-snippet">Enciclopedia del CICAP</span></span></span>
+
+**Neither explanation proves what the aerial objects were in every witness’s memory.** A crowd may have seen aircraft, chaff reflections, drifting material, atmospheric effects, or some mixture of these. The fact that the football match stopped is historically interesting, but mass attention is not the same as precise identification. CICAP’s discussion of distance, haze, lighting and apparent shape is valuable because it explains how ordinary aircraft can become visually ambiguous without requiring bad faith or foolishness from witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/articolo.php?id=275998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[CICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">UFO sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span><span class="citation-popover-snippet">UFO sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span></span></span>
+
+**The lost sample is the crucial gap.** If the Florence material had survived in a reliable chain of custody, the question could be tested much more directly. Without it, the case depends on old descriptions, later summaries and the fit between reported properties and known materials.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MhP6mrMz_nA" title="L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer">L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?</a></p><p class="youtube-embed-meta">Channel: Football Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MhP6mrMz_nA">Open on YouTube</a></p></div></div></div>
 
 
 
-<img src="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-overview.webp" | relative_url }}" alt="Overview image for Angel Hair" loading="eager" decoding="sync" fetchpriority="high">
-
-That sounds impressive, but it does not amount to proof of an extraordinary craft. No securely documented specimen survives for modern testing. The original laboratory work is generally known through summaries rather than a complete published report containing photographs, measured concentrations, controls and a traceable record of who handled the material. The result therefore establishes, at most, that somebody submitted an unusual-looking sample containing several ordinary elements. It cannot now show where the filaments came from, whether every reported fall involved the same substance, or whether the tested material was connected to the objects seen in the sky.
 
 
+## What the filaments do to the credibility of the case
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VXnbh8YtYIw" title="UFO a Firenze: il Mistero di Fiorentina-Pistoiese del 1954" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VXnbh8YtYIw" target="_blank" rel="noopener noreferrer">UFO a Firenze: il Mistero di Fiorentina-Pistoiese del 1954</a></p><p class="youtube-embed-meta">Channel: Vanilla Magazine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VXnbh8YtYIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VXnbh8YtYIw">Open on YouTube</a></p></div></div></div>
+The falling material makes the Florence sighting more important in Tuscany’s UFO history because it gives the story a physical hook. Many UFO cases rest only on lights, shapes or memories. Florence adds something apparently touchable: a strange substance collected, examined and discussed in the press. That is why the “angel hair” keeps returning in retellings of the 1954 wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firenzeurbanlifestyle.com">[FUL Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firenzeurbanlifestyle.com</span><span class="citation-popover-title">ufo firenze 1954</span><span class="citation-popover-snippet">ufo firenze 1954</span></span></span>
 
+At the same time, the filaments also make the case easier to test against ordinary mechanisms. A vague light in the sky can remain vague forever; a material with reported composition and behaviour can be compared with spider silk and chaff. Once that comparison is made, the case becomes less mysterious, not more. Spider ballooning gives a strong baseline explanation for many filament falls, while chaff gives a particularly strong explanation for Florence’s brittle, mineral-like version.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishspiders.org.uk/flying-spiders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishspiders.org.uk">[British Arachnological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishspiders.org.uk</span><span class="citation-popover-title">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span><span class="citation-popover-snippet">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span></span></span>
 
+That does not mean the 1954 witnesses invented the event. A fair reading is almost the opposite: they likely saw real things under unusual circumstances, and the experience was powerful because it happened in daylight, over a public sporting event, during a wider autumn wave of reports. The issue is interpretation. “Unidentified” at the moment of observation does not mean extraordinary after later comparison with known aerial materials and aircraft countermeasures.<img src="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-3-dark.svg" | relative_url }}" alt="Angel Hair illustration 3" data-theme-src-dark="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Best cautious assessment
 
-<!-- HIERARCHY_NAV_START -->
-<aside class="related-reports" aria-label="Related pages">
-<h2>Follow this branch</h2>
-<div class="related-reports-grid">
-<section class="related-reports-section related-reports-section-closest">
-<h3>Closest pages</h3>
-<ul>
-<li><a href="{{ '/regional-reports/' | relative_url }}"><span class="article-branch-link-short">Regional Reports</span><span class="article-branch-link-heading">What Else Was Seen Across Tuscany in 1954?</span></a></li>
-<li><a href="{{ '/evidence-tests/' | relative_url }}"><span class="article-branch-link-short">Evidence Tests</span><span class="article-branch-link-heading">How Reliable Is Tuscany&#x27;s UFO Evidence?</span></a></li>
-<li><a href="{{ '/press-coverage/' | relative_url }}"><span class="article-branch-link-short">Press Coverage</span><span class="article-branch-link-heading">How Newspapers Shaped Tuscany&#x27;s UFO Wave</span></a></li>
-<li><a href="{{ '/florence-1954/' | relative_url }}"><span class="article-branch-link-short">Florence 1954</span><span class="article-branch-link-heading">Why Did Florence&#x27;s Football Match Stop?</span></a></li>
-<li><a href="{{ '/cennina-case/' | relative_url }}"><span class="article-branch-link-short">Cennina Case</span><span class="article-branch-link-heading">How Strong Is the Cennina Humanoid Story?</span></a></li>
-</ul>
-</section>
-</div>
-</aside>
-<!-- HIERARCHY_NAV_END -->
+Florence’s “angel hair” should be treated as one of the most interesting but also most explainable parts of Tuscany’s UFO tradition. Spider ballooning remains a plausible explanation for many angel-hair reports and may have shaped how later readers understood such falls. For the Florence incident itself, military chaff is the stronger rival because it better matches the reported chemical and physical behaviour of the collected filaments.
 
-## Where the filaments were reported
+The case therefore remains culturally important rather than evidentially decisive. It shows how a public UFO incident can become famous because it combines mass witnesses, a dramatic setting and apparent physical traces. It also shows why physical traces do not automatically strengthen an extraordinary claim: sometimes they give investigators the very clues needed to bring the story back down to earth.
 
-The best-known fall followed the sighting that interrupted the Fiorentina–Pistoiese match at Florence’s municipal stadium. Accounts describe the material descending like a light snowfall for roughly half an hour. It was not confined to the pitch: reports placed similar strands elsewhere in Florence and in nearby Tuscan localities, although later retellings do not always distinguish clearly between observations made that afternoon and other filament reports during Italy’s wider 1954 sighting wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamento_di_UFO_a_Firenze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento di UFO a Firenze</span><span class="citation-popover-snippet">Avvistamento di UFO a Firenze</span></span></span>
-
-Witness descriptions agree on several broad characteristics. The substance was white or pale, extremely fine and fibrous. It gathered on projecting surfaces and was difficult to collect because it reportedly broke apart, shrank or vanished when touched. Some accounts called it sticky; others compared it with cotton wool, cobwebs or glass-like fibres. These differences matter because “angel hair” was a popular label, not a scientific classification. Material seen in separate streets, at different times and by different people cannot automatically be treated as one chemically uniform deposit.
-
-A frequently repeated account says that engineering student Alfredo Jacopozzi collected filaments from a telephone wire in a glass container and delivered them for examination at the University of Florence. Other versions mention material gathered at Sesto Fiorentino or refer less precisely to several samples reaching the laboratory. The changing details do not prove that the collection story was false, but they expose a basic evidential weakness: surviving public accounts do not provide a complete inventory showing how many specimens existed, exactly where each was obtained or which one was actually analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firenzeurbanlifestyle.com">[firenzeurbanlifestyle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firenzeurbanlifestyle.com</span><span class="citation-popover-title">ufo firenze 1954</span><span class="citation-popover-snippet">FUL MagazineUFO a Firenze nel 1954: sospesa l&#x27;amichevole Fiorentina-...October 21, 2023 — Firenze, 27 ottobre 1954. nota in campo ufolog...</span><span class="citation-popover-meta">Published: October 21, 2023</span></span></span>
-
-The filaments became famous because they appeared to connect two different kinds of evidence. Thousands of people had reacted to something overhead, and shortly afterwards a tangible substance was reportedly lying across the city. Yet proximity in time is not the same as demonstrated causation. Few descriptions clearly show filaments being emitted directly from a defined object. Aerial silk, airborne industrial fibres or material released by aircraft could all drift through the same airspace as bright objects without originating from an exotic vehicle.
-
-
-
-<img src="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-1-dark.svg" | relative_url }}" alt="Angel Hair illustration 1" data-theme-src-dark="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-## What the laboratory analysis found
-
-The examination is associated with Professor Giovanni Canneri of the University of Florence’s analytical chemistry institute. The Italian Chemical Society’s history of its analytical division confirms that Canneri conducted microscopic and spectroscopic work on the filaments reported on 27 October 1954. The commonly quoted result lists boron, silicon, calcium and magnesium; later summaries also state that the material was fibrous and non-radioactive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.societachimica.it/it/divisioni/analitica/storia-dca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societachimica.it">[Società Chimica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societachimica.it</span><span class="citation-popover-snippet">Giovanni Canneri è ricordato anche per l&#x27;analisi microscopica e spettroscopica dei cosiddetti capelli d&#x27;angelo, sottilissimi filamenti bi...</span></span></span>
-
-This is more substantial than a rumour that “scientists could not identify it”, but considerably less conclusive than it is sometimes presented. A spectrographic test identifies elements present in a sample. By itself, it does not necessarily determine the complete compound, its manufacturing process or its source. The four reported elements are not exotic. Silicon, calcium and magnesium occur widely in dust, soil, glass, construction materials and environmental contamination, while boron is used in several forms of glass and industrial material.
-
-The surviving summaries also give little quantitative information. Readers are usually told which elements were detected, but not their exact proportions, the size and condition of the sample, whether carbon and nitrogen were tested, or whether the material was compared with [spider silk]({{ 'spider-silk/' | relative_url }}), mineral wool, insulation, aircraft countermeasures or debris from nearby buildings. Without those details, the result cannot function as a chemical fingerprint. Different substances can contain the same listed elements while differing greatly in structure and origin.
-
-Even the interpretation of the reported composition remains disputed. Some writers say that a mineral-rich result counts against spider silk, which consists chiefly of proteins. Italian sceptical investigators have instead argued that the composition and fragile behaviour could be compatible with a glass-based military radar countermeasure known as chaff. That proposal is plausible at a general level because chaff has historically included aluminium foil and, in later forms, metallised glass or plastic fibres. However, no documented military release has been conclusively tied to the Florence fall, and the abbreviated analysis does not establish a precise match with a particular 1954 chaff product.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/articolo/capelli-dangelo-indagine-in-corso" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[cicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">capelli dangelo indagine in corso</span><span class="citation-popover-snippet">capelli dangelo indagine in corso</span></span></span>
-
-The laboratory result therefore narrows the possibilities only slightly. It suggests that the tested material was not simply identified at the time as ordinary cotton, but it does not demonstrate technology beyond human manufacture. Nor does it establish that the sample represented every filament witnessed across Florence.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HW4WsbZy6mo" title="👽Angel Hair 👽 | UFO Residue from the Skies?👽" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HW4WsbZy6mo" target="_blank" rel="noopener noreferrer">👽Angel Hair 👽 | UFO Residue from the Skies?👽</a></p><p class="youtube-embed-meta">Channel: Greatest Historical Mysteries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HW4WsbZy6mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HW4WsbZy6mo">Open on YouTube</a></p></div></div></div>
-
-## Spider silk or military chaff?
-
-Ballooning spiders provide the most familiar natural explanation for falls of fine white threads. Small spiders can release silk that is carried long distances by air currents, sometimes creating conspicuous sheets or showers of gossamer. Scientific studies show that ballooning is widespread and can occur in autumn, while laboratory research indicates that atmospheric electric fields as well as moving air can help lift and separate silk threads.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6001951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central (PMC)An observational study of ballooning in large spiders</span><span class="citation-popover-snippet">Pub Med Central (PMC)An observational study of ballooning in large spiders</span></span></span>
-
-This explanation fits several observations from Florence: the season, the delicate web-like appearance, the widespread distribution and the tendency of strands to become difficult to see once handled. Large masses of sunlit silk could also produce glints or pale shapes at altitude, meaning that at least some aerial objects and some of the falling material might have had the same natural source.
-
-The main objection is chemical. If Canneri’s sample consisted predominantly of inorganic glass-forming elements, it would not resemble an uncontaminated protein fibre. Yet the objection depends on treating the short published summary as a complete characterisation. A minute strand collected from a telephone wire or urban surface could acquire mineral dust. Spectrographic methods may prominently reveal inorganic constituents while providing little information about an organic base unless the test is designed to detect it. With no sample and no full protocol, neither a clean identification as spider silk nor a confident exclusion of it is justified.
-
-Chaff offers a different mechanism. It is deliberately released from aircraft to create numerous radar reflections and can form a slowly dispersing cloud of strips or fibres. The technology was already established by the Second World War. Some forms used metal foil, while glass-fibre versions could contain silicon and other elements associated with manufactured glass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ieee-aess.org/post/blog/history-column-chaff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ieee-aess.org">[ieee-aess.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ieee-aess.org</span><span class="citation-popover-snippet">Open source on ieee-aess.org.</span></span></span>
-
-For the Florence case, chaff has the advantage of potentially accounting for both bright aerial formations and inorganic filaments. It also has serious gaps. Publicly available evidence has not identified the aircraft, military exercise, flight path, release order or surviving radar record needed to move the idea from a material comparison to a historical explanation. Moreover, ordinary foil chaff would be expected to contain a conspicuous metallic component, while aluminium is absent from the standard four-element summary of Canneri’s result. The absence may reflect incomplete reporting or the test method, but it cannot simply be ignored.
-
-The safest assessment is therefore comparative rather than absolute. Spider ballooning is a well-established natural source of airborne gossamer and fits the appearance and season. Chaff is a well-established artificial airborne material and may fit the reported inorganic chemistry. Neither explanation has been tested against the original specimen, and neither has been demonstrated conclusively for Florence.
-
-
-
-<img src="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-2-dark.svg" | relative_url }}" alt="Angel Hair illustration 2" data-theme-src-dark="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-## Why the evidence cannot be retested
-
-No verified remnant of the Florence material is known to be held in a university collection, forensic archive or museum. Later accounts commonly say that the filaments disintegrated rapidly, but physical instability alone does not explain the whole loss. Even a fragile sample might have left microscope slides, sealed residues, photographs, analytical notes or a formal laboratory record. None has emerged publicly with an unbroken provenance.
-
-This missing chain of custody is the case’s central problem. To evaluate physical evidence, investigators would need to know:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
-* who collected each specimen and at what precise location;
-* what container and tools were used;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopediaofinvisibility.com/entries/chaff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofinvisibility.com">[encyclopediaofinvisibility.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofinvisibility.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* how long the sample remained exposed;
-* who transported, received and divided it;
-* which analytical methods were performed;
-* whether control samples were used;
-* and where the remainder and laboratory documentation were stored.
-
-</div>
-
-In Florence, fragments of this story survive, but not the complete sequence. Even the collector’s surname appears in variant spellings in secondary accounts, and some descriptions disagree about whether one specimen or several were examined. Such inconsistencies are unsurprising after more than seven decades, but they prevent the material from carrying the evidential weight often assigned to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firenzeurbanlifestyle.com">[firenzeurbanlifestyle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firenzeurbanlifestyle.com</span><span class="citation-popover-title">ufo firenze 1954</span><span class="citation-popover-snippet">FUL MagazineUFO a Firenze nel 1954: sospesa l&#x27;amichevole Fiorentina-...October 21, 2023 — Firenze, 27 ottobre 1954. nota in campo ufolog...</span><span class="citation-popover-meta">Published: October 21, 2023</span></span></span>
-
-Modern analysis could have answered questions that the 1954 examination apparently did not. Electron microscopy could reveal surface structure; infrared or Raman spectroscopy could distinguish protein, glass and synthetic polymers; elemental mapping could show whether minerals were intrinsic to the fibre or merely attached as dust; and isotope or manufacturing analysis might connect an artificial material to a known industrial source. None of these tests can be conducted on a result quoted in a later article. They require the original material or, at minimum, authenticated slides and detailed raw records.
-
-The lack of a surviving sample also makes contamination impossible to assess. Material taken from a telephone line, rooftop, tree or pavement could pick up plaster, road dust, mineral particles, paint and industrial residue. A glass container, collection implement or laboratory preparation could add further traces. This does not mean that contamination occurred; it means that the available documentation cannot show that it did not.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tuQTuo2RbQ4" title="The Day the Sky Changed: 1954 (The &quot;Angel Hair&quot; Mystery)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tuQTuo2RbQ4" target="_blank" rel="noopener noreferrer">The Day the Sky Changed: 1954 (The &quot;Angel Hair&quot; Mystery)</a></p><p class="youtube-embed-meta">Channel: Year Zero</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tuQTuo2RbQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tuQTuo2RbQ4">Open on YouTube</a></p></div></div></div>
-
-## Did the angel hair prove anything?
-
-The filaments strengthen one modest conclusion: Florence’s 1954 episode was not remembered solely as distant lights in the sky. People also reported a widespread, unusual-looking fall, and a sample was apparently taken seriously enough to be examined by an established university chemist. The Italian Chemical Society’s acknowledgement of Canneri’s work supports the historical reality of that examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.societachimica.it/it/divisioni/analitica/storia-dca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societachimica.it">[Società Chimica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societachimica.it</span><span class="citation-popover-snippet">Giovanni Canneri è ricordato anche per l&#x27;analisi microscopica e spettroscopica dei cosiddetti capelli d&#x27;angelo, sottilissimi filamenti bi...</span></span></span>
-
-Beyond that, the evidential value falls sharply. The analysis did not identify an extraterrestrial substance, demonstrate a propulsion by-product or link the material chemically to any observed object. It produced a short list of common elements without the supporting detail needed to distinguish decisively among environmental contamination, airborne silk and manufactured fibres.
-
-Later reporting has preserved the story but has not materially strengthened it. Instead, repeated retellings have sometimes turned a limited elemental analysis into claims of an “unknown compound” or a substance that baffled science. The stronger but less dramatic reading is that an imperfectly documented sample was analysed with the tools available in 1954, yielded an ambiguous result and was then lost.
-
-Florence’s angel hair remains important within Tuscan UFO history precisely because it shows how apparently physical evidence can become weaker with time. The fall may have been real, and its source may never be established with certainty. But without the specimen, complete laboratory records or a reliable chain of custody, it cannot prove what caused the aerial display—and it certainly cannot prove that Florence was visited by an extraordinary craft.
-
-
-
-<img src="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-3-dark.svg" | relative_url }}" alt="Angel Hair illustration 3" data-theme-src-dark="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuscany_2685d2_angel_hair_filaments_58b16b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ORVSTm0cEnE" title="Angel Hair: Exotic Fibers in UFOs | Larry Lemke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ORVSTm0cEnE" target="_blank" rel="noopener noreferrer">Angel Hair: Exotic Fibers in UFOs | Larry Lemke</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ORVSTm0cEnE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ORVSTm0cEnE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -439,21 +353,21 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to Did Florence&#x27;s Angel Hair Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Was Florence&#x27;s &#x27;Angel Hair&#x27; Natural Or Military?. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
-<p class="fr-book-author">By Carl Sagan</p>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • From the renowned astronomer and author of Cosmos comes a “powerful [and] stirring defense of informed ration...</p>
+<p class="fr-book-desc">Provides a careful framework for claims involving witnesses, material traces and unresolved explanations.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -461,16 +375,16 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+the+UFO+by+Morris+K.+Jessup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for the UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gsHaAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for the UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Case+for+the+UFO+by+Morris+K.+Jessup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for the UFO">The Case for the UFO</a>
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
-<p class="fr-book-author">By Morris K. Jessup</p>
-        
-<p class="fr-book-desc">This is the original edition of the classic book that brought the legend of the Philadelphia Experiment into the public sphere, and creat...</p>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers evaluate extraordinary interpretations of ambiguous physical evidence.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Case+for+the+UFO+by+Morris+K.+Jessup&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -478,16 +392,16 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
 </h4>
-<p class="fr-book-author">By Philip J. Klass</p>
+<p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
         
-<p class="fr-book-desc">Analyzing several UFO cases, the author exposes the myth of extraterrestrial visitors to earth.</p>
+<p class="fr-book-desc">Supports analysis of claimed anomalous material against ordinary explanations.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -495,16 +409,16 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spiders+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spiders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YaAYK7loChIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spiders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+<a href="https://www.amazon.com/s?k=Spiders+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spiders">Spiders</a>
 </h4>
-<p class="fr-book-author">By Joseph Allen Hynek, Hynek</p>
+<p class="fr-book-author">By Lynne Kelly</p>
         
-        
+<p class="fr-book-desc">&quot;Yet again I was screaming in the night&quot; is the opening sentence in this book. The author decided to deliberately overcome her fear of sp...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Spiders+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -512,127 +426,29 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+the+UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for the UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Chemtrails, and Aliens</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
-
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
-<div class="fr-books-grid">
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="angel-hair-did-florence-s-angel-hair-prove-anything-tuscany-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oxford Aviation Focke-Wulf TA 152H-1 Oberfelwebel Josef Keil 1945 Model - Sealed"><img src="{{'/assets/images/marketplace-covers/6d974649fd9ed6e07d45.jpg' | relative_url }}" alt="Listing image for Oxford Aviation Focke-Wulf TA 152H-1 Oberfelwebel Josef Keil 1945 Model - Sealed" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">Oxford Aviation Focke-Wulf TA 152H-1 Oberfelwebel Josef Keil 1945 Model - Sealed</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition"><img src="{{'/assets/images/marketplace-covers/f4e23b363b563e1fbcc0.jpg' | relative_url }}" alt="Listing image for SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Spitfire PRXIX P5915 Battle Of Britain Memorial Flight - Limited Edition"><img src="{{'/assets/images/marketplace-covers/22de6598a9476c923dd5.jpg' | relative_url }}" alt="Listing image for Corgi Spitfire PRXIX P5915 Battle Of Britain Memorial Flight - Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Spitfire PRXIX P5915 Battle Of Britain Memorial Flight - Limited Edition</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oxford Aviation 1/72 Polikarpov L-16 ROCAFs Combat Ace, Die Cast"><img src="{{'/assets/images/marketplace-covers/eb8c564d5498bfa8fadc.jpg' | relative_url }}" alt="Listing image for Oxford Aviation 1/72 Polikarpov L-16 ROCAFs Combat Ace, Die Cast" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">Oxford Aviation 1/72 Polikarpov L-16 ROCAFs Combat Ace, Die Cast</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="angel-hair-was-florence-s-angel-hair-natural-or-military-tuscany-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -651,24 +467,24 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -679,7 +495,7 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -687,45 +503,43 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-<script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -743,8 +557,8 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,11 +578,11 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -777,13 +591,13 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -800,9 +614,9 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -821,181 +635,89 @@ Florence’s angel hair remains important within Tuscan UFO history precisely be
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: Wikipedia  
-   Title: Avvistamento di UFO a Firenze  
-   Link:<a href="https://it.wikipedia.org/wiki/Avvistamento_di_UFO_a_Firenze" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Avvistamento_di_UFO_a_Firenze</a>  
+   Source: cicap.org  
+   Title: UFO sulle nostre teste. Un esperimento per imparare a identificarli | CICAP  
+   Link:<a href="https://www.cicap.org/n/articolo.php?id=275998" target="_blank" rel="noopener noreferrer nofollow">https://www.cicap.org/n/articolo.php?id=275998</a>  
 
 2.<a id="endnote-2"></a>
-   Source: reccom.org  
-   Title: ufo su firenze bambagia silicea  
-   Link:<a href="https://reccom.org/ufo-su-firenze-bambagia-silicea/" target="_blank" rel="noopener noreferrer nofollow">https://reccom.org/ufo-su-firenze-bambagia-silicea/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Uno studente universitario, Alfredo Iacopozzi aveva assistito al passaggio dei due UFO su Firenze già verso le 14:30 e non si era certo l...</p></details>
+   Source: cicap.org  
+   Title: Enciclopedia del CICAP  
+   Link:<a href="https://www.cicap.org/n/files/Enciclopedia_CICAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cicap.org/n/files/Enciclopedia_CICAP.pdf</a>  
 
 3.<a id="endnote-3"></a>
-   Source: Wikipedia  
-   Title: Angel hair (folklore)  
-   Link:<a href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29</a>  
+   Source: GOV.UK  
+   Title: Improving performance of chaff countermeasures through the use of microwires  
+   Link:<a href="https://www.gov.uk/government/news/improving-performance-of-chaff-countermeasures-through-the-use-of-microwires" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/improving-performance-of-chaff-countermeasures-through-the-use-of-microwires</a>  
 
 4.<a id="endnote-4"></a>
-   Source: cicap.org  
-   Title: capelli dangelo indagine in corso  
-   Link:<a href="https://www.cicap.org/articolo/capelli-dangelo-indagine-in-corso" target="_blank" rel="noopener noreferrer nofollow">https://www.cicap.org/articolo/capelli-dangelo-indagine-in-corso</a>  
-
-5.<a id="endnote-5"></a>
-   Source: ieee-aess.org  
-   Link:<a href="https://ieee-aess.org/post/blog/history-column-chaff" target="_blank" rel="noopener noreferrer nofollow">https://ieee-aess.org/post/blog/history-column-chaff</a>  
-
-6.<a id="endnote-6"></a>
-   Source: gao.gov  
-   Title: nsiad 98 219  
-   Link:<a href="https://www.gao.gov/assets/nsiad-98-219.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-98-219.pdf</a>  
-
-7.<a id="endnote-7"></a>
-   Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/bulletin-of-entomological-research/article/ballooning-dispersal-using-silk-world-fauna-phylogenies-genetics-and-models/C997021E90D2418F6AE29C9641AB170F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/bulletin-of-entomological-research/article/ballooning-dispersal-using-silk-world-fauna-phylogenies-genetics-and-models/C997021E90D2418F6AE29C9641AB170F</a>  
-
-8.<a id="endnote-8"></a>
-   Source: cicap.org  
-   Title: 1954 ufo e bambagia silicea su firenze il cicap propone la soluzione  
-   Link:<a href="https://www.cicap.org/articolo/1954-ufo-e-bambagia-silicea-su-firenze-il-cicap-propone-la-soluzione" target="_blank" rel="noopener noreferrer nofollow">https://www.cicap.org/articolo/1954-ufo-e-bambagia-silicea-su-firenze-il-cicap-propone-la-soluzione</a>  
-
-9.<a id="endnote-9"></a>
-   Source: cicap.org  
-   Link:<a href="https://www.cicap.org/n/articolo.php?id=273382" target="_blank" rel="noopener noreferrer nofollow">https://www.cicap.org/n/articolo.php?id=273382</a>  
-
-10.<a id="endnote-10"></a>
-   Source: cicap.org  
-   Title: il caso delle pellicole che non si impressionarono  
-   Link:<a href="https://www.cicap.org/articolo/il-caso-delle-pellicole-che-non-si-impressionarono" target="_blank" rel="noopener noreferrer nofollow">https://www.cicap.org/articolo/il-caso-delle-pellicole-che-non-si-impressionarono</a>  
-
-11.<a id="endnote-11"></a>
-   Source: Wikipedia  
-   Title: UFO sightings in Italy  
-   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-
-12.<a id="endnote-12"></a>
-   Source: Wikipedia  
-   Title: Chaff (countermeasure)  
-   Link:<a href="https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29</a>  
-
-13.<a id="endnote-13"></a>
-   Source: engage.ieee.org  
-   Title: ES TA 1001 2020 07 AESNewsletter HistoryColumn  
-   Link:<a href="https://engage.ieee.org/ES-TA-1001-2020-07-AESNewsletter_HistoryColumn.html" target="_blank" rel="noopener noreferrer nofollow">https://engage.ieee.org/ES-TA-1001-2020-07-AESNewsletter_HistoryColumn.html</a>  
-
-14.<a id="endnote-14"></a>
-   Source: societachimica.it  
-   Link:<a href="https://www.societachimica.it/it/divisioni/analitica/storia-dca" target="_blank" rel="noopener noreferrer nofollow">https://www.societachimica.it/it/divisioni/analitica/storia-dca</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Giovanni Canneri è ricordato anche per l&#x27;analisi microscopica e spettroscopica dei cosiddetti capelli d&#x27;angelo, sottilissimi filamenti bi...</p></details>
-
-15.<a id="endnote-15"></a>
-   Source: theflorentine.net  
-   Link:<a href="https://www.theflorentine.net/2025/10/22/ufos-1954/" target="_blank" rel="noopener noreferrer nofollow">https://www.theflorentine.net/2025/10/22/ufos-1954/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The FlorentineUFOs over [Tuscany](&amp;#123;&amp;#123; &#x27;tuscanys-ufo-history-between-mystery-and/&#x27; | relative_url &amp;#125;&amp;#125;): the mystery of Italy&#x27;s 1954 autumn wave22 Oct 2025 — UFOs over Tuscany: the mystery of Italy&#x27;s 1954 autu...</p></details>
-
-16.<a id="endnote-16"></a>
-   Source: queryonline.it  
-   Title: 1954 ufo e bambagia silicea su firenze  
-   Link:<a href="https://www.queryonline.it/2014/11/10/1954-ufo-e-bambagia-silicea-su-firenze/" target="_blank" rel="noopener noreferrer nofollow">https://www.queryonline.it/2014/11/10/1954-ufo-e-bambagia-silicea-su-firenze/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Alcune migliaia di persone si erano quel giorno recate allo stadio comunale Giovanni Berta (ora stadio Artemio Franchi) di Firenze per ve...</p></details>
-
-17.<a id="endnote-17"></a>
    Source: firenzeurbanlifestyle.com  
    Title: ufo firenze 1954  
    Link:<a href="https://firenzeurbanlifestyle.com/ufo-firenze-1954/" target="_blank" rel="noopener noreferrer nofollow">https://firenzeurbanlifestyle.com/ufo-firenze-1954/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FUL MagazineUFO a Firenze nel 1954: sospesa l&#x27;amichevole Fiorentina-...October 21, 2023 — Firenze, 27 ottobre 1954. nota in campo ufolog...</p></details>
-   Published: October 21, 2023  
 
-18.<a id="endnote-18"></a>
-   Source: theblackarchive.net  
-   Link:<a href="https://theblackarchive.net/en/case/017" target="_blank" rel="noopener noreferrer nofollow">https://theblackarchive.net/en/case/017</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Described in Italian as &#x27;a mo&#x27; di nevicata&#x27; — like a snowfall — the phenomenon was observed not only at the stadium but throughout the ci...</p></details>
+5.<a id="endnote-5"></a>
+   Source: britishspiders.org.uk  
+   Title: British Arachnological Society Flying Spiders | British Arachnological Society  
+   Link:<a href="https://britishspiders.org.uk/flying-spiders" target="_blank" rel="noopener noreferrer nofollow">https://britishspiders.org.uk/flying-spiders</a>  
 
-19.<a id="endnote-19"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Title: Pub Med Central (PMC)An observational study of ballooning in large spiders  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6001951/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6001951/</a>  
+6.<a id="endnote-6"></a>
+   Source: bristol.ac.uk  
+   Link:<a href="https://www.bristol.ac.uk/news/2018/july/spiders-electric-fields-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2018/july/spiders-electric-fields-.html</a>  
 
-20.<a id="endnote-20"></a>
-   Source: queryonline.it  
-   Link:<a href="https://www.queryonline.it/tag/1954/" target="_blank" rel="noopener noreferrer nofollow">https://www.queryonline.it/tag/1954/</a>  
+7.<a id="endnote-7"></a>
+   Source: data.epo.org  
+   Link:<a href="https://data.epo.org/publication-server/rest/v1.0/publication-dates/20230927/patents/EP3735567NWB1/document.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.epo.org/publication-server/rest/v1.0/publication-dates/20230927/patents/EP3735567NWB1/document.pdf</a>  
 
-21.<a id="endnote-21"></a>
-   Source: comune.firenze.it  
-   Title: Catalogo online SDIAF | Città di Firenze  
-   Link:<a href="https://www.comune.firenze.it/servizi/cultura-e-tempo-libero/catalogo-online-sdiaf" target="_blank" rel="noopener noreferrer nofollow">https://www.comune.firenze.it/servizi/cultura-e-tempo-libero/catalogo-online-sdiaf</a>  
-
-22.<a id="endnote-22"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-
-23.<a id="endnote-23"></a>
-   Source: queryonline.it  
-   Title: Da dove piovono i capelli d’angelo? – Query Online  
-   Link:<a href="https://www.queryonline.it/2021/07/21/da-dove-piovono-i-capelli-dangelo/" target="_blank" rel="noopener noreferrer nofollow">https://www.queryonline.it/2021/07/21/da-dove-piovono-i-capelli-dangelo/</a>  
-
-24.<a id="endnote-24"></a>
-   Source: instagram.com  
-   Title: It was  
-   Link:<a href="https://www.instagram.com/p/DQUkHZkCqxg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQUkHZkCqxg/?hl=en</a>  
-
-25.<a id="endnote-25"></a>
-   Source: encyclopediaofinvisibility.com  
-   Link:<a href="https://www.encyclopediaofinvisibility.com/entries/chaff" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopediaofinvisibility.com/entries/chaff</a>  
-
-26.<a id="endnote-26"></a>
+8.<a id="endnote-8"></a>
    Source: duomo.firenze.it  
    Link:<a href="https://duomo.firenze.it/en/opera-magazine/post/4490/firenze___-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://duomo.firenze.it/en/opera-magazine/post/4490/firenze___-a-ufo</a>  
 
 ### Additional References
 
-27.<a id="endnote-27"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=Oh0LU_yXgIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oh0LU_yXgIs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigmatic Mystery of the 1954 Fiorentina UFO Sightings...</p></details>
+   Title: UFO Emits Weird White Material Onto Small French Town | Close Encounters  
+   Link:<a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfrg0rhIaGg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The day UFOs stopped play provides an in-depth look into the historical context of the 1954 Florence incident and examines the scientific...</p></details>
 
-28.<a id="endnote-28"></a>
-   Source: arxiv.org  
-   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
-
-29.<a id="endnote-29"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Title: The Strange Phenomenon of Angel Hair and UFO Residue  
-   Link:<a href="https://www.youtube.com/watch?v=HW4WsbZy6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HW4WsbZy6mo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiorentina-Pistoiese 1954: The match was interrupted because 10,000 people saw UFOs...</p></details>
+   Title: 8:45 p.m  
+   Link:<a href="https://www.youtube.com/watch?v=j2dK0GwPmC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j2dK0GwPmC8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Emits Weird White Material Onto Small French Town | Close Encounters...</p></details>
 
-30.<a id="endnote-30"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=VXnbh8YtYIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXnbh8YtYIw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Phenomenon of Angel Hair and UFO Residue...</p></details>
+   Title: Angel Hair: Exotic Fibers in UFOs | Larry Lemke  
+   Link:<a href="https://www.youtube.com/watch?v=ORVSTm0cEnE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ORVSTm0cEnE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>8:45 p.m. - Saturday, January 31 - UFOs invade Europe: angel hair...</p></details>
 
-31.<a id="endnote-31"></a>
-   Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d8weo3/angel_hair_is_a_sticky_fibrous_substance_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d8weo3/angel_hair_is_a_sticky_fibrous_substance_reported/</a>  
+12.<a id="endnote-12"></a>
+   Source: gao.gov  
+   Title: NSIAD-98-219 Environmental Protection: DOD Management Issues Related to Chaff  
+   Link:<a href="https://www.gao.gov/assets/nsiad-98-219.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-98-219.pdf</a>  
 
-32.<a id="endnote-32"></a>
-   Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/270530110_Ballooning_of_spiders_Araneae_in_Switzerland_General_Results_from_an_Eleven-Year_Survey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270530110_Ballooning_of_spiders_Araneae_in_Switzerland_General_Results_from_an_Eleven-Year_Survey</a>  
+13.<a id="endnote-13"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MhP6mrMz_nA</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Angel Hair: Exotic Fibers in UFOs | Larry Lemke...</p></details>
 
-33.<a id="endnote-33"></a>
-   Source: aluminum.org  
-   Link:<a href="https://www.aluminum.org/aluminum-miracle-metal" target="_blank" rel="noopener noreferrer nofollow">https://www.aluminum.org/aluminum-miracle-metal</a>  
+14.<a id="endnote-14"></a>
+   Source: chemring.com  
+   Link:<a href="https://www.chemring.com/what-we-do/countermeasures-and-energetics/advanced-rf-countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://www.chemring.com/what-we-do/countermeasures-and-energetics/advanced-rf-countermeasures</a>  
 
-34.<a id="endnote-34"></a>
-   Source: theufodatabase.com  
-   Link:<a href="https://theufodatabase.com/photos/florence-spider-web-substance" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/photos/florence-spider-web-substance</a>  
+15.<a id="endnote-15"></a>
+   Source: fibrecoat.de  
+   Link:<a href="https://fibrecoat.de/wp-content/uploads/2022/08/AluCoat-as-chaff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fibrecoat.de/wp-content/uploads/2022/08/AluCoat-as-chaff.pdf</a>  
 
-35.<a id="endnote-35"></a>
-   Source: pilotspost.com  
-   Link:<a href="https://www.pilotspost.com/PsPpyarn1829" target="_blank" rel="noopener noreferrer nofollow">https://www.pilotspost.com/PsPpyarn1829</a>  
+16.<a id="endnote-16"></a>
+   Source: elbitsystems.com  
+   Link:<a href="https://www.elbitsystems.com/cg-17-chaff-cartridge" target="_blank" rel="noopener noreferrer nofollow">https://www.elbitsystems.com/cg-17-chaff-cartridge</a>  
 
-36.<a id="endnote-36"></a>
-   Source: scribd.com  
-   Link:<a href="https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair</a>  
+17.<a id="endnote-17"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/moconservation/posts/discover-nature-notes-watch-for-flying-spiders-this-fall-the-newly-hatched-young/10159512358852962/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/moconservation/posts/discover-nature-notes-watch-for-flying-spiders-this-fall-the-newly-hatched-young/10159512358852962/</a>  
+
+18.<a id="endnote-18"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/154108581805633/posts/413038362579319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/154108581805633/posts/413038362579319/</a>  

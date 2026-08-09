@@ -2,17 +2,17 @@
 level: 1
 basename: Basilicata_3ea395
 child_basenames:
-- Basilicata_3ea395_early_potenza_report_d3e261
+- Basilicata_3ea395_acerenza_witness_vid_b28477
+- Basilicata_3ea395_common_explanations_72fcca
 - Basilicata_3ea395_index
-- Basilicata_3ea395_inland_basilicata_si_11d365
-- Basilicata_3ea395_ionian_coast_sightin_e2aff8
-- Basilicata_3ea395_montereale_humanoid_14ae20
-- Basilicata_3ea395_muro_lucano_aircraft_c5c852
-- Basilicata_3ea395_official_vs_private_94d8d6
-- Basilicata_3ea395_potenza_1954_wave_8f4fde
-- Basilicata_3ea395_regional_ufo_flaps_a343e9
-- Basilicata_3ea395_strong_ufo_evidence_2d7a8f
-- Basilicata_3ea395_ufo_height_speed_err_3977d1
+- Basilicata_3ea395_june_2009_fireball_899af0
+- Basilicata_3ea395_local_press_memory_21a229
+- Basilicata_3ea395_matera_space_backdro_5d9c75
+- Basilicata_3ea395_monticchio_rural_sig_c34b0a
+- Basilicata_3ea395_official_records_gap_43c6bb
+- Basilicata_3ea395_potenza_early_report_7f20b6
+- Basilicata_3ea395_reading_weak_catalog_a80434
+- Basilicata_3ea395_sighting_geography_5dd56a
 sibling_basenames:
 - Abruzzo_4c71bb
 - Aosta_Valley_ccb120
@@ -39,28 +39,24 @@ keywords:
 - basilicata
 affiliate_category: basilicata
 show_ads: true
-description: Basilicata has a long UFO tradition, but not a large body of strong cases.
-hero_summary: Basilicata has a long UFO tradition, but not a large body of strong cases. Local catalogues and newspaper retrospectives describe dozens of reports since the late 1940s, ranging from discs and low-flying lights to alleged close encounters.
+description: Basilicata has a quieter UFO history than several larger Italian regions, but it is not a blank space.
+hero_summary: Basilicata has a quieter UFO history than several larger Italian regions, but it is not a blank space.
 layout: default
-permalink: /which-basilicata-ufo-cases-still/
-nav_short_title: Which Basilicata UFO Cases Still Withstand Scrutiny?
-title: Which Basilicata UFO Cases Still Withstand Scrutiny?
-title_full: Which Basilicata UFO Cases Still Withstand Scrutiny?
-display_title_short: Which Basilicata UFO Cases Still Withstand Scrutiny?
-display_title: Which Basilicata UFO Cases Still Withstand Scrutiny?
-heading_title: Which Basilicata UFO Cases Still Withstand Scrutiny?
-page_heading_title: Which Basilicata UFO Cases Still Withstand Scrutiny?
-source_count: 132
+permalink: /what-really-happened-in-basilicatas-ufo/
+nav_short_title: What Really Happened in Basilicata's UFO Stories?
+title: What Really Happened in Basilicata's UFO Stories?
+title_full: What Really Happened in Basilicata's UFO Stories?
+display_title_short: What Really Happened in Basilicata's UFO Stories?
+display_title: What Really Happened in Basilicata's UFO Stories?
+heading_title: What Really Happened in Basilicata's UFO Stories?
+page_heading_title: What Really Happened in Basilicata's UFO Stories?
+source_count: 109
 infographic_count: 3
 page_website_name: Basilicata
-page_banner_line: Cases, archives and explanations from one of Italy's least documented UFO regions.
+page_banner_line: Balanced stories, records and explanations behind Basilicata's strange-sky reports.
 site_website_name: Basilicata
-site_banner_line: Cases, archives and explanations from one of Italy's least documented UFO regions.
-site_visual_identity: signal-cobalt
-site_visual_identity_confidence: high
-site_visual_motif: horizon
-site_typography_tone: editorial
-site_image_description: A night view over Basilicata hills with Potenza in the distance, a bright unidentified light above the horizon and an observer...
+site_banner_line: Balanced stories, records and explanations behind Basilicata's strange-sky reports.
+site_image_description: A quiet hill town in Basilicata at night with a few people looking up at a bright object crossing the dark sky.
 output_language: English
 lang: en
 locale: en
@@ -204,18 +200,7 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
-  report_details: Report details
-  report_actions: Report actions
-  sources: sources
-  graphics: graphics
-  copy_link: Copy link
-  cite_page: Cite page
-  print_save: Print / save
-  link_copied: Link copied
-  citation_copied: Citation copied
-  copy_failed: Copy failed
   topics: Topics
-  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -233,281 +218,214 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-26 14:51:00'
+date: '2026-06-30 15:47:35'
 sibling_links:
-- basename: Friuli-Venezia_Giuli_608dd8
-  title: Friuli UFO Files
-  permalink: /friuli-venezia-giulia/
-  short_title: Friuli UFO Files
-- basename: Marche_113fca
-  title: Marche
-  permalink: /how-marches-ufo-legends-took-shape/
-  short_title: Marche
-- basename: Lombardy_9b46d3
-  title: Lombardy
-  permalink: /lombardys-ufo-history-between-evidence/
-  short_title: Lombardy
-- basename: Piedmont_9fde2b
-  title: Piedmont UFO Files
-  permalink: /piedmonts-ufo-mysteries-under-closer/
-  short_title: Piedmont UFO Files
-- basename: Trentino-Alto_Adige_27eb8f
-  title: Alpine UFO Files
-  permalink: /trentino-alto-adige/
-  short_title: Alpine UFO Files
-- basename: Tuscany_2685d2
-  title: Tuscan UFO Files
-  permalink: /tuscanys-ufo-history-between-mystery-and/
-  short_title: Tuscan UFO Files
-- basename: Veneto_862600
-  title: Veneto UFOs
-  permalink: /venetos-ufo-history-between-evidence-and/
-  short_title: Veneto UFOs
-- basename: Abruzzo_4c71bb
-  title: Abruzzo
-  permalink: /why-abruzzo-became-italys-ufo-hotspot/
-  short_title: Abruzzo
 - basename: Aosta_Valley_ccb120
-  title: Aosta Valley UFOs
-  permalink: /why-aosta-valleys-ufo-record-looks-so/
-  short_title: Aosta Valley UFOs
-- basename: Apulia_98f3e8
-  title: Apulia UFO Files
-  permalink: /why-apulias-ufo-record-still-resists/
-  short_title: Apulia UFO Files
-- basename: Calabria_663de5
-  title: Calabria UFO Files
-  permalink: /why-calabria-has-many-ufo-reports-but-no/
-  short_title: Calabria UFO Files
-- basename: Campania_5acc6a
-  title: Campania
-  permalink: /why-campanias-ufo-waves-looked-so/
-  short_title: Campania
-- basename: Emilia-Romagna_e1c904
-  title: Emilia Romagna
-  permalink: /why-emilia-romagna-became-a-ufo-hotspot/
-  short_title: Emilia Romagna
-- basename: Lazio_2e255a
-  title: Lazio UFO Files
-  permalink: /why-lazios-ufo-history-remains/
-  short_title: Lazio UFO Files
-- basename: Liguria_5b11e3
-  title: Liguria UFOs
-  permalink: /why-liguria-became-italys-ufo-coast/
-  short_title: Liguria UFOs
-- basename: Molise_7c6aa1
-  title: Molise
-  permalink: /why-molise-has-so-few-strong-ufo-cases/
-  short_title: Molise
+  title: Aosta UFOs
+  permalink: /aosta-valley/
+  short_title: Aosta UFOs
+- basename: Friuli-Venezia_Giuli_608dd8
+  title: Friuli UFOs
+  permalink: /friuli-venezia-giulia/
+  short_title: Friuli UFOs
+- basename: Trentino-Alto_Adige_27eb8f
+  title: Alpine UFOs
+  permalink: /trentino-alto-adige/
+  short_title: Alpine UFOs
+- basename: Umbria_d4a7a8
+  title: Umbrian Skies
+  permalink: /umbria/
+  short_title: Umbrian Skies
 - basename: Sardinia_83a1a0
   title: Sardinia UFOs
-  permalink: /why-sardinias-ufo-record-remains-so/
+  permalink: /what-makes-sardinias-ufo-record-so/
   short_title: Sardinia UFOs
+- basename: Abruzzo_4c71bb
+  title: Abruzzo UFOs
+  permalink: /what-really-happened-in-abruzzos-ufo/
+  short_title: Abruzzo UFOs
+- basename: Apulia_98f3e8
+  title: Apulia UFOs
+  permalink: /what-really-happened-in-apulias-ufo/
+  short_title: Apulia UFOs
+- basename: Calabria_663de5
+  title: Calabria UFOs
+  permalink: /what-really-happened-in-calabrias-ufo/
+  short_title: Calabria UFOs
+- basename: Emilia-Romagna_e1c904
+  title: Emilia Romagna UFOs
+  permalink: /what-really-happened-in-emilia/
+  short_title: Emilia Romagna UFOs
+- basename: Lazio_2e255a
+  title: Lazio UFOs
+  permalink: /what-really-happened-in-lazios-ufo-files/
+  short_title: Lazio UFOs
+- basename: Liguria_5b11e3
+  title: Liguria UFOs
+  permalink: /what-really-happened-in-ligurias-ufo/
+  short_title: Liguria UFOs
+- basename: Lombardy_9b46d3
+  title: Lombardy UFOs
+  permalink: /what-really-happened-in-lombardys-ufo/
+  short_title: Lombardy UFOs
+- basename: Molise_7c6aa1
+  title: Molise UFOs
+  permalink: /what-really-happened-in-molises-ufo/
+  short_title: Molise UFOs
+- basename: Piedmont_9fde2b
+  title: Piedmont UFOs
+  permalink: /what-really-happened-in-piedmonts-ufo/
+  short_title: Piedmont UFOs
 - basename: Sicily_77b465
-  title: Sicily UFO Files
-  permalink: /why-sicilys-ufo-stories-still-resist/
-  short_title: Sicily UFO Files
-- basename: Umbria_d4a7a8
-  title: Umbria UFOs
-  permalink: /why-umbrias-ufo-stories-still-resist/
-  short_title: Umbria UFOs
-child_links:
-- basename: Basilicata_3ea395_potenza_1954_wave_8f4fde
-  title: 1954 Wave | Which Basilicata UFO Cases Still Withstand...
-  permalink: /1954-wave-bc5619/
-  short_title: 1954 Wave
-  heading_title: How the 1954 Italian UFO Wave Reached Potenza
-- basename: Basilicata_3ea395_early_potenza_report_d3e261
-  title: Early Potenza | Which Basilicata UFO Cases Still Withstand...
-  permalink: /early-potenza/
-  short_title: Early Potenza
-  heading_title: Can Potenza's Earliest UFO Claims Still Be Tested?
-- basename: Basilicata_3ea395_inland_basilicata_si_11d365
-  title: Inland Cases | Which Basilicata UFO Cases Still Withstand...
-  permalink: /inland-cases/
-  short_title: Inland Cases
-  heading_title: How Basilicata's Landscape Shapes Inland UFO Sightings
-- basename: Basilicata_3ea395_ionian_coast_sightin_e2aff8
-  title: Ionian Coast | Which Basilicata UFO Cases Still Withstand...
-  permalink: /ionian-coast/
-  short_title: Ionian Coast
-  heading_title: Why Basilicata's Ionian Coast Produces UFO Reports
-- basename: Basilicata_3ea395_montereale_humanoid_14ae20
-  title: Montereale | Which Basilicata UFO Cases Still Withstand...
-  permalink: /montereale/
-  short_title: Montereale
-  heading_title: What Supports the Montereale Humanoid Story?
-- basename: Basilicata_3ea395_muro_lucano_aircraft_c5c852
-  title: Muro Lucano | Which Basilicata UFO Cases Still Withstand...
-  permalink: /muro-lucano/
-  short_title: Muro Lucano
-  heading_title: Did an Aircraft Explain the Muro Lucano Encounter?
-- basename: Basilicata_3ea395_strong_ufo_evidence_2d7a8f
-  title: Strong Evidence | Which Basilicata UFO Cases Still Withstand...
-  permalink: /strong-evidence/
-  short_title: Strong Evidence
-  heading_title: What Evidence Would Make a Basilicata UFO Case Convincing?
-- basename: Basilicata_3ea395_official_vs_private_94d8d6
-  title: Two Archives | Which Basilicata UFO Cases Still Withstand...
-  permalink: /two-archives/
-  short_title: Two Archives
-  heading_title: Why Basilicata Has Two Very Different UFO Totals
-- basename: Basilicata_3ea395_regional_ufo_flaps_a343e9
-  title: UFO Flaps | Which Basilicata UFO Cases Still Withstand...
-  permalink: /ufo-flaps/
-  short_title: UFO Flaps
-  heading_title: How a Single Sky Event Can Trigger a UFO Flap
-- basename: Basilicata_3ea395_ufo_height_speed_err_3977d1
-  title: Visual Errors | Which Basilicata UFO Cases Still Withstand...
-  permalink: /visual-errors/
-  short_title: Visual Errors
-  heading_title: Why Low Flying UFO Estimates Are Often Unreliable
-has_inline_related_reports_panel: true
-prev_link:
-  basename: Veneto_862600
+  title: Sicily UFOs
+  permalink: /what-really-happened-in-sicilys-ufo/
+  short_title: Sicily UFOs
+- basename: Tuscany_2685d2
+  title: Tuscan Skies
+  permalink: /what-really-happened-in-tuscanys-ufo/
+  short_title: Tuscan Skies
+- basename: Veneto_862600
   title: Veneto UFOs
-  permalink: /venetos-ufo-history-between-evidence-and/
+  permalink: /what-really-happened-in-venetos-ufo/
   short_title: Veneto UFOs
+- basename: Marche_113fca
+  title: Marche UFOs
+  permalink: /what-really-happened-over-marche/
+  short_title: Marche UFOs
+- basename: Campania_5acc6a
+  title: Campania UFOs
+  permalink: /why-campania-keeps-appearing-in-ufo/
+  short_title: Campania UFOs
+child_links:
+- basename: Basilicata_3ea395_june_2009_fireball_899af0
+  title: 2009 Fireball | What Really Happened in Basilicata's UFO...
+  permalink: /2009-fireball/
+  short_title: 2009 Fireball
+  heading_title: When a Basilicata UFO Looked Like a Meteor
+- basename: Basilicata_3ea395_acerenza_witness_vid_b28477
+  title: Acerenza | What Really Happened in Basilicata's UFO...
+  permalink: /acerenza/
+  short_title: Acerenza
+  heading_title: What Can the Acerenza UFO Video Prove?
+- basename: Basilicata_3ea395_common_explanations_72fcca
+  title: Explanations | What Really Happened in Basilicata's UFO...
+  permalink: /explanations/
+  short_title: Explanations
+  heading_title: What Basilicata's Strange Lights Might Really Be
+- basename: Basilicata_3ea395_local_press_memory_21a229
+  title: Local Press | What Really Happened in Basilicata's UFO...
+  permalink: /local-press/
+  short_title: Local Press
+  heading_title: How Local News Shaped Basilicata's UFO Memory
+- basename: Basilicata_3ea395_matera_space_backdro_5d9c75
+  title: Matera | What Really Happened in Basilicata's UFO...
+  permalink: /matera/
+  short_title: Matera
+  heading_title: Did Matera's Space Role Shape UFO Reports?
+- basename: Basilicata_3ea395_monticchio_rural_sig_c34b0a
+  title: Monticchio | What Really Happened in Basilicata's UFO...
+  permalink: /monticchio/
+  short_title: Monticchio
+  heading_title: Why Monticchio Became a Rural UFO Marker
+- basename: Basilicata_3ea395_official_records_gap_43c6bb
+  title: Official Records | What Really Happened in Basilicata's UFO...
+  permalink: /official-records/
+  short_title: Official Records
+  heading_title: Why Official Records Leave Basilicata So Quiet
+- basename: Basilicata_3ea395_potenza_early_report_7f20b6
+  title: Potenza | What Really Happened in Basilicata's UFO...
+  permalink: /potenza/
+  short_title: Potenza
+  heading_title: Why Potenza Became Basilicata's UFO Starting Point
+- basename: Basilicata_3ea395_reading_weak_catalog_a80434
+  title: Reading Claims | What Really Happened in Basilicata's UFO...
+  permalink: /reading-claims/
+  short_title: Reading Claims
+  heading_title: How Many Basilicata UFOs Were Really Strong Cases?
+- basename: Basilicata_3ea395_sighting_geography_5dd56a
+  title: Sightings Map | What Really Happened in Basilicata's UFO...
+  permalink: /sightings-map/
+  short_title: Sightings Map
+  heading_title: Where Basilicata's UFO Stories Cluster
+prev_link:
+  basename: Apulia_98f3e8
+  title: Apulia UFOs
+  permalink: /what-really-happened-in-apulias-ufo/
+  short_title: Apulia UFOs
 next_link:
-  basename: Abruzzo_4c71bb
-  title: Abruzzo
-  permalink: /why-abruzzo-became-italys-ufo-hotspot/
-  short_title: Abruzzo
+  basename: Calabria_663de5
+  title: Calabria UFOs
+  permalink: /what-really-happened-in-calabrias-ufo/
+  short_title: Calabria UFOs
 header:
   og_image: /assets/images/Basilicata_3ea395-overview-social.jpg
   preview_image: /assets/images/Basilicata_3ea395-overview.webp
 image: /assets/images/Basilicata_3ea395-overview-social.jpg
 ---
 
-## Introduction
+## What makes Basilicata different from larger Italian UFO hotspots?
 
-The regional history is therefore best understood not as a succession of proven extraordinary events, but as a mixture of genuine observation puzzles, poorly preserved historical claims and episodes later attributed to aircraft, meteors or other ordinary phenomena. The most useful question is not whether Basilicata has “had UFOs”, but which reports remain evidentially interesting after the original excitement has faded.
+Basilicata’s UFO record is mostly a story of isolated reports rather than a famous regional “flap”. In local and ufological accounts, the earliest “official” regional sighting is said to have been recorded at [Potenza]({{'potenza/' | relative_url }}) on 13 January 1948, with another Potenza case dated 29 November 1964; those claims are reported through local press summaries of Centro Ufologico Nazionale material rather than through a publicly available primary case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">la basilicata e gli ufo una storia di 70 anni</span><span class="citation-popover-snippet">la basilicata e gli ufo una storia di 70 anni</span></span></span><img src="{{"/assets/images/Basilicata_3ea395-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Basilicata&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
+The region also appears in later case lists, but usually in small numbers. A 2011 local report, citing ufologists’ cataloguing, said there had been 38 UFO sightings in Basilicata from 1948 to that point, split mainly between the Potenza and [Matera]({{'matera/' | relative_url }}) areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">oggetti volanti in basilicata ecco icasi certificati dagli ufologi</span><span class="citation-popover-snippet">oggetti volanti in basilicata ecco icasi certificati dagli ufologi</span></span></span> That figure should be treated as a private-catalogue count, not as proof that 38 extraordinary objects were present. It tells us that witnesses and ufologists recorded a local tradition of sightings; it does not by itself establish what the witnesses saw.
 
+The official record is even more restrained. The Italian Air Force’s published statistics for 1991–2000 list 112 sightings nationally, but Basilicata has zero entries in that decade’s regional table.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare Presentazione standard di Power Point</span><span class="citation-popover-snippet">Aeronautica Militare Presentazione standard di Power Point</span></span></span> That absence does not prove that nobody in Basilicata reported strange lights during the 1990s, but it does show that the Air Force’s public archive for that period does not support the idea of a strong institutional UFO cluster in the region.
 
+## The Potenza-to-Matera pattern is real, but the evidence is patchy
 
-<img src="{{ "/assets/images/Basilicata_3ea395-overview.webp" | relative_url }}" alt="Overview image for Which Basilicata UFO Cases Still Withstand..." loading="eager" decoding="sync" fetchpriority="high">
+Most Basilicata UFO stories fall into a few broad place-patterns: the regional capital Potenza, the Matera province, rural or mountain localities such as [Monticchio]({{'monticchio/' | relative_url }}), and wider sky events shared with neighbouring Puglia and Calabria. This is exactly what one would expect in a sparsely populated region: dramatic lights in the sky are more likely to be noticed when they cross a wide area, while single-witness cases in small towns often leave only a short newspaper item or a line in a private database.
 
-## A regional record built from two very different archives
+A 2018 local press account listed several named Basilicata cases across decades, including Monticchio on 22 July 2002, Latronico on 20 December 2007, Rivello on 31 December 2010, [Acerenza]({{'acerenza/' | relative_url }}) on 30 June 2009, and sightings “between Potenza and Matera”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">la basilicata e gli ufo una storia di 70 anni</span><span class="citation-popover-snippet">la basilicata e gli ufo una storia di 70 anni</span></span></span> A Centro Ufologico Nazionale page for 2002 also lists a 22 July entry at Monte Monticchio, in the province of Potenza, described as a video recording of an object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/avv2002.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[centroufologiconazionale.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Open source on centroufologiconazionale.net.</span></span></span>
 
-Italian UFO statistics can be misleading unless their sources are distinguished. The Italian Air Force has been the national institution responsible for collecting and checking reports since the major Italian sighting wave of 1978. Witnesses can submit a standard form through the Carabinieri; investigators then look for links with aircraft, human activity and natural phenomena. A case remains officially unidentified only when that process fails to produce a technical or natural explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
+The problem is that many of these entries are catalogue-level references. They preserve date, place and sometimes a short description, but they do not always give enough information to test the sighting: exact time, sky direction, duration, witness position, weather, aircraft traffic, satellite passes, camera metadata, or independent corroboration. For a public reader, that makes the cases historically interesting but evidentially weak unless a fuller investigation can be found.<img src="{{"/assets/images/Basilicata_3ea395-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Basilicata&#x27;s UFO... illustration 1" data-theme-src-dark="{{"/assets/images/Basilicata_3ea395-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Basilicata_3ea395-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The 2009 fireball is the clearest cautionary case
 
+The most useful Basilicata-linked case is not a classic “mystery craft” story but a likely meteor. On 12 June 2009, witnesses across Puglia, Basilicata and Calabria reported a fire-red, rocket-like luminous object moving on a descending straight path. The Italian Air Force’s annual OVNI material says no known flight or radiosonde activity could be associated with the event, that Italy’s National Institute for Astrophysics could not provide more information because it had no research structures in the area, and that the event could be associated with a meteorite fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/Avvistamenti_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Avvistamenti 2009</span><span class="citation-popover-snippet">Avvistamenti 2009</span></span></span>
 
+That is a good example of the difference between “unidentified” and “alien”. In official language, the object remained not securely identified after checks against known activity, but the described behaviour — bright, fast, descending, cross-regional visibility — is strongly compatible with a bolide, meaning an unusually bright meteor. Local reporting soon framed the June episode in the same way, saying that what many had wondered about as a UFO was eventually understood as a meteorite or meteor-like event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/basilicata/117126/avvistamenti-ufo-in-basilicata.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">avvistamenti ufo in basilicata</span><span class="citation-popover-snippet">avvistamenti ufo in basilicata</span></span></span>
 
-<!-- HIERARCHY_NAV_START -->
-<aside class="related-reports" aria-label="Related pages">
-<h2>Follow this branch</h2>
-<div class="related-reports-grid">
-<section class="related-reports-section related-reports-section-closest">
-<h3>Closest pages</h3>
-<ul>
-<li><a href="{{ '/strong-evidence/' | relative_url }}"><span class="article-branch-link-short">Strong Evidence</span><span class="article-branch-link-heading">What Evidence Would Make a Basilicata UFO Case Convincing?</span></a></li>
-<li><a href="{{ '/early-potenza/' | relative_url }}"><span class="article-branch-link-short">Early Potenza</span><span class="article-branch-link-heading">Can Potenza&#x27;s Earliest UFO Claims Still Be Tested?</span></a></li>
-<li><a href="{{ '/inland-cases/' | relative_url }}"><span class="article-branch-link-short">Inland Cases</span><span class="article-branch-link-heading">How Basilicata&#x27;s Landscape Shapes Inland UFO Sightings</span></a></li>
-<li><a href="{{ '/ufo-flaps/' | relative_url }}"><span class="article-branch-link-short">UFO Flaps</span><span class="article-branch-link-heading">How a Single Sky Event Can Trigger a UFO Flap</span></a></li>
-<li><a href="{{ '/visual-errors/' | relative_url }}"><span class="article-branch-link-short">Visual Errors</span><span class="article-branch-link-heading">Why Low Flying UFO Estimates Are Often Unreliable</span></a></li>
-</ul>
-</section>
-</div>
-</aside>
-<!-- HIERARCHY_NAV_END -->
+This case matters because it shows how a spectacular sky event can move through three stages: public surprise, UFO language in media coverage, and then a more ordinary physical explanation. It also shows why an unresolved administrative label is not the same as evidence of exotic technology.
 
-Private groups use broader criteria. A 2011 regional newspaper article, drawing on the records of the National UFO Centre, counted 38 Basilicata reports from 1948 onwards: 23 in the province of Potenza and 14 in the province of Matera, with one apparently not assigned in the published breakdown. Such catalogues preserve material that might otherwise disappear, but inclusion is not equivalent to authentication. Entries may be based on newspaper reports, retrospective testimony or incomplete files rather than official investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">oggetti volanti in basilicata ecco icasi certificati dagli ufologi</span><span class="citation-popover-snippet">La Gazzetta del MezzogiornoOggetti volanti in Basilicata: ecco i casi «certificati23 Jan 2011 — Sono 38 gli avvistamenti di oggetti volan...</span></span></span>
-
-The official figures are much smaller. A map based on Air Force data lists only three Basilicata sightings for 1972–2013, compared with 34 in neighbouring Puglia and 36 in Campania. A separate Air Force table records no Basilicata cases at all during 1991–2000, even though private catalogues include several regional reports from that decade.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/2014Cartinaok.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[centroufologiconazionale.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionalecartina</span><span class="citation-popover-snippet">Centro Ufologico Nazionalecartina</span></span></span>
-
-This discrepancy does not prove suppression, nor does it show that private researchers invented cases. It reflects different pipelines. Many witnesses speak only to journalists or UFO organisations; other reports lack the timing, direction, duration and meteorological detail needed for a formal inquiry. The regional record is consequently rich in stories but thin in well-documented case files.
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2KlmH5YsNJQ" title="TRA LE RIGHE - UFO NEI CIELI DI PUGLIA E BASILICATA. COSA STA ACCADENDO?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2KlmH5YsNJQ" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - UFO NEI CIELI DI PUGLIA E BASILICATA. COSA STA ACCADENDO?</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2KlmH5YsNJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2KlmH5YsNJQ">Open on YouTube</a></p></div></div></div>
 
 
 
-<img src="{{ "/assets/images/Basilicata_3ea395-Illustration-1-dark.svg" | relative_url }}" alt="Which Basilicata UFO Cases Still Withstand... illustration 1" data-theme-src-dark="{{ "/assets/images/Basilicata_3ea395-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Basilicata_3ea395-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-## The early Potenza reports are historically important but weakly preserved
-
-Local histories commonly identify 13 January 1948 as Basilicata’s first recorded UFO sighting. Residents of Potenza reportedly saw a circular object at relatively low altitude, and one account says that it was photographed. A second Potenza report is dated 29 November 1964. These incidents are repeatedly cited in regional summaries, but the publicly accessible material does not provide the original photograph, a contemporary technical analysis or a complete witness dossier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">la basilicata e gli ufo una storia di 70 anni</span><span class="citation-popover-snippet">La Gazzetta del MezzogiornoLa Basilicata e gli Ufo una storia di 70 anni1 Apr 2018 — Il primo avvistamento ufficiale di un Ufo in Basilic...</span></span></span>
-
-That makes the 1948 claim noteworthy as regional folklore and catalogue history, rather than as a strong photographic case. The date is especially interesting because it falls near the beginning of the post-war “flying saucer” era, when unusual aerial reports were spreading internationally. But without the image’s provenance, camera details, negatives, witness statements and contemporary press coverage, later readers cannot test whether it showed an unfamiliar aircraft, an optical defect or something genuinely unexplained.
-
-The same limitation affects much of Basilicata’s older material. A date and location may survive while the evidence required to reassess the sighting does not. Repetition in anniversary articles can make such cases appear better established than they actually are.
-
-## The 1954 wave reached Basilicata, but one celebrated case was reportedly solved
-
-Basilicata formed part of Italy’s extraordinary autumn 1954 sighting wave. A large national UFO catalogue lists a report from Potenza at 10 a.m. on 29 October, followed by a [Muro Lucano]({{ 'muro-lucano/' | relative_url }}) entry at 9.30 a.m. on 30 October. The same pages contain numerous sightings elsewhere in Italy over those two days, showing that the Basilicata events belonged to a national cluster rather than an isolated regional episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-Later retellings turned the Muro Lucano incident into a more dramatic encounter involving hunters and two unusually shaped objects, one reportedly descending near a clearing. That version appears in derivative international databases, but its evidential lineage runs through specialist UFO compilations rather than a readily available official investigation or contemporary witness file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/1954_ufocat.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[Nicap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">1954 ufocat</span><span class="citation-popover-snippet">1954 ufocat</span></span></span>
-
-More importantly, a regional newspaper review states that the Muro Lucano object was subsequently identified as an aircraft. The same article distinguishes it from the previous day’s Potenza observation, which it still describes as unidentified in the ufological record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-snippet">Il primo Ufo lucano del 2000 lo si vede in lontananza a Potenza il 13 maggio, poi in una sera di settembre del 1991, un oggetto viene vis...</span></span></span>
-
-The Muro Lucano story illustrates a recurring problem in UFO history. The spectacular version travels widely, while the proposed explanation remains buried in local reporting. On the available evidence, it should not be presented as a compelling landing case. Its value lies instead in showing how a resolved or disputed observation can acquire a much stronger reputation once copied between catalogues.
 
 
+## Acerenza in 2009 shows the human side of the record
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sG2AwYNuWrE" title="Green meteor spotted over California" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sG2AwYNuWrE" target="_blank" rel="noopener noreferrer">Green meteor spotted over California</a></p><p class="youtube-embed-meta">Channel: ABC10</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sG2AwYNuWrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sG2AwYNuWrE">Open on YouTube</a></p></div></div></div>
+Acerenza, in the province of Potenza, became part of the region’s UFO story through a July 2009 press report about Maria Lucia Pietragalla, who said she saw and filmed a fast-moving light in the night sky. The story was reported just after the wider June fireball episode, and the article itself made the comparison: the earlier Basilicata-Puglia sighting had been dismissed as a meteor, but the Acerenza witness believed her sighting behaved differently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/basilicata/117126/avvistamenti-ufo-in-basilicata.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">avvistamenti ufo in basilicata</span><span class="citation-popover-snippet">avvistamenti ufo in basilicata</span></span></span>
 
-## Later reports range from distant lights to an alleged close encounter
+This is the sort of case that often keeps local UFO history alive. It has a named witness, a town, a claimed mobile-phone video, and a clear reason for doubt: the witness compared her observation with a recent explained event and said it did not feel the same. But from an evidence point of view, the public record remains limited. Without the original video quality, direction, duration, camera settings and independent checks, the case is better described as an interesting witness report than as a strong unresolved incident.
 
-Private catalogues record sightings across both provinces, including Potenza, Matera, Pisticci, Scanzano Jonico, Monticchio, Lagonegro and Policoro. A comprehensive Italian UFO database, for example, contains two Lagonegro entries for the early hours of 2 March 2011 and another from Policoro later that month. The entries confirm that reports were logged, but the catalogue rows alone provide little information about witness reliability, angular movement or possible explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
+A fair reading is that Acerenza illustrates how local UFO narratives form. A person sees something surprising; the press reports it because similar sightings were already in the news; readers compare it with meteors, satellites or aircraft; and the case enters regional memory even if the hard evidence does not improve.<img src="{{"/assets/images/Basilicata_3ea395-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Basilicata&#x27;s UFO... illustration 2" data-theme-src-dark="{{"/assets/images/Basilicata_3ea395-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Basilicata_3ea395-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Where aviation, space activity and official checks fit in
 
-One of the region’s most unusual claims concerns Potenza’s [Montereale]({{ 'montereale/' | relative_url }}) park on 13 May 2000. A local retrospective says that an employee reported encountering a small humanoid figure. The story is memorable because it differs from the region’s more common reports of lights or objects in the sky, but the available public account is brief and rests chiefly on a later newspaper summary. There is no widely accessible physical evidence, independent corroboration or detailed official inquiry that would raise it above the level of an unsupported close-encounter allegation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">la basilicata e gli ufo una storia di 70 anni</span><span class="citation-popover-snippet">La Gazzetta del MezzogiornoLa Basilicata e gli Ufo una storia di 70 anni1 Apr 2018 — Il primo avvistamento ufficiale di un Ufo in Basilic...</span></span></span>
+Basilicata is not known as a major military aviation UFO theatre in the way some areas near large air bases are. Its relevance to sky-watching is different. Matera hosts a major Italian Space Agency site: the Giuseppe Colombo Centre for Space Geodesy, established in 1983, which supports satellite laser ranging, very long baseline interferometry, GNSS, gravimetry and other space-geodetic work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asi.it/lagenzia/le-basi/matera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asi.it">[asi.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asi.it</span><span class="citation-popover-snippet">Open source on asi.it.</span></span></span> Nearby, the Matera Space Centre is involved in Earth observation and the civil ground segment of COSMO-SkyMed, a satellite constellation financed by Italian institutional partners including the Ministry of Defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.telespazio.com/en/business/space-centres-teleports/matera-space-centre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telespazio.com">[telespazio.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telespazio.com</span><span class="citation-popover-snippet">Open source on telespazio.com.</span></span></span>
 
-Other catalogue cases are less dramatic but potentially more useful because they concern ordinary aerial observations. Reports include an object seen at low altitude near Scanzano Jonico in 1991 and another near Monticchio in July 2002. Even here, however, descriptions such as “low altitude” are witness estimates, not measurements. At night, without a known object size or distance, observers cannot reliably calculate height or speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-snippet">Il primo Ufo lucano del 2000 lo si vede in lontananza a Potenza il 13 maggio, poi in una sera di settembre del 1991, un oggetto viene vis...</span></span></span>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jnydAbWbHIs" title="Strani fenomeni luminosi sui cieli lucani: UFO?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jnydAbWbHIs" target="_blank" rel="noopener noreferrer">Strani fenomeni luminosi sui cieli lucani: UFO?</a></p><p class="youtube-embed-meta">Channel: Ufficio Stampa Basilicata</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jnydAbWbHIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jnydAbWbHIs">Open on YouTube</a></p></div></div></div>
 
-No publicly documented Basilicata case found in the official material reviewed here includes the combination that would make an aviation incident especially persuasive: multiple trained observers, radar confirmation, aircraft records, precise bearings and a contemporaneous technical report. Nor is there firm evidence that the region’s sightings cluster around an operational military air base. Basilicata’s pattern is predominantly civilian and visually reported.
+## The main doubts that weaken the Basilicata record
 
+The doubts around Basilicata’s UFO history are not mainly about witness sincerity. They are about documentation. Many reports appear in local journalism, private UFO catalogues or brief map/database entries rather than in long, independently checkable investigation files. That makes it difficult to separate genuinely puzzling cases from ordinary sky phenomena that were never fully reconstructed.
 
+Several recurring weaknesses stand out:<div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-<img src="{{ "/assets/images/Basilicata_3ea395-Illustration-2-dark.svg" | relative_url }}" alt="Which Basilicata UFO Cases Still Withstand... illustration 2" data-theme-src-dark="{{ "/assets/images/Basilicata_3ea395-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Basilicata_3ea395-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+* **Short public descriptions.** Many entries give a date and place but little else, which prevents later comparison with aircraft, satellites, weather and astronomical conditions.
+* **Low-quality video claims.** Mobile-phone footage can preserve an event, but without metadata and reference points it often makes distance, speed and size impossible to judge.
+* **Cross-regional sky events.** When an object is visible across Puglia, Basilicata and Calabria, a meteor or space-debris explanation may be more plausible than a local craft-like object.
+* **Private catalogue inflation.** A count of regional sightings is useful for history, but it can combine strong, weak, explained and barely described cases under one headline.
+* **Media timing effects.** Reports often cluster after a dramatic event is in the news, because people look up more, share more, and interpret ambiguous lights through the current story.</div>
 
-## The 2009 fireball shows how a regional “flap” can be explained
+The Italian Air Force’s 1991–2000 table is a useful counterweight here: if Basilicata had been a major official UFO hotspot in that decade, one would expect it to appear in the regional totals. Instead, the official table records no Basilicata cases for that period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare Presentazione standard di Power Point</span><span class="citation-popover-snippet">Aeronautica Militare Presentazione standard di Power Point</span></span></span><img src="{{"/assets/images/Basilicata_3ea395-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Basilicata&#x27;s UFO... illustration 3" data-theme-src-dark="{{"/assets/images/Basilicata_3ea395-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Basilicata_3ea395-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How to read Basilicata UFO stories responsibly
 
-In June 2009, a brilliant object was seen from several parts of Basilicata and across neighbouring regions. Witnesses in Brienza and the province of Matera described a striking luminous event, encouraging early speculation about a UFO. The Italian Union of Amateur Astronomers concluded that it was an exceptionally bright meteor produced by a meteoroid entering the atmosphere, probably over the Adriatic side of Puglia and burning out near the Campania boundary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/home/109151/brienza-anche-noi-abbiamo-visto-il-meteorite-nuovi-racconti.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-snippet">Open source on lagazzettadelmezzogiorno.it.</span></span></span>
+The best way to approach Basilicata’s UFO history is to sort cases by evidence quality rather than by how dramatic they sound. A report such as the 12 June 2009 cross-regional fireball is valuable because there is enough detail to compare it with a natural explanation, and the official file itself raises a meteorite-fall possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/Avvistamenti_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Avvistamenti 2009</span><span class="citation-popover-snippet">Avvistamenti 2009</span></span></span> A named local sighting such as Acerenza is valuable as testimony and media history, but weaker as physical evidence unless the original footage and investigation details are available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/basilicata/117126/avvistamenti-ufo-in-basilicata.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">avvistamenti ufo in basilicata</span><span class="citation-popover-snippet">avvistamenti ufo in basilicata</span></span></span>
 
-This explanation is strengthened by the event’s broad geographical visibility. A distant astronomical fireball can be observed across several regions at nearly the same time, while appearing to each witness to be relatively nearby. Its brightness, rapid passage and apparent colour changes can also make it seem controlled or artificial.
+For a reader trying to judge a Basilicata case, the key questions are simple: Was there more than one independent witness? Was the exact time recorded? Was the direction and duration noted? Was there video with stable reference points? Did anyone check meteors, planets, aircraft, drones, balloons, satellites or space debris? Did a later report strengthen the case, or simply repeat the original claim?
 
-A month later, reports continued from Basilicata and Puglia. One witness near Acerenza described a light making sudden movements at high speed and rejected the earlier meteor explanation for what she had seen. Contemporary English-language coverage presented her testimony but supplied no instrumental data capable of establishing the object’s distance or trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.italymagazine.com/featured-story/ufo-sightings-basilicata-and-puglia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: italymagazine.com">[ITALY Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">italymagazine.com</span><span class="citation-popover-title">ufo sightings basilicata and puglia video</span><span class="citation-popover-snippet">ufo sightings basilicata and puglia video</span></span></span>
+On the present public record, Basilicata’s UFO history is best described as modest, scattered and culturally interesting, with a few memorable local names and dates but few robust unresolved cases. Its strongest lesson is not that Basilicata is unusually mysterious, but that careful regional UFO history depends on the slow work of separating witness experience, media retelling, private cataloguing and official classification.
 
-The distinction is important. The June event was supported by multiple regional observations and received a specific astronomical interpretation. The later light remained a witness report with insufficient information. Treating both as one continuing UFO wave would blur the difference between an explained fireball and a separate, weakly documented observation.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ovhlvWRkJew" title="TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ovhlvWRkJew">Open on YouTube</a></p></div></div></div>
-
-## The green object of 2019 fits a familiar meteor profile
-
-On 29 September 2019, residents across the Potenza area reported a fast-moving luminous ball at about 7.30 p.m. Witnesses described a green trail, and a local journalist said that he had also observed the event. The wide viewing area and the account of a brief, high-speed passage are more consistent with a bright meteor than with a structured craft manoeuvring at low altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/potenza/1175871/basilicata-misterioso-avvistamento-nei-cieli-del-potentino-piovono-segnalazioni.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">basilicata misterioso avvistamento nei cieli del potentino piovono segnalazioni</span><span class="citation-popover-snippet">basilicata misterioso avvistamento nei cieli del potentino piovono segnalazioni</span></span></span>
-
-Green fireballs are not inherently mysterious. Meteors can become brighter than Venus, cross a large portion of the visible sky in seconds and show green or blue-green light. Instrumented Italian fireball research has documented green meteors entering the atmosphere at many kilometres per second and disintegrating during flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.focus.it/scienza/spazio/bolide-verde-sopra-litalia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: focus.it">[Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">focus.it</span><span class="citation-popover-title">Bolide verde sopra l&#x27;Italia</span><span class="citation-popover-snippet">Bolide verde sopra l&#x27;Italia</span></span></span>
-
-No specific instrumental reconstruction of the Potenza event has been located in the available sources, so it is safer to call the meteor explanation highly plausible rather than formally proven. Even so, the description lacks the prolonged duration, repeated course changes or independent aviation evidence that would make an unconventional aircraft interpretation necessary.
-
-## Matera’s space centre is relevant to identification, not evidence of a UFO connection
-
-Matera has a genuine and substantial connection with space technology. The Italian Space Agency’s geodesy centre, established on the Murgia Terlecchia in 1983, uses satellite laser ranging, radio interferometry and other systems to measure the Earth and track objects in orbit. Its work also includes space-debris monitoring, satellite navigation and the ground segment for civilian data from the COSMO-SkyMed Earth-observation system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asi.it/lagenzia/le-basi/matera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asi.it">[ASI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asi.it</span><span class="citation-popover-title">Centro Geodesia Spaziale: Osservazione da Matera &#124; ASI</span><span class="citation-popover-snippet">Centro Geodesia Spaziale: Osservazione da Matera &#124; ASI</span></span></span>
-
-That connection can invite speculation when unexplained lights are reported nearby, but there is no evidence in the reviewed record that the centre is responsible for a regional UFO cluster or that it has detected extraordinary craft. Its real significance is more practical: Basilicata’s skies contain satellites, reflected sunlight, research activity and tracked orbital debris, all of which broaden the range of possible explanations for unfamiliar lights.
-
-Satellite laser-ranging work can itself produce narrow beams or unusual-looking optical effects under certain observing conditions, while satellite passes may appear to brighten, fade or move in formation. None of this explains every report automatically. It does mean that investigators should check orbital predictions and operations at the Matera facility before treating an unusual light as genuinely unidentifiable.
-
-
-
-<img src="{{ "/assets/images/Basilicata_3ea395-Illustration-3-dark.svg" | relative_url }}" alt="Which Basilicata UFO Cases Still Withstand... illustration 3" data-theme-src-dark="{{ "/assets/images/Basilicata_3ea395-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Basilicata_3ea395-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-## Why Basilicata has no clear landmark UFO case
-
-Basilicata’s record contains several features associated with regional UFO history: an early post-war photograph claim, participation in the 1954 Italian wave, scattered low-altitude reports, a purported humanoid encounter and more recent videos or mass observations. What it lacks is a single incident supported by a robust and accessible evidential package.
-
-The strongest general findings are these:
-
-* **The official case count is very low.** Air Force-derived figures list three Basilicata reports for 1972–2013 and none during 1991–2000.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/2014Cartinaok.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionalecartina</span><span class="citation-popover-snippet">Centro Ufologico Nazionalecartina</span></span></span>
-* **Private archives are much larger but uneven.** They preserve local history, yet many entries consist of little more than a date, place and classification code.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">oggetti volanti in basilicata ecco icasi certificati dagli ufologi</span><span class="citation-popover-snippet">La Gazzetta del MezzogiornoOggetti volanti in Basilicata: ecco i casi «certificati23 Jan 2011 — Sono 38 gli avvistamenti di oggetti volan...</span></span></span>
-* **At least some notable reports have conventional explanations.** The Muro Lucano case was reportedly identified as an aircraft, while the June 2009 multi-region event was attributed to a bright meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-snippet">Il primo Ufo lucano del 2000 lo si vede in lontananza a Potenza il 13 maggio, poi in una sera di settembre del 1991, un oggetto viene vis...</span></span></span>
-* **The most extraordinary claims are the least substantiated.** The alleged 1948 photograph and the 2000 humanoid encounter remain difficult to assess because the original documentation is not readily available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">la basilicata e gli ufo una storia di 70 anni</span><span class="citation-popover-snippet">La Gazzetta del MezzogiornoLa Basilicata e gli Ufo una storia di 70 anni1 Apr 2018 — Il primo avvistamento ufficiale di un Ufo in Basilic...</span></span></span>
-
-Basilicata is therefore more revealing as a study in how UFO records are created than as the location of a single decisive mystery. Its history shows the distance between a witnessed anomaly, a privately catalogued case and an officially unresolved event. Most regional reports remain either too weakly documented to judge or compatible with familiar aerial and astronomical phenomena; a small residue may be unexplained, but unexplained here means that the available information is insufficient, not that an extraordinary origin has been demonstrated.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jnydAbWbHIs" title="Strani fenomeni luminosi sui cieli lucani: UFO?" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jnydAbWbHIs" target="_blank" rel="noopener noreferrer">Strani fenomeni luminosi sui cieli lucani: UFO?</a></p><p class="youtube-embed-meta">Channel: Ufficio Stampa Basilicata</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jnydAbWbHIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jnydAbWbHIs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ovhlvWRkJew" title="TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ovhlvWRkJew">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -516,55 +434,21 @@ Basilicata is therefore more revealing as a study in how UFO records are created
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to Which Basilicata UFO Cases Still Withstand Scrutiny?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to What Really Happened in Basilicata&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-</h4>
-<p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-</h4>
-<p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-<p class="fr-book-desc">The Report on Unidentified Flying Objects, written by Captain Edward Ruppelt in 1956, was the first serious, unbiased account written abo...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
         
-<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
+<p class="fr-book-desc">Emphasizes documented reports and investigation.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -572,16 +456,50 @@ Basilicata is therefore more revealing as a study in how UFO records are created
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
-<p class="fr-book-author">By Jacques Vallee</p>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">Over two decades ago, eminent scientist Vallee wrote a provocative book about alleged UFO landings, folklore, and certain unexplained phe...</p>
+<p class="fr-book-desc">Provides a framework for comparing cases.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
+        
+<p class="fr-book-desc">Broad overview suitable for regional UFO history pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Encourages careful assessment of extraordinary reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -589,127 +507,29 @@ Basilicata is therefore more revealing as a study in how UFO records are created
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
-
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
-<div class="fr-books-grid">
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="which-basilicata-ufo-cases-still-which-basilicata-ufo-cases-still-withstand-scrutiny-basilicata-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster poster poster city Teramo Basilicata print size 60x90 cm."><img src="{{'/assets/images/marketplace-covers/05dfdee8bbdf79b8983c.jpg' | relative_url }}" alt="Listing image for Poster poster poster city Teramo Basilicata print size 60x90 cm." loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer">Poster poster poster city Teramo Basilicata print size 60x90 cm.</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Basilicata poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Basilicata poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Castle of Melfi, Basilicata, Italy Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/3b032a381ad257f2863a.jpg' | relative_url }}" alt="Listing image for Castle of Melfi, Basilicata, Italy Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer">Castle of Melfi, Basilicata, Italy Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Basilicata poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Basilicata poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Basilicata Pride Design Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/40992cb693163963047d.jpg' | relative_url }}" alt="Listing image for Basilicata Pride Design Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer">Basilicata Pride Design Framed Art Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Basilicata poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Basilicata poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Illustrated Map Basilicata 1939 De Agostini Lucania Pictorial Paper Poster"><img src="{{'/assets/images/marketplace-covers/69f0c95b524a7dddd49f.jpg' | relative_url }}" alt="Listing image for Illustrated Map Basilicata 1939 De Agostini Lucania Pictorial Paper Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer">Illustrated Map Basilicata 1939 De Agostini Lucania Pictorial Paper Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Basilicata poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Basilicata poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Basilicata+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Basilicata poster" data-ebay-reference="what-really-happened-in-basilicatas-ufo-what-really-happened-in-basilicata-s-ufo-stories-basilic-basilicata-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -728,24 +548,24 @@ Basilicata is therefore more revealing as a study in how UFO records are created
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -756,7 +576,7 @@ Basilicata is therefore more revealing as a study in how UFO records are created
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -764,45 +584,43 @@ Basilicata is therefore more revealing as a study in how UFO records are created
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-<script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -820,8 +638,8 @@ Basilicata is therefore more revealing as a study in how UFO records are created
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -841,11 +659,11 @@ Basilicata is therefore more revealing as a study in how UFO records are created
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -854,13 +672,13 @@ Basilicata is therefore more revealing as a study in how UFO records are created
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -877,9 +695,9 @@ Basilicata is therefore more revealing as a study in how UFO records are created
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -898,188 +716,165 @@ Basilicata is therefore more revealing as a study in how UFO records are created
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: centroufologiconazionale.net  
-   Title: Centro Ufologico Nazionale  
-   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf</a>  
+   Source: lagazzettadelmezzogiorno.it  
+   Title: la basilicata e gli ufo una storia di 70 anni  
+   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html</a>  
 
 2.<a id="endnote-2"></a>
-   Source: nicap.org  
-   Title: 1954 ufocat  
-   Link:<a href="https://www.nicap.org/reports/1954_ufocat.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/1954_ufocat.htm</a>  
+   Source: lagazzettadelmezzogiorno.it  
+   Title: oggetti volanti in basilicata ecco icasi certificati dagli ufologi  
+   Link:<a href="https://lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow">https://lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html</a>  
 
 3.<a id="endnote-3"></a>
-   Source: nicap.org  
-   Link:<a href="https://www.nicap.org/chronos/1954fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1954fullrep.htm</a>  
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/avv2002.html" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/avv2002.html</a>  
 
 4.<a id="endnote-4"></a>
-   Source: focus.it  
-   Title: Bolide verde sopra l'Italia  
-   Link:<a href="https://www.focus.it/scienza/spazio/bolide-verde-sopra-litalia" target="_blank" rel="noopener noreferrer nofollow">https://www.focus.it/scienza/spazio/bolide-verde-sopra-litalia</a>  
+   Source: lagazzettadelmezzogiorno.it  
+   Title: avvistamenti ufo in basilicata  
+   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/basilicata/117126/avvistamenti-ufo-in-basilicata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/basilicata/117126/avvistamenti-ufo-in-basilicata.html</a>  
 
 5.<a id="endnote-5"></a>
    Source: asi.it  
-   Title: Centro Geodesia Spaziale: Osservazione da Matera | ASI  
    Link:<a href="https://www.asi.it/lagenzia/le-basi/matera/" target="_blank" rel="noopener noreferrer nofollow">https://www.asi.it/lagenzia/le-basi/matera/</a>  
 
 6.<a id="endnote-6"></a>
-   Source: regione.basilicata.it  
-   Title: La reliquia del Beato Giovanni Paolo è a Potenza  
-   Link:<a href="https://www.regione.basilicata.it/la-reliquia-del-beato-giovanni-paolo-e-a-potenza/" target="_blank" rel="noopener noreferrer nofollow">https://www.regione.basilicata.it/la-reliquia-del-beato-giovanni-paolo-e-a-potenza/</a>  
+   Source: asi.it  
+   Title: giuseppe colombo center for space geodesy  
+   Link:<a href="https://www.asi.it/en/the-agency/the-space-centers/giuseppe-colombo-center-for-space-geodesy/" target="_blank" rel="noopener noreferrer nofollow">https://www.asi.it/en/the-agency/the-space-centers/giuseppe-colombo-center-for-space-geodesy/</a>  
 
 7.<a id="endnote-7"></a>
-   Source: space.com  
-   Title: meteor green fireball international space station matthew dominick video  
-   Link:<a href="https://www.space.com/meteor-green-fireball-international-space-station-matthew-dominick-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/meteor-green-fireball-international-space-station-matthew-dominick-video</a>  
+   Source: telespazio.com  
+   Link:<a href="https://www.telespazio.com/en/business/space-centres-teleports/matera-space-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.telespazio.com/en/business/space-centres-teleports/matera-space-centre</a>  
 
 8.<a id="endnote-8"></a>
+   Source: it.euronews.com  
+   Title: ufo cun 276 avvistamenti nel 2021 in calo  
+   Link:<a href="https://it.euronews.com/2022/01/12/ufo-cun-276-avvistamenti-nel-2021-in-calo" target="_blank" rel="noopener noreferrer nofollow">https://it.euronews.com/2022/01/12/ufo-cun-276-avvistamenti-nel-2021-in-calo</a>  
+
+9.<a id="endnote-9"></a>
+   Source: ufo.it  
+   Title: avvistamenti ufo in puglia 1958 1963  
+   Link:<a href="https://ufo.it/2015/11/18/avvistamenti-ufo-in-puglia-1958-1963/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.it/2015/11/18/avvistamenti-ufo-in-puglia-1958-1963/</a>  
+
+10.<a id="endnote-10"></a>
+   Source: telespazio.com  
+   Title: matera space centre  
+   Link:<a href="https://www.telespazio.com/it/business/space-centres-teleports/matera-space-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.telespazio.com/it/business/space-centres-teleports/matera-space-centre</a>  
+
+11.<a id="endnote-11"></a>
+   Source: telespazio.com  
+   Link:<a href="https://www.telespazio.com/documents/559023/8275827/Leaflet%2BMatera_IT.pdf?t=1645611866905" target="_blank" rel="noopener noreferrer nofollow">https://www.telespazio.com/documents/559023/8275827/Leaflet%2BMatera_IT.pdf?t=1645611866905</a>  
+
+12.<a id="endnote-12"></a>
    Source: regione.basilicata.it  
    Link:<a href="https://www.regione.basilicata.it/?temi-im=ufficio-difesa-del-suolo-geologia-e-attivita-estrattive" target="_blank" rel="noopener noreferrer nofollow">https://www.regione.basilicata.it/?temi-im=ufficio-difesa-del-suolo-geologia-e-attivita-estrattive</a>  
 
-9.<a id="endnote-9"></a>
-   Source: lagazzettadelmezzogiorno.it  
-   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/notizie-nascoste/249653/oggetti-volanti-in-basilicata-ecco-icasi-certificati-dagli-ufologi.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Il primo Ufo lucano del 2000 lo si vede in lontananza a Potenza il 13 maggio, poi in una sera di settembre del 1991, un oggetto viene vis...</p></details>
+13.<a id="endnote-13"></a>
+   Source: regione.basilicata.it  
+   Link:<a href="https://www.regione.basilicata.it/centro-studi-thalia-su-opportunita-turismo-archeologico/" target="_blank" rel="noopener noreferrer nofollow">https://www.regione.basilicata.it/centro-studi-thalia-su-opportunita-turismo-archeologico/</a>  
 
-10.<a id="endnote-10"></a>
+14.<a id="endnote-14"></a>
+   Source: agr.regione.basilicata.it  
+   Title: piano aeroporti si apre alla basilicata  
+   Link:<a href="https://agr.regione.basilicata.it/post/piano-aeroporti-si-apre-alla-basilicata/" target="_blank" rel="noopener noreferrer nofollow">https://agr.regione.basilicata.it/post/piano-aeroporti-si-apre-alla-basilicata/</a>  
+
+15.<a id="endnote-15"></a>
+   Source: regione.basilicata.it  
+   Title: lenac promuove laviosupericie mattei  
+   Link:<a href="https://www.regione.basilicata.it/lenac-promuove-laviosupericie-mattei/" target="_blank" rel="noopener noreferrer nofollow">https://www.regione.basilicata.it/lenac-promuove-laviosupericie-mattei/</a>  
+
+16.<a id="endnote-16"></a>
+   Source: telespazio.es  
+   Title: body MATERA eng 2018  
+   Link:<a href="https://www.telespazio.es/documents/559023/8275827/body_MATERA_eng_2018.pdf?t=1559126478479" target="_blank" rel="noopener noreferrer nofollow">https://www.telespazio.es/documents/559023/8275827/body_MATERA_eng_2018.pdf?t=1559126478479</a>  
+
+17.<a id="endnote-17"></a>
+   Source: lagazzettadelmezzogiorno.it  
+   Title: affidiamo la pista di pisticci alla gestione aeroporti di puglia  
+   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/matera/1937727/affidiamo-la-pista-di-pisticci-alla-gestione-aeroporti-di-puglia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/matera/1937727/affidiamo-la-pista-di-pisticci-alla-gestione-aeroporti-di-puglia.html</a>  
+
+18.<a id="endnote-18"></a>
    Source: aeronautica.difesa.it  
    Title: Aeronautica Militare OVNI  
    Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare...</p></details>
 
-11.<a id="endnote-11"></a>
-   Source: centroufologiconazionale.net  
-   Title: Centro Ufologico Nazionalecartina  
-   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/2014Cartinaok.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/2014Cartinaok.pdf</a>  
-
-13.<a id="endnote-13"></a>
+19.<a id="endnote-19"></a>
    Source: aeronautica.difesa.it  
    Title: Aeronautica Militare Presentazione standard di Power Point  
    Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf</a>  
 
-14.<a id="endnote-14"></a>
-   Source: lagazzettadelmezzogiorno.it  
-   Title: la basilicata e gli ufo una storia di 70 anni  
-   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/home/998605/la-basilicata-e-gli-ufo-una-storia-di-70-anni.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>La Gazzetta del MezzogiornoLa Basilicata e gli Ufo una storia di 70 anni1 Apr 2018 — Il primo avvistamento ufficiale di un Ufo in Basilic...</p></details>
-
-15.<a id="endnote-15"></a>
-   Source: montescaglioso.net  
-   Link:<a href="https://www.montescaglioso.net/node/35015" target="_blank" rel="noopener noreferrer nofollow">https://www.montescaglioso.net/node/35015</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Il primo avvistamento ufficiale di un Ufo in Basilicata, annotato nei registri del Cun (Centro ufologico nazionale), risale al 13 gennaio...</p></details>
-
-16.<a id="endnote-16"></a>
-   Source: lagazzettadelmezzogiorno.it  
-   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/home/109151/brienza-anche-noi-abbiamo-visto-il-meteorite-nuovi-racconti.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/home/109151/brienza-anche-noi-abbiamo-visto-il-meteorite-nuovi-racconti.html</a>  
-
-17.<a id="endnote-17"></a>
-   Source: italymagazine.com  
-   Title: ufo sightings basilicata and puglia video  
-   Link:<a href="https://www.italymagazine.com/featured-story/ufo-sightings-basilicata-and-puglia-video" target="_blank" rel="noopener noreferrer nofollow">https://www.italymagazine.com/featured-story/ufo-sightings-basilicata-and-puglia-video</a>  
-
-18.<a id="endnote-18"></a>
-   Source: lagazzettadelmezzogiorno.it  
-   Title: basilicata misterioso avvistamento nei cieli del potentino piovono segnalazioni  
-   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/potenza/1175871/basilicata-misterioso-avvistamento-nei-cieli-del-potentino-piovono-segnalazioni.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/potenza/1175871/basilicata-misterioso-avvistamento-nei-cieli-del-potentino-piovono-segnalazioni.html</a>  
-
-19.<a id="endnote-19"></a>
-   Source: lagazzettadelmezzogiorno.it  
-   Title: A Montescaglioso intorno alla chiesa girava un «Ufo»?  
-   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/basilicata/159295/a-montescaglioso-intorno-alla-chiesa-girava-un-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/basilicata/159295/a-montescaglioso-intorno-alla-chiesa-girava-un-ufo.html</a>  
-
 20.<a id="endnote-20"></a>
    Source: aeronautica.difesa.it  
-   Title: RIV 4 2020 FIN  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf</a>  
+   Title: Avvistamenti 2009  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/Avvistamenti_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/Avvistamenti_2009.pdf</a>  
 
 21.<a id="endnote-21"></a>
-   Source: centroufologiconazionale.net  
-   Link:<a href="https://www.centroufologiconazionale.net/localcun.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/localcun.htm</a>  
+   Source: aeronautica.difesa.it  
+   Title: OVNI 2010  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf</a>  
 
 22.<a id="endnote-22"></a>
-   Source: centroufologiconazionale.net  
-   Link:<a href="https://www.centroufologiconazionale.net/documenti/doc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/documenti/doc.htm</a>  
+   Source: aeronautica.difesa.it  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2012.pdf</a>  
 
 23.<a id="endnote-23"></a>
-   Source: centroufologiconazionale.net  
-   Link:<a href="https://www.centroufologiconazionale.net/news/newold2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/news/newold2.htm</a>  
+   Source: aeronautica.difesa.it  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2011.pdf</a>  
 
 24.<a id="endnote-24"></a>
-   Source: centroufologiconazionale.net  
-   Link:<a href="https://www.centroufologiconazionale.net/CUNstory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/CUNstory.pdf</a>  
+   Source: aeronautica.difesa.it  
+   Title: OVNI 2013  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2013.pdf</a>  
 
 25.<a id="endnote-25"></a>
-   Source: centroufologiconazionale.net  
-   Link:<a href="https://www.centroufologiconazionale.net/news/newarchive.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/news/newarchive.htm</a>  
-
-26.<a id="endnote-26"></a>
-   Source: centroufologiconazionale.net  
-   Title: UFOLOGI A SPERIMENTALE MONDO  
-   Link:<a href="https://www.centroufologiconazionale.net/Progetto%20I.U.M.P..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/Progetto%20I.U.M.P..pdf</a>  
-
-27.<a id="endnote-27"></a>
-   Source: centroufologiconazionale.net  
-   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/avvistufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/avvistufo.htm</a>  
-
-28.<a id="endnote-28"></a>
-   Source: lagazzettadelmezzogiorno.it  
-   Title: ufo a torricella tra bufale e misteri ecco le foto  
-   Link:<a href="https://www.lagazzettadelmezzogiorno.it/news/puglia/175625/ufo-a-torricella-tra-bufale-e-misteri-ecco-le-foto.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lagazzettadelmezzogiorno.it/news/puglia/175625/ufo-a-torricella-tra-bufale-e-misteri-ecco-le-foto.html</a>  
-
-29.<a id="endnote-29"></a>
-   Source: treccani.it  
-   Title: Muro lucano  
-   Link:<a href="https://www.treccani.it/enciclopedia/muro-lucano_%28Enciclopedia-Italiana%29/" target="_blank" rel="noopener noreferrer nofollow">https://www.treccani.it/enciclopedia/muro-lucano_%28Enciclopedia-Italiana%29/</a>  
-
-30.<a id="endnote-30"></a>
-   Source: treccani.it  
-   Title: Muro lucano  
-   Link:<a href="https://www.treccani.it/enciclopedia/muro-lucano/" target="_blank" rel="noopener noreferrer nofollow">https://www.treccani.it/enciclopedia/muro-lucano/</a>  
+   Source: Wikipedia  
+   Title: Giuseppe Colombo Centre for Space Geodesy  
+   Link:<a href="https://en.wikipedia.org/wiki/Giuseppe_Colombo_Centre_for_Space_Geodesy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Giuseppe_Colombo_Centre_for_Space_Geodesy</a>  
 
 ### Additional References
 
-31.<a id="endnote-31"></a>
+26.<a id="endnote-26"></a>
+   Source: researchgate.net  
+   Link:<a href="https://www.researchgate.net/publication/397300280_Some_thoughts_on_changes_in_material_culture_and_society_in_pre-Lucania_Pastoralism_and_the_archaic_necropolis_of_RipacandidaBasilicata" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397300280_Some_thoughts_on_changes_in_material_culture_and_society_in_pre-Lucania_Pastoralism_and_the_archaic_necropolis_of_RipacandidaBasilicata</a>  
+
+27.<a id="endnote-27"></a>
+   Source: centroufologicomediterraneo.it  
+   Link:<a href="https://www.centroufologicomediterraneo.it/wp/category/avvistamenti-cufom/" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologicomediterraneo.it/wp/category/avvistamenti-cufom/</a>  
+
+28.<a id="endnote-28"></a>
+   Source: centroufologicomediterraneo.it  
+   Link:<a href="https://www.centroufologicomediterraneo.it/wp/category/avvistamenti-cufom/avvistamenti-recenti/" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologicomediterraneo.it/wp/category/avvistamenti-cufom/avvistamenti-recenti/</a>  
+
+29.<a id="endnote-29"></a>
+   Source: ilpiccolo.net  
+   Link:<a href="https://www.ilpiccolo.net/tag/centro-italiano-studi-ufologici-cisu/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilpiccolo.net/tag/centro-italiano-studi-ufologici-cisu/</a>  
+
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link:<a href="https://www.instagram.com/reel/DZl_YBOoCNS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZl_YBOoCNS/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DWk5h3fFwbk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWk5h3fFwbk/</a>  
+
+31.<a id="endnote-31"></a>
+   Source: e-geos.it  
+   Link:<a href="https://www.e-geos.it/matera-space-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.e-geos.it/matera-space-center/</a>  
 
 32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link:<a href="https://www.instagram.com/p/Cwcb2OZLRFA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/Cwcb2OZLRFA/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTa4hU_DdC3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTa4hU_DdC3/</a>  
 
 33.<a id="endnote-33"></a>
-   Source: theguardian.com  
-   Link:<a href="https://www.theguardian.com/science/video/2015/nov/02/bright-green-fireball-illuminates-sky-poland-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2015/nov/02/bright-green-fireball-illuminates-sky-poland-video</a>  
+   Source: e-geos.it  
+   Link:<a href="https://www.e-geos.it/en/matera-space-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.e-geos.it/en/matera-space-center/</a>  
 
 34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/isro.spaceinsight/videos/cosmic-coincidence-green-meteor-over-an-erupting-volcano-%EF%B8%8Fthis-looks-like-a-scen/1397305588822952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isro.spaceinsight/videos/cosmic-coincidence-green-meteor-over-an-erupting-volcano-%EF%B8%8Fthis-looks-like-a-scen/1397305588822952/</a>  
+   Link:<a href="https://www.facebook.com/FilippoMelegiornalista/videos/oggetto-luminoso-avvistato-nei-cieli-di-molti-comuni-della-provincia-di-potenza-/1725363438429013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FilippoMelegiornalista/videos/oggetto-luminoso-avvistato-nei-cieli-di-molti-comuni-della-provincia-di-potenza-/1725363438429013/</a>  
 
 35.<a id="endnote-35"></a>
-   Source: theguardian.com  
-   Link:<a href="https://www.theguardian.com/science/2023/feb/19/fragments-of-valentines-fireball-meteorite-fall-in-southern-italy" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2023/feb/19/fragments-of-valentines-fireball-meteorite-fall-in-southern-italy</a>  
-
-36.<a id="endnote-36"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/WestKentuckyStar/posts/green-fireball-seen-here-and-across-15-states/1842898150304565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WestKentuckyStar/posts/green-fireball-seen-here-and-across-15-states/1842898150304565/</a>  
-
-37.<a id="endnote-37"></a>
-   Source: lacnews24.it  
-   Link:<a href="https://www.lacnews24.it/video/ambiente/il-bolide-super-luminoso-attraversa-anche-i-cieli-di-cosenza-hnr3s5sl" target="_blank" rel="noopener noreferrer nofollow">https://www.lacnews24.it/video/ambiente/il-bolide-super-luminoso-attraversa-anche-i-cieli-di-cosenza-hnr3s5sl</a>  
-
-38.<a id="endnote-38"></a>
-   Source: ilcentro.it  
-   Link:<a href="https://www.ilcentro.it/l-aquila/il-meteorite-di-san-valentino-nei-laboratori-del-gran-sasso-1.3081276" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcentro.it/l-aquila/il-meteorite-di-san-valentino-nei-laboratori-del-gran-sasso-1.3081276</a>  
-
-39.<a id="endnote-39"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/reel/C7bSI9IsnUD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C7bSI9IsnUD/</a>  
-
-40.<a id="endnote-40"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/FilippoMelegiornalista/videos/oggetto-luminoso-avvistato-nei-cieli-di-molti-comuni-della-provincia-di-potenza-/1725363438429013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FilippoMelegiornalista/videos/oggetto-luminoso-avvistato-nei-cieli-di-molti-comuni-della-provincia-di-potenza-/1725363438429013/</a>  
+   Source: upiar.com  
+   Link:<a href="https://www.upiar.com/contact.cfm" target="_blank" rel="noopener noreferrer nofollow">https://www.upiar.com/contact.cfm</a>  

@@ -18,13 +18,13 @@ parent_permalink: /trentino-alto-adige/
 
 The following pages expand on the main **[Trentino Alto Adige]({{ '/trentino-alto-adige/' | relative_url }})** page and cover its key branches in.
 
-- [Official Records]({{ '/official-records-c1500c/' | relative_url }})
-- [Alpine Illusions]({{ '/alpine-illusions/' | relative_url }})
-- [Radar Limits]({{ '/radar-limits/' | relative_url }})
+- [Air Force Files]({{ '/air-force-files-3eafd7/' | relative_url }})
+- [Alpine Skies]({{ '/alpine-skies/' | relative_url }})
 - [Red Lights]({{ '/red-lights/' | relative_url }})
-- [Private Archive]({{ '/private-archive/' | relative_url }})
-- [Formation Causes]({{ '/formation-causes/' | relative_url }})
-- [Timeline]({{ '/timeline-083960/' | relative_url }})
-- [Sciliar Light]({{ '/sciliar-light/' | relative_url }})
-- [Space Objects]({{ '/space-objects/' | relative_url }})
-- [Witnesses]({{ '/witnesses-c6fbd0/' | relative_url }})
+- [Pilot Report]({{ '/pilot-report/' | relative_url }})
+- [Weather Lights]({{ '/weather-lights/' | relative_url }})
+- [Hot Tub UFO]({{ '/hot-tub-ufo/' | relative_url }})
+- [Molveno Fake]({{ '/molveno-fake/' | relative_url }})
+- [Radar Checks]({{ '/radar-checks/' | relative_url }})
+- [Regional Pattern]({{ '/regional-pattern/' | relative_url }})
+- [Trento 1992]({{ '/trento-1992/' | relative_url }})

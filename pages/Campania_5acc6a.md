@@ -2,17 +2,17 @@
 level: 1
 basename: Campania_5acc6a
 child_basenames:
-- Campania_5acc6a_air_force_ovni_files_a9d80e
-- Campania_5acc6a_campania_1978_flap_cc8663
-- Campania_5acc6a_campania_2009_wave_0d1074
-- Campania_5acc6a_campania_2010_sighti_04fc98
-- Campania_5acc6a_campania_media_feedb_5cd5c8
-- Campania_5acc6a_capodimonte_light_6643b1
-- Campania_5acc6a_cesa_sphere_claim_32e258
+- Campania_5acc6a_1973_airline_sightin_9dea1e
+- Campania_5acc6a_campania_big_picture_5b125d
 - Campania_5acc6a_index
-- Campania_5acc6a_naples_airport_light_738468
-- Campania_5acc6a_sky_lantern_explanat_933d0c
-- Campania_5acc6a_varcaturo_seven_ligh_7d8544
+- Campania_5acc6a_local_press_archive_73bbc5
+- Campania_5acc6a_military_activity_ex_00808f
+- Campania_5acc6a_naples_1978_wave_f77898
+- Campania_5acc6a_naples_air_traffic_ea6034
+- Campania_5acc6a_ordinary_explanation_a805d0
+- Campania_5acc6a_pozzuoli_air_force_c_1c1393
+- Campania_5acc6a_strongest_cases_bcb46f
+- Campania_5acc6a_tyrrhenian_coastal_l_044449
 sibling_basenames:
 - Abruzzo_4c71bb
 - Aosta_Valley_ccb120
@@ -39,28 +39,24 @@ keywords:
 - campania
 affiliate_category: campania
 show_ads: true
-description: Campania has a substantial UFO history, but its strongest lesson is not that the region has produced a single, decisive “alien encounter”.
-hero_summary: Campania has a substantial UFO history, but its strongest lesson is not that the region has produced a single, decisive “alien encounter”. It is that waves of ordinary-looking lights can become convincing regional mysteries when many witnesses, newspapers and investigators encounter them at once.
+description: Campania occupies a distinctive place in Italian UFO history.
+hero_summary: Campania occupies a distinctive place in Italian UFO history. It is not the region with the largest number of famous cases, nor does it have a single incident comparable to Italy’s most celebrated UFO reports.
 layout: default
-permalink: /why-campanias-ufo-waves-looked-so/
-nav_short_title: Why Campania's UFO Waves Looked So Convincing
-title: Why Campania's UFO Waves Looked So Convincing
-title_full: Why Campania's UFO Waves Looked So Convincing
-display_title_short: Why Campania's UFO Waves Looked So Convincing
-display_title: Why Campania's UFO Waves Looked So Convincing
-heading_title: Why Campania's UFO Waves Looked So Convincing
-page_heading_title: Why Campania's UFO Waves Looked So Convincing
-source_count: 89
+permalink: /why-campania-keeps-appearing-in-ufo/
+nav_short_title: Why Campania Keeps Appearing in UFO Stories
+title: Why Campania Keeps Appearing in UFO Stories
+title_full: Why Campania Keeps Appearing in UFO Stories
+display_title_short: Why Campania Keeps Appearing in UFO Stories
+display_title: Why Campania Keeps Appearing in UFO Stories
+heading_title: Why Campania Keeps Appearing in UFO Stories
+page_heading_title: Why Campania Keeps Appearing in UFO Stories
+source_count: 26
 infographic_count: 3
 page_website_name: Campania
-page_banner_line: Evidence-led accounts of Campania's sightings, official files and recurring explanations.
+page_banner_line: Balanced evidence-led pages on Campania's sightings, witnesses and explanations.
 site_website_name: Campania
-site_banner_line: Evidence-led accounts of Campania's sightings, official files and recurring explanations.
-site_visual_identity: signal-cobalt
-site_visual_identity_confidence: high
-site_visual_motif: horizon
-site_typography_tone: editorial
-site_image_description: Several orange lights drift above the Bay of Naples at night while Vesuvius, apartment roofs and distant aircraft lights remain...
+site_banner_line: Balanced evidence-led pages on Campania's sightings, witnesses and explanations.
+site_image_description: A night view over Naples Bay with aircraft lights above the coastline and a small group of people looking up from a waterfront...
 output_language: English
 lang: en
 locale: en
@@ -204,18 +200,7 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
-  report_details: Report details
-  report_actions: Report actions
-  sources: sources
-  graphics: graphics
-  copy_link: Copy link
-  cite_page: Cite page
-  print_save: Print / save
-  link_copied: Link copied
-  citation_copied: Citation copied
-  copy_failed: Copy failed
   topics: Topics
-  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -233,146 +218,140 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-26 16:27:49'
+date: '2026-06-30 17:21:21'
 sibling_links:
-- basename: Friuli-Venezia_Giuli_608dd8
-  title: Friuli UFO Files
-  permalink: /friuli-venezia-giulia/
-  short_title: Friuli UFO Files
-- basename: Marche_113fca
-  title: Marche UFOs
-  permalink: /how-marches-ufo-legends-took-shape/
-  short_title: Marche UFOs
-- basename: Lombardy_9b46d3
-  title: Lombardy UFOs
-  permalink: /lombardys-ufo-history-between-evidence/
-  short_title: Lombardy UFOs
-- basename: Piedmont_9fde2b
-  title: Piedmont UFO Files
-  permalink: /piedmonts-ufo-mysteries-under-closer/
-  short_title: Piedmont UFO Files
-- basename: Trentino-Alto_Adige_27eb8f
-  title: Alpine UFO Files
-  permalink: /trentino-alto-adige/
-  short_title: Alpine UFO Files
-- basename: Tuscany_2685d2
-  title: Tuscan UFO Files
-  permalink: /tuscanys-ufo-history-between-mystery-and/
-  short_title: Tuscan UFO Files
-- basename: Veneto_862600
-  title: Veneto UFOs
-  permalink: /venetos-ufo-history-between-evidence-and/
-  short_title: Veneto UFOs
-- basename: Basilicata_3ea395
-  title: Basilicata
-  permalink: /which-basilicata-ufo-cases-still/
-  short_title: Basilicata
-- basename: Abruzzo_4c71bb
-  title: Abruzzo UFOs
-  permalink: /why-abruzzo-became-italys-ufo-hotspot/
-  short_title: Abruzzo UFOs
 - basename: Aosta_Valley_ccb120
-  title: Aosta Valley UFOs
-  permalink: /why-aosta-valleys-ufo-record-looks-so/
-  short_title: Aosta Valley UFOs
-- basename: Apulia_98f3e8
-  title: Apulia UFO Files
-  permalink: /why-apulias-ufo-record-still-resists/
-  short_title: Apulia UFO Files
-- basename: Calabria_663de5
-  title: Calabria UFO Files
-  permalink: /why-calabria-has-many-ufo-reports-but-no/
-  short_title: Calabria UFO Files
-- basename: Emilia-Romagna_e1c904
-  title: Emilia Romagna UFOs
-  permalink: /why-emilia-romagna-became-a-ufo-hotspot/
-  short_title: Emilia Romagna UFOs
-- basename: Lazio_2e255a
-  title: Lazio UFO Files
-  permalink: /why-lazios-ufo-history-remains/
-  short_title: Lazio UFO Files
-- basename: Liguria_5b11e3
-  title: Liguria UFOs
-  permalink: /why-liguria-became-italys-ufo-coast/
-  short_title: Liguria UFOs
-- basename: Molise_7c6aa1
-  title: Molise
-  permalink: /why-molise-has-so-few-strong-ufo-cases/
-  short_title: Molise
+  title: Aosta UFOs
+  permalink: /aosta-valley/
+  short_title: Aosta UFOs
+- basename: Friuli-Venezia_Giuli_608dd8
+  title: Friuli UFOs
+  permalink: /friuli-venezia-giulia/
+  short_title: Friuli UFOs
+- basename: Trentino-Alto_Adige_27eb8f
+  title: Alpine UFOs
+  permalink: /trentino-alto-adige/
+  short_title: Alpine UFOs
+- basename: Umbria_d4a7a8
+  title: Umbrian Skies
+  permalink: /umbria/
+  short_title: Umbrian Skies
 - basename: Sardinia_83a1a0
   title: Sardinia UFOs
-  permalink: /why-sardinias-ufo-record-remains-so/
+  permalink: /what-makes-sardinias-ufo-record-so/
   short_title: Sardinia UFOs
-- basename: Sicily_77b465
-  title: Sicily UFO Files
-  permalink: /why-sicilys-ufo-stories-still-resist/
-  short_title: Sicily UFO Files
-- basename: Umbria_d4a7a8
-  title: Umbria
-  permalink: /why-umbrias-ufo-stories-still-resist/
-  short_title: Umbria
-child_links:
-- basename: Campania_5acc6a_campania_1978_flap_cc8663
-  title: 1978 Flap | Why Campania's UFO Waves Looked So...
-  permalink: /1978-flap-c35875/
-  short_title: 1978 Flap
-  heading_title: Why 1978 Still Shadows Campania's UFO Story
-- basename: Campania_5acc6a_campania_2009_wave_0d1074
-  title: 2009 Wave | Why Campania's UFO Waves Looked So...
-  permalink: /2009-wave/
-  short_title: 2009 Wave
-  heading_title: How the 2009 UFO Wave Swept Campania
-- basename: Campania_5acc6a_campania_2010_sighti_04fc98
-  title: 2010 Cases | Why Campania's UFO Waves Looked So...
-  permalink: /2010-cases/
-  short_title: 2010 Cases
-  heading_title: Why Red Spheres Kept Appearing in 2010
-- basename: Campania_5acc6a_air_force_ovni_files_a9d80e
-  title: Air Force Files | Why Campania's UFO Waves Looked So...
-  permalink: /air-force-files-a5afdc/
-  short_title: Air Force Files
-  heading_title: What Campania's Military UFO Files Actually Prove
-- basename: Campania_5acc6a_naples_airport_light_738468
-  title: Airport Lights | Why Campania's UFO Waves Looked So...
-  permalink: /airport-lights/
-  short_title: Airport Lights
-  heading_title: When Aircraft Lights Seem to Hover Over Naples
-- basename: Campania_5acc6a_capodimonte_light_6643b1
-  title: Capodimonte | Why Campania's UFO Waves Looked So...
-  permalink: /capodimonte/
-  short_title: Capodimonte
-  heading_title: Why the Capodimonte Light Remains Unresolved
-- basename: Campania_5acc6a_cesa_sphere_claim_32e258
-  title: Cesa | Why Campania's UFO Waves Looked So...
-  permalink: /cesa/
-  short_title: Cesa
-  heading_title: How Strong Is the Cesa Sphere Report?
-- basename: Campania_5acc6a_campania_media_feedb_5cd5c8
-  title: Media Effect | Why Campania's UFO Waves Looked So...
-  permalink: /media-effect-e15a90/
-  short_title: Media Effect
-  heading_title: How UFO Headlines Amplified Campania's Sightings
-- basename: Campania_5acc6a_sky_lantern_explanat_933d0c
-  title: Sky Lanterns | Why Campania's UFO Waves Looked So...
-  permalink: /sky-lanterns/
-  short_title: Sky Lanterns
-  heading_title: Why Sky Lanterns Look Like UFO Fleets
-- basename: Campania_5acc6a_varcaturo_seven_ligh_7d8544
-  title: Varcaturo | Why Campania's UFO Waves Looked So...
-  permalink: /varcaturo/
-  short_title: Varcaturo
-  heading_title: What Were the Seven Lights Over Varcaturo?
-has_inline_related_reports_panel: true
-prev_link:
-  basename: Calabria_663de5
-  title: Calabria UFO Files
-  permalink: /why-calabria-has-many-ufo-reports-but-no/
-  short_title: Calabria UFO Files
-next_link:
-  basename: Emilia-Romagna_e1c904
+- basename: Abruzzo_4c71bb
+  title: Abruzzo UFOs
+  permalink: /what-really-happened-in-abruzzos-ufo/
+  short_title: Abruzzo UFOs
+- basename: Apulia_98f3e8
+  title: Apulia UFOs
+  permalink: /what-really-happened-in-apulias-ufo/
+  short_title: Apulia UFOs
+- basename: Basilicata_3ea395
+  title: Basilicata UFOs
+  permalink: /what-really-happened-in-basilicatas-ufo/
+  short_title: Basilicata UFOs
+- basename: Calabria_663de5
+  title: Calabria UFOs
+  permalink: /what-really-happened-in-calabrias-ufo/
+  short_title: Calabria UFOs
+- basename: Emilia-Romagna_e1c904
   title: Emilia Romagna UFOs
-  permalink: /why-emilia-romagna-became-a-ufo-hotspot/
+  permalink: /what-really-happened-in-emilia/
   short_title: Emilia Romagna UFOs
+- basename: Lazio_2e255a
+  title: Lazio UFOs
+  permalink: /what-really-happened-in-lazios-ufo-files/
+  short_title: Lazio UFOs
+- basename: Liguria_5b11e3
+  title: Liguria UFOs
+  permalink: /what-really-happened-in-ligurias-ufo/
+  short_title: Liguria UFOs
+- basename: Lombardy_9b46d3
+  title: Lombardy UFOs
+  permalink: /what-really-happened-in-lombardys-ufo/
+  short_title: Lombardy UFOs
+- basename: Molise_7c6aa1
+  title: Molise UFOs
+  permalink: /what-really-happened-in-molises-ufo/
+  short_title: Molise UFOs
+- basename: Piedmont_9fde2b
+  title: Piedmont UFOs
+  permalink: /what-really-happened-in-piedmonts-ufo/
+  short_title: Piedmont UFOs
+- basename: Sicily_77b465
+  title: Sicily UFOs
+  permalink: /what-really-happened-in-sicilys-ufo/
+  short_title: Sicily UFOs
+- basename: Tuscany_2685d2
+  title: Tuscan Skies
+  permalink: /what-really-happened-in-tuscanys-ufo/
+  short_title: Tuscan Skies
+- basename: Veneto_862600
+  title: Veneto UFOs
+  permalink: /what-really-happened-in-venetos-ufo/
+  short_title: Veneto UFOs
+- basename: Marche_113fca
+  title: Marche UFOs
+  permalink: /what-really-happened-over-marche/
+  short_title: Marche UFOs
+child_links:
+- basename: Campania_5acc6a_1973_airline_sightin_9dea1e
+  title: 1973 Flight | Why Campania Keeps Appearing in UFO Stories
+  permalink: /1973-flight/
+  short_title: 1973 Flight
+  heading_title: What Makes the 1973 Airline Case Interesting?
+- basename: Campania_5acc6a_naples_1978_wave_f77898
+  title: 1978 Wave | Why Campania Keeps Appearing in UFO Stories
+  permalink: /1978-wave/
+  short_title: 1978 Wave
+  heading_title: Why Did Naples Stand Out in 1978?
+- basename: Campania_5acc6a_naples_air_traffic_ea6034
+  title: Air Traffic | Why Campania Keeps Appearing in UFO Stories
+  permalink: /air-traffic/
+  short_title: Air Traffic
+  heading_title: When Are UFOs Really Aircraft Lights?
+- basename: Campania_5acc6a_strongest_cases_bcb46f
+  title: Best Cases | Why Campania Keeps Appearing in UFO Stories
+  permalink: /best-cases/
+  short_title: Best Cases
+  heading_title: Which Campania UFO Cases Deserve Attention?
+- basename: Campania_5acc6a_campania_big_picture_5b125d
+  title: Big Picture | Why Campania Keeps Appearing in UFO Stories
+  permalink: /big-picture/
+  short_title: Big Picture
+  heading_title: What Does Campania Reveal About Italian UFOs?
+- basename: Campania_5acc6a_ordinary_explanation_a805d0
+  title: Explanations | Why Campania Keeps Appearing in UFO Stories
+  permalink: /explanations-e21d0c/
+  short_title: Explanations
+  heading_title: What Usually Explains Campania UFO Reports?
+- basename: Campania_5acc6a_military_activity_ex_00808f
+  title: Military Lights | Why Campania Keeps Appearing in UFO Stories
+  permalink: /military-lights/
+  short_title: Military Lights
+  heading_title: Could Military Activity Explain Campania Sightings?
+- basename: Campania_5acc6a_pozzuoli_air_force_c_1c1393
+  title: Pozzuoli | Why Campania Keeps Appearing in UFO Stories
+  permalink: /pozzuoli/
+  short_title: Pozzuoli
+  heading_title: How Did Pozzuoli Shape the UFO Context?
+- basename: Campania_5acc6a_local_press_archive_73bbc5
+  title: Press Archive | Why Campania Keeps Appearing in UFO Stories
+  permalink: /press-archive/
+  short_title: Press Archive
+  heading_title: How Newspapers Built Campania's UFO Memory
+- basename: Campania_5acc6a_tyrrhenian_coastal_l_044449
+  title: Sea Lights | Why Campania Keeps Appearing in UFO Stories
+  permalink: /sea-lights/
+  short_title: Sea Lights
+  heading_title: Why Do Coastal Lights Look So Strange?
+prev_link:
+  basename: Marche_113fca
+  title: Marche UFOs
+  permalink: /what-really-happened-over-marche/
+  short_title: Marche UFOs
 header:
   og_image: /assets/images/Campania_5acc6a-overview-social.jpg
   preview_image: /assets/images/Campania_5acc6a-overview.webp
@@ -381,157 +360,150 @@ image: /assets/images/Campania_5acc6a-overview-social.jpg
 
 ## Introduction
 
-The surviving evidence is uneven. Several incidents entered Italian Air Force records because no known flight or weather-balloon activity could be matched to the reports. That makes them officially unidentified, but not evidence of extraterrestrial craft. In contrast, civilian investigators found that many reports in the [2009 wave]({{ '2009-wave/' | relative_url }}) were probably caused by illuminated paper lanterns. Campania’s record is therefore best understood as a mixture of unresolved observations, weakly documented claims and clusters that became less mysterious once their timing and appearance were compared.
+For readers trying to understand Campania’s UFO record, the most important point is that the region contains both stronger and weaker categories of evidence. Some reports involve pilots, [air traffic]({{'air-traffic/' | relative_url }}) observers or events recorded during nationwide sighting waves. Others consist of isolated accounts of lights in the sky that were never investigated in depth. Understanding the difference between those categories is essential for judging how convincing any particular claim may be.<img src="{{"/assets/images/Campania_5acc6a-overview.webp" | relative_url }}" alt="Overview image for Why Campania Keeps Appearing in UFO Stories" loading="eager" decoding="sync" fetchpriority="high">
+## Why Campania Appears So Often in UFO Discussions
 
+Campania's geography helps explain why unusual aerial reports recur. The region contains one of Italy’s largest metropolitan areas around Naples, significant commercial air traffic, military aviation facilities and coastal air corridors over the Tyrrhenian Sea. The Italian Air Force Academy is located in [Pozzuoli]({{'pozzuoli/' | relative_url }}) near Naples, while military aviation infrastructure has long been present elsewhere in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Accademia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Accademia Aeronautica</span><span class="citation-popover-snippet">Accademia Aeronautica</span></span></span>
 
+That matters because regions with dense air traffic naturally generate more opportunities for misidentifications. Aircraft landing lights, atmospheric effects over the sea, meteor events, satellites and military exercises can all produce observations that appear unusual to ground witnesses. At the same time, the concentration of trained observers—pilots, controllers and military personnel—means that some reports attract more serious attention than ordinary public sightings.
 
-<img src="{{ "/assets/images/Campania_5acc6a-overview.webp" | relative_url }}" alt="Overview image for Why Campania&#x27;s UFO Waves Looked So..." loading="eager" decoding="sync" fetchpriority="high">
+This dual character explains why Campania repeatedly appears in discussions of Italian UFO history without necessarily producing large numbers of highly evidential cases.
 
-## The summer of 2009 changed the regional story
+## Naples and the National UFO Waves
 
-From mid-June into July 2009, residents around Naples and elsewhere in Campania repeatedly reported orange or changing lights in the night sky. The volume of calls and press coverage was striking enough for the regional branch of the Italian Centre for UFO Studies, or CISU, to describe it as Campania’s largest wave since 1978.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gialli.it/ufo-a-napoli-ecco-la-verita-del-cisu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gialli.it">[Gialli]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gialli.it</span><span class="citation-popover-title">Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo &#124; Gialli.it</span><span class="citation-popover-snippet">Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo &#124; Gialli.it...</span></span></span>
+Campania's UFO history cannot be separated from the broader Italian waves of sightings that periodically swept the country.
 
-One of the clearest surviving official entries concerns [Varcaturo]({{ 'varcaturo/' | relative_url }}), in the municipality of Giugliano in Campania, on 21 June. Witnesses described seven orange luminous objects, apparently larger than stars, moving slowly in a line from the sea towards the interior. The Air Force reported that its checks could not connect the event with known aviation or weather-balloon activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+One of the most important years was 1978. Italian UFO researchers and later summaries of national records identify 1978 as one of the largest UFO waves in Italian history, with reports appearing across multiple regions and particularly affecting parts of southern Italy. Naples is regularly mentioned among the areas associated with this surge of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Another report came from [Capodimonte]({{ 'capodimonte/' | relative_url }}) in Naples on 30 July. The witness described a slowly moving, spherical light whose colour appeared to change, positioned east of Vesuvius. Again, the official record stated only that no recognised flight or radiosonde activity could be associated with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+The significance of a wave year is not that every report becomes more credible. In fact, the opposite can sometimes occur. During intense publicity periods:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* More people look at the sky.
+* Local newspapers actively seek unusual stories.
+* Witnesses become more willing to report strange observations.
+* Ordinary astronomical or aviation phenomena may be interpreted through a UFO lens.</div>
 
+For historians of the subject, however, wave years remain important because they reveal how UFO reports spread through society and media networks.<img src="{{"/assets/images/Campania_5acc6a-Illustration-1-dark.svg" | relative_url }}" alt="Why Campania Keeps Appearing in UFO Stories illustration 1" data-theme-src-dark="{{"/assets/images/Campania_5acc6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Campania_5acc6a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The 1973 Airline Sighting Linked to Naples
 
-<!-- HIERARCHY_NAV_START -->
-<aside class="related-reports" aria-label="Related pages">
-<h2>Follow this branch</h2>
-<div class="related-reports-grid">
-<section class="related-reports-section related-reports-section-closest">
-<h3>Closest pages</h3>
-<ul>
-<li><a href="{{ '/sky-lanterns/' | relative_url }}"><span class="article-branch-link-short">Sky Lanterns</span><span class="article-branch-link-heading">Why Sky Lanterns Look Like UFO Fleets</span></a></li>
-<li><a href="{{ '/air-force-files-a5afdc/' | relative_url }}"><span class="article-branch-link-short">Air Force Files</span><span class="article-branch-link-heading">What Campania&#x27;s Military UFO Files Actually Prove</span></a></li>
-<li><a href="{{ '/airport-lights/' | relative_url }}"><span class="article-branch-link-short">Airport Lights</span><span class="article-branch-link-heading">When Aircraft Lights Seem to Hover Over Naples</span></a></li>
-<li><a href="{{ '/media-effect-e15a90/' | relative_url }}"><span class="article-branch-link-short">Media Effect</span><span class="article-branch-link-heading">How UFO Headlines Amplified Campania&#x27;s Sightings</span></a></li>
-<li><a href="{{ '/capodimonte/' | relative_url }}"><span class="article-branch-link-short">Capodimonte</span><span class="article-branch-link-heading">Why the Capodimonte Light Remains Unresolved</span></a></li>
-</ul>
-</section>
-</div>
-</aside>
-<!-- HIERARCHY_NAV_END -->
+One of the more interesting aviation-related entries connected with Campania occurred in 1973.
 
-Read separately, these entries sound intriguing. Read as part of the wider wave, however, they share features that point towards a more familiar explanation: warm-coloured lights, slow movement, groups or lines, clear summer evenings and routes apparently governed by the wind. CISU later noted that possibly hundreds of Italian reports during the summer of 2009, especially in Campania, were caused by small hot-air lanterns released at celebrations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/capodanno-2017-dal-cielo-piovono-ufo-incendiari/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">capodanno 2017 dal cielo piovono ufo incendiari</span><span class="citation-popover-snippet">UFO. Nell&#x27;estate del 2009 forse alcune centinaia di avvistamenti – soprattutto in Campania – furono dovute a cause di questo tipo e contr...</span></span></span>
+According to summaries of Italian UFO records, an Alitalia flight travelling from Rome to Naples reported a mysterious round object near Latina. The observation was notable because military aircraft were reportedly scrambled and the sighting was said to have been confirmed visually by Air Force pilots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">UFO sightings in Italy</span></span></span>
 
-This does not prove that every observation had the same cause. The Capodimonte report, for example, lacks enough information about duration, angular movement, wind and viewing direction for a firm identification. The importance of the 2009 wave lies instead in the overall pattern. Once lanterns became common at weddings, festivals and private parties, they produced exactly the sort of repeated, geographically scattered reports that could look like coordinated aerial activity.
+The event is frequently cited because it moves beyond the typical single-witness account. Aviation cases attract attention for several reasons:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-## What the military files actually establish
+* Pilots are trained observers.
+* Aircraft crews can judge relative motion better than many ground witnesses.
+* Reports may involve communication with air traffic services.
+* Independent observations sometimes exist from multiple locations.</div>
 
-Italy’s Air Force maintains a public reporting system for unidentified flying objects, using the Italian abbreviation OVNI. Witnesses are asked to record the date, precise time, weather, viewing position, direction, apparent shape, colour, movement and any photographic or video material. The completed form is submitted through the Carabinieri and forwarded to the Air Staff.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare - Ministero della DifesaSegnalazioni O.V.N.I., Oggetti Volanti Non Identificati. In quest...</span></span></span>
+Yet aviation cases are not automatically solved or automatically extraordinary. Even trained crews can misinterpret unfamiliar visual phenomena, especially at night or when estimating distance to an unknown object. The available public information on the 1973 case is relatively limited, which means the report remains interesting but not decisive.
 
-The purpose is principally aviation and national security, not the investigation of extraterrestrial life. Former Air Force general Massimo Berti explained that the system collects reports so authorities can compare them with aircraft movements, radar information, balloons, astronomical objects and other known activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.media.inaf.it/2015/09/14/massimo-berti-intervista/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.inaf.it">[MEDIA INAF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.inaf.it</span><span class="citation-popover-title">MEDIA INAFMassimo Berti, il generale degli UFO – MEDIA INAF</span><span class="citation-popover-snippet">MEDIA INAFMassimo Berti, il generale degli UFO – MEDIA INAF</span></span></span>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybDQGcZjJWI" title="UFO Sightings Terrify Italy | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer">UFO Sightings Terrify Italy | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 444.1K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybDQGcZjJWI">Open on YouTube</a></p></div></div></div>
 
-That distinction matters when reading the Campania entries. The standard conclusion that an event could not be associated with known aviation or radiosonde activity is limited. It means that those particular checks did not produce an identification. It does not mean that radar confirmed a structured craft, that all natural explanations were excluded, or that investigators judged the witness’s estimates of altitude and speed to be accurate.
 
-The files nevertheless preserve useful snapshots of regional reporting:
 
-* **Naples, 12 June 2010:** a private witness reported a fixed red spherical light moving west to east for five minutes and then north for about one minute, at an estimated altitude of 300–400 metres. No known flight or balloon activity was matched to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-* **Castellammare di Stabia, 13 July 2010:** witnesses described two slow, “fire-red” spherical objects, one travelling north and the other west, in good visibility. The official check produced no aviation or radiosonde identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-* **Rotondi and Paolisi, 30 July 2010:** observers on the Avellino–Benevento side of the regional boundary reported a slow orange sphere moving from north to east beneath a cloudy sky. The same limited official conclusion was recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-* **Cesa, 15 June 2011:** a witness reported a yellow-orange sphere extremely close to the ground that then departed upwards at very high speed. The Air Force could not link the account to known flight or balloon activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militaremese nr. eventi</span><span class="citation-popover-snippet">Aeronautica Militaremese nr. eventi</span></span></span>
 
-These records are valuable because they fix dates, locations and original descriptions. Their weakness is that most contain only a civilian observation, without corroborating radar data, instrument readings or independent photographs. Estimated heights and distances are particularly unreliable when a witness is looking at an isolated light against a dark sky. A small lantern nearby, a bright object far away and an aircraft light at several kilometres can all appear similar when there is no fixed reference point.
 
+## How Military and Aviation Connections Shape Campania Cases
 
+Many regions develop UFO reputations because of folklore or local legends. Campania’s reputation is more closely tied to aviation.
 
-<img src="{{ "/assets/images/Campania_5acc6a-Illustration-1-dark.svg" | relative_url }}" alt="Why Campania&#x27;s UFO Waves Looked So... illustration 1" data-theme-src-dark="{{ "/assets/images/Campania_5acc6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Campania_5acc6a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The region contains facilities and institutions associated with the Italian Air Force, including the Air Force Academy at Pozzuoli and military air installations elsewhere in Campania.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Accademia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Accademia Aeronautica</span><span class="citation-popover-snippet">Accademia Aeronautica</span></span></span>
 
-## The shadow of Italy’s 1978 UFO wave
+This has two consequences.
 
-Campania’s investigators repeatedly use 1978 as the benchmark for a regional “flap”, meaning a concentrated period of reports. That year produced an extraordinary surge across Italy. The national catalogue assembled by Italian researchers contains roughly 1,800 reports for 1978, each connected to an archive folder of source material, while contemporary newspapers turned sightings and alleged encounters into a major cultural phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euroufo.net/2018/05/15/project1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[euroufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">The 1978 Great UFO Wave, 40 years later15 May 2018 — The ufomania in Italian newspapers was already... The national catalog of It...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+First, [military activity]({{'military-lights/' | relative_url }}) provides potential conventional [explanations]({{'explanations-e21d0c/' | relative_url }}) for some sightings. Aircraft manoeuvres, training flights, navigation lights, flares and other operations can produce unusual observations.
 
-Campania formed part of that national climate, but the publicly accessible evidence for individual regional cases is much less complete than it is for famous incidents elsewhere in Italy. Later summaries often repeat dramatic stories without providing the original newspaper report, witness statement, investigative notes or an exact Air Force file. This makes it difficult to separate events documented in 1978 from accounts reconstructed years afterwards.
+Second, the presence of aviation personnel means that some reports come from witnesses who are accustomed to observing the sky. UFO researchers often regard such testimony as potentially more valuable than ordinary public reports, although professional status alone does not guarantee accuracy.
 
-The comparison with 2009 is still useful. Both periods show how reports can reinforce one another. A person who might normally ignore a distant light is more likely to watch, film and report it after several UFO stories have appeared in the press. Newspapers then receive more material, producing further attention. This does not mean witnesses are dishonest; it means that observation, interpretation and media coverage influence one another.
+The strongest Campania cases therefore tend to be those that involve aviation observers, multiple witnesses or some form of official recording rather than isolated stories passed through local folklore.
 
-The scale of the 1978 wave also warns against equating quantity with quality. Hundreds of reports may indicate an unusual stimulus, but they may equally reflect several overlapping causes: meteors, aircraft, balloons, bright planets, atmospheric effects, hoaxes and heightened public attention. A flap becomes evidentially strong only when separate observations can be linked through precise times, directions, radar tracks or other independent measurements.
+## What the Local Press Contributed
 
-## Airports, military activity and the Naples sky
+Campania's UFO memory owes a great deal to newspapers and regional media.
 
-Campania naturally encourages aviation-related interpretations because Naples is served by Capodichino Airport, while the wider region contains military facilities, busy commercial routes, coastal approaches and densely populated viewing areas. A light observed above Naples may appear to hover when an aircraft is approaching almost directly towards the witness. When it turns, its apparent colour, brightness and speed can change abruptly.
+Many sightings survive today only because local journalists reported them at the time. A typical pattern appears repeatedly:<img src="{{"/assets/images/Campania_5acc6a-Illustration-2-dark.svg" | relative_url }}" alt="Why Campania Keeps Appearing in UFO Stories illustration 2" data-theme-src-dark="{{"/assets/images/Campania_5acc6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Campania_5acc6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
-Yet the public Air Force entries for Campania do not document the kind of multi-sensor event that would make an aviation case unusually strong. The surviving records mainly say that known flights or weather balloons could not be matched. They do not report a confirmed unknown radar target manoeuvring near Capodichino, an interception by military aircraft or a pilot observation supported by calibrated instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+1. Witnesses report unusual lights.
+2. Local newspapers frame the event as a possible UFO.
+3. Public interest grows.
+4. Alternative explanations emerge days or weeks later.
+5. The correction receives less attention than the original mystery.</div>
 
-Claims linking Campania sightings to secret military technology therefore go beyond the evidence. Military and airport activity may explain some observations, but proximity to a base is not itself proof that a mysterious object was either an experimental aircraft or something non-human. A credible aviation connection requires exact location and timing, aircraft logs, air-traffic records, radar information or testimony from trained personnel.
+This pattern is not unique to Campania, but it has shaped how the region remembers its UFO history. Readers often remember the headline announcing a mystery more clearly than later explanations involving aircraft, atmospheric optics or astronomical events.
 
-Campania’s geography also complicates visual estimates. The Bay of Naples gives observers long, unobstructed sightlines, while Vesuvius provides a prominent reference point that appears in many descriptions. Lights over the sea may be much farther away than witnesses assume, and objects seen through haze can seem to brighten, fade or change colour. The region’s coastline makes simultaneous sightings from different towns possible, but without bearings from each location those reports cannot be reliably triangulated.
+The media therefore function as both archive and amplifier. Without local reporting, many incidents would disappear entirely. With it, even weakly documented cases can become part of regional UFO folklore.
 
+## Which Campania Cases Are Actually Strong?
 
+When assessing Campania’s UFO record, it helps to separate cases into three broad categories.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mV24HMFt81A" title="Mysterious Lights That Defy Explanation | The Proof Is Out There" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mV24HMFt81A" target="_blank" rel="noopener noreferrer">Mysterious Lights That Defy Explanation | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mV24HMFt81A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mV24HMFt81A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e_3VL06jAGs" title="Trentola Ducenta (CE) - Avvistamento UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e_3VL06jAGs" target="_blank" rel="noopener noreferrer">Trentola Ducenta (CE) - Avvistamento UFO</a></p><p class="youtube-embed-meta">Channel: Pupia Campania</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e_3VL06jAGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e_3VL06jAGs">Open on YouTube</a></p></div></div></div>
 
-## Why orange lights recur so often
 
-The recurring orange or red sphere is the most important pattern in Campania’s modern reports. Such descriptions appear in Giugliano, Naples, Castellammare di Stabia and the inland Rotondi–Paolisi case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-Several ordinary sources can produce this appearance:
 
-**Illuminated lanterns** rise slowly, drift with the wind and often glow orange-red. Groups released together may form lines, triangles or apparently organised formations. As individual flames weaken, the lights can seem to vanish suddenly.
 
-**Aircraft landing lights** can look nearly stationary when viewed head-on. The apparent object may then “turn” and accelerate as the aircraft changes its angle to the observer.
+### Relatively Strong Cases
 
-**Bright stars and planets** can flicker or change colour close to the horizon because their light passes through turbulent layers of air. Without foreground references, a stationary astronomical object may appear to move.
+These usually involve one or more of the following:<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
-**Meteors and re-entering debris** can create dramatic trails or multiple lights, although they usually last seconds or minutes rather than remaining stationary for long periods.
+* Pilots or aviation personnel.
+* Multiple independent witnesses.
+* Contemporary documentation.
+* Official reporting channels.
+* Corroboration from more than one source.</div>
 
-**Drones** have become an increasingly relevant explanation for recent footage. Their navigation lights, ability to hover and sudden directional changes can imitate features once treated as highly unusual.
+The 1973 airline-related sighting falls closer to this category than most ordinary reports because of its aviation connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The lantern explanation is particularly persuasive for the 2009 wave because it fits the colour, group behaviour and summer timing, and because investigators identified the same cause in large numbers of reports. It is less satisfactory for claims involving prolonged hovering against strong winds, rapid repeated manoeuvres or very close structured objects—but those stronger features must be supported by dependable evidence rather than memory alone.
+### Unresolved but Weak Cases
 
+Many Campania reports belong here.
 
+A witness may have sincerely observed something unusual, but essential information is missing:<div class="content-enhancement content-enhancement--metric" markdown="1">
 
-<img src="{{ "/assets/images/Campania_5acc6a-Illustration-2-dark.svg" | relative_url }}" alt="Why Campania&#x27;s UFO Waves Looked So... illustration 2" data-theme-src-dark="{{ "/assets/images/Campania_5acc6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Campania_5acc6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+* Exact location.
+* Duration.
+* Direction of travel.
+* Photographs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UrbanMyths/comments/1mtmx5k/1979_cecconi_incident_military_pilot_photographs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">1979 cecconi incident military pilot photographs</span><span class="citation-popover-snippet">1979 Cecconi Incident – Military Pilot Photographs UFO...In June 1979, Italian Air Force pilot Giancarlo Cecconi encountered a dark, cig...</span><span class="citation-popover-meta">Published: June 1979</span></span></span>
+* Radar data.
+* Independent confirmation.</div>
 
-## Local investigators and competing standards
+Such reports cannot be confidently explained, but neither can they be treated as strong evidence for anything extraordinary.<img src="{{"/assets/images/Campania_5acc6a-Illustration-3-dark.svg" | relative_url }}" alt="Why Campania Keeps Appearing in UFO Stories illustration 3" data-theme-src-dark="{{"/assets/images/Campania_5acc6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Campania_5acc6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Likely Misidentifications
 
-Campania has hosted more than one civilian UFO organisation, including CISU investigators and the Benevento-based UFO research centre commonly known as CUFOM. These groups have helped preserve reports that might otherwise disappear, but their approaches and public claims should not be treated as interchangeable.
+A substantial portion of UFO reports eventually prove compatible with known causes:
 
-CISU generally follows a case-investigation model that actively searches for conventional explanations. Its treatment of the 2009 wave is an important example: a large cluster initially promoted as mysterious was substantially weakened when investigators compared the lights with lantern releases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gialli.it/ufo-a-napoli-ecco-la-verita-del-cisu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gialli.it">[Gialli]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gialli.it</span><span class="citation-popover-title">Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo &#124; Gialli.it</span><span class="citation-popover-snippet">Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo &#124; Gialli.it...</span></span></span>
+* Aircraft.
+* Satellites.
+* Meteors.
+* Atmospheric phenomena.
+* Balloons.
+* Space launches.
 
-The Benevento organisation reported receiving a high number of cases during 2010, with incidents submitted from all five Campanian provinces. It said that roughly fifty merited closer analysis and acknowledged that some received rational explanations. Those figures, however, come from the organisation’s own public account rather than an independently audited regional catalogue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvsette.net/ufo-in-campania-le-analisi-di-un-2010-ricco-di-avvistamenti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvsette.net">[tvsette.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvsette.net</span><span class="citation-popover-title">ufo in campania le analisi di un 2010 ricco di avvistamenti</span><span class="citation-popover-snippet">ufo in campania le analisi di un 2010 ricco di avvistamenti</span></span></span>
+Italian UFO researchers and national summaries have long noted that most reported sightings ultimately receive ordinary explanations. Estimates cited in discussions of Italian UFO records suggest that the majority of cases are identifiable once sufficient information is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-This difference illustrates a wider problem in UFO research. A “case” may mean anything from an unverified message and a blurry phone image to a carefully interviewed multi-witness event. Counting reports without grading their quality can make a region appear more anomalous than the evidence warrants.
+## Why Campania Matters in Italy's UFO Story
 
-A useful regional archive should preserve both the original claim and the later assessment. It should state whether investigators obtained the unedited image, interviewed witnesses separately, checked weather and astronomical data, identified local celebrations, consulted flight information and established accurate viewing directions. Without those steps, the label “unexplained” often means only “not investigated far enough”.
+Campania matters less because of a single famous encounter and more because it illustrates how regional UFO history develops.
 
+The region combines several ingredients that repeatedly generate UFO reports:<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
+* A large population.
+* Heavy aviation traffic.
+* Military aviation presence.
+* Active local media.
+* Participation in national sighting waves.</div>
 
-<img src="{{ "/assets/images/Campania_5acc6a-Illustration-3-dark.svg" | relative_url }}" alt="Why Campania&#x27;s UFO Waves Looked So... illustration 3" data-theme-src-dark="{{ "/assets/images/Campania_5acc6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Campania_5acc6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+These factors create a steady flow of reports without necessarily producing definitive evidence for extraordinary phenomena.
 
-## Which Campania cases remain genuinely unresolved?
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZzNjaNySi7Y" title="Passiamo la notte sul monte con più avvistamenti UFO d’Italia! Loro sono qui !!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZzNjaNySi7Y" target="_blank" rel="noopener noreferrer">Passiamo la notte sul monte con più avvistamenti UFO d’Italia! Loro sono qui !!!</a></p><p class="youtube-embed-meta">Channel: PIT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZzNjaNySi7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZzNjaNySi7Y">Open on YouTube</a></p></div></div></div>
 
-A small number of Campania reports remain unresolved in the narrow sense that the available records do not identify a cause. The 2010 Naples and Castellammare observations, the Rotondi–Paolisi report and the unusual close-range claim from Cesa are examples. The Air Force could not match them with known flights or weather balloons, and the published files do not supply enough further evidence to settle them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-They should not all receive the same evidential rating:
-
-* The **Naples and Castellammare lights** are plausible but low-information observations. Their colour and slow movement resemble lanterns or aircraft, but the records are too sparse for certainty.
-* The **Rotondi–Paolisi sphere** is similarly weak because the file gives no precise altitude, duration, photograph or independent measurement.
-* The **Cesa close encounter** is more extraordinary in its claim, but not stronger in evidence. A reported object ten centimetres above the ground and two metres away should, in principle, allow detailed description or physical corroboration. The absence of such published material makes the account difficult to assess and increases, rather than reduces, the need for caution.
-
-An unresolved case is therefore not automatically an impressive one. A sighting may remain unidentified because it was genuinely unusual, but it may also remain unidentified because the witness supplied too little information, the report arrived late or the relevant records were unavailable.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hzyWDVyuX5M" title="Cobol Pongide | UFO e altre cose disfunzionali" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hzyWDVyuX5M" target="_blank" rel="noopener noreferrer">Cobol Pongide | UFO e altre cose disfunzionali</a></p><p class="youtube-embed-meta">Channel: MACRO ASILO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hzyWDVyuX5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hzyWDVyuX5M">Open on YouTube</a></p></div></div></div>
-
-## The most defensible reading of Campania’s UFO history
-
-Campania’s history contains real reports, sincere witnesses and official documentation. It also contains a clear example of how a regional mystery can grow around a repeated ordinary stimulus. The 2009 wave matters because it initially looked like a broad and coordinated phenomenon, yet later investigation strongly indicated that illuminated lanterns generated a large share of the sightings.
-
-The [Air Force files]({{ 'air-force-files-a5afdc/' | relative_url }}) add institutional weight but must be read precisely. They confirm that citizens made particular reports and that limited checks did not identify known aviation or weather-balloon activity. They do not confirm extraordinary machines, radar performance beyond conventional aircraft or an extraterrestrial presence.
-
-The region’s strongest cases would be those combining independent witnesses with original images, exact bearings, radar or air-traffic data and a documented investigation that rules out lanterns, aircraft, astronomical objects, drones and atmospheric effects. No publicly available Campania incident presently meets that standard convincingly.
-
-That leaves a balanced conclusion. Campania is a significant regional chapter in Italian UFO history because of its sighting waves, dense press attention, official files and active civilian investigators. But the evidence becomes less dramatic as its quality improves: many reports are probably explained, several are too weak to judge, and a smaller residue remains unresolved without providing persuasive proof of an extraordinary origin.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/99WhBfApJKE" title="UFO 78. Quando in Italia c&#x27;erano i dischi volanti" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=99WhBfApJKE" target="_blank" rel="noopener noreferrer">UFO 78. Quando in Italia c&#x27;erano i dischi volanti</a></p><p class="youtube-embed-meta">Channel: Broken Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=99WhBfApJKE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=99WhBfApJKE">Open on YouTube</a></p></div></div></div>
-
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Matches the page&#x27;s emphasis on aviation, witnesses and investigations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a></h4><p class="fr-book-author">By Jacques Vallee</p><p class="fr-book-desc">Places regional sighting traditions into broader historical context.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a></h4><p class="fr-book-author">By Ross Coulthart</p><p class="fr-book-desc">Explores recurring reports, official responses and evidence categories.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -540,21 +512,21 @@ That leaves a balanced conclusion. Campania is a significant regional chapter in
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to Why Campania&#x27;s UFO Waves Looked So Convincing. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Why Campania Keeps Appearing in UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
+<p class="fr-book-desc">Provides frameworks for judging sightings of varying quality.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -562,33 +534,16 @@ That leaves a balanced conclusion. Campania is a significant regional chapter in
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-</h4>
-<p class="fr-book-author">By Leslie Kean</p>
-        
-<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
         
-<p class="fr-book-desc">Over two decades ago, eminent scientist Vallee wrote a provocative book about alleged UFO landings, folklore, and certain unexplained phe...</p>
+<p class="fr-book-desc">Places regional sighting traditions into broader historical context.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -596,16 +551,33 @@ That leaves a balanced conclusion. Campania is a significant regional chapter in
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World: Science as a Candle in the Dark on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World: Science as a Candle in the Dark" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World: Science as a Candle in the Dark">The Demon-Haunted World: Science as a Candle in the Dark</a>
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
 </h4>
-<p class="fr-book-author">By Carl Sagan</p>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • From the renowned astronomer and author of Cosmos comes a “powerful [and] stirring defense of informed ration...</p>
+<p class="fr-book-desc">Examines recurring patterns across regions and decades.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
+        
+<p class="fr-book-desc">Explores recurring reports, official responses and evidence categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -613,7 +585,7 @@ That leaves a balanced conclusion. Campania is a significant regional chapter in
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
@@ -647,75 +619,74 @@ That leaves a balanced conclusion. Campania is a significant regional chapter in
 </div>
 
 <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
 <div class="fr-books-grid">
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/Gq8AAeSwAfRpfiq~/s-l225.jpg" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Dolores Mantez, Gabrielle Drake, Harry Baird 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/INgAAeSw8Udpfit0/s-l225.jpg" alt="Listing image for UFO (TV) Dolores Mantez, Gabrielle Drake, Harry Baird 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Dolores Mantez, Gabrielle Drake, Harry Baird 16x12 Photo Poster Print</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Unknown 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/QzYAAeSwajtpfisF/s-l225.jpg" alt="Listing image for UFO (TV) Unknown 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Unknown 16x12 Photo Poster Print</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/Xo4AAeSw3zdpfity/s-l225.jpg" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="why-campanias-ufo-waves-looked-so-why-campania-s-ufo-waves-looked-so-convincing-campania-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-campania-keeps-appearing-in-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -929,132 +900,72 @@ That leaves a balanced conclusion. Campania is a significant regional chapter in
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: gialli.it  
-   Title: Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo | Gialli.it  
-   Link:<a href="https://www.gialli.it/ufo-a-napoli-ecco-la-verita-del-cisu/" target="_blank" rel="noopener noreferrer nofollow">https://www.gialli.it/ufo-a-napoli-ecco-la-verita-del-cisu/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo | Gialli.it...</p></details>
-
-2.<a id="endnote-2"></a>
-   Source: euroufo.net  
-   Link:<a href="https://www.euroufo.net/2018/05/15/project1978/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/2018/05/15/project1978/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Great UFO Wave, 40 years later15 May 2018 — The ufomania in Italian newspapers was already... The national catalog of It...</p></details>
-   Published: May 2018  
-
-3.<a id="endnote-3"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf</a>  
-
-4.<a id="endnote-4"></a>
-   Source: cisu.org  
-   Title: capodanno 2017 dal cielo piovono ufo incendiari  
-   Link:<a href="https://www.cisu.org/capodanno-2017-dal-cielo-piovono-ufo-incendiari/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/capodanno-2017-dal-cielo-piovono-ufo-incendiari/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. Nell&#x27;estate del 2009 forse alcune centinaia di avvistamenti – soprattutto in Campania – furono dovute a cause di questo tipo e contr...</p></details>
-
-5.<a id="endnote-5"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/ModuloUFO-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/ModuloUFO-1.pdf</a>  
-
-6.<a id="endnote-6"></a>
-   Source: media.inaf.it  
-   Title: MEDIA INAFMassimo Berti, il generale degli UFO – MEDIA INAF  
-   Link:<a href="https://www.media.inaf.it/2015/09/14/massimo-berti-intervista/" target="_blank" rel="noopener noreferrer nofollow">https://www.media.inaf.it/2015/09/14/massimo-berti-intervista/</a>  
-
-7.<a id="endnote-7"></a>
-   Source: cisu.org  
-   Title: ufology in the 1970s  
-   Link:<a href="https://www.cisu.org/ufology-in-the-1970s/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/ufology-in-the-1970s/</a>  
-
-8.<a id="endnote-8"></a>
-   Source: tvsette.net  
-   Title: ufo in campania le analisi di un 2010 ricco di avvistamenti  
-   Link:<a href="https://www.tvsette.net/ufo-in-campania-le-analisi-di-un-2010-ricco-di-avvistamenti/" target="_blank" rel="noopener noreferrer nofollow">https://www.tvsette.net/ufo-in-campania-le-analisi-di-un-2010-ricco-di-avvistamenti/</a>  
-
-9.<a id="endnote-9"></a>
-   Source: cisu.org  
-   Link:<a href="https://www.cisu.org/progetto1978/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/progetto1978/</a>  
-
-10.<a id="endnote-10"></a>
-   Source: euroufo.net  
-   Link:<a href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/1978/</a>  
-
-11.<a id="endnote-11"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare OVNI  
-   Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare - Ministero della DifesaSegnalazioni O.V.N.I., Oggetti Volanti Non Identificati. In quest...</p></details>
-
-12.<a id="endnote-12"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militaremese nr. eventi  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2011.pdf</a>  
-
-13.<a id="endnote-13"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2012.pdf</a>  
-
-14.<a id="endnote-14"></a>
-   Source: aeronautica.difesa.it  
-   Title: it Capitolato speciale  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2026/03/BAF82C1999_Capitolatospecialeappalto_D003-26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2026/03/BAF82C1999_Capitolatospecialeappalto_D003-26.pdf</a>  
-
-15.<a id="endnote-15"></a>
-   Source: Wikipedia  
-   Link:<a href="https://en.wikipedia.org/wiki/Campania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Campania</a>  
-
-16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Link:<a href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO</a>  
 
-17.<a id="endnote-17"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2093548917723032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2093548917723032/</a>  
+2.<a id="endnote-2"></a>
+   Source: en.italiani.it  
+   Link:<a href="https://en.italiani.it/ufo-nei-cieli-italiani-verita-bugie/" target="_blank" rel="noopener noreferrer nofollow">https://en.italiani.it/ufo-nei-cieli-italiani-verita-bugie/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>in the Italian skies, truths and lies - Italy - italiani.it21 Dec 2016 — 1978 was the year in which more UFO sightings occurred in Italy...</p></details>
 
-18.<a id="endnote-18"></a>
-   Source: citalia.com  
-   Link:<a href="https://www.citalia.com/holidays/italy/campania/" target="_blank" rel="noopener noreferrer nofollow">https://www.citalia.com/holidays/italy/campania/</a>  
+3.<a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: Accademia Aeronautica  
+   Link:<a href="https://en.wikipedia.org/wiki/Accademia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Accademia_Aeronautica</a>  
+
+4.<a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Grazzanise Air Base  
+   Link:<a href="https://en.wikipedia.org/wiki/Grazzanise_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Grazzanise_Air_Base</a>  
+
+5.<a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in Italy  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
 ### Additional References
 
-19.<a id="endnote-19"></a>
+6.<a id="endnote-6"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/welcometoufo/videos/huge-ufo-landing-at-herculaneum-campania-italy-top-ufo-sighting-caught/311276023906375/?locale=ar_AR" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/welcometoufo/videos/huge-ufo-landing-at-herculaneum-campania-italy-top-ufo-sighting-caught/311276023906375/?locale=ar_AR</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Huge UFO Landing at Herculaneum, Campania, Italy | Top...UNBELIEVABLY RARE UFO VIDEO! Mysterious UFO Sighting Caught on Camera! 03:04. U...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: facebook.com  
+   Title: an unusual ufo was spotted hovering over a town in italy during the daytime witn  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/an-unusual-ufo-was-spotted-hovering-over-a-town-in-italy-during-the-daytime-witn/1621834109943222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/an-unusual-ufo-was-spotted-hovering-over-a-town-in-italy-during-the-daytime-witn/1621834109943222/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>An unusual UFO was spotted hovering over a town in Italy...In 1979, Italian Air Force marshal Giancarlo Cecconi was flying his G-91 figh...</p></details>
+
+8.<a id="endnote-8"></a>
+   Source: facebook.com  
+   Title: on september 14 2024 a disc shaped ufo was seen hovering near a cave in a remote  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/on-september-14-2024-a-disc-shaped-ufo-was-seen-hovering-near-a-cave-in-a-remote/1614950127298287/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/on-september-14-2024-a-disc-shaped-ufo-was-seen-hovering-near-a-cave-in-a-remote/1614950127298287/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>On September 14, 2024, a disc-shaped UFO was seen...On September 14, 2024, a disc-shaped UFO was seen hovering near a cave in a remote r...</p></details>
+   Published: September 14, 2024  
+
+9.<a id="endnote-9"></a>
+   Source: facebook.com  
+   Title: among the countless ufo photographs ever taken one from italy stands out as trul  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/among-the-countless-ufo-photographs-ever-taken-one-from-italy-stands-out-as-trul/1415860017207300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/among-the-countless-ufo-photographs-ever-taken-one-from-italy-stands-out-as-trul/1415860017207300/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Among the countless UFO photographs ever taken, one...This photograph is considered one of the most fascinating UFO captures in Italy...</p></details>
+
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Title: Fascist UFOs  
-   Link:<a href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ojvSWFiJiec</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Finally Took UFOs Seriously | The Science of UAPs Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybDQGcZjJWI</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Terrify Italy | The Proof Is Out There | HistoryCheck out these top UFO sightings in Italy, see more in this The Proof Is O...</p></details>
 
-20.<a id="endnote-20"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/whatthefacttttt/posts/a-triangle-shaped-ufo-often-appears-as-a-silent-dark-craft-with-glowing-corners-/948841711228990/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/a-triangle-shaped-ufo-often-appears-as-a-silent-dark-craft-with-glowing-corners-/948841711228990/</a>  
-
-21.<a id="endnote-21"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/among-the-countless-ufo-photographs-ever-taken-one-from-italy-stands-out-as-trul/1415860017207300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/among-the-countless-ufo-photographs-ever-taken-one-from-italy-stands-out-as-trul/1415860017207300/</a>  
-
-22.<a id="endnote-22"></a>
-   Source: archivissima.it  
-   Link:<a href="https://www.archivissima.it/it/oggetti/618-archivio-dell-ufficio-storico-dell-aeronautica-militare" target="_blank" rel="noopener noreferrer nofollow">https://www.archivissima.it/it/oggetti/618-archivio-dell-ufficio-storico-dell-aeronautica-militare</a>  
-
-23.<a id="endnote-23"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/Campaniaandjones/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/Campaniaandjones/</a>  
-
-24.<a id="endnote-24"></a>
-   Source: campaniaandjones.com  
-   Link:<a href="https://www.campaniaandjones.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.campaniaandjones.com/</a>  
-
-25.<a id="endnote-25"></a>
-   Source: ischiareview.com  
-   Link:<a href="https://www.ischiareview.com/campania.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ischiareview.com/campania.html</a>  
-
-26.<a id="endnote-26"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/17mvc1t/cigar_shaped_ufocraft_photographed_by_italian_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/17mvc1t/cigar_shaped_ufocraft_photographed_by_italian_air/</a>  
+   Title: 1979 cecconi incident military pilot photographs  
+   Link:<a href="https://www.reddit.com/r/UrbanMyths/comments/1mtmx5k/1979_cecconi_incident_military_pilot_photographs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1mtmx5k/1979_cecconi_incident_military_pilot_photographs/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>1979 Cecconi Incident – Military Pilot Photographs UFO...In June 1979, Italian Air Force pilot Giancarlo Cecconi encountered a dark, cig...</p></details>
+   Published: June 1979  
 
-27.<a id="endnote-27"></a>
-   Source: eataly.com  
-   Link:<a href="https://www.eataly.com/us_en/magazine/culture-and-tradition/guide-to-campania" target="_blank" rel="noopener noreferrer nofollow">https://www.eataly.com/us_en/magazine/culture-and-tradition/guide-to-campania</a>  
-
-28.<a id="endnote-28"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/welcometoufo/videos/huge-ufo-landing-at-herculaneum-campania-italy-top-ufo-sighting-caught/311276023906375/?locale=ar_AR" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/welcometoufo/videos/huge-ufo-landing-at-herculaneum-campania-italy-top-ufo-sighting-caught/311276023906375/?locale=ar_AR</a>  
+   Link:<a href="https://www.facebook.com/newsnercom/posts/this-mysterious-figure-appeared-in-the-clouds-above-italy-and-every-single-perso/2690135194487108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newsnercom/posts/this-mysterious-figure-appeared-in-the-clouds-above-italy-and-every-single-perso/2690135194487108/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>In 1979, former marshal Giancarlo Cecconi snapped it from the...Read more...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/livescience/posts/bizarre-ufo-like-halo-of-red-light-appears-over-small-italian-town-for-the-secon/1219530610036977/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livescience/posts/bizarre-ufo-like-halo-of-red-light-appears-over-small-italian-town-for-the-secon/1219530610036977/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>econd time in 3 years (Image credit: Valter Binotto)...</p></details>
+
+14.<a id="endnote-14"></a>
+   Source: huggingface.co  
+   Link:<a href="https://huggingface.co/api/resolve-cache/models/nilc-nlp/word2vec-cbow-600d/97319f6a2b184c6f16a0a4b784157dce8e43a3dc/vocab.txt?download=true&amp;etag=%2226f0e92107b5cac813a84224706022f15c49e0c5%22" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/api/resolve-cache/models/nilc-nlp/word2vec-cbow-600d/97319f6a2b184c6f16a0a4b784157dce8e43a3dc/vocab.txt?download=true&amp;etag=%2226f0e92107b5cac813a84224706022f15c49e0c5%22</a><details class="endnote-snippet"><summary>Source snippet</summary><p>ontem nível tenho situação disso...Read more...</p></details>
+
+15.<a id="endnote-15"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/movieslive.ntgroup/posts/1338474321427234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/movieslive.ntgroup/posts/1338474321427234/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Italian UFO sightings in 1978UFO sightings over NATO Aviano bases in Italy, 1978 · Italian Air Force pilot&#x27;s 1979 UFO encounter in Italy...</p></details>

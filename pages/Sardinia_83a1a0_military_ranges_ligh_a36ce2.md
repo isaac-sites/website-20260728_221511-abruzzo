@@ -4,51 +4,45 @@ basename: Sardinia_83a1a0_military_ranges_ligh_a36ce2
 parent_basename: Sardinia_83a1a0
 child_basenames: []
 sibling_basenames:
-- Sardinia_83a1a0_campeda_lost_film_f9d377
-- Sardinia_83a1a0_elmas_airport_case_86fce1
-- Sardinia_83a1a0_modern_ufo_explanati_6eaf8b
-- Sardinia_83a1a0_official_ufo_files_98c8b0
-- Sardinia_83a1a0_salto_quirra_rockets_178764
-- Sardinia_83a1a0_sardinia_1954_wave_8285e3
-- Sardinia_83a1a0_sardinia_1978_wave_b1a97b
-- Sardinia_83a1a0_southern_sardinia_cl_ad8c9f
-- Sardinia_83a1a0_why_cases_unresolved_fdb70d
+- Sardinia_83a1a0_1954_sighting_wave_9582f7
+- Sardinia_83a1a0_cagliari_porto_canal_a34ed6
+- Sardinia_83a1a0_campeda_film_claim_63b325
+- Sardinia_83a1a0_case_strength_rating_2b1cae
+- Sardinia_83a1a0_coastal_ferry_sighti_343c07
+- Sardinia_83a1a0_drones_satellites_ex_8f8a69
+- Sardinia_83a1a0_local_investigators_ddda8a
+- Sardinia_83a1a0_official_reporting_s_e1e4db
+- Sardinia_83a1a0_southern_sardinia_20_abed5b
 tags:
 - sardinia
-- military-skies
+- military-lights
 keywords:
 - sardinia
-- military-skies
+- military-lights
 affiliate_category: sardinia
 show_ads: true
-description: Bases and test ranges create many conventional sources of strange lights while also making civilian verification more difficult.
-hero_summary: Bases and test ranges create many conventional sources of strange lights while also making civilian verification more difficult.
+description: Sardinia's proving grounds and restricted airspace make military activity a key starting point for interpreting unusual lights.
+hero_summary: Sardinia's proving grounds and restricted airspace make military activity a key starting point for interpreting unusual lights.
 layout: default
-permalink: /military-skies/
+permalink: /military-lights-89ff30/
 sidebar_expanded_urls:
-- /why-sardinias-ufo-record-remains-so/
-nav_short_title: Military Skies
-title: How Military Activity Complicates Sardinian UFO Reports
-title_full: How Military Activity Complicates Sardinian UFO Reports | Sardinia UFOs
-display_title_short: Military Skies
-display_title: Military Skies
-heading_title: How Military Activity Complicates Sardinian UFO Reports
-page_heading_title: How Military Activity Complicates Sardinian UFO Reports
-source_count: 118
+- /what-makes-sardinias-ufo-record-so/
+nav_short_title: Military Lights
+title: When Are Sardinian UFOs Military Activity?
+title_full: When Are Sardinian UFOs Military Activity?
+display_title_short: Military Lights
+display_title: Military Lights
+heading_title: When Are Sardinian UFOs Military Activity?
+page_heading_title: When Are Sardinian UFOs Military Activity?
+source_count: 62
 infographic_count: 3
-site_visual_identity: signal-cobalt
-site_visual_identity_confidence: high
-site_visual_motif: horizon
-site_typography_tone: editorial
 planned_sections:
-- Aircraft training around Decimomannu and Capo Frasca
-- Weapons testing at Capo Teulada and Salto di Quirra
-- Why proximity to bases fuels both explanations and suspicion
-focal_unit_type: population_context
-topic_lens: mechanism
-topic_granularity: pillar
-search_intent: informational
-content_role: branch_hub
+- Capo Frasca, Teulada and Salto di Quirra
+- Aircraft, flares, drones and training lights
+- Why proximity is not proof
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: theme_cluster
 output_language: English
 lang: en
 locale: en
@@ -192,18 +186,7 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
-  report_details: Report details
-  report_actions: Report actions
-  sources: sources
-  graphics: graphics
-  copy_link: Copy link
-  cite_page: Cite page
-  print_save: Print / save
-  link_copied: Link copied
-  citation_copied: Citation copied
-  copy_failed: Copy failed
   topics: Topics
-  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -221,85 +204,84 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-27 00:04:19'
+date: '2026-07-01 09:38:36'
 parent_title: Sardinia UFOs
-parent_permalink: /why-sardinias-ufo-record-remains-so/
+parent_permalink: /what-makes-sardinias-ufo-record-so/
 parent_nav_short_title: Sardinia UFOs
-parent_heading_title: Why Sardinia's UFO Record Remains So Elusive
+parent_heading_title: What Makes Sardinia's UFO Record So Unusual?
 ancestor_links:
 - basename: Sardinia_83a1a0
   title: Sardinia UFOs
-  permalink: /why-sardinias-ufo-record-remains-so/
+  permalink: /what-makes-sardinias-ufo-record-so/
   short_title: Sardinia UFOs
 breadcrumb_links:
 - basename: Sardinia_83a1a0
   title: Sardinia UFOs
-  permalink: /why-sardinias-ufo-record-remains-so/
+  permalink: /what-makes-sardinias-ufo-record-so/
   short_title: Sardinia UFOs
 sibling_links:
-- basename: Sardinia_83a1a0_sardinia_1954_wave_8285e3
-  title: 1954 Wave | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /1954-wave-c5badc/
+- basename: Sardinia_83a1a0_1954_sighting_wave_9582f7
+  title: 1954 Wave | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /1954-wave-f2ff51/
   short_title: 1954 Wave
-  heading_title: How Sardinia Joined Europe's 1954 UFO Wave
-- basename: Sardinia_83a1a0_sardinia_1978_wave_b1a97b
-  title: 1978 Wave | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /1978-wave-64de9f/
-  short_title: 1978 Wave
-  heading_title: Was Sardinia Part of Italy's Great UFO Wave?
-- basename: Sardinia_83a1a0_campeda_lost_film_f9d377
-  title: Campeda Film | Why Sardinia's UFO Record Remains So Elusive
+  heading_title: Did Sardinia Have a 1954 UFO Wave?
+- basename: Sardinia_83a1a0_southern_sardinia_20_abed5b
+  title: 2022 Flap | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /2022-flap/
+  short_title: 2022 Flap
+  heading_title: Why Did Southern Sardinia Report So Many UFOs?
+- basename: Sardinia_83a1a0_campeda_film_claim_63b325
+  title: Campeda Film | What Makes Sardinia's UFO Record So Unusual?
   permalink: /campeda-film/
   short_title: Campeda Film
-  heading_title: What Happened to the Alleged Campeda UFO Film?
-- basename: Sardinia_83a1a0_elmas_airport_case_86fce1
-  title: Elmas Case | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /elmas-case/
-  short_title: Elmas Case
-  heading_title: Did Something Unusual Approach Elmas Airport?
-- basename: Sardinia_83a1a0_why_cases_unresolved_fdb70d
-  title: Evidence Gaps | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /evidence-gaps-f224dd/
-  short_title: Evidence Gaps
-  heading_title: Why So Many Sardinian UFO Cases Stay Unresolved
-- basename: Sardinia_83a1a0_modern_ufo_explanati_6eaf8b
-  title: Modern Causes | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /modern-causes/
-  short_title: Modern Causes
-  heading_title: What Modern Technology Looks Like a UFO?
-- basename: Sardinia_83a1a0_southern_sardinia_cl_ad8c9f
-  title: Modern Clusters | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /modern-clusters/
-  short_title: Modern Clusters
-  heading_title: Why Southern Sardinia Saw a Sudden UFO Cluster
-- basename: Sardinia_83a1a0_official_ufo_files_98c8b0
-  title: Official Files | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /official-files-8c38a5/
-  short_title: Official Files
-  heading_title: What Sardinia's Official UFO Files Actually Record
-- basename: Sardinia_83a1a0_salto_quirra_rockets_178764
-  title: Rocket Tests | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /rocket-tests/
-  short_title: Rocket Tests
-  heading_title: Could Rocket Tests Explain Sardinia's Strange Lights?
+  heading_title: What Happened to the Campeda UFO Film?
+- basename: Sardinia_83a1a0_case_strength_rating_2b1cae
+  title: Case Ratings | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /case-ratings/
+  short_title: Case Ratings
+  heading_title: Which Sardinian UFO Cases Still Matter?
+- basename: Sardinia_83a1a0_coastal_ferry_sighti_343c07
+  title: Coastal Cases | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /coastal-cases-fcda4d/
+  short_title: Coastal Cases
+  heading_title: Why Do Sardinian UFOs Appear Near the Sea?
+- basename: Sardinia_83a1a0_local_investigators_ddda8a
+  title: Local Archives | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /local-archives/
+  short_title: Local Archives
+  heading_title: Who Keeps Sardinia's UFO Stories Alive?
+- basename: Sardinia_83a1a0_drones_satellites_ex_8f8a69
+  title: Modern Explainers | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /modern-explainers/
+  short_title: Modern Explainers
+  heading_title: Are Sardinia's New UFOs Really Drones?
+- basename: Sardinia_83a1a0_official_reporting_s_e1e4db
+  title: Official Reports | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /official-reports/
+  short_title: Official Reports
+  heading_title: How Official UFO Reports Work in Sardinia
+- basename: Sardinia_83a1a0_cagliari_porto_canal_a34ed6
+  title: Porto Canale | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /porto-canale/
+  short_title: Porto Canale
+  heading_title: The Cagliari Lights That Escaped the Camera
 up_link:
   basename: Sardinia_83a1a0
   title: Sardinia UFOs
-  permalink: /why-sardinias-ufo-record-remains-so/
+  permalink: /what-makes-sardinias-ufo-record-so/
   short_title: Sardinia UFOs
-has_inline_related_reports_panel: true
 prev_link:
-  basename: Sardinia_83a1a0_why_cases_unresolved_fdb70d
-  title: Evidence Gaps | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /evidence-gaps-f224dd/
-  short_title: Evidence Gaps
-  heading_title: Why So Many Sardinian UFO Cases Stay Unresolved
+  basename: Sardinia_83a1a0_local_investigators_ddda8a
+  title: Local Archives | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /local-archives/
+  short_title: Local Archives
+  heading_title: Who Keeps Sardinia's UFO Stories Alive?
 next_link:
-  basename: Sardinia_83a1a0_modern_ufo_explanati_6eaf8b
-  title: Modern Causes | Why Sardinia's UFO Record Remains So Elusive
-  permalink: /modern-causes/
-  short_title: Modern Causes
-  heading_title: What Modern Technology Looks Like a UFO?
+  basename: Sardinia_83a1a0_drones_satellites_ex_8f8a69
+  title: Modern Explainers | What Makes Sardinia's UFO Record So Unusual?
+  permalink: /modern-explainers/
+  short_title: Modern Explainers
+  heading_title: Are Sardinia's New UFOs Really Drones?
 header:
   og_image: /assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-overview-social.jpg
   preview_image: /assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-overview.webp
@@ -308,201 +290,84 @@ image: /assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-overview-socia
 
 ## Introduction
 
-[Sardinia]({{ 'why-sardinias-ufo-record-remains-so/' | relative_url }})’s military ranges make its UFO reports harder to interpret, not automatically more mysterious. Around Decimomannu, Capo Frasca, Capo Teulada and Salto di Quirra, witnesses may encounter fast jets, helicopters, drones, flares, missile launches, air-to-ground exercises and unfamiliar patterns of night flying. These activities can produce lights, sounds and movements that look extraordinary when seen from a distance, particularly over dark countryside or offshore waters.
+[Sardinia]({{'what-makes-sardinias-ufo-record-so/' | relative_url }}) is one of the Italian regions where unusual night lights most urgently need to be read against a military map. The island contains three long-established coastal proving grounds — Capo Frasca, Capo Teulada and Salto di Quirra — plus Decimomannu air base and associated restricted or temporarily closed areas over land, sea and air. That does not make every Sardinian UFO report “just the military”. It does mean that aircraft, flares, target practice, drones, missile tests, simulated threats and training flights are among the first explanations investigators should check before treating a light as anomalous. Academic work on Sardinian military land use describes the three main proving grounds as dating from 1956 and covering about 234 square kilometres, with exercises able to block airspace and affect much wider parts of the island at certain times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2071-1050/12/2/622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Military Training Areas as Semicommons: The Territorial Valorization of Quirra (Sardinia) from Easements to Ecosystem Services...</span></span></span><img src="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-overview.webp" | relative_url }}" alt="Overview image for Military Lights" loading="eager" decoding="sync" fetchpriority="high">
+For Sardinian UFO history, the important point is not that military activity debunks every sighting. It is that the island’s military geography creates a high-risk environment for misidentification. A distant flare can look stationary, a fast jet can appear suddenly and vanish, a drone or target can move oddly, and a night exercise can be visible to witnesses who have no access to the relevant notice, radar picture or range schedule. The safest interpretation is therefore evidence-led: proximity to a range is a clue, not a verdict.
 
+## The Sardinian military map changes how UFO reports should be read
 
+Sardinia’s military footprint is not an incidental detail. The main proving grounds at Capo Frasca, Teulada and Salto di Quirra were built as part of the post-war military infrastructure of the island, and the same research literature notes that they involve inland restrictions, coastal limits and flight prohibitions or temporary airspace blocks. In plain terms, a witness in Sardinia may not simply be looking at an open civilian sky; they may be watching the edge of a managed training environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2071-1050/12/2/622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Military Training Areas as Semicommons: The Territorial Valorization of Quirra (Sardinia) from Easements to Ecosystem Services...</span></span></span>
 
-<img src="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-overview.webp" | relative_url }}" alt="Overview image for Military Skies" loading="eager" decoding="sync" fetchpriority="high">
+That matters because many UFO reports begin with a sincere but incomplete observation: “I saw a light moving strangely.” In a less militarised rural area, the most likely explanations might be aircraft, planets, satellites, lanterns or meteor activity. In parts of Sardinia, those ordinary possibilities remain, but they are joined by range-specific causes: military jets flying attack profiles, helicopters, illuminated targets, warning lights, flare-like devices, simulated threats, drones, rockets, sensor tests or naval activity offshore.
 
-The same military presence also creates a genuine evidence problem. Exercises may take place inside restricted airspace, involve aircraft unfamiliar to civilians and be announced through technical notices that most witnesses never see. Some operational details are not immediately public. A report near a range may therefore have a strong conventional explanation without investigators being able to match it quickly to a particular flight or weapon test.
+This is why a Sardinian sighting near a range should be assessed with a different burden of proof from a sighting in an area with little aviation activity. A report is stronger when it includes exact time, direction, duration, angular height, sound, weather, photographs with metadata, multiple independent witnesses, and checks against known exercises. A report is weaker when it only says that a light was “near a base” or that it “moved too fast” without a reliable frame of reference.<img src="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-1-dark.svg" | relative_url }}" alt="Military Lights illustration 1" data-theme-src-dark="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Capo Frasca, Teulada and Salto di Quirra are three different kinds of confusion zone
 
-This is why Sardinia’s military geography matters to its UFO history. It supplies unusually varied sources of misidentification while also encouraging suspicion whenever official confirmation is incomplete.
+The three major Sardinian ranges are often mentioned together, but they do not create identical sighting risks. Their different uses matter because they produce different kinds of lights, sounds and witness impressions.
 
-## Decimomannu and Capo Frasca create a crowded training sky
+**Capo Frasca**, on the west coast, is strongly associated with air-to-ground and sea-to-ground firing practice. Aviation reporting on Italian Tornado training describes missions from Decimomannu mainly using Capo Frasca, where aircraft carried inert practice bombs and flew planned attack patterns under range control. The same account describes “hot” and “dry” events, range targets, sensors and low-level approaches, all of which help explain why a civilian observer might see repeated lights, fast passes or unusual manoeuvres without seeing the full military context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theaviationist.com/2019/02/11/flying-with-the-tornado-attack-jets-at-the-bombing-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">The range is used for the daylight use of the gun inert dummy bombs.Read more</span><span class="citation-popover-snippet">The AviationistFlying With The Tornado Attack Jets At The Bombing RangeFebruary 11, 2019 — 11 Feb 2019 — A Tornado IDS of the 154° Gruppo...</span><span class="citation-popover-meta">Published: February 11, 2019</span></span></span>
 
-Decimomannu Air Base, north-west of Cagliari, is not simply a local military airfield. It supports Italian and allied flying, advanced pilot training and exercises involving several branches of the armed forces. The base’s Experimental and Standardisation Air-Gunnery Unit coordinates military flight activity, while the same command structure includes the Capo Frasca range on Sardinia’s west coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/news/international-flight-training-school-visita-del-capo-di-stato-maggiore-delle-forze-armate-del-qatar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica MilitareInternational Flight Training School: visita del Capo di Stato...18 Nov 2023 — Dal Comandante RSSTA dipendono il Dis...</span></span></span>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K6-6AYQYJm8" title="How paradise island Sardinia was poisoned by the world&#x27;s military | Foreign Correspondent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K6-6AYQYJm8" target="_blank" rel="noopener noreferrer">How paradise island Sardinia was poisoned by the world&#x27;s military | Foreign Correspondent</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K6-6AYQYJm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K6-6AYQYJm8">Open on YouTube</a></p></div></div></div>
 
-This connection matters because an observer does not need to be standing beside the runway to see activity associated with the base. Aircraft may climb, descend, hold, turn or travel between the airfield and training areas. From the ground, a jet approaching nearly head-on can resemble a bright, almost stationary light before suddenly changing direction as its angle alters. Several aircraft following related routes may look like lights moving in formation, separating or appearing one after another.
+## Aircraft, flares, drones and training lights can look stranger than they are
 
-The expansion of the International Flight Training School has reinforced Decimomannu’s role in advanced jet instruction. The school uses the T-346 training aircraft and combines live flying with ground-based simulation, while the Italian Air Force has described the development as significantly increasing its training capacity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/news/sardegna-presentato-a-decimomannu-il-nuovo-campus-dellinternational-flight-training-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica MilitareSardegna: presentato a Decimomannu il nuovo Campus dell...11 May 2023 — “L&#x27;International Flight Training School cons...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The most useful sceptical question is not “could the witness be lying?” but “what would this activity look like from the witness’s position?” Military training can produce effects that are genuinely odd to a casual observer while still being ordinary in context.
 
+A jet flying towards the observer can appear as a bright, almost stationary light before suddenly changing aspect or disappearing. A low-level pass may be heard after the visual event because sound arrives later than light. Navigation lights can seem to blink, split or merge when more than one aircraft is involved. A flare or illuminated target may appear to hover, descend slowly or pulse. A drone or remote target may make movements that do not resemble a familiar passenger aircraft. In coastal Sardinia, lights over the sea add another layer of confusion because distance, height and speed are harder to judge over a dark horizon.
 
+Capo Frasca offers a concrete example of why this matters. The Aviationist’s account of Tornado training describes pre-planned attack headings, racetrack-style patterns, dry passes, inert bomb drops, low-level approaches and range safety control. A witness outside the range who sees only the luminous or fast-moving parts of that sequence may report a mysterious object that appears, repeats a path, dives, flashes and vanishes. Those observations may be honest, but the correct explanation could still be routine range work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theaviationist.com/2019/02/11/flying-with-the-tornado-attack-jets-at-the-bombing-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">The range is used for the daylight use of the gun inert dummy bombs.Read more</span><span class="citation-popover-snippet">The AviationistFlying With The Tornado Attack Jets At The Bombing RangeFebruary 11, 2019 — 11 Feb 2019 — A Tornado IDS of the 154° Gruppo...</span><span class="citation-popover-meta">Published: February 11, 2019</span></span></span>
 
-<!-- HIERARCHY_NAV_START -->
-<aside class="related-reports" aria-label="Related pages">
-<h2>Follow this branch</h2>
-<div class="related-reports-grid">
-<section class="related-reports-section related-reports-section-closest">
-<h3>Closest pages</h3>
-<ul>
-<li><a href="{{ '/official-files-8c38a5/' | relative_url }}"><span class="article-branch-link-short">Official Files</span><span class="article-branch-link-heading">What Sardinia&#x27;s Official UFO Files Actually Record</span></a></li>
-<li><a href="{{ '/campeda-film/' | relative_url }}"><span class="article-branch-link-short">Campeda Film</span><span class="article-branch-link-heading">What Happened to the Alleged Campeda UFO Film?</span></a></li>
-<li><a href="{{ '/modern-clusters/' | relative_url }}"><span class="article-branch-link-short">Modern Clusters</span><span class="article-branch-link-heading">Why Southern Sardinia Saw a Sudden UFO Cluster</span></a></li>
-<li><a href="{{ '/evidence-gaps-f224dd/' | relative_url }}"><span class="article-branch-link-short">Evidence Gaps</span><span class="article-branch-link-heading">Why So Many Sardinian UFO Cases Stay Unresolved</span></a></li>
-<li><a href="{{ '/modern-causes/' | relative_url }}"><span class="article-branch-link-short">Modern Causes</span><span class="article-branch-link-heading">What Modern Technology Looks Like a UFO?</span></a></li>
-</ul>
-</section>
-</div>
-</aside>
-<!-- HIERARCHY_NAV_END -->
+Modern Sardinian training also includes fifth-generation aircraft and advanced simulation. The Italian Air Force reported in 2019 that six F-35A aircraft deployed to Decimomannu for about three weeks of advanced training with the air firing standardisation and experimentation unit. More recent Leonardo material on the International Flight Training School at Decimomannu describes a campus using M-346 aircraft, advanced simulators and real-virtual integration for fighter-pilot training. These are not automatically UFO explanations, but they show that the island’s skies are used for sophisticated aviation activity that may be unfamiliar to ordinary observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/news/f-35-rischieramento-a-decimomannu-per-continuare-laddestramento-verso-la-piena-capacita-operativa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Open source on difesa.it.</span></span></span><img src="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-2-dark.svg" | relative_url }}" alt="Military Lights illustration 2" data-theme-src-dark="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Restricted waters and temporary closures can create “mystery” for people outside the notice system
 
-Capo Frasca adds a different set of visual possibilities. It is an air-to-ground training range on the peninsula at the southern end of the Gulf of Oristano. Official reports document aircraft and helicopters deploying through Decimomannu for firing campaigns there, including air-to-ground training by the Italian Air Force’s 15th Wing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/news/cambio-comando-il-tenente-colonnello-degortes-nuovo-comandante-del-poligono-di-capo-frasca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica MilitareIL TENENTE COLONNELLO DEGORTES NUOVO...Il Tenente Colonnello Massimo Degortes subentra al Tenente Colonnello Mariano...</span></span></span>
+A recurring problem in Sardinian sighting interpretation is that military activity may be formally announced without being widely understood by the public. Mariners, residents and local campaigners may know that areas are sometimes closed, but a tourist, driver or casual sky-watcher may not connect a light on the horizon with an exercise notice or a coastal ban.
 
-To a distant civilian observer, range activity may be perceived only in fragments: a moving light, a brief flash near the horizon, an aircraft becoming visible when it turns, or illumination reflected from haze or low cloud. Distance is especially difficult to judge at night. A light over Capo Frasca can appear to be above an inland town, while a light seen from inland may actually be much farther west over the range or sea.
+Local reporting in 2025 described the autumn training season beginning at Quirra, Teulada and Capo Frasca, with sea areas off limits, state-owned areas between Sarrabus and Ogliastra inaccessible, new restrictions at Capo Frasca and hazardous submarine activity declared in the Gulf of Cagliari. The same kind of notice-driven activity is important for UFO analysis because it can place ships, aircraft, helicopters, drones or range support assets in areas where a witness only sees lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unionesarda.it/en/sardinia/submarine-and-armed-forces-in-action-military-bans-in-sardinian-waters-vc92i3iz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unionesarda.it">[L&#x27;Unione Sarda.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unionesarda.it</span><span class="citation-popover-title">L&#x27;Unione Sarda.it Submarine and armed forces in action: military bans</span><span class="citation-popover-snippet">L&#x27;Unione Sarda.it Submarine and armed forces in action: military bans</span></span></span>
 
-There are also reasons not to treat “military aircraft” as a complete explanation by itself. A useful identification should ideally match the time, bearing, duration and movement of the reported object with known activity. Simply noting that a base lies somewhere nearby does not prove that every unusual light came from it.
+This does not mean that every temporary closure corresponds to a visible aerial event. It means that a serious investigation should check coastal ordinances, exercise calendars, airspace restrictions and notices to airmen or mariners before calling a report unexplained. When the dates line up, the military explanation becomes stronger. When the dates do not line up, the sighting may still be ordinary — for example, aircraft, satellites or astronomical objects — but the range explanation becomes less secure.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PFvJq-cVnYM" title="L&#x27;International Flight Training School di Decimomannu - Video News Aeronautica Militare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PFvJq-cVnYM" target="_blank" rel="noopener noreferrer">L&#x27;International Flight Training School di Decimomannu - Video News Aeronautica Militare</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PFvJq-cVnYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PFvJq-cVnYM">Open on YouTube</a></p></div></div></div>
 
 
-<img src="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-1-dark.svg" | relative_url }}" alt="Military Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Night exercises can look stranger than routine aviation
+## Salto di Quirra adds rockets, aerospace testing and simulated threats to the picture
 
-The strongest conventional explanation for many lights near military areas is not a secret aircraft but an unfamiliar training event. Sardinian exercises regularly combine aircraft, helicopters, ground forces, ships, unmanned systems and simulated threats. Some are explicitly conducted by day and night. Joint Stars 2019, for example, involved more than 25 aircraft and helicopters as well as intensive daytime and night-time activity across locations including Decimomannu and Sardinia’s military ranges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.difesa.it/smd-/esercitazioni/esercitazione-joint-stars19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: difesa.it">[Difesa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">difesa.it</span><span class="citation-popover-snippet">Open source on difesa.it.</span></span></span>
+Salto di Quirra deserves special attention because it can produce interpretations that go beyond normal aircraft lights. The site has a long aerospace history, including sounding rocket work and later rocket-motor testing. Recent aerospace reporting says the facility played a role in Italy’s early space activity, hosted sounding rocket launches from 1961, and has also been used by Avio for Vega solid rocket motor tests. In 2025, European Spaceflight reported that an Italian commercial launch logistics company had secured approval for small-scale propulsion tests at Salto di Quirra and hoped eventually to support suborbital launches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanspaceflight.com">[European Spaceflight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanspaceflight.com</span><span class="citation-popover-title">European Spaceflight OLM Plans to Offer Commercial Launch Services from Sardinia</span><span class="citation-popover-snippet">European Spaceflight OLM Plans to Offer Commercial Launch Services from Sardinia</span></span></span>
 
-More recent Joint Stars exercises have integrated land, sea, air, cyber and space operations. The 2025 edition included combined air operations over Sardinia, simulated air threats, drones and command-and-control assets deployed near Capo San Lorenzo. Official descriptions also refer to testing responses to advanced weapons and swarms of unmanned aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.difesa.it/il-ministro/comunicati/difesa-il-ministro-crosetto-alla-joint-stars-2025-n-25/71775.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: difesa.it">[Difesa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">difesa.it</span><span class="citation-popover-snippet">Open source on difesa.it.</span></span></span>
+For a UFO investigator, that history matters in two ways. First, a rocket, missile, engine test or related range activity can create unusual light, smoke, sound and trajectory reports. Second, the existence of aerospace activity can tempt people into overinterpretation. A real rocket-testing site near a sighting does not prove that the witness saw a secret vehicle, let alone anything non-human. It simply widens the set of possible human explanations.
 
-Such exercises can create several effects likely to generate sincere UFO reports:
+The Italian Air Force’s own description of Falcon Strike 2025 at Salto di Quirra makes the modern point clearly: the range can combine real aircraft with virtual or reproduced threats, command-and-control systems, radar, optics and electronic-warfare assets. A civilian observer may not know whether a light belongs to an aircraft, a drone, a target, a support vehicle, a sensor-related activity or something unrelated in the same sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/falcon-strike-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">falcon strike 2025</span><span class="citation-popover-snippet">falcon strike 2025</span></span></span><img src="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-3-dark.svg" | relative_url }}" alt="Military Lights illustration 3" data-theme-src-dark="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why proximity to a range is not proof
 
+The biggest mistake is to make the argument too quickly in either direction. UFO enthusiasts may say that a light near a military range is more suspicious because the military might be tracking or concealing it. Sceptics may say that the same proximity proves the light was military. Neither move is reliable on its own.
 
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+Proximity is only a starting clue. It becomes persuasive when several details fit: the sighting time matches a known exercise; the direction of view points towards an active range or restricted area; the behaviour matches aircraft, flare, drone or rocket activity; other witnesses report sounds or repeated passes; and official or local notices confirm relevant closures. Without those checks, “near Capo Frasca” or “towards Quirra” remains a suggestive but incomplete explanation.
 
-* **Aircraft lights appearing to hover:** A jet flying towards an observer changes its apparent position slowly until it turns, when its speed suddenly becomes obvious.
-* **Multiple lights moving together:** Formation flying, aircraft joining a circuit or drones operating in a coordinated area can resemble a structured object.
-* **Brief flashes:** Air-to-ground firing, pyrotechnics, defensive countermeasures or impacts inside a range may be visible without the source itself being clear.
-* **Lights descending slowly:** Illumination devices suspended beneath parachutes can remain bright for longer than ordinary fireworks and may drift with the wind.
-* **Objects vanishing abruptly:** A turn can hide an aircraft’s forward-facing light, while cloud layers can make lights appear and disappear sharply.
-* **Sound arriving late or not at all:** Distance, wind and terrain can separate a visible event from its noise, making a conventional aircraft seem silent.
+The opposite is also true. A sighting is not strong simply because a witness says the light was unlike aircraft. Many range-related lights are unlike ordinary civilian aircraft from the point of view of someone who has never watched low-level training, target work or military night operations. A light that appears to hover may be moving towards the witness. A light that seems to accelerate may be changing angle. A “silent” object may be distant, high, downwind, or heard only after the observer has stopped watching.
 
-</div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9AMr_lw2hjU" title="Una docuserie sulla International Flight Training School - Video News Aeronautica Militare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9AMr_lw2hjU" target="_blank" rel="noopener noreferrer">Una docuserie sulla International Flight Training School - Video News Aeronautica Militare</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9AMr_lw2hjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9AMr_lw2hjU">Open on YouTube</a></p></div></div></div>
 
-These mechanisms do not explain every report, but they show why a witness’s description can be accurate while the interpretation remains mistaken. “It hovered”, “it made no sound” and “it disappeared instantly” may describe appearances produced by geometry, distance and lighting rather than the actual behaviour of the object.
 
-Training activity also changes over time. A resident familiar with older fighters may still be surprised by a new trainer, drone or exercise pattern. Local experience reduces some errors but cannot eliminate them when the aircraft type, route or operating method is unfamiliar.
 
+## A practical test for Sardinian “military light” claims
 
+A good Sardinian UFO assessment should work like a filter, not a verdict. The following questions help separate plausible military misidentifications from cases that deserve more careful treatment:<div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zRtG_qMoFVo" title="DRONE VIEW of NATO Response Force Base in EUROPE" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zRtG_qMoFVo" target="_blank" rel="noopener noreferrer">DRONE VIEW of NATO Response Force Base in EUROPE</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zRtG_qMoFVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zRtG_qMoFVo">Open on YouTube</a></p></div></div></div>
+1. **Where was the witness looking?** A report from the west coast towards Capo Frasca, the south-west towards Teulada, or the south-east towards Quirra has a different context from a report over central or northern inland areas.
+2. **Was there a known exercise or closure?** Exercise calendars, harbour or coast-guard notices, local reporting and airspace restrictions can turn a vague possibility into a strong explanation.
+3. **What did the light actually do?** Repeated passes, slow descents, sudden brightening, apparent hovering, paired lights and disappearances can all have military explanations, but the fit depends on timing, direction and duration.
+4. **Were aircraft, drones or ships involved nearby?** Modern exercises may involve air, sea and land assets at once. Capo Teulada and Salto di Quirra in particular can be part of wider multi-domain scenarios rather than isolated firing events. [L'Unione Sarda.it](https://www.unionesarda.it/en/sardinia/military-exercises-crosetto-at-capo-teulada-safety-is-not-a-given-joint-stars-is-the-future-fdi0fa40)
 
-## Capo Teulada adds artillery, aircraft and drones
+5. **Is there independent evidence?** Photographs, video metadata, multiple separated witnesses, radar confirmation, pilot testimony or official records make a case more useful. A single memory reported long after the event is much harder to evaluate.</div>
 
-Capo Teulada, in south-western Sardinia, is a major land-warfare training area rather than primarily an aviation base. Its relevance to unusual-light reports comes from the combination of live firing, armoured manoeuvres, artillery, aircraft support and night operations.
+This approach keeps the door open without letting speculation run the investigation. A case can remain unresolved because the data are insufficient, not because it has resisted all ordinary explanations.
 
-Italian Army accounts repeatedly describe exercises there as taking place in both daylight and darkness. Recent training has involved tanks, infantry, artillery, engineers, surveillance and targeting units. Other exercises have included Eurofighter aircraft and drones, while air controllers have trained with F-35s to coordinate close air support for forces on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esercito.difesa.it/comunicazione/esercitazione--capricorno-5-/93339.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esercito.difesa.it">[Esercito Italiano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esercito.difesa.it</span><span class="citation-popover-title">Esercito Italiano Esercitazione “Capricorno 5”</span><span class="citation-popover-snippet">Esercito Italiano Esercitazione “Capricorno 5”</span></span></span>
+## What this means for Sardinia’s UFO history
 
-This produces a different visual environment from Decimomannu. Instead of a single aircraft light, witnesses may see flashes close to the horizon, illumination above a training sector, aircraft circling at altitude or lights associated with temporary field positions. Terrain can conceal the lower part of an event, leaving only an apparently unsupported glow in the sky.
+Military activity is one of the main reasons Sardinia’s UFO record is difficult to read. The island has enough aviation, training and aerospace infrastructure to explain many unusual lights, especially around the three major ranges. At the same time, that same infrastructure can make reports more interesting when they are well documented, because military areas may have better radar coverage, trained observers and formal reporting channels than ordinary rural sightings.
 
-Night firing can also make movement difficult to reconstruct. A sequence of separate flashes may be remembered as one object travelling rapidly, particularly when the observer has no fixed reference point. Conversely, one illumination source drifting behind hills or cloud can appear to divide into several lights as its brightness changes.
+The problem is that many Sardinian cases in public circulation are thinly documented. Some are local press items, private UFO catalogue entries or second-hand summaries. They may be historically valuable as part of the island’s sighting culture, but they rarely contain enough information to overcome the military-misidentification problem. A bright orange globe, a fast light over the coast or a formation near a range may be intriguing; without date, time, position, direction and checks against activity notices, it remains weak evidence.
 
-Official descriptions confirm that Capo Teulada exercises can be extensive and prolonged, involving hundreds of personnel, numerous vehicles and repeated day-and-night activity. This makes military training a serious first-line explanation for reports from the surrounding area during known exercise periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esercito.difesa.it/comunicazione/esercitazione--red-autumn-2022-/92339.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esercito.difesa.it">[Esercito Italiano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esercito.difesa.it</span><span class="citation-popover-snippet">Open source on difesa.it.</span></span></span>
-
-It should not, however, become an automatic dismissal. A light reported far outside the relevant sector, on a date when no compatible activity can be established, still requires separate examination. The evidential value lies in a specific match, not merely in geographical proximity.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sorDpdkCr4Q" title="SASSARI, L&#x27;UFOLOGO E I SUOI AVVISTAMENTI: &quot;GLI ALIENI SONO TRA NOI&quot;" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sorDpdkCr4Q" target="_blank" rel="noopener noreferrer">SASSARI, L&#x27;UFOLOGO E I SUOI AVVISTAMENTI: &quot;GLI ALIENI SONO TRA NOI&quot;</a></p><p class="youtube-embed-meta">Channel: Telesardegna</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sorDpdkCr4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sorDpdkCr4Q">Open on YouTube</a></p></div></div></div>
-
-## Salto di Quirra has produced genuinely unusual displays
-
-Salto di Quirra, centred near Perdasdefogu and extending towards the east coast, presents the clearest example of military and aerospace activity creating sights that would be extraordinary in an ordinary civilian setting. It is an inter-service experimental and training range under Italian Air Force authority, used for missile, weapons and aerospace testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.difesa.it/assets/allegati/1884/b9d055be-b3f7-4afc-930c-de321313cbd7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: difesa.it">[Difesa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">difesa.it</span><span class="citation-popover-snippet">Open source on difesa.it.</span></span></span>
-
-The site also has an important early spaceflight history. Beginning in 1961, sounding rockets were launched from the range for atmospheric research. Later campaigns involved European research rockets, while other programmes tested propulsion systems and experimental vehicles. One historical launch database lists more than a hundred launches associated with the site between 1961 and 1992.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Salto_di_Quirra" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Salto di Quirra</span><span class="citation-popover-snippet">Salto di Quirra</span></span></span>
-
-Some early atmospheric experiments were designed to create visible phenomena. Rockets released sodium and lithium at high altitude so that glowing artificial clouds could be observed from ground stations and used to study upper-atmospheric winds. A luminous cloud produced tens of kilometres above Sardinia could expand, drift or change shape in ways wholly unlike an aircraft. Seen without advance knowledge, it would be an excellent candidate for an extraordinary-light report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Salto_di_Quirra" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Salto di Quirra</span><span class="citation-popover-snippet">Salto di Quirra</span></span></span>
-
-Historical rocket activity therefore demonstrates an important point: at least some strange-looking events over Sardinia have had technological causes that were genuinely unusual, not merely misidentified airliners or planets. A conventional explanation can still involve experimental hardware, high-altitude releases or missile trajectories outside ordinary public experience.
-
-Salto di Quirra remains relevant in the present. Joint Stars 2023 used the area alongside Decimomannu and Capo Teulada, while the 2025 exercise included missile and air-defence activity in eastern Sardinia. Reporting later confirmed that missiles fired during the exercise had entered the sea and that navigation restrictions remained in place while recovery efforts continued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.difesa.it/smd/comunicati/al-via-in-sardegna-la-joint-stars-2023-principale-evento-addestrativo-della-difesa/27266.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: difesa.it">[difesa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">difesa.it</span><span class="citation-popover-snippet">Open source on difesa.it.</span></span></span>
-
-A missile launch or interception exercise may generate a bright climbing point, a plume illuminated by the Sun, fragments moving on different paths or a distant flash. These effects can be visible well beyond the range itself. Their appearance will vary according to altitude, cloud, viewing angle and whether the observer sees the powered phase, the exhaust trail or only reflected light.
-
-
-
-<img src="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-2-dark.svg" | relative_url }}" alt="Military Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-## Restricted information encourages suspicion
-
-Military ranges complicate investigation because the information needed to test a sighting is divided among different systems. Civilian witnesses may know the time and approximate direction but not the relevant restricted-airspace boundaries. Aviation notices may establish that an area was active without identifying every aircraft or munition involved. Public military reports often describe an exercise broadly but do not provide a minute-by-minute operational record.
-
-This gap is not imaginary. Sardinia contains a disproportionately large share of Italy’s land affected by military ranges and related restrictions. Parliamentary records have repeatedly discussed the concentration of military easements on the island, including claims that Sardinia accounted for roughly 60 per cent of the national total.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documenti.camera.it/leg17/resoconti/assemblea/html/sed0227/leg.17.sed0227.allegato_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documenti.camera.it">[Camera dei Deputati]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documenti.camera.it</span><span class="citation-popover-title">dei Deputati Allegato B ai resoconti dell&#x27;Assemblea</span><span class="citation-popover-snippet">dei Deputati Allegato B ai resoconti dell&#x27;Assemblea</span></span></span>
-
-The ranges have also been the focus of political arguments over environmental effects, land access and transparency. Those disputes are separate from UFO claims, but they influence how residents interpret unexplained activity. In communities already concerned about what has been fired, tested or left within restricted areas, an unidentified light may be viewed as evidence of secrecy rather than simply an incomplete observation.
-
-That response is understandable, but it can create a circular argument:
-
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
-1. A witness sees an unexplained light near a range.
-2. No detailed operational account is immediately available.
-3. The absence of information is treated as evidence that the event was highly secret.
-4. The presumed secrecy is then used to strengthen the original extraordinary interpretation.
-
-</div>
-
-The missing information may indeed prevent identification. It does not establish what the object was. “Unresolved because records are unavailable” is weaker than “unresolved despite complete flight, radar and exercise records”.
-
-The reverse mistake also occurs. Officials or sceptics may invoke military activity in general without demonstrating that a compatible operation took place. That approach converts a plausible explanation into an unsupported assumption. Both sides benefit from the same discipline: establish the exact date, time, direction and duration before drawing conclusions.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d0LCzes4r48" title="IXV System Drop Test" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d0LCzes4r48" target="_blank" rel="noopener noreferrer">IXV System Drop Test</a></p><p class="youtube-embed-meta">Channel: CIRAChannel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d0LCzes4r48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d0LCzes4r48">Open on YouTube</a></p></div></div></div>
-
-## A reported object near Capo Frasca
-
-Civilian UFO literature contains reports explicitly linked to the Capo Frasca area, including accounts attributed to aviation personnel observing an unidentified object near the range. A fragment indexed from an Italian UFO journal refers to an object reported near Capo Frasca and to sighting forms completed by personnel associated with the Elmas control tower.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.scribd.com/document/464573267/UFO-Rivista-di-Informazione-Ufologica-No-29-pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: it.scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">it.scribd.com</span><span class="citation-popover-title">UFO Rivista Di Informazione Ufologica</span><span class="citation-popover-snippet">UFO Rivista Di Informazione Ufologica</span></span></span>
-
-This is potentially significant because reports by air-traffic or military personnel may include better positional awareness than an ordinary roadside sighting. Yet the accessible material is fragmentary. Without the complete original forms, precise times, radar information and details of contemporaneous training activity, the case cannot be assessed confidently.
-
-It illustrates a recurring weakness in Sardinian military-linked UFO stories: a suggestive location and apparently credible witnesses survive in later summaries, while the primary records needed for reconstruction are difficult to obtain. The correct classification is therefore not “confirmed military encounter” or “debunked aircraft”, but weakly documented and presently unresolved.
-
-Modern reports near San Sperate and the State Road 130 corridor raise similar interpretive questions because the area lies within the broader aviation environment around Decimomannu. Local media reported repeated unusual-light claims there in 2022, but the published accounts did not establish a match with military traffic, radar data or a precisely documented exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sardegnalive.net/in-sardegna/ufo-continuano-gli-avvistamenti-in-sardegna-segnalazioni-da-san-sperate-dxylh3yg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sardegnalive.net">[Sardegna Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sardegnalive.net</span><span class="citation-popover-title">Sardegna Live Ufo. Continuano gli avvistamenti in Sardegna</span><span class="citation-popover-snippet">Sardegna Live Ufo. Continuano gli avvistamenti in Sardegna</span></span></span>
-
-Proximity makes training activity plausible. It does not by itself settle the sightings.
-
-## How to assess a military-area sighting
-
-Reports near Sardinia’s ranges are most useful when they preserve enough detail to distinguish aircraft, missiles, drones and illumination devices from astronomical objects or genuinely unexplained events. Several questions have greater evidential value than dramatic descriptions alone.
-
-**Was a range or exercise area active?**
-
-A published exercise announcement, airspace restriction or maritime warning can establish that unusual activity was possible. It should then be checked against the witness’s exact time rather than the date alone.
-
-**Where was the observer looking?**
-
-A compass direction and elevation are more useful than saying the object was “over the base”. Human estimates of distance at night are unreliable, especially over sea or unlit land.
-
-**Did the light change with viewing angle?**
-
-A bright light that dims sharply during a turn is consistent with an aircraft’s directional lighting. A flare or illumination round is more likely to descend or drift steadily.
-
-**Were there several independent viewpoints?**
-
-Reports from separated locations can allow triangulation. Multiple social-media posts from people standing in the same town may only repeat the same visual ambiguity.
-
-**Was there radar, radio or photographic evidence?**
-
-A video of a point of light rarely establishes speed or distance. Radar data, original image files, air-traffic records and accurately timed photographs can materially improve a case.
-
-**Was military activity demonstrated or merely assumed?**
-
-The phrase “near a base” should begin an investigation, not end it.
-
-This approach also protects genuinely unusual cases from being explained too casually. After known aircraft, exercises, astronomical objects, satellites and atmospheric effects have been tested against the report, any remaining anomaly has a clearer basis.
-
-
-
-<img src="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-3-dark.svg" | relative_url }}" alt="Military Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sardinia_83a1a0_military_ranges_ligh_a36ce2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-## Why the ranges explain much, but not everything
-
-Sardinia’s military landscape offers a strong explanation for why residents repeatedly report unfamiliar lights. Decimomannu produces frequent advanced flying; Capo Frasca supports air-to-ground activity; Capo Teulada combines live firing with night manoeuvres; and Salto di Quirra has hosted missile tests, rocket launches and atmospheric experiments capable of producing striking visual effects.
-
-The evidence does not show that every report near these sites was caused by military activity. In many cases, the records are too incomplete to connect a sighting with a particular operation. Nor does the available material establish a securely documented Sardinian case in which an extraordinary craft was independently confirmed around a range.
-
-The most defensible conclusion lies between those extremes. Sardinia’s bases and ranges create an unusually rich environment for sincere misidentification, including events far less familiar than normal commercial aviation. Restricted access and incomplete public records then make some reports difficult to close. The resulting uncertainty is real, but uncertainty about which military or natural mechanism occurred is not evidence of a non-human vehicle.
-
-For Sardinian UFO history, the military connection is therefore best understood as a mechanism of ambiguity. It supplies unusual lights, limits easy verification and shapes local suspicion at the same time.
+The best reading of Sardinia is therefore neither dismissive nor sensational. Capo Frasca, Teulada and Salto di Quirra make the island one of Italy’s clearest examples of how military geography can shape UFO reports. They generate real unusual-looking lights, real public confusion and real investigative pitfalls. They also remind readers that “unidentified” is not a conclusion about alien craft. In Sardinia, it often means that the observer saw too little of a complex sky to identify what was happening.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -511,21 +376,21 @@ For Sardinian UFO history, the military connection is therefore best understood 
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to How Military Activity Complicates Sardinian UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to When Are Sardinian UFOs Military Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men%3A+A+Journey+into+Disinformation%2C+Paranoia+and+UFOs+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men: A Journey into Disinformation, Paranoia and UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men: A Journey into Disinformation, Paranoia and UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mirage+Men%3A+A+Journey+into+Disinformation%2C+Paranoia+and+UFOs+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men: A Journey into Disinformation, Paranoia and UFOs">Mirage Men: A Journey into Disinformation, Paranoia and UFOs</a>
+<a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
 </h4>
-<p class="fr-book-author">By Mark Pilkington</p>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-<p class="fr-book-desc">Seeking the truth about UFOs in America, Mark Pilkington and John Lundberg uncover a 60 year-old story stranger than any conspiracy thril...</p>
+<p class="fr-book-desc">Explores links between secret testing and UFO reports.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mirage+Men%3A+A+Journey+into+Disinformation%2C+Paranoia+and+UFOs+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -533,16 +398,16 @@ For Sardinian UFO history, the military connection is therefore best understood 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works%3A+A+Personal+Memoir+of+My+Years+at+Lockheed+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works: A Personal Memoir of My Years at Lockheed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works: A Personal Memoir of My Years at Lockheed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Skunk+Works%3A+A+Personal+Memoir+of+My+Years+at+Lockheed+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works: A Personal Memoir of My Years at Lockheed">Skunk Works: A Personal Memoir of My Years at Lockheed</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
-<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">The former head of Lockheed&#x27;s SKUNK WORKS reveals the amazing story of the secret aircraft that changed the course of history - from the...</p>
+<p class="fr-book-desc">Discusses common misidentifications and investigation methods.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Skunk+Works%3A+A+Personal+Memoir+of+My+Years+at+Lockheed+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -550,16 +415,16 @@ For Sardinian UFO history, the military connection is therefore best understood 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Jane%27s+Aircraft+Recognition+Guide+by+G%C3%BCnter+G.+Endres&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jane&#x27;s Aircraft Recognition Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q8-NgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Jane&#x27;s Aircraft Recognition Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Jane%27s+Aircraft+Recognition+Guide+by+G%C3%BCnter+G.+Endres&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s Aircraft Recognition Guide">Jane&#x27;s Aircraft Recognition Guide</a>
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
-<p class="fr-book-author">By Günter G. Endres, Michael J. Gething</p>
+<p class="fr-book-author">By Leslie Kean</p>
         
-<p class="fr-book-desc">Profiles nearly five hundred civil and military jets, helicopters, and other aircraft, providing color photos, multi-angle drawings, brie...</p>
+<p class="fr-book-desc">Includes aviation and military witness perspectives.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Jane%27s+Aircraft+Recognition+Guide+by+G%C3%BCnter+G.+Endres&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -567,16 +432,16 @@ For Sardinian UFO history, the military connection is therefore best understood 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+<a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
-<p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-<p class="fr-book-desc">Since the publication of the second edition of &quot;Introduction to Radar Systems,&quot; there has been continual development of new radar capabil...</p>
+<p class="fr-book-desc">Helps readers understand how advanced military aircraft can be mistaken for anomalies.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -584,127 +449,29 @@ For Sardinian UFO history, the military connection is therefore best understood 
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men%3A+A+Journey+into+Disinformation%2C+Paranoia+and+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men: A Journey into Disinformation, Paranoia and UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Military+Activity+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Military Activity biography</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jane%27s+Aircraft+Recognition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jane&#x27;s Aircraft Recognition books</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
-
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">aviation poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
-<div class="fr-books-grid">
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="1">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236782812235?_skw=aviation+poster+-book+-books&amp;hash=item37215afc4b%3Ag%3AKZwAAeSw8P5p39er&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaUcKQhm5dCn1KNAUFmaXvlON9BbEnNLQj8wYide69stZ%2B8QKfyQkejRBUgFD37vzfPNFheGEFycWwyIL3ZypM9lyAEmQLcO8C7rXRmK0%2BglQNMpTVVEmVcHYd8O3GVfiQBJggqVWs6GxRYAcX%2FDtLQjrN8OPEvbuOisBFueuMAglsH4WJUbzrgbJXs%2Fi94WbEfmP%2BYgarwv%2FyWQX%2BthI%2B47BQvLWVMXvP4xMDbYM%2B2e87HjmgBl9%2BZlt9044g%2F9l2APmpr8VU9asGqXTYXu%2F826Ky15lJRbkMz9nvxlyq%2BvfIkyigRrvpjhFpo%2FThJqzQ%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="1" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/236782812235?_skw=aviation+poster+-book+-books&amp;hash=item37215afc4b%3Ag%3AKZwAAeSw8P5p39er&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaUcKQhm5dCn1KNAUFmaXvlON9BbEnNLQj8wYide69stZ%2B8QKfyQkejRBUgFD37vzfPNFheGEFycWwyIL3ZypM9lyAEmQLcO8C7rXRmK0%2BglQNMpTVVEmVcHYd8O3GVfiQBJggqVWs6GxRYAcX%2FDtLQjrN8OPEvbuOisBFueuMAglsH4WJUbzrgbJXs%2Fi94WbEfmP%2BYgarwv%2FyWQX%2BthI%2B47BQvLWVMXvP4xMDbYM%2B2e87HjmgBl9%2BZlt9044g%2F9l2APmpr8VU9asGqXTYXu%2F826Ky15lJRbkMz9nvxlyq%2BvfIkyigRrvpjhFpo%2FThJqzQ%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="1" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 20.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/236782812235?_skw=aviation+poster+-book+-books&amp;hash=item37215afc4b%3Ag%3AKZwAAeSw8P5p39er&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaUcKQhm5dCn1KNAUFmaXvlON9BbEnNLQj8wYide69stZ%2B8QKfyQkejRBUgFD37vzfPNFheGEFycWwyIL3ZypM9lyAEmQLcO8C7rXRmK0%2BglQNMpTVVEmVcHYd8O3GVfiQBJggqVWs6GxRYAcX%2FDtLQjrN8OPEvbuOisBFueuMAglsH4WJUbzrgbJXs%2Fi94WbEfmP%2BYgarwv%2FyWQX%2BthI%2B47BQvLWVMXvP4xMDbYM%2B2e87HjmgBl9%2BZlt9044g%2F9l2APmpr8VU9asGqXTYXu%2F826Ky15lJRbkMz9nvxlyq%2BvfIkyigRrvpjhFpo%2FThJqzQ%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="1" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="2">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/370583116267?_skw=aviation+poster+-book+-books&amp;hash=item56487999eb%3Ag%3A0nMAAOSw9VRmBxDw&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYiaUPtLJ2RzvMpeDxmfa5RrK%2B5OTqhhfwLeL5ODn3shC%2BDwoaraZA1kKsy4L0Or2CbFfT30imnN1mQWAzrAcX9X1s%2BMhc0dJ7mkcjOFStZkdT9fkw0YFswG%2Fr6O7A2M3TLkC2MgDmt2KiiU%2BaRTcp3jGdr2ENaoIYL2hklLb4%2FOg4fB6C6wSUehdh1tqWGrkX6aww2jwfb94yegOWW6M8lju38v%2BSKliMFvpxnhEMb3iRCNVIaKM3fCQi9HGMuBc7YwBAn5P73hvkf1uar2n6Uy8gFY3IVLvvat7YbVMGL8uAmEfmpm%2BthQw225jB%2BOMI%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="2" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/370583116267?_skw=aviation+poster+-book+-books&amp;hash=item56487999eb%3Ag%3A0nMAAOSw9VRmBxDw&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYiaUPtLJ2RzvMpeDxmfa5RrK%2B5OTqhhfwLeL5ODn3shC%2BDwoaraZA1kKsy4L0Or2CbFfT30imnN1mQWAzrAcX9X1s%2BMhc0dJ7mkcjOFStZkdT9fkw0YFswG%2Fr6O7A2M3TLkC2MgDmt2KiiU%2BaRTcp3jGdr2ENaoIYL2hklLb4%2FOg4fB6C6wSUehdh1tqWGrkX6aww2jwfb94yegOWW6M8lju38v%2BSKliMFvpxnhEMb3iRCNVIaKM3fCQi9HGMuBc7YwBAn5P73hvkf1uar2n6Uy8gFY3IVLvvat7YbVMGL8uAmEfmpm%2BthQw225jB%2BOMI%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="2" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 22.30 | Shipping GBP 13.96</span><span>New</span><span>Seller: artscape galleries (99.9% positive)</span><span>Ships from: US</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/370583116267?_skw=aviation+poster+-book+-books&amp;hash=item56487999eb%3Ag%3A0nMAAOSw9VRmBxDw&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYiaUPtLJ2RzvMpeDxmfa5RrK%2B5OTqhhfwLeL5ODn3shC%2BDwoaraZA1kKsy4L0Or2CbFfT30imnN1mQWAzrAcX9X1s%2BMhc0dJ7mkcjOFStZkdT9fkw0YFswG%2Fr6O7A2M3TLkC2MgDmt2KiiU%2BaRTcp3jGdr2ENaoIYL2hklLb4%2FOg4fB6C6wSUehdh1tqWGrkX6aww2jwfb94yegOWW6M8lju38v%2BSKliMFvpxnhEMb3iRCNVIaKM3fCQi9HGMuBc7YwBAn5P73hvkf1uar2n6Uy8gFY3IVLvvat7YbVMGL8uAmEfmpm%2BthQw225jB%2BOMI%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="2" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="3">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236782812237?_skw=aviation+poster+-book+-books&amp;hash=item37215afc4d%3Ag%3AqZIAAeSwgAxp39jE&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaskprfsBOXWwtgw6F2GWtTjKHo0%2BwmRtWx4E5rLiOEYvvmNnC0HTnUew07DC%2BQdUg6nPaYFbh8gwbHKJSzUIXxz7BssYTSypF%2FehIt4T6UH62Uf%2FEvo%2F5FA3zHhf%2FZ%2BYrnQ83hU4lkqt8omBQqqMSrIZgkCs255OslE7jZe3U6EJVnMTFNUrsKWoXccEcye%2Ba4wwDQZWuvC7Oo%2Bei0T7Ka%2BPk8rHbbAVShzRHs29LYvsTI3fBdAykwKk%2FgwfxTzJsnpbAyoMEY9DpbSYSXO%2BWQj2gblMLs4kcYqEUGwFHIoUX44TFPAZ%2FBV6eDsmAnDBg%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="3" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/236782812237?_skw=aviation+poster+-book+-books&amp;hash=item37215afc4d%3Ag%3AqZIAAeSwgAxp39jE&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaskprfsBOXWwtgw6F2GWtTjKHo0%2BwmRtWx4E5rLiOEYvvmNnC0HTnUew07DC%2BQdUg6nPaYFbh8gwbHKJSzUIXxz7BssYTSypF%2FehIt4T6UH62Uf%2FEvo%2F5FA3zHhf%2FZ%2BYrnQ83hU4lkqt8omBQqqMSrIZgkCs255OslE7jZe3U6EJVnMTFNUrsKWoXccEcye%2Ba4wwDQZWuvC7Oo%2Bei0T7Ka%2BPk8rHbbAVShzRHs29LYvsTI3fBdAykwKk%2FgwfxTzJsnpbAyoMEY9DpbSYSXO%2BWQj2gblMLs4kcYqEUGwFHIoUX44TFPAZ%2FBV6eDsmAnDBg%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="3" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 36.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/236782812237?_skw=aviation+poster+-book+-books&amp;hash=item37215afc4d%3Ag%3AqZIAAeSwgAxp39jE&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaskprfsBOXWwtgw6F2GWtTjKHo0%2BwmRtWx4E5rLiOEYvvmNnC0HTnUew07DC%2BQdUg6nPaYFbh8gwbHKJSzUIXxz7BssYTSypF%2FehIt4T6UH62Uf%2FEvo%2F5FA3zHhf%2FZ%2BYrnQ83hU4lkqt8omBQqqMSrIZgkCs255OslE7jZe3U6EJVnMTFNUrsKWoXccEcye%2Ba4wwDQZWuvC7Oo%2Bei0T7Ka%2BPk8rHbbAVShzRHs29LYvsTI3fBdAykwKk%2FgwfxTzJsnpbAyoMEY9DpbSYSXO%2BWQj2gblMLs4kcYqEUGwFHIoUX44TFPAZ%2FBV6eDsmAnDBg%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="3" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="4">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/376484648683?_skw=aviation+poster+-book+-books&amp;hash=item57a83bd6eb%3Ag%3ArtoAAeSwKe1on5Ij&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa1AgrD5NxrAFEtzyCbAQx%2BLFGQZ4p8p22WjH10tU4xis2rLGDjXQirNyYq0tzsmIkgVs7jDMv3Q%2BDnnfulSw9Yj0VGiWoHuA5M2gmPb%2FumLvsgzLU7GtRBG2zbZOVF8HBWwGM6oBIsMfhDd39IcMlAKOIa9DolVsR9GJU6ApkY832%2BQ%2F3cIy00zRtQI%2F2lph7ELRtBhHmE0fq0vQYIgj1DQvWnyEvwvSHew2VAtEYjW8df%2BIUxBXQa6C0kdo9wPoyMJeMl2j1FhuLy%2BYIgjhdcqceZ%2FLFObvMs3nAZfeRefIaSuCLp8JrP8JtcHZgobfI%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="4" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/376484648683?_skw=aviation+poster+-book+-books&amp;hash=item57a83bd6eb%3Ag%3ArtoAAeSwKe1on5Ij&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa1AgrD5NxrAFEtzyCbAQx%2BLFGQZ4p8p22WjH10tU4xis2rLGDjXQirNyYq0tzsmIkgVs7jDMv3Q%2BDnnfulSw9Yj0VGiWoHuA5M2gmPb%2FumLvsgzLU7GtRBG2zbZOVF8HBWwGM6oBIsMfhDd39IcMlAKOIa9DolVsR9GJU6ApkY832%2BQ%2F3cIy00zRtQI%2F2lph7ELRtBhHmE0fq0vQYIgj1DQvWnyEvwvSHew2VAtEYjW8df%2BIUxBXQa6C0kdo9wPoyMJeMl2j1FhuLy%2BYIgjhdcqceZ%2FLFObvMs3nAZfeRefIaSuCLp8JrP8JtcHZgobfI%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="4" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
-</h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 27.99 | Free shipping</span><span>New</span><span>Seller: the wall art store (99.5% positive)</span><span>Ships from: GB</span></p>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/376484648683?_skw=aviation+poster+-book+-books&amp;hash=item57a83bd6eb%3Ag%3ArtoAAeSwKe1on5Ij&amp;amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa1AgrD5NxrAFEtzyCbAQx%2BLFGQZ4p8p22WjH10tU4xis2rLGDjXQirNyYq0tzsmIkgVs7jDMv3Q%2BDnnfulSw9Yj0VGiWoHuA5M2gmPb%2FumLvsgzLU7GtRBG2zbZOVF8HBWwGM6oBIsMfhDd39IcMlAKOIa9DolVsR9GJU6ApkY832%2BQ%2F3cIy00zRtQI%2F2lph7ELRtBhHmE0fq0vQYIgj1DQvWnyEvwvSHew2VAtEYjW8df%2BIUxBXQa6C0kdo9wPoyMJeMl2j1FhuLy%2BYIgjhdcqceZ%2FLFObvMs3nAZfeRefIaSuCLp8JrP8JtcHZgobfI%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="4" data-ebay-relevance-tier="related_search" data-ebay-query="aviation poster -book -books" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="military-skies-how-military-activity-complicates-sardinian-ufo-reports-sardinia-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Spitfire PRXIX P5915 Battle Of Britain Memorial Flight - Limited Edition"><img src="{{'/assets/images/marketplace-covers/22de6598a9476c923dd5.jpg' | relative_url }}" alt="Listing image for Corgi Spitfire PRXIX P5915 Battle Of Britain Memorial Flight - Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Spitfire PRXIX P5915 Battle Of Britain Memorial Flight - Limited Edition</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition"><img src="{{'/assets/images/marketplace-covers/f4e23b363b563e1fbcc0.jpg' | relative_url }}" alt="Listing image for SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Fairey Swordfish MkI FAA 815 Squadron HMS Illustrious 1940 Limited Edition"><img src="{{'/assets/images/marketplace-covers/9e5444fa20b2ee6fd186.jpg' | relative_url }}" alt="Listing image for Corgi Fairey Swordfish MkI FAA 815 Squadron HMS Illustrious 1940 Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Fairey Swordfish MkI FAA 815 Squadron HMS Illustrious 1940 Limited Edition</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Westland Wessex HC.2 -RAF 72 Squadron RAF Odiham 1970 - AA37603 - LTD Ed."><img src="{{'/assets/images/marketplace-covers/2d1fd164dc2c2ad9c056.jpg' | relative_url }}" alt="Listing image for Corgi Westland Wessex HC.2 -RAF 72 Squadron RAF Odiham 1970 - AA37603 - LTD Ed." loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Westland Wessex HC.2 -RAF 72 Squadron RAF Odiham 1970 - AA37603 - LTD Ed.</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation model</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation model" data-ebay-reference="military-lights-89ff30-when-are-sardinian-ufos-military-activity-sardinia-military-aviation-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -723,24 +490,24 @@ For Sardinian UFO history, the military connection is therefore best understood 
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -751,7 +518,7 @@ For Sardinian UFO history, the military connection is therefore best understood 
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -759,45 +526,43 @@ For Sardinian UFO history, the military connection is therefore best understood 
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-<script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -815,8 +580,8 @@ For Sardinian UFO history, the military connection is therefore best understood 
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -836,11 +601,11 @@ For Sardinian UFO history, the military connection is therefore best understood 
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -849,13 +614,13 @@ For Sardinian UFO history, the military connection is therefore best understood 
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -872,9 +637,9 @@ For Sardinian UFO history, the military connection is therefore best understood 
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -893,371 +658,125 @@ For Sardinian UFO history, the military connection is therefore best understood 
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/international-flight-training-school-visita-del-capo-di-stato-maggiore-delle-forze-armate-del-qatar/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/international-flight-training-school-visita-del-capo-di-stato-maggiore-delle-forze-armate-del-qatar/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareInternational Flight Training School: visita del Capo di Stato...18 Nov 2023 — Dal Comandante RSSTA dipendono il Dis...</p></details>
+   Source: mdpi.com  
+   Link:<a href="https://www.mdpi.com/2071-1050/12/2/622" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/12/2/622</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Military Training Areas as Semicommons: The Territorial Valorization of Quirra (Sardinia) from Easements to Ecosystem Services...</p></details>
 
 2.<a id="endnote-2"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/en/news/a-decimomannu-la-cerimonia-di-cambio-comando-del-reparto-sperimentale-e-di-standardizzazione-tiro-aereo/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/a-decimomannu-la-cerimonia-di-cambio-comando-del-reparto-sperimentale-e-di-standardizzazione-tiro-aereo/</a>  
+   Source: leonardo.com  
+   Title: IFTS: ten U.S. pilots training in Decimomannu  
+   Link:<a href="https://www.leonardo.com/en/focus-detail/-/detail/ifts-dieci-piloti-usa-addestramento-decimomannu" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/focus-detail/-/detail/ifts-dieci-piloti-usa-addestramento-decimomannu</a>  
 
 3.<a id="endnote-3"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/sardegna-presentato-a-decimomannu-il-nuovo-campus-dellinternational-flight-training-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/sardegna-presentato-a-decimomannu-il-nuovo-campus-dellinternational-flight-training-school/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareSardegna: presentato a Decimomannu il nuovo Campus dell...11 May 2023 — “L&#x27;International Flight Training School cons...</p></details>
-   Published: May 2023  
+   Source: aeronautics.leonardo.com  
+   Title: international flight training school  
+   Link:<a href="https://aeronautics.leonardo.com/it/international-flight-training-school" target="_blank" rel="noopener noreferrer nofollow">https://aeronautics.leonardo.com/it/international-flight-training-school</a>  
 
 4.<a id="endnote-4"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/en/news/cooperazione-internazionale-incontro-bilaterale-tra-laeronautica-militare-e-la-forza-aerea-svizzera/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/cooperazione-internazionale-incontro-bilaterale-tra-laeronautica-militare-e-la-forza-aerea-svizzera/</a>  
-
-5.<a id="endnote-5"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/cambio-comando-il-tenente-colonnello-degortes-nuovo-comandante-del-poligono-di-capo-frasca/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/cambio-comando-il-tenente-colonnello-degortes-nuovo-comandante-del-poligono-di-capo-frasca/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareIL TENENTE COLONNELLO DEGORTES NUOVO...Il Tenente Colonnello Massimo Degortes subentra al Tenente Colonnello Mariano...</p></details>
+   Source: theaviationist.com  
+   Title: The range is used for the daylight use of the gun inert dummy bombs.Read more  
+   Link:<a href="https://theaviationist.com/2019/02/11/flying-with-the-tornado-attack-jets-at-the-bombing-range/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2019/02/11/flying-with-the-tornado-attack-jets-at-the-bombing-range/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistFlying With The Tornado Attack Jets At The Bombing RangeFebruary 11, 2019 — 11 Feb 2019 — A Tornado IDS of the 154° Gruppo...</p></details>
+   Published: February 11, 2019  
 
 6.<a id="endnote-6"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare15° STORMO: CONCLUSA LA CAMPAGNA TIRI ARIA/SUOLO  
-   Link:<a href="https://www.aeronautica.difesa.it/news/15-stormo-conclusa-la-campagna-tiri-aria-suolo/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/15-stormo-conclusa-la-campagna-tiri-aria-suolo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareAddestramento per l’HH-101 e nuove qualifiche per l’HH-139 Dal 5 al 16 Novembre, presso il Poligono di Tiro di Capo F...</p></details>
-
-7.<a id="endnote-7"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/smd-/esercitazioni/esercitazione-joint-stars19/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd-/esercitazioni/esercitazione-joint-stars19/index.html</a>  
-
-8.<a id="endnote-8"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/il-ministro/comunicati/difesa-il-ministro-crosetto-alla-joint-stars-2025-n-25/71775.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/il-ministro/comunicati/difesa-il-ministro-crosetto-alla-joint-stars-2025-n-25/71775.html</a>  
-
-9.<a id="endnote-9"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/smd/news-italia/comando-delle-operazioni-spaziali-alla-joint-stars-2025/72054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd/news-italia/comando-delle-operazioni-spaziali-alla-joint-stars-2025/72054.html</a>  
-
-10.<a id="endnote-10"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/smd/news-italia/joint-stars-2025-contributo-aeronautica-militare-nella-fase-defense/71746.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd/news-italia/joint-stars-2025-contributo-aeronautica-militare-nella-fase-defense/71746.html</a>  
-
-11.<a id="endnote-11"></a>
-   Source: esercito.difesa.it  
-   Title: Esercito Italiano Esercitazione “Capricorno 5”  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/esercitazione--capricorno-5-/93339.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/esercitazione--capricorno-5-/93339.html</a>  
-
-12.<a id="endnote-12"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/tacp-jtac-dell-esercito-in-addestramento/89102.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/tacp-jtac-dell-esercito-in-addestramento/89102.html</a>  
-
-13.<a id="endnote-13"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/concluso-laddestramento-a-capo-teulada-per-i-lancieri-di-montebello/126146.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/concluso-laddestramento-a-capo-teulada-per-i-lancieri-di-montebello/126146.html</a>  
-
-14.<a id="endnote-14"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/en/news/exercise-serdica-26/187458.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/en/news/exercise-serdica-26/187458.html</a>  
-
-15.<a id="endnote-15"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/antilope-26-addestramento-pluriarma-per-il-151-reggimento/133251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/antilope-26-addestramento-pluriarma-per-il-151-reggimento/133251.html</a>  
-
-16.<a id="endnote-16"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/esercitazione--red-autumn-2022-/92339.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/esercitazione--red-autumn-2022-/92339.html</a>  
-
-17.<a id="endnote-17"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/conclusa-l-esercitazione--shardana-/93413.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/conclusa-l-esercitazione--shardana-/93413.html</a>  
-
-18.<a id="endnote-18"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/assets/allegati/1884/b9d055be-b3f7-4afc-930c-de321313cbd7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/assets/allegati/1884/b9d055be-b3f7-4afc-930c-de321313cbd7.pdf</a>  
-
-19.<a id="endnote-19"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/amministrazione-trasparente/smd/informazioniambientali/6124.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/amministrazione-trasparente/smd/informazioniambientali/6124.html</a>  
-
-20.<a id="endnote-20"></a>
-   Source: Wikipedia  
-   Title: Salto di Quirra  
-   Link:<a href="https://en.wikipedia.org/wiki/Salto_di_Quirra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Salto_di_Quirra</a>  
-
-21.<a id="endnote-21"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/smd/comunicati/al-via-in-sardegna-la-joint-stars-2023-principale-evento-addestrativo-della-difesa/27266.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd/comunicati/al-via-in-sardegna-la-joint-stars-2023-principale-evento-addestrativo-della-difesa/27266.html</a>  
-
-22.<a id="endnote-22"></a>
-   Source: documenti.camera.it  
-   Title: dei Deputati Allegato B ai resoconti dell'Assemblea  
-   Link:<a href="https://documenti.camera.it/leg17/resoconti/assemblea/html/sed0227/leg.17.sed0227.allegato_b.html" target="_blank" rel="noopener noreferrer nofollow">https://documenti.camera.it/leg17/resoconti/assemblea/html/sed0227/leg.17.sed0227.allegato_b.html</a>  
-
-23.<a id="endnote-23"></a>
-   Source: documenti.camera.it  
-   Link:<a href="https://documenti.camera.it/leg17/resoconti/assemblea/xhtml/sed0424/stenografico.htm" target="_blank" rel="noopener noreferrer nofollow">https://documenti.camera.it/leg17/resoconti/assemblea/xhtml/sed0424/stenografico.htm</a>  
-
-24.<a id="endnote-24"></a>
-   Source: it.scribd.com  
-   Title: UFO Rivista Di Informazione Ufologica  
-   Link:<a href="https://it.scribd.com/document/464573267/UFO-Rivista-di-Informazione-Ufologica-No-29-pdf" target="_blank" rel="noopener noreferrer nofollow">https://it.scribd.com/document/464573267/UFO-Rivista-di-Informazione-Ufologica-No-29-pdf</a>  
-
-25.<a id="endnote-25"></a>
-   Source: esercito.difesa.it  
-   Title: it Capacità a confronto nella “Capricorno 2-26”  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/capacita-a-confronto-nella-capricorno-2-26/192745.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/capacita-a-confronto-nella-capricorno-2-26/192745.html</a>  
-
-26.<a id="endnote-26"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/addestramento-acrobatico-del-1-maggio-le-frecce-tricolori-pronte-ad-aprire-la-66a-stagione/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/addestramento-acrobatico-del-1-maggio-le-frecce-tricolori-pronte-ad-aprire-la-66a-stagione/</a>  
-
-27.<a id="endnote-27"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/conclusa-lesercitazione-fiamma-esercito-e-carabinieri-in-addestramento-congiunto/186078.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/conclusa-lesercitazione-fiamma-esercito-e-carabinieri-in-addestramento-congiunto/186078.html</a>  
-
-28.<a id="endnote-28"></a>
-   Source: esercito.difesa.it  
-   Title: it A Capo Teulada l’esercitazione “Serdica 26”  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/a-capo-teulada-lesercitazione-serdica-26/181199.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/a-capo-teulada-lesercitazione-serdica-26/181199.html</a>  
-
-29.<a id="endnote-29"></a>
-   Source: aeronautica.difesa.it  
-   Title: falcon strike 2025  
-   Link:<a href="https://www.aeronautica.difesa.it/news/falcon-strike-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/falcon-strike-2025/</a>  
-
-30.<a id="endnote-30"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/primopiano/il-ministro-crosetto-alla-joint-stars-2025/71788.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/primopiano/il-ministro-crosetto-alla-joint-stars-2025/71788.html</a>  
-
-31.<a id="endnote-31"></a>
-   Source: difesa.it  
-   Title: Joint Stars 25: si "combatte" anche nel dominio spaziale e cibernetico  
-   Link:<a href="https://www.difesa.it/smd/news-italia/joint-stars-25-si-combatte-anche-nel-dominio-spaziale-e-cibernetico/71065.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd/news-italia/joint-stars-25-si-combatte-anche-nel-dominio-spaziale-e-cibernetico/71065.html</a>  
-
-32.<a id="endnote-32"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/smd/news-italia/lampo-25-esercitazione-federata-con-la-joint-stars/70812.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd/news-italia/lampo-25-esercitazione-federata-con-la-joint-stars/70812.html</a>  
-
-33.<a id="endnote-33"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/smd/news-italia/difesa-cagliari-joint-stars-2025/70287.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd/news-italia/difesa-cagliari-joint-stars-2025/70287.html</a>  
-
-34.<a id="endnote-34"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/bandi-di-gara-esercito/reggimento-logistico-aosta/approvvigionamento-di-una-torre-illuminante-a-led-per-il-cadar-capo-teulada/135549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/bandi-di-gara-esercito/reggimento-logistico-aosta/approvvigionamento-di-una-torre-illuminante-a-led-per-il-cadar-capo-teulada/135549.html</a>  
-
-35.<a id="endnote-35"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/smd/news-italia/joint-stars-2025-conclusi-lavori-final-coordination-conference/66787.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/smd/news-italia/joint-stars-2025-conclusi-lavori-final-coordination-conference/66787.html</a>  
-
-36.<a id="endnote-36"></a>
-   Source: aeronautica.difesa.it  
-   Title: it RACS A: concluso il seminario dei Capi servizio traffico aereo  
-   Link:<a href="https://www.aeronautica.difesa.it/news/racsa-concluso-il-seminario-dei-capi-servizio-traffico-aereo/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/racsa-concluso-il-seminario-dei-capi-servizio-traffico-aereo/</a>  
-
-37.<a id="endnote-37"></a>
-   Source: esercito.difesa.it  
-   Title: it82° Reggimento ''Torino'' in addestramento  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/82%C2%B0-reggimento---torino---in-addestramento/88800.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/82%C2%B0-reggimento---torino---in-addestramento/88800.html</a>  
-
-38.<a id="endnote-38"></a>
-   Source: aeronautica.difesa.it  
-   Title: it CAP O FRASCA OSPITA I RAGAZZI DI ARBUS  
-   Link:<a href="https://www.aeronautica.difesa.it/news/capo-frasca-ospita-i-ragazzi-di-arbus/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/capo-frasca-ospita-i-ragazzi-di-arbus/</a>  
-
-39.<a id="endnote-39"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/difesa-la-german-air-force-gaf-si-addestra-nei-cieli-della-sardegna/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/difesa-la-german-air-force-gaf-si-addestra-nei-cieli-della-sardegna/</a>  
-
-40.<a id="endnote-40"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/Attivitacontrattuali/2020/LG_190_2020_80019450925.xls" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/Attivitacontrattuali/2020/LG_190_2020_80019450925.xls</a>  
-
-41.<a id="endnote-41"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/addestramento-al-volo-ifts-siglato-accordo-per-la-mformazione-dei-piloti-dellusaf-in-italia/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/addestramento-al-volo-ifts-siglato-accordo-per-la-mformazione-dei-piloti-dellusaf-in-italia/</a>  
-
-42.<a id="endnote-42"></a>
-   Source: aeronautica.difesa.it  
-   Title: joint stars 2025 conclusa la piu grande esercitazione interforze italiana  
-   Link:<a href="https://www.aeronautica.difesa.it/news/joint-stars-2025-conclusa-la-piu-grande-esercitazione-interforze-italiana/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/joint-stars-2025-conclusa-la-piu-grande-esercitazione-interforze-italiana/</a>  
-
-43.<a id="endnote-43"></a>
-   Source: aeronautica.difesa.it  
-   Title: REPORT BIENNALE 1  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/09/REPORT-BIENNALE-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/09/REPORT-BIENNALE-1.pdf</a>  
-
-44.<a id="endnote-44"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/due-piloti-austriaci-completano-il-corso-lift/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/due-piloti-austriaci-completano-il-corso-lift/</a>  
-
-45.<a id="endnote-45"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/en/news/t-346a-e-ft-339c-del-61-stormo-svolgono-attivita-addestrativa-a-decimomannu/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/t-346a-e-ft-339c-del-61-stormo-svolgono-attivita-addestrativa-a-decimomannu/</a>  
-
-46.<a id="endnote-46"></a>
-   Source: difesa.it  
-   Title: Nuovo Allegato n 3 Elenco Es Igenze EDR  
-   Link:<a href="https://difesa.it/assets/allegati/SGD-DNA/Staff/DG/COMMISERVIZI/Bandi/Documents/appalto%20del%20servizio%20di%20ristorazione%2C%20catering%20completo%20e%20catering%20veicolato%20presso%20gli%20EDR%20del%20Ministero%20Difesa%202022-2025/Nuovo_Allegato_%20n_3_Elenco_EsIgenze_EDR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://difesa.it/assets/allegati/SGD-DNA/Staff/DG/COMMISERVIZI/Bandi/Documents/appalto%20del%20servizio%20di%20ristorazione%2C%20catering%20completo%20e%20catering%20veicolato%20presso%20gli%20EDR%20del%20Ministero%20Difesa%202022-2025/Nuovo_Allegato_%20n_3_Elenco_EsIgenze_EDR.pdf</a>  
-
-47.<a id="endnote-47"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/decimomannu-il-capo-di-stato-maggiore-dellaeronautica-militare-in-visita-al-reparto-sperimentale-e-di-standardizzazione-tiro-aereo/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/decimomannu-il-capo-di-stato-maggiore-dellaeronautica-militare-in-visita-al-reparto-sperimentale-e-di-standardizzazione-tiro-aereo/</a>  
-
-48.<a id="endnote-48"></a>
-   Source: difesa.it  
-   Title: 5909 20060301relazionefinalecomminchiestasenato  
-   Link:<a href="https://www.difesa.it/assets/allegati/32889/5909_20060301relazionefinalecomminchiestasenato.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/assets/allegati/32889/5909_20060301relazionefinalecomminchiestasenato.pdf</a>  
-
-49.<a id="endnote-49"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/cooperazione-internazionale-incontro-bilaterale-tra-laeronautica-militare-e-la-forza-aerea-svizzera/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/cooperazione-internazionale-incontro-bilaterale-tra-laeronautica-militare-e-la-forza-aerea-svizzera/</a>  
-
-50.<a id="endnote-50"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/assets/allegati/30370/id_03_2023.2024.03.25.09.09.44.144.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/assets/allegati/30370/id_03_2023.2024.03.25.09.09.44.144.pdf</a>  
-
-51.<a id="endnote-51"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/solidarieta-laeronautica-militare-al-fianco-del-banco-farmaceutico-per-le-giornate-di-raccolta-del-farmaco-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/solidarieta-laeronautica-militare-al-fianco-del-banco-farmaceutico-per-le-giornate-di-raccolta-del-farmaco-2026/</a>  
-
-52.<a id="endnote-52"></a>
-   Source: marina.difesa.it  
-   Title: Premessa 2006  
-   Link:<a href="https://www.marina.difesa.it/noi-siamo-la-marina/pilastro-logistico/scientifici/idrografico/Documents/Aggiornamenti_pubblicazioni_old/agg_2006/Premessa_%202006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marina.difesa.it/noi-siamo-la-marina/pilastro-logistico/scientifici/idrografico/Documents/Aggiornamenti_pubblicazioni_old/agg_2006/Premessa_%202006.pdf</a>  
-
-53.<a id="endnote-53"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/aeronautica-militare-oltre-150-militari-in-piu-di-60-farmacie-per-la-13a-edizione-di-in-farmacia-per-i-bambini/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/aeronautica-militare-oltre-150-militari-in-piu-di-60-farmacie-per-la-13a-edizione-di-in-farmacia-per-i-bambini/</a>  
-
-54.<a id="endnote-54"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/en/news/decimomannu-il-capo-di-stato-maggiore-dellaeronautica-militare-in-visita-al-reparto-sperimentale-e-di-standardizzazione-tiro-aereo/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/decimomannu-il-capo-di-stato-maggiore-dellaeronautica-militare-in-visita-al-reparto-sperimentale-e-di-standardizzazione-tiro-aereo/</a>  
-
-55.<a id="endnote-55"></a>
-   Source: marina.difesa.it  
-   Title: Premessa 2021  
-   Link:<a href="https://www.marina.difesa.it/noi-siamo-la-marina/pilastro-logistico/scientifici/idrografico/Documents/premessa_raccolta_2021/Premessa_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marina.difesa.it/noi-siamo-la-marina/pilastro-logistico/scientifici/idrografico/Documents/premessa_raccolta_2021/Premessa_2021.pdf</a>  
-
-56.<a id="endnote-56"></a>
-   Source: difesa.it  
-   Title: 20210804 dpp 2021 2023 per pubblicazione  
-   Link:<a href="https://www.difesa.it/assets/allegati/30714/20210804_dpp_2021-2023_per_pubblicazione.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/assets/allegati/30714/20210804_dpp_2021-2023_per_pubblicazione.pdf</a>  
-
-57.<a id="endnote-57"></a>
-   Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/news/solidarieta-laeronautica-militare-a-sostegno-delliniziativa-benefica-in-farmacia-per-i-bambini/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/solidarieta-laeronautica-militare-a-sostegno-delliniziativa-benefica-in-farmacia-per-i-bambini/</a>  
-
-58.<a id="endnote-58"></a>
-   Source: difesa.it  
-   Link:<a href="https://www.difesa.it/fra/primo-piano/le-ministre-crosetto-au-joint-stars-2025/71767.html" target="_blank" rel="noopener noreferrer nofollow">https://www.difesa.it/fra/primo-piano/le-ministre-crosetto-au-joint-stars-2025/71767.html</a>  
-
-59.<a id="endnote-59"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/bandi-di-gara-esercito/brigata-cavalleria-pozzuolo-del-friuli/atto-autorrizzativo-n--1558/70881.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/bandi-di-gara-esercito/brigata-cavalleria-pozzuolo-del-friuli/atto-autorrizzativo-n--1558/70881.html</a>  
-
-60.<a id="endnote-60"></a>
-   Source: esercito.difesa.it  
-   Link:<a href="https://www.esercito.difesa.it/comunicazione/bandi-di-gara-esercito/reggimento-logistico-aosta/approvvigionamento-di-una-torre-illuminante-a-led-per-il-cadar-capo-teulada/72349.html" target="_blank" rel="noopener noreferrer nofollow">https://www.esercito.difesa.it/comunicazione/bandi-di-gara-esercito/reggimento-logistico-aosta/approvvigionamento-di-una-torre-illuminante-a-led-per-il-cadar-capo-teulada/72349.html</a>  
-
-61.<a id="endnote-61"></a>
    Source: aeronautica.difesa.it  
    Title: falcon strike 2025  
    Link:<a href="https://www.aeronautica.difesa.it/falcon-strike-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/falcon-strike-2025/</a>  
 
-62.<a id="endnote-62"></a>
-   Source: documenti.camera.it  
-   Link:<a href="https://documenti.camera.it/_dati/leg09/lavori/Bollet/19860520_00.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documenti.camera.it/_dati/leg09/lavori/Bollet/19860520_00.pdf</a>  
+7.<a id="endnote-7"></a>
+   Source: aeronautica.difesa.it  
+   Link:<a href="https://www.aeronautica.difesa.it/news/f-35-rischieramento-a-decimomannu-per-continuare-laddestramento-verso-la-piena-capacita-operativa/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/f-35-rischieramento-a-decimomannu-per-continuare-laddestramento-verso-la-piena-capacita-operativa/</a>  
 
-63.<a id="endnote-63"></a>
-   Source: documenti.camera.it  
-   Link:<a href="https://documenti.camera.it/_dati/leg11/lavori/Bollet/40735.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documenti.camera.it/_dati/leg11/lavori/Bollet/40735.pdf</a>  
+8.<a id="endnote-8"></a>
+   Source: unionesarda.it  
+   Title: L'Unione Sarda.it Submarine and armed forces in action: military bans  
+   Link:<a href="https://www.unionesarda.it/en/sardinia/submarine-and-armed-forces-in-action-military-bans-in-sardinian-waters-vc92i3iz" target="_blank" rel="noopener noreferrer nofollow">https://www.unionesarda.it/en/sardinia/submarine-and-armed-forces-in-action-military-bans-in-sardinian-waters-vc92i3iz</a>  
 
-64.<a id="endnote-64"></a>
-   Source: leg13.camera.it  
-   Link:<a href="https://leg13.camera.it/_dati/leg13/lavori/stenografici/sed842/btris.htm" target="_blank" rel="noopener noreferrer nofollow">https://leg13.camera.it/_dati/leg13/lavori/stenografici/sed842/btris.htm</a>  
+9.<a id="endnote-9"></a>
+   Source: unionesarda.it  
+   Link:<a href="https://www.unionesarda.it/en/sardinia/military-ranges-in-sardinia-the-calendar-of-the-exercises-is-contested-the-appeal-arrives-at-the-tar-jqx1mr9h" target="_blank" rel="noopener noreferrer nofollow">https://www.unionesarda.it/en/sardinia/military-ranges-in-sardinia-the-calendar-of-the-exercises-is-contested-the-appeal-arrives-at-the-tar-jqx1mr9h</a>  
 
-65.<a id="endnote-65"></a>
-   Source: documenti.camera.it  
-   Link:<a href="https://documenti.camera.it/_dati/leg18/lavori/documentiparlamentari/indiceetesti/023/016/INTERO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documenti.camera.it/_dati/leg18/lavori/documentiparlamentari/indiceetesti/023/016/INTERO.pdf</a>  
+10.<a id="endnote-10"></a>
+   Source: europeanspaceflight.com  
+   Title: European Spaceflight OLM Plans to Offer Commercial Launch Services from Sardinia  
+   Link:<a href="https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/" target="_blank" rel="noopener noreferrer nofollow">https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/</a>  
 
-66.<a id="endnote-66"></a>
-   Source: leg14.camera.it  
-   Link:<a href="https://leg14.camera.it/_dati/leg14/lavori/stenografici/sed582/sintero.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leg14.camera.it/_dati/leg14/lavori/stenografici/sed582/sintero.pdf</a>  
+11.<a id="endnote-11"></a>
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare OVNI Archives  
+   Link:<a href="https://www.aeronautica.difesa.it/en/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/category/ovni/</a>  
 
-67.<a id="endnote-67"></a>
+12.<a id="endnote-12"></a>
+   Source: Wikipedia  
+   Title: Salto di Quirra  
+   Link:<a href="https://en.wikipedia.org/wiki/Salto_di_Quirra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Salto_di_Quirra</a>  
+
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Decimomannu Air Base  
    Link:<a href="https://en.wikipedia.org/wiki/Decimomannu_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decimomannu_Air_Base</a>  
 
-68.<a id="endnote-68"></a>
-   Source: Wikipedia  
-   Title: Aeroporto di Decimomannu  
-   Link:<a href="https://it.wikipedia.org/wiki/Aeroporto_di_Decimomannu" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Aeroporto_di_Decimomannu</a>  
+14.<a id="endnote-14"></a>
+   Source: aeronautica.difesa.it  
+   Link:<a href="https://www.aeronautica.difesa.it/news/international-flight-training-school-visita-del-capo-di-stato-maggiore-delle-forze-armate-del-qatar/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/international-flight-training-school-visita-del-capo-di-stato-maggiore-delle-forze-armate-del-qatar/</a>  
 
-69.<a id="endnote-69"></a>
-   Source: old.regione.sardegna.it  
-   Link:<a href="https://old.regione.sardegna.it/documenti/1_49_20051110130357.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.regione.sardegna.it/documenti/1_49_20051110130357.pdf</a>  
-
-70.<a id="endnote-70"></a>
+15.<a id="endnote-15"></a>
    Source: unionesarda.it  
-   Link:<a href="https://www.unionesarda.it/news-sardegna/missili-in-mare-tra-ogliastra-e-sarrabus-il-ministero-conferma-non-si-trovano-khtdj59h" target="_blank" rel="noopener noreferrer nofollow">https://www.unionesarda.it/news-sardegna/missili-in-mare-tra-ogliastra-e-sarrabus-il-ministero-conferma-non-si-trovano-khtdj59h</a>  
+   Link:<a href="https://www.unionesarda.it/en/sardinia/war-games-disguises-amp-cinema-qir8e1op" target="_blank" rel="noopener noreferrer nofollow">https://www.unionesarda.it/en/sardinia/war-games-disguises-amp-cinema-qir8e1op</a>  
 
-71.<a id="endnote-71"></a>
-   Source: sardegnalive.net  
-   Title: Sardegna Live Ufo. Continuano gli avvistamenti in Sardegna  
-   Link:<a href="https://www.sardegnalive.net/in-sardegna/ufo-continuano-gli-avvistamenti-in-sardegna-segnalazioni-da-san-sperate-dxylh3yg" target="_blank" rel="noopener noreferrer nofollow">https://www.sardegnalive.net/in-sardegna/ufo-continuano-gli-avvistamenti-in-sardegna-segnalazioni-da-san-sperate-dxylh3yg</a>  
+16.<a id="endnote-16"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/AeronauticaMilitareOfficialPage/posts/ha-preso-il-via-ieri-sulla-base-aerea-di-decimomannu-ca-in-sardegna-il-1-corso-d/339973784991300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AeronauticaMilitareOfficialPage/posts/ha-preso-il-via-ieri-sulla-base-aerea-di-decimomannu-ca-in-sardegna-il-1-corso-d/339973784991300/</a>  
 
-72.<a id="endnote-72"></a>
-   Source: military-history.fandom.com  
-   Title: Salto di Quirra  
-   Link:<a href="https://military-history.fandom.com/wiki/Salto_di_Quirra" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Salto_di_Quirra</a>  
+17.<a id="endnote-17"></a>
+   Source: theaviationist.com  
+   Link:<a href="https://theaviationist.com/2019/03/15/a-close-look-at-the-italian-f-35a-jets-involved-in-advanced-omnirole-training-in-sardinia/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2019/03/15/a-close-look-at-the-italian-f-35a-jets-involved-in-advanced-omnirole-training-in-sardinia/</a>  
 
 ### Additional References
 
-73.<a id="endnote-73"></a>
+18.<a id="endnote-18"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=K6-6AYQYJm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K6-6AYQYJm8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>M119A3 Howitzer Haul &amp; Fire In Italy • Joint Artillery Drill...</p></details>
+
+19.<a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: Abandoned military project: Secret US army base explored  
+   Link:<a href="https://www.youtube.com/watch?v=sgU77rfRiUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sgU77rfRiUQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>How paradise island Sardinia was poisoned by the world&#x27;s military | Foreign Correspondent...</p></details>
+
+20.<a id="endnote-20"></a>
    Source: science.gov  
    Link:<a href="https://www.science.gov/topicpages/m/mediterranean%2Bislands%2Bsardinia" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/m/mediterranean%2Bislands%2Bsardinia</a>  
 
-74.<a id="endnote-74"></a>
+21.<a id="endnote-21"></a>
+   Source: science.gov  
+   Link:<a href="https://www.science.gov/topicpages/n/northern%2Bsardinia%2Bitaly" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/n/northern%2Bsardinia%2Bitaly</a>  
+
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Title: IXV System Drop Test  
-   Link:<a href="https://www.youtube.com/watch?v=d0LCzes4r48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d0LCzes4r48</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decimomannu Air Base military exercise jet lights Sardinia Flying the visual pattern at Decimomannu The Aviationist...</p></details>
+   Title: M119A3 Howitzer Haul & Fire In Italy • Joint Artillery Drill  
+   Link:<a href="https://www.youtube.com/watch?v=XWm8s9A5GqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XWm8s9A5GqE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise Noble Jump 23: NRF&#x27;s VJTF Performs Force Exhibition...</p></details>
 
-75.<a id="endnote-75"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Title: DRONE VIEW of NATO Response Force Base in EUROPE  
-   Link:<a href="https://www.youtube.com/watch?v=zRtG_qMoFVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zRtG_qMoFVo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the US Air Force is Sending Its Pilots to Italy?...</p></details>
+   Title: Exercise Noble Jump 23: NRF's VJTF Performs Force Exhibition  
+   Link:<a href="https://www.youtube.com/watch?v=X6uVdIvfmfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X6uVdIvfmfU</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise Noble Jump 23: Stinger Missile Training...</p></details>
 
-76.<a id="endnote-76"></a>
-   Source: ilfarosulmondo.it  
-   Link:<a href="https://ilfarosulmondo.it/tag/aeroporto-militare-decimomannu/" target="_blank" rel="noopener noreferrer nofollow">https://ilfarosulmondo.it/tag/aeroporto-militare-decimomannu/</a>  
+24.<a id="endnote-24"></a>
+   Source: researchgate.net  
+   Link:<a href="https://www.researchgate.net/publication/338605726_Military_Training_Areas_as_Semicommons_The_Territorial_Valorization_of_Quirra_Sardinia_from_Easements_to_Ecosystem_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338605726_Military_Training_Areas_as_Semicommons_The_Territorial_Valorization_of_Quirra_Sardinia_from_Easements_to_Ecosystem_Services</a>  
 
-77.<a id="endnote-77"></a>
-   Source: merriam-webster.com  
-   Link:<a href="https://www.merriam-webster.com/dictionary/capo" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/capo</a>  
-
-78.<a id="endnote-78"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/NotizieSulMovimentoeNonSolo/photos/che-difesasi-sono-persi-2-missili-nel-mare-di-sardegna-aster-esplosivi-in-unarea/1640456620222072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NotizieSulMovimentoeNonSolo/photos/che-difesasi-sono-persi-2-missili-nel-mare-di-sardegna-aster-esplosivi-in-unarea/1640456620222072/</a>  
-
-79.<a id="endnote-79"></a>
-   Source: stragi80.it  
-   Link:<a href="https://www.stragi80.it/rassegna/quotidiani/ritagli/rs1988.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stragi80.it/rassegna/quotidiani/ritagli/rs1988.pdf</a>  
-
-80.<a id="endnote-80"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link:<a href="https://www.instagram.com/p/DLURNJftqqd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLURNJftqqd/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYmOikjNbib/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYmOikjNbib/</a>  
 
-81.<a id="endnote-81"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/gentileluca/videos/-oggetti-non-identificati-nei-cieli-della-sardegna-ne-avete-mai-visti%EF%B8%8F-sono-migl/1284781373854044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gentileluca/videos/-oggetti-non-identificati-nei-cieli-della-sardegna-ne-avete-mai-visti%EF%B8%8F-sono-migl/1284781373854044/</a>  
+26.<a id="endnote-26"></a>
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/reel/DIwr06CCZ4r/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DIwr06CCZ4r/</a>  
 
-82.<a id="endnote-82"></a>
-   Source: unionesarda.it  
-   Link:<a href="https://www.unionesarda.it/tags/generici/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.unionesarda.it/tags/generici/ufo</a>  
+27.<a id="endnote-27"></a>
+   Source: alessiocabras.com  
+   Link:<a href="https://www.alessiocabras.com/eucalyptus" target="_blank" rel="noopener noreferrer nofollow">https://www.alessiocabras.com/eucalyptus</a>  

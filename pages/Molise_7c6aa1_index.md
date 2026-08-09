@@ -1,30 +1,30 @@
 ---
-title: Why Molise Has So Few Strong UFO Cases Sub-Topic Index
-title_full: Why Molise Has So Few Strong UFO Cases Sub-Topic Index
+title: What Really Happened in Molise's UFO Record? Sub-Topic Index
+title_full: What Really Happened in Molise's UFO Record? Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /molise-7c6aa1-index/
-description: Focused pages that expand on Why Molise Has So Few Strong UFO Cases.
+description: Focused pages that expand on What Really Happened in Molise's UFO Record?.
 date: '2026'
 layout: default
 parent_basename: Molise_7c6aa1
-parent_title: Why Molise Has So Few Strong UFO Cases
-parent_nav_short_title: Why Molise Has So Few Strong UFO Cases
-parent_permalink: /why-molise-has-so-few-strong-ufo-cases/
+parent_title: What Really Happened in Molise's UFO Record?
+parent_nav_short_title: What Really Happened in Molise's UFO Record?
+parent_permalink: /what-really-happened-in-molises-ufo/
 ---
 
-# Explore Topics in Why Molise Has So Few Strong UFO Cases
+# Explore Topics in What Really Happened in Molise's UFO Record?
 
-The following pages expand on the main **[Why Molise Has So Few Strong UFO Cases]({{ '/why-molise-has-so-few-strong-ufo-cases/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Molise's UFO Record?]({{ '/what-really-happened-in-molises-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [Castelpetroso]({{ '/castelpetroso/' | relative_url }})
-- [Difesa Grande]({{ '/difesa-grande/' | relative_url }})
-- [Guglionesi Flap]({{ '/guglionesi-flap/' | relative_url }})
-- [Official Record]({{ '/official-record/' | relative_url }})
-- [Evidence Gaps]({{ '/evidence-gaps/' | relative_url }})
-- [Likely Causes]({{ '/likely-causes-379ec5/' | relative_url }})
-- [Media Effect]({{ '/media-effect/' | relative_url }})
-- [Reporting Process]({{ '/reporting-process/' | relative_url }})
-- [Timeline]({{ '/timeline/' | relative_url }})
-- [Termoli Video]({{ '/termoli-video/' | relative_url }})
+- [Early Entries]({{ '/early-entries/' | relative_url }})
+- [Local Press]({{ '/local-press-1ba079/' | relative_url }})
+- [1978 Wave]({{ '/1978-wave-71ae69/' | relative_url }})
+- [Hotspots]({{ '/hotspots/' | relative_url }})
+- [Monte Mutria]({{ '/monte-mutria/' | relative_url }})
+- [Official Route]({{ '/official-route/' | relative_url }})
+- [Explanations]({{ '/explanations-d7031a/' | relative_url }})
+- [Roccaravindola]({{ '/roccaravindola/' | relative_url }})
+- [Termoli Coast]({{ '/termoli-coast/' | relative_url }})

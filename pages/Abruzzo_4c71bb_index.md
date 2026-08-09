@@ -1,30 +1,30 @@
 ---
-title: Why Abruzzo Became Italy's UFO Hotspot Sub-Topic Index
-title_full: Why Abruzzo Became Italy's UFO Hotspot Sub-Topic Index
+title: What Really Happened in Abruzzo's UFO... Sub-Topic Index
+title_full: What Really Happened in Abruzzo's UFO... Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /abruzzo-4c71bb-index/
-description: Focused pages that expand on Why Abruzzo Became Italy's UFO Hotspot.
+description: Focused pages that expand on What Really Happened in Abruzzo's UFO....
 date: '2026'
 layout: default
 parent_basename: Abruzzo_4c71bb
-parent_title: Why Abruzzo Became Italy's UFO Hotspot
-parent_nav_short_title: Why Abruzzo Became Italy's UFO Hotspot
-parent_permalink: /why-abruzzo-became-italys-ufo-hotspot/
+parent_title: What Really Happened in Abruzzo's UFO...
+parent_nav_short_title: What Really Happened in Abruzzo's UFO...
+parent_permalink: /what-really-happened-in-abruzzos-ufo/
 ---
 
-# Explore Topics in Why Abruzzo Became Italy's UFO Hotspot
+# Explore Topics in What Really Happened in Abruzzo's UFO...
 
-The following pages expand on the main **[Why Abruzzo Became Italy's UFO Hotspot]({{ '/why-abruzzo-became-italys-ufo-hotspot/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Abruzzo's UFO...]({{ '/what-really-happened-in-abruzzos-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [1978 Wave]({{ '/1978-wave/' | relative_url }})
-- [UFO Policy]({{ '/ufo-policy/' | relative_url }})
-- [Sighting Data]({{ '/sighting-data/' | relative_url }})
-- [Triangle Legend]({{ '/triangle-legend/' | relative_url }})
-- [Witnesses]({{ '/witnesses/' | relative_url }})
-- [Boat Tragedy]({{ '/boat-tragedy/' | relative_url }})
-- [Radar Claims]({{ '/radar-claims/' | relative_url }})
-- [Navy Search]({{ '/navy-search/' | relative_url }})
-- [Explanations]({{ '/explanations/' | relative_url }})
-- [Parliament]({{ '/parliament/' | relative_url }})
+- [Evidence Scale]({{ '/evidence-scale/' | relative_url }})
+- [1978 Flap]({{ '/1978-flap/' | relative_url }})
+- [Adriatic Triangle]({{ '/adriatic-triangle/' | relative_url }})
+- [Official Files]({{ '/official-files/' | relative_url }})
+- [2004 Photo]({{ '/2004-photo/' | relative_url }})
+- [Gran Sasso]({{ '/gran-sasso/' | relative_url }})
+- [Clouds]({{ '/clouds/' | relative_url }})
+- [Local Media]({{ '/local-media/' | relative_url }})
+- [Coastal Entries]({{ '/coastal-entries/' | relative_url }})
+- [Pietracamela]({{ '/pietracamela/' | relative_url }})

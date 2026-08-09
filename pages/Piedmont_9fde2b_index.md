@@ -1,30 +1,30 @@
 ---
-title: Piedmont's UFO Mysteries Under Closer... Sub-Topic Index
-title_full: Piedmont's UFO Mysteries Under Closer... Sub-Topic Index
+title: What Really Happened in Piedmont's UFO... Sub-Topic Index
+title_full: What Really Happened in Piedmont's UFO... Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /piedmont-9fde2b-index/
-description: Focused pages that expand on Piedmont's UFO Mysteries Under Closer....
+description: Focused pages that expand on What Really Happened in Piedmont's UFO....
 date: '2026'
 layout: default
 parent_basename: Piedmont_9fde2b
-parent_title: Piedmont's UFO Mysteries Under Closer...
-parent_nav_short_title: Piedmont's UFO Mysteries Under Closer...
-parent_permalink: /piedmonts-ufo-mysteries-under-closer/
+parent_title: What Really Happened in Piedmont's UFO...
+parent_nav_short_title: What Really Happened in Piedmont's UFO...
+parent_permalink: /what-really-happened-in-piedmonts-ufo/
 ---
 
-# Explore Topics in Piedmont's UFO Mysteries Under Closer...
+# Explore Topics in What Really Happened in Piedmont's UFO...
 
-The following pages expand on the main **[Piedmont's UFO Mysteries Under Closer...]({{ '/piedmonts-ufo-mysteries-under-closer/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Piedmont's UFO...]({{ '/what-really-happened-in-piedmonts-ufo/' | relative_url }})** page and cover its key branches in.
 
+- [Official Records]({{ '/official-records-f752bd/' | relative_url }})
 - [Caselle 1973]({{ '/caselle-1973/' | relative_url }})
-- [Corio 2018]({{ '/corio-2018/' | relative_url }})
-- [Evidence Guide]({{ '/evidence-guide/' | relative_url }})
-- [Monte Musine]({{ '/monte-musine/' | relative_url }})
-- [Official Process]({{ '/official-process/' | relative_url }})
-- [1978 Wave]({{ '/1978-wave-52d472/' | relative_url }})
-- [Aviation Cases]({{ '/aviation-cases/' | relative_url }})
-- [Media Legends]({{ '/media-legends/' | relative_url }})
-- [Sky Explanations]({{ '/sky-explanations/' | relative_url }})
-- [Turin Archives]({{ '/turin-archives/' | relative_url }})
+- [CISU Archives]({{ '/cisu-archives/' | relative_url }})
+- [Musine Myth]({{ '/musine-myth/' | relative_url }})
+- [1978 Episode]({{ '/1978-episode/' | relative_url }})
+- [Myths & Hoaxes]({{ '/myths-hoaxes/' | relative_url }})
+- [Explanations]({{ '/explanations-bd1701/' | relative_url }})
+- [Press Role]({{ '/press-role/' | relative_url }})
+- [Susa Valley]({{ '/susa-valley/' | relative_url }})
+- [Pilot Reports]({{ '/pilot-reports-bd27a1/' | relative_url }})

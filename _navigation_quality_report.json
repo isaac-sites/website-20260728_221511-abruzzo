@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-28T21:09:31.926878Z",
+  "generated_at_utc": "2026-07-03T08:43:26.635717Z",
   "summary": {
     "total_pages_with_permalink": 240,
     "visible_pages": 220,
@@ -9,22 +9,13 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 707,
+    "inline_internal_edge_count": 864,
     "inline_internal_target_page_count": 220,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
-    "visible_pages_with_inline_outbound_links": 220,
-    "visible_pages_without_inline_outbound_links": 0,
-    "average_inline_inbound_links_per_visible_page": 3.21,
+    "visible_pages_with_inline_outbound_links": 217,
+    "average_inline_inbound_links_per_visible_page": 3.93,
     "unresolved_inline_internal_target_count": 0,
-    "related_report_edge_count": 0,
-    "related_report_cross_root_edge_count": 0,
-    "related_report_target_page_count": 0,
-    "visible_pages_with_related_report_panel": 0,
-    "visible_pages_without_related_report_panel": 220,
-    "related_report_panel_coverage_percent": 0.0,
-    "average_related_report_links_per_visible_page": 0.0,
-    "unresolved_related_report_target_count": 0,
     "sample_edge_count": 200
   },
   "samples": {
@@ -34,854 +25,249 @@
     "visible_missing_parent_target": [],
     "visible_gaining_inbound_from_inline_links": [],
     "visible_without_inline_inbound_links": [],
-    "visible_without_inline_outbound_links": [],
-    "visible_without_related_report_panel": [
-      {
-        "basename": "Abruzzo_4c71bb",
-        "title": "Why Abruzzo Became Italy's UFO Hotspot",
-        "permalink": "/why-abruzzo-became-italys-ufo-hotspot/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "title": "1978 Wave",
-        "permalink": "/1978-wave/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "title": "UFO Policy",
-        "permalink": "/ufo-policy/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "title": "Sighting Data",
-        "permalink": "/sighting-data/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "title": "Triangle Legend",
-        "permalink": "/triangle-legend/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "title": "Witnesses",
-        "permalink": "/witnesses/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "title": "Boat Tragedy",
-        "permalink": "/boat-tragedy/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "title": "Radar Claims",
-        "permalink": "/radar-claims/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "title": "Navy Search",
-        "permalink": "/navy-search/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "title": "Explanations",
-        "permalink": "/explanations/"
-      },
-      {
-        "basename": "Abruzzo_4c71bb_parliament_official_184be8",
-        "title": "Parliament",
-        "permalink": "/parliament/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120",
-        "title": "Why Aosta Valley's UFO Record Looks So Different",
-        "permalink": "/why-aosta-valleys-ufo-record-looks-so/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_air_force_reporting_bc5e2a",
-        "title": "Air Force Files",
-        "permalink": "/air-force-files-bd7cb8/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_alpine_cloud_misiden_0da585",
-        "title": "Alpine Clouds",
-        "permalink": "/alpine-clouds/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_eighty_vs_two_cases_2aba79",
-        "title": "Two Counts",
-        "permalink": "/two-counts/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_la_thuile_photo_55d22d",
-        "title": "La Thuile Photo",
-        "permalink": "/la-thuile-photo/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_local_press_and_memo_3aabf8",
-        "title": "UFO Lore",
-        "permalink": "/ufo-lore/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_meteors_and_reentry_985ee0",
-        "title": "Sky Debris",
-        "permalink": "/sky-debris/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_postwar_sighting_tim_0c3127",
-        "title": "Timeline",
-        "permalink": "/timeline-e7dca5/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_rai_shape_changing_f_4ab9de",
-        "title": "RAI Footage",
-        "permalink": "/rai-footage/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_rhemes_campsite_obje_6be8a8",
-        "title": "Campsite Case",
-        "permalink": "/campsite-case/"
-      },
-      {
-        "basename": "Aosta_Valley_ccb120_rutor_manoeuvring_li_0750ec",
-        "title": "Rutor Light",
-        "permalink": "/rutor-light/"
-      },
-      {
-        "basename": "Apulia_98f3e8",
-        "title": "Why Apulia's UFO Record Still Resists Easy Answers",
-        "permalink": "/why-apulias-ufo-record-still-resists/"
-      },
-      {
-        "basename": "Apulia_98f3e8_apulia_1978_wave_64d36d",
-        "title": "1978 Wave",
-        "permalink": "/1978-wave-862f8f/"
-      },
-      {
-        "basename": "Apulia_98f3e8_apulia_ufo_explanati_ca846e",
-        "title": "Explanations",
-        "permalink": "/explanations-0128e2/"
-      },
-      {
-        "basename": "Apulia_98f3e8_apulia_ufo_hotspots_bb076b",
-        "title": "Hotspots",
-        "permalink": "/hotspots-8c9249/"
-      },
-      {
-        "basename": "Apulia_98f3e8_barletta_multiwitnes_bcc811",
-        "title": "Barletta",
-        "permalink": "/barletta/"
-      },
-      {
-        "basename": "Apulia_98f3e8_cisu_apulia_map_c05912",
-        "title": "CISU Map",
-        "permalink": "/cisu-map/"
-      },
-      {
-        "basename": "Apulia_98f3e8_official_ufo_process_66dd84",
-        "title": "Official Process",
-        "permalink": "/official-process-cb15a5/"
-      },
-      {
-        "basename": "Apulia_98f3e8_polignano_1946_proje_0f57be",
-        "title": "1946 Mystery",
-        "permalink": "/1946-mystery/"
-      },
-      {
-        "basename": "Apulia_98f3e8_private_vs_official_87f263",
-        "title": "Record Systems",
-        "permalink": "/record-systems/"
-      },
-      {
-        "basename": "Apulia_98f3e8_san_pietro_1963_6934bd",
-        "title": "1963 Encounter",
-        "permalink": "/1963-encounter/"
-      },
-      {
-        "basename": "Apulia_98f3e8_ufo_reporting_waves_de814d",
-        "title": "Wave Effects",
-        "permalink": "/wave-effects/"
-      },
-      {
-        "basename": "Basilicata_3ea395",
-        "title": "Which Basilicata UFO Cases Still Withstand Scrutiny?",
-        "permalink": "/which-basilicata-ufo-cases-still/"
-      },
-      {
-        "basename": "Basilicata_3ea395_early_potenza_report_d3e261",
-        "title": "Early Potenza",
-        "permalink": "/early-potenza/"
-      },
-      {
-        "basename": "Basilicata_3ea395_inland_basilicata_si_11d365",
-        "title": "Inland Cases",
-        "permalink": "/inland-cases/"
-      },
-      {
-        "basename": "Basilicata_3ea395_ionian_coast_sightin_e2aff8",
-        "title": "Ionian Coast",
-        "permalink": "/ionian-coast/"
-      },
-      {
-        "basename": "Basilicata_3ea395_montereale_humanoid_14ae20",
-        "title": "Montereale",
-        "permalink": "/montereale/"
-      },
-      {
-        "basename": "Basilicata_3ea395_muro_lucano_aircraft_c5c852",
-        "title": "Muro Lucano",
-        "permalink": "/muro-lucano/"
-      },
-      {
-        "basename": "Basilicata_3ea395_official_vs_private_94d8d6",
-        "title": "Two Archives",
-        "permalink": "/two-archives/"
-      },
-      {
-        "basename": "Basilicata_3ea395_potenza_1954_wave_8f4fde",
-        "title": "1954 Wave",
-        "permalink": "/1954-wave-bc5619/"
-      },
-      {
-        "basename": "Basilicata_3ea395_regional_ufo_flaps_a343e9",
-        "title": "UFO Flaps",
-        "permalink": "/ufo-flaps/"
-      },
-      {
-        "basename": "Basilicata_3ea395_strong_ufo_evidence_2d7a8f",
-        "title": "Strong Evidence",
-        "permalink": "/strong-evidence/"
-      },
-      {
-        "basename": "Basilicata_3ea395_ufo_height_speed_err_3977d1",
-        "title": "Visual Errors",
-        "permalink": "/visual-errors/"
-      },
-      {
-        "basename": "Calabria_663de5",
-        "title": "Why Calabria Has Many UFO Reports but No Landmark Case",
-        "permalink": "/why-calabria-has-many-ufo-reports-but-no/"
-      },
-      {
-        "basename": "Calabria_663de5_air_force_unidentifi_84628b",
-        "title": "Official Archive",
-        "permalink": "/official-archive/"
-      },
-      {
-        "basename": "Calabria_663de5_calabria_1978_ufo_wa_9da356",
-        "title": "1978 Wave",
-        "permalink": "/1978-wave-cfd6e1/"
-      },
-      {
-        "basename": "Calabria_663de5_calabria_pandemic_uf_f892d6",
-        "title": "2020 Reports",
-        "permalink": "/2020-reports/"
-      },
-      {
-        "basename": "Calabria_663de5_calabria_police_ufo_38cc8e",
-        "title": "Police Reports",
-        "permalink": "/police-reports/"
-      },
-      {
-        "basename": "Calabria_663de5_calabria_ufo_catalog_276ef7",
-        "title": "Case Catalogues",
-        "permalink": "/case-catalogues/"
-      },
-      {
-        "basename": "Calabria_663de5_calabria_ufo_false_a_acff32",
-        "title": "False Alarms",
-        "permalink": "/false-alarms/"
-      },
-      {
-        "basename": "Calabria_663de5_early_calabrian_sigh_5ede64",
-        "title": "Early Reports",
-        "permalink": "/early-reports/"
-      },
-      {
-        "basename": "Calabria_663de5_judging_calabria_ufo_b79b3a",
-        "title": "Judging Evidence",
-        "permalink": "/judging-evidence/"
-      },
-      {
-        "basename": "Calabria_663de5_lamezia_ufo_video_cl_f03b31",
-        "title": "Lamezia Cluster",
-        "permalink": "/lamezia-cluster/"
-      },
-      {
-        "basename": "Calabria_663de5_rende_2004_lights_73c089",
-        "title": "Rende Lights",
-        "permalink": "/rende-lights/"
-      },
-      {
-        "basename": "Campania_5acc6a",
-        "title": "Why Campania's UFO Waves Looked So Convincing",
-        "permalink": "/why-campanias-ufo-waves-looked-so/"
-      },
-      {
-        "basename": "Campania_5acc6a_air_force_ovni_files_a9d80e",
-        "title": "Air Force Files",
-        "permalink": "/air-force-files-a5afdc/"
-      },
-      {
-        "basename": "Campania_5acc6a_campania_1978_flap_cc8663",
-        "title": "1978 Flap",
-        "permalink": "/1978-flap-c35875/"
-      },
-      {
-        "basename": "Campania_5acc6a_campania_2009_wave_0d1074",
-        "title": "2009 Wave",
-        "permalink": "/2009-wave/"
-      },
-      {
-        "basename": "Campania_5acc6a_campania_2010_sighti_04fc98",
-        "title": "2010 Cases",
-        "permalink": "/2010-cases/"
-      },
-      {
-        "basename": "Campania_5acc6a_campania_media_feedb_5cd5c8",
-        "title": "Media Effect",
-        "permalink": "/media-effect-e15a90/"
-      },
-      {
-        "basename": "Campania_5acc6a_capodimonte_light_6643b1",
-        "title": "Capodimonte",
-        "permalink": "/capodimonte/"
-      },
-      {
-        "basename": "Campania_5acc6a_cesa_sphere_claim_32e258",
-        "title": "Cesa",
-        "permalink": "/cesa/"
-      },
-      {
-        "basename": "Campania_5acc6a_naples_airport_light_738468",
-        "title": "Airport Lights",
-        "permalink": "/airport-lights/"
-      },
-      {
-        "basename": "Campania_5acc6a_sky_lantern_explanat_933d0c",
-        "title": "Sky Lanterns",
-        "permalink": "/sky-lanterns/"
-      },
-      {
-        "basename": "Campania_5acc6a_varcaturo_seven_ligh_7d8544",
-        "title": "Varcaturo",
-        "permalink": "/varcaturo/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904",
-        "title": "Why Emilia Romagna Became a UFO Hotspot",
-        "permalink": "/why-emilia-romagna-became-a-ufo-hotspot/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_adriatic_coast_ufo_r_66f02a",
-        "title": "Adriatic Coast",
-        "permalink": "/adriatic-coast/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_air_force_ufo_files_5aff21",
-        "title": "Official Files",
-        "permalink": "/official-files/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_cervia_triangle_1972_e0cb7f",
-        "title": "Cervia Case",
-        "permalink": "/cervia-case/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_emilia_1954_ufo_wave_83f4f2",
-        "title": "1954 Wave",
-        "permalink": "/1954-wave-227217/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_march_1978_multicity_047e22",
-        "title": "March 1978",
-        "permalink": "/march-1978/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_newspapers_ufo_flaps_6ea61d",
-        "title": "Media Flaps",
-        "permalink": "/media-flaps/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_piacenza_fighter_cha_69756f",
-        "title": "Piacenza Chase",
-        "permalink": "/piacenza-chase/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_poggio_renatico_rada_5cf98e",
-        "title": "Radar Network",
-        "permalink": "/radar-network/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_regional_ufo_totals_03c070",
-        "title": "Regional Totals",
-        "permalink": "/regional-totals/"
-      },
-      {
-        "basename": "Emilia-Romagna_e1c904_ufo_misidentificatio_aa312a",
-        "title": "Likely Explanations",
-        "permalink": "/likely-explanations/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8",
-        "title": "Why Friuli's UFO Cases Remain Unresolved",
-        "permalink": "/friuli-venezia-giulia/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "title": "Air Force Checks",
-        "permalink": "/air-force-checks/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "title": "Aviano",
-        "permalink": "/aviano/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "title": "Cordenons",
-        "permalink": "/cordenons/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
-        "title": "Feletto",
-        "permalink": "/feletto/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "title": "1978 79 Wave",
-        "permalink": "/1978-79-wave/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
-        "title": "Likely Causes",
-        "permalink": "/likely-causes/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
-        "title": "Lake Burida",
-        "permalink": "/lake-burida/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
-        "title": "Linked Sightings",
-        "permalink": "/linked-sightings/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
-        "title": "Pordenone Cluster",
-        "permalink": "/pordenone-cluster/"
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "title": "Speed Estimates",
-        "permalink": "/speed-estimates/"
-      },
-      {
-        "basename": "Lazio_2e255a",
-        "title": "Why Lazio's UFO History Remains Unresolved",
-        "permalink": "/why-lazios-ufo-history-remains/"
-      },
-      {
-        "basename": "Lazio_2e255a_1978_official_respon_a0fe18",
-        "title": "1978 Response",
-        "permalink": "/1978-response/"
-      },
-      {
-        "basename": "Lazio_2e255a_air_force_ufo_archiv_d3beb5",
-        "title": "Official Archive",
-        "permalink": "/official-archive-b3275d/"
-      },
-      {
-        "basename": "Lazio_2e255a_alitalia_1973_encoun_9596cc",
-        "title": "Alitalia Case",
-        "permalink": "/alitalia-case/"
-      },
-      {
-        "basename": "Lazio_2e255a_ciampino_military_cl_aa1a53",
-        "title": "Ciampino",
-        "permalink": "/ciampino/"
-      },
-      {
-        "basename": "Lazio_2e255a_meaning_of_unidentif_199dca",
-        "title": "Unidentified",
-        "permalink": "/unidentified/"
-      },
-      {
-        "basename": "Lazio_2e255a_modern_rome_sighting_8203dc",
-        "title": "Modern Rome",
-        "permalink": "/modern-rome/"
-      },
-      {
-        "basename": "Lazio_2e255a_ordinary_ufo_explana_25e14f",
-        "title": "Explanations",
-        "permalink": "/explanations-39a50a/"
-      },
-      {
-        "basename": "Lazio_2e255a_ponza_military_sight_926e1d",
-        "title": "Ponza",
-        "permalink": "/ponza/"
-      },
-      {
-        "basename": "Lazio_2e255a_rome_1954_ufo_wave_830435",
-        "title": "1954 Wave",
-        "permalink": "/1954-wave-00e255/"
-      },
-      {
-        "basename": "Lazio_2e255a_witness_credibility_c6d46d",
-        "title": "Witnesses",
-        "permalink": "/witnesses-bc33e6/"
-      },
-      {
-        "basename": "Liguria_5b11e3",
-        "title": "Why Liguria Became Italy's UFO Coast",
-        "permalink": "/why-liguria-became-italys-ufo-coast/"
-      },
-      {
-        "basename": "Liguria_5b11e3_genoa_airport_sighti_f2884f",
-        "title": "Airport Cases",
-        "permalink": "/airport-cases/"
-      },
-      {
-        "basename": "Liguria_5b11e3_italy_official_ufo_s_16e050",
-        "title": "Official Reports",
-        "permalink": "/official-reports/"
-      },
-      {
-        "basename": "Liguria_5b11e3_liguria_terrain_misp_22c2c6",
-        "title": "Mountain Effects",
-        "permalink": "/mountain-effects/"
-      },
-      {
-        "basename": "Liguria_5b11e3_liguria_ufo_hotspots_c228fd",
-        "title": "Hotspots",
-        "permalink": "/hotspots/"
-      },
-      {
-        "basename": "Liguria_5b11e3_liguria_ufo_media_le_eba609",
-        "title": "Media Legacy",
-        "permalink": "/media-legacy/"
-      },
-      {
-        "basename": "Liguria_5b11e3_ligurian_coastal_lig_15c923",
-        "title": "Coastal Lights",
-        "permalink": "/coastal-lights/"
-      },
-      {
-        "basename": "Liguria_5b11e3_torriglia_police_rec_1ac558",
-        "title": "Police Records",
-        "permalink": "/police-records/"
-      },
-      {
-        "basename": "Liguria_5b11e3_zanfretta_first_enco_870926",
-        "title": "First Encounter",
-        "permalink": "/first-encounter/"
-      },
-      {
-        "basename": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "title": "Hypnosis",
-        "permalink": "/hypnosis/"
-      },
-      {
-        "basename": "Liguria_5b11e3_zanfretta_physical_c_a7b700",
-        "title": "Physical Claims",
-        "permalink": "/physical-claims/"
-      },
-      {
-        "basename": "Lombardy_9b46d3",
-        "title": "Lombardy's UFO History Between Evidence and Myth",
-        "permalink": "/lombardys-ufo-history-between-evidence/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_abbiate_guazzone_cas_ba1c3a",
-        "title": "Abbiate Guazzone",
-        "permalink": "/abbiate-guazzone/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_air_force_lombardy_f_690f20",
-        "title": "Air Force Files",
-        "permalink": "/air-force-files-7eab62/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_lombardy_report_proc_7ef31b",
-        "title": "Investigation",
-        "permalink": "/investigation/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_lombardy_sighting_wa_82662b",
-        "title": "Sighting Waves",
-        "permalink": "/sighting-waves/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_lombardy_sky_illusio_d04109",
-        "title": "Sky Illusions",
-        "permalink": "/sky-illusions/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_magenta_crash_claim_ef3d9f",
-        "title": "Magenta Claim",
-        "permalink": "/magenta-claim/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_marconi_magenta_link_3fa8cb",
-        "title": "Marconi Link",
-        "permalink": "/marconi-link/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_milan_airspace_misid_955ffb",
-        "title": "Milan Airspace",
-        "permalink": "/milan-airspace/"
-      },
-      {
-        "basename": "Lombardy_9b46d3_rs33_document_debate_bbfcb0",
-        "title": "RS 33 Files",
-        "permalink": "/rs-33-files/"
-      }
-    ],
     "top_inline_internal_targets": [
       {
         "basename": "Abruzzo_4c71bb",
-        "title": "Why Abruzzo Became Italy's UFO Hotspot",
-        "permalink": "/why-abruzzo-became-italys-ufo-hotspot/",
+        "title": "What Really Happened in Abruzzo's UFO Stories?",
+        "permalink": "/what-really-happened-in-abruzzos-ufo/",
         "inline_inbound_count": 11
       },
       {
-        "basename": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "title": "Witnesses",
-        "permalink": "/witnesses/",
-        "inline_inbound_count": 11
-      },
-      {
-        "basename": "Aosta_Valley_ccb120",
-        "title": "Why Aosta Valley's UFO Record Looks So Different",
-        "permalink": "/why-aosta-valleys-ufo-record-looks-so/",
+        "basename": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "title": "Gran Sasso",
+        "permalink": "/gran-sasso/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Apulia_98f3e8",
-        "title": "Why Apulia's UFO Record Still Resists Easy Answers",
-        "permalink": "/why-apulias-ufo-record-still-resists/",
+        "title": "What Really Happened in Apulia's UFO Skies?",
+        "permalink": "/what-really-happened-in-apulias-ufo/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Basilicata_3ea395",
-        "title": "Which Basilicata UFO Cases Still Withstand Scrutiny?",
-        "permalink": "/which-basilicata-ufo-cases-still/",
-        "inline_inbound_count": 11
-      },
-      {
-        "basename": "Calabria_663de5",
-        "title": "Why Calabria Has Many UFO Reports but No Landmark Case",
-        "permalink": "/why-calabria-has-many-ufo-reports-but-no/",
+        "title": "What Really Happened in Basilicata's UFO Stories?",
+        "permalink": "/what-really-happened-in-basilicatas-ufo/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Campania_5acc6a",
-        "title": "Why Campania's UFO Waves Looked So Convincing",
-        "permalink": "/why-campanias-ufo-waves-looked-so/",
+        "title": "Why Campania Keeps Appearing in UFO Stories",
+        "permalink": "/why-campania-keeps-appearing-in-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Campania_5acc6a_ordinary_explanation_a805d0",
+        "title": "Explanations",
+        "permalink": "/explanations-e21d0c/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Emilia-Romagna_e1c904",
-        "title": "Why Emilia Romagna Became a UFO Hotspot",
-        "permalink": "/why-emilia-romagna-became-a-ufo-hotspot/",
+        "title": "What Really Happened in Emilia Romagna's UFO Files?",
+        "permalink": "/what-really-happened-in-emilia/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Friuli-Venezia_Giuli_608dd8",
-        "title": "Why Friuli's UFO Cases Remain Unresolved",
+        "title": "What Really Happened in Friuli's UFO Files?",
         "permalink": "/friuli-venezia-giulia/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Lazio_2e255a",
-        "title": "Why Lazio's UFO History Remains Unresolved",
-        "permalink": "/why-lazios-ufo-history-remains/",
-        "inline_inbound_count": 11
-      },
-      {
-        "basename": "Lazio_2e255a_witness_credibility_c6d46d",
-        "title": "Witnesses",
-        "permalink": "/witnesses-bc33e6/",
+        "title": "What Really Happened in Lazio's UFO Files?",
+        "permalink": "/what-really-happened-in-lazios-ufo-files/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Liguria_5b11e3",
-        "title": "Why Liguria Became Italy's UFO Coast",
-        "permalink": "/why-liguria-became-italys-ufo-coast/",
+        "title": "What Really Happened in Liguria's UFO Skies?",
+        "permalink": "/what-really-happened-in-ligurias-ufo/",
         "inline_inbound_count": 11
       },
       {
-        "basename": "Lombardy_9b46d3",
-        "title": "Lombardy's UFO History Between Evidence and Myth",
-        "permalink": "/lombardys-ufo-history-between-evidence/",
+        "basename": "Liguria_5b11e3_witness_credibility_c6d46d",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Marche_113fca",
-        "title": "How Marche's UFO Legends Took Shape",
-        "permalink": "/how-marches-ufo-legends-took-shape/",
+        "title": "What Really Happened Over Marche?",
+        "permalink": "/what-really-happened-over-marche/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Marche_113fca_adriatic_triangle_d09026",
+        "title": "Adriatic",
+        "permalink": "/adriatic/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Molise_7c6aa1",
-        "title": "Why Molise Has So Few Strong UFO Cases",
-        "permalink": "/why-molise-has-so-few-strong-ufo-cases/",
+        "title": "What Really Happened in Molise's UFO Record?",
+        "permalink": "/what-really-happened-in-molises-ufo/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Piedmont_9fde2b",
-        "title": "Piedmont's UFO Mysteries Under Closer Examination",
-        "permalink": "/piedmonts-ufo-mysteries-under-closer/",
+        "title": "What Really Happened in Piedmont's UFO Stories?",
+        "permalink": "/what-really-happened-in-piedmonts-ufo/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Sardinia_83a1a0",
-        "title": "Why Sardinia's UFO Record Remains So Elusive",
-        "permalink": "/why-sardinias-ufo-record-remains-so/",
+        "title": "What Makes Sardinia's UFO Record So Unusual?",
+        "permalink": "/what-makes-sardinias-ufo-record-so/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Sicily_77b465",
-        "title": "Why Sicily's UFO Stories Still Resist Easy Answers",
-        "permalink": "/why-sicilys-ufo-stories-still-resist/",
+        "title": "What Really Happened in Sicily's UFO Stories?",
+        "permalink": "/what-really-happened-in-sicilys-ufo/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Trentino-Alto_Adige_27eb8f",
-        "title": "Why Alpine UFO Sightings Stay So Difficult to Solve",
+        "title": "What Really Happened in the Alpine Skies?",
         "permalink": "/trentino-alto-adige/",
         "inline_inbound_count": 11
       },
       {
-        "basename": "Trentino-Alto_Adige_27eb8f_ufo_witness_testimon_845b45",
-        "title": "Witnesses",
-        "permalink": "/witnesses-c6fbd0/",
-        "inline_inbound_count": 11
-      },
-      {
-        "basename": "Tuscany_2685d2",
-        "title": "Tuscany's UFO History Between Mystery and...",
-        "permalink": "/tuscanys-ufo-history-between-mystery-and/",
-        "inline_inbound_count": 11
-      },
-      {
-        "basename": "Umbria_d4a7a8",
-        "title": "Why Umbria's UFO Stories Still Resist Easy Answers",
-        "permalink": "/why-umbrias-ufo-stories-still-resist/",
-        "inline_inbound_count": 11
-      },
-      {
         "basename": "Veneto_862600",
-        "title": "Veneto's UFO History Between Evidence and Folklore",
-        "permalink": "/venetos-ufo-history-between-evidence-and/",
+        "title": "What Really Happened in Veneto's UFO Files?",
+        "permalink": "/what-really-happened-in-venetos-ufo/",
         "inline_inbound_count": 11
       },
       {
-        "basename": "Lazio_2e255a_meaning_of_unidentif_199dca",
-        "title": "Unidentified",
-        "permalink": "/unidentified/",
+        "basename": "Aosta_Valley_ccb120",
+        "title": "What Really Happened in Aosta's Skies?",
+        "permalink": "/aosta-valley/",
         "inline_inbound_count": 10
       },
       {
-        "basename": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "title": "1978 Wave",
-        "permalink": "/1978-wave/",
-        "inline_inbound_count": 9
+        "basename": "Basilicata_3ea395_potenza_early_report_7f20b6",
+        "title": "Potenza",
+        "permalink": "/potenza/",
+        "inline_inbound_count": 10
       },
       {
-        "basename": "Apulia_98f3e8_apulia_ufo_explanati_ca846e",
-        "title": "Explanations",
-        "permalink": "/explanations-0128e2/",
-        "inline_inbound_count": 9
+        "basename": "Calabria_663de5",
+        "title": "What Really Happened in Calabria's UFO Reports?",
+        "permalink": "/what-really-happened-in-calabrias-ufo/",
+        "inline_inbound_count": 10
       },
       {
-        "basename": "Tuscany_2685d2_angel_hair_filaments_58b16b",
-        "title": "Angel Hair",
-        "permalink": "/angel-hair/",
-        "inline_inbound_count": 8
-      },
-      {
-        "basename": "Tuscany_2685d2_spider_ballooning_th_102e15",
-        "title": "Spider Silk",
-        "permalink": "/spider-silk/",
-        "inline_inbound_count": 8
-      },
-      {
-        "basename": "Abruzzo_4c71bb_parliament_official_184be8",
-        "title": "Parliament",
-        "permalink": "/parliament/",
-        "inline_inbound_count": 7
-      },
-      {
-        "basename": "Apulia_98f3e8_barletta_multiwitnes_bcc811",
-        "title": "Barletta",
-        "permalink": "/barletta/",
-        "inline_inbound_count": 7
-      },
-      {
-        "basename": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
+        "basename": "Friuli-Venezia_Giuli_608dd8_aviano_military_sigh_704771",
         "title": "Aviano",
         "permalink": "/aviano/",
-        "inline_inbound_count": 7
+        "inline_inbound_count": 10
       },
       {
-        "basename": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "title": "Cordenons",
-        "permalink": "/cordenons/",
-        "inline_inbound_count": 7
+        "basename": "Lombardy_9b46d3",
+        "title": "What Really Happened in Lombardy's UFO Skies?",
+        "permalink": "/what-really-happened-in-lombardys-ufo/",
+        "inline_inbound_count": 10
       },
       {
-        "basename": "Lazio_2e255a_ciampino_military_cl_aa1a53",
-        "title": "Ciampino",
-        "permalink": "/ciampino/",
-        "inline_inbound_count": 7
-      },
-      {
-        "basename": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "title": "Hypnosis",
-        "permalink": "/hypnosis/",
-        "inline_inbound_count": 7
-      },
-      {
-        "basename": "Lombardy_9b46d3_lombardy_report_proc_7ef31b",
-        "title": "Investigation",
-        "permalink": "/investigation/",
-        "inline_inbound_count": 7
-      },
-      {
-        "basename": "Piedmont_9fde2b_caselle_1973_radar_v_03dd82",
+        "basename": "Piedmont_9fde2b_caselle_1973_5fc4e6",
         "title": "Caselle 1973",
         "permalink": "/caselle-1973/",
-        "inline_inbound_count": 7
+        "inline_inbound_count": 10
       },
       {
-        "basename": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "basename": "Piedmont_9fde2b_susa_valley_lights_fc0837",
+        "title": "Susa Valley",
+        "permalink": "/susa-valley/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "title": "Adriatic Triangle",
+        "permalink": "/adriatic-triangle/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Campania_5acc6a_naples_air_traffic_ea6034",
+        "title": "Air Traffic",
+        "permalink": "/air-traffic/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Friuli-Venezia_Giuli_608dd8_friuli_ufo_explanati_cc281a",
         "title": "Explanations",
-        "permalink": "/explanations/",
-        "inline_inbound_count": 6
+        "permalink": "/explanations-54fcb5/",
+        "inline_inbound_count": 9
       },
       {
-        "basename": "Campania_5acc6a_campania_2009_wave_0d1074",
-        "title": "2009 Wave",
-        "permalink": "/2009-wave/",
-        "inline_inbound_count": 6
+        "basename": "Lazio_2e255a_ciampino_1954_b0d173",
+        "title": "Ciampino 1954",
+        "permalink": "/ciampino-1954/",
+        "inline_inbound_count": 9
       },
       {
-        "basename": "Campania_5acc6a_varcaturo_seven_ligh_7d8544",
-        "title": "Varcaturo",
-        "permalink": "/varcaturo/",
-        "inline_inbound_count": 6
+        "basename": "Lazio_2e255a_common_explanations_72fcca",
+        "title": "Explanations",
+        "permalink": "/explanations-31cadb/",
+        "inline_inbound_count": 9
       },
       {
-        "basename": "Molise_7c6aa1_castelpetroso_camera_34efda",
-        "title": "Castelpetroso",
-        "permalink": "/castelpetroso/",
-        "inline_inbound_count": 6
+        "basename": "Marche_113fca_ordinary_sky_explana_5c53fe",
+        "title": "Explanations",
+        "permalink": "/explanations-24ae81/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Molise_7c6aa1_local_press_coverage_f034a6",
+        "title": "Local Press",
+        "permalink": "/local-press-1ba079/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Molise_7c6aa1_ordinary_explanation_a805d0",
+        "title": "Explanations",
+        "permalink": "/explanations-d7031a/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Tuscany_2685d2",
+        "title": "What Really Happened In Tuscany's UFO Skies?",
+        "permalink": "/what-really-happened-in-tuscanys-ufo/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Umbria_d4a7a8",
+        "title": "What Really Happened in Umbrian Skies?",
+        "permalink": "/umbria/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Umbria_d4a7a8_common_umbrian_expla_4c317e",
+        "title": "Explanations",
+        "permalink": "/explanations-614a80/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Basilicata_3ea395_matera_space_backdro_5d9c75",
+        "title": "Matera",
+        "permalink": "/matera/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Campania_5acc6a_naples_1978_wave_f77898",
+        "title": "1978 Wave",
+        "permalink": "/1978-wave/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Friuli-Venezia_Giuli_608dd8_campoformido_orange_ba0bf4",
+        "title": "Campoformido",
+        "permalink": "/campoformido/",
+        "inline_inbound_count": 8
       }
     ],
-    "top_related_report_targets": [],
     "unresolved_inline_internal_targets": [],
-    "unresolved_related_report_targets": [],
     "edge_samples": [
       {
         "from": "Abruzzo_4c71bb",
@@ -980,32 +366,32 @@
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "child"
       },
       {
@@ -1015,1477 +401,874 @@
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "child"
       },
       {
         "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "child"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "to": "Abruzzo_4c71bb",
         "type": "parent"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
         "type": "sibling"
       },
       {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
         "to": "Abruzzo_4c71bb",
         "type": "ancestor"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Abruzzo_4c71bb",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Aosta_Valley_ccb120",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Apulia_98f3e8",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Basilicata_3ea395",
-        "type": "sibling"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Calabria_663de5",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Campania_5acc6a",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Emilia-Romagna_e1c904",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
+        "to": "Friuli-Venezia_Giuli_608dd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
         "to": "Lazio_2e255a",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Liguria_5b11e3",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Lombardy_9b46d3",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Marche_113fca",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Molise_7c6aa1",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Piedmont_9fde2b",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Sardinia_83a1a0",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Sicily_77b465",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Trentino-Alto_Adige_27eb8f",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Tuscany_2685d2",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Umbria_d4a7a8",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395",
         "to": "Veneto_862600",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_index",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_june_2009_fireball_899af0",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_local_press_memory_21a229",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_index",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_potenza_early_report_7f20b6",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_reading_weak_catalog_a80434",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_sighting_geography_5dd56a",
         "type": "child"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395",
         "type": "parent"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_local_press_memory_21a229",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_potenza_early_report_7f20b6",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_reading_weak_catalog_a80434",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_sighting_geography_5dd56a",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395",
         "type": "ancestor"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395",
         "type": "parent"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_june_2009_fireball_899af0",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_potenza_early_report_7f20b6",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_reading_weak_catalog_a80434",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_sighting_geography_5dd56a",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395",
         "type": "ancestor"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395",
         "type": "parent"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_june_2009_fireball_899af0",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_local_press_memory_21a229",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
         "type": "sibling"
       },
       {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
         "type": "sibling"
       }
-    ],
-    "inline_edge_samples": [
-      {
-        "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_navy_twenty_mission_7de6b6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_parliament_official_184be8",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_adriatic_triangle_le_04bb67",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_missing_radar_sensor_34e550",
-        "to": "Abruzzo_4c71bb_parliament_official_184be8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
-        "to": "Abruzzo_4c71bb_fishermen_testimony_ab93e4",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8",
-        "to": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
-        "to": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
-        "to": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
-        "to": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
-        "to": "Friuli-Venezia_Giuli_608dd8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3",
-        "to": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_genoa_airport_sighti_f2884f",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_italy_official_ufo_s_16e050",
-        "to": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_italy_official_ufo_s_16e050",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_liguria_terrain_misp_22c2c6",
-        "to": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_liguria_terrain_misp_22c2c6",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_liguria_ufo_hotspots_c228fd",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_liguria_ufo_hotspots_c228fd",
-        "to": "Liguria_5b11e3_ligurian_coastal_lig_15c923",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_liguria_ufo_media_le_eba609",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_liguria_ufo_media_le_eba609",
-        "to": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_ligurian_coastal_lig_15c923",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_torriglia_police_rec_1ac558",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_zanfretta_first_enco_870926",
-        "to": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_zanfretta_first_enco_870926",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_zanfretta_physical_c_a7b700",
-        "to": "Liguria_5b11e3_zanfretta_hypnosis_3749ab",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Liguria_5b11e3_zanfretta_physical_c_a7b700",
-        "to": "Liguria_5b11e3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1",
-        "to": "Molise_7c6aa1_castelpetroso_camera_34efda",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1",
-        "to": "Molise_7c6aa1_difesa_grande_sphere_83c4d8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1",
-        "to": "Molise_7c6aa1_termoli_seafront_vid_978e8c",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_official_ufo_f790b6",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_evidence_9e33a3",
-        "to": "Molise_7c6aa1_castelpetroso_camera_34efda",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_evidence_9e33a3",
-        "to": "Molise_7c6aa1_difesa_grande_sphere_83c4d8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_evidence_9e33a3",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_timeline_98de52",
-        "to": "Molise_7c6aa1_castelpetroso_camera_34efda",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_timeline_98de52",
-        "to": "Molise_7c6aa1_difesa_grande_sphere_83c4d8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_timeline_98de52",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_castelpetroso_camera_34efda",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_difesa_grande_sphere_83c4d8",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_guglionesi_2017_flap_2048a5",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_explanati_a9013e",
-        "to": "Molise_7c6aa1_castelpetroso_camera_34efda",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_explanati_a9013e",
-        "to": "Molise_7c6aa1_termoli_seafront_vid_978e8c",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_explanati_a9013e",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_media_amp_9ed718",
-        "to": "Molise_7c6aa1_castelpetroso_camera_34efda",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_media_amp_9ed718",
-        "to": "Molise_7c6aa1_difesa_grande_sphere_83c4d8",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_media_amp_9ed718",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_molise_ufo_reporting_a8691d",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Molise_7c6aa1_termoli_seafront_vid_978e8c",
-        "to": "Molise_7c6aa1",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465",
-        "to": "Sicily_77b465_sicily_1978_ufo_wave_d9ca00",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465",
-        "to": "Sicily_77b465_caronia_fires_ufo_cl_98ce8c",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465",
-        "to": "Sicily_77b465_official_air_force_r_c3fc83",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465",
-        "to": "Sicily_77b465_siragusa_contactee_m_21f46f",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465_sicily_official_ufo_7ecae6",
-        "to": "Sicily_77b465_sicily_ufo_groups_ar_fc6bc3",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465_sicily_official_ufo_7ecae6",
-        "to": "Sicily_77b465",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465_caronia_fires_ufo_cl_98ce8c",
-        "to": "Sicily_77b465",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465_judging_sicilian_ufo_1f7de3",
-        "to": "Sicily_77b465_sicily_1978_ufo_wave_d9ca00",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465_judging_sicilian_ufo_1f7de3",
-        "to": "Sicily_77b465_caronia_fires_ufo_cl_98ce8c",
-        "type": "inline_internal"
-      },
-      {
-        "from": "Sicily_77b465_judging_sicilian_ufo_1f7de3",
-        "to": "Sicily_77b465",
-        "type": "inline_internal"
-      }
-    ],
-    "related_report_edge_samples": []
+    ]
   }
 }

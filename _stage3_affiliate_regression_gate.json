@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-28T22:09:35",
+  "generated_at": "2026-07-03T09:43:29",
   "passed": true,
   "baseline": {
     "article_pages": 240,
-    "amazon_specific_pages": 143,
+    "amazon_specific_pages": 216,
     "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 0,
+    "ebay_specific_pages": 220,
     "ebay_fallback_pages": 0,
     "pages": {
       "Abruzzo_4c71bb": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6": {
+      "Abruzzo_4c71bb_abruzzo_evidence_sca_307070": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10": {
+      "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986": {
+      "Abruzzo_4c71bb_adriatic_triangle_me_4a2124": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_adriatic_triangle_le_04bb67": {
+      "Abruzzo_4c71bb_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_fishermen_testimony_ab93e4": {
+      "Abruzzo_4c71bb_gran_sasso_2004_phot_059207": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64": {
+      "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Abruzzo_4c71bb_index": {
@@ -56,52 +56,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_missing_radar_sensor_34e550": {
+      "Abruzzo_4c71bb_lenticular_clouds_400b98": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_navy_twenty_mission_7de6b6": {
+      "Abruzzo_4c71bb_local_media_memory_8f14da": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_ordinary_coastal_exp_050055": {
+      "Abruzzo_4c71bb_pescara_giulianova_s_bab943": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_parliament_official_184be8": {
+      "Abruzzo_4c71bb_pietracamela_power_s_a2b68d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Aosta_Valley_ccb120": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_air_force_reporting_bc5e2a": {
+      "Aosta_Valley_ccb120_1947_luminous_trail_129984": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_alpine_cloud_misiden_0da585": {
+      "Aosta_Valley_ccb120_1970s_witness_cluste_d03626": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_eighty_vs_two_cases_2aba79": {
+      "Aosta_Valley_ccb120_1985_rai_pursuit_fefa25": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_alpine_illusion_engi_a757dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_aosta_photo_claims_0190a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_cosmos_167_reentry_ad4ac1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_folklore_sceptical_e_f26f4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Aosta_Valley_ccb120_index": {
@@ -110,82 +134,70 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_la_thuile_photo_55d22d": {
+      "Aosta_Valley_ccb120_luciano_caveri_witne_9fc139": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_local_press_and_memo_3aabf8": {
+      "Aosta_Valley_ccb120_official_vs_local_co_9473ed": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_meteors_and_reentry_985ee0": {
+      "Aosta_Valley_ccb120_saint_barthelemy_obs_c8a248": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_postwar_sighting_tim_0c3127": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_rai_shape_changing_f_4ab9de": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_rhemes_campsite_obje_6be8a8": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_rutor_manoeuvring_li_0750ec": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Apulia_98f3e8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_apulia_1978_wave_64d36d": {
+      "Apulia_98f3e8_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_apulia_ufo_explanati_ca846e": {
+      "Apulia_98f3e8_apulia_2022_snapshot_4d884f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_apulia_ufo_hotspots_bb076b": {
+      "Apulia_98f3e8_barletta_2011_case_c1c46e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_barletta_multiwitnes_bcc811": {
+      "Apulia_98f3e8_cisu_cassano_archive_41fb1e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_cisu_apulia_map_c05912": {
+      "Apulia_98f3e8_coastal_witness_clus_2dd196": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Apulia_98f3e8_conversano_2009_fire_111bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Apulia_98f3e8_copertino_2012_case_60d400": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Apulia_98f3e8_index": {
@@ -194,46 +206,40 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_official_ufo_process_66dd84": {
+      "Apulia_98f3e8_military_skies_ba8d68": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_polignano_1946_proje_0f57be": {
+      "Apulia_98f3e8_night_lights_explain_501ad5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_private_vs_official_87f263": {
+      "Apulia_98f3e8_reading_unresolved_c_c36618": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Apulia_98f3e8_san_pietro_1963_6934bd": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Apulia_98f3e8_ufo_reporting_waves_de814d": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Basilicata_3ea395": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_early_potenza_report_d3e261": {
+      "Basilicata_3ea395_acerenza_witness_vid_b28477": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Basilicata_3ea395_common_explanations_72fcca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Basilicata_3ea395_index": {
@@ -242,106 +248,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_inland_basilicata_si_11d365": {
+      "Basilicata_3ea395_june_2009_fireball_899af0": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_ionian_coast_sightin_e2aff8": {
+      "Basilicata_3ea395_local_press_memory_21a229": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_montereale_humanoid_14ae20": {
+      "Basilicata_3ea395_matera_space_backdro_5d9c75": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_muro_lucano_aircraft_c5c852": {
+      "Basilicata_3ea395_monticchio_rural_sig_c34b0a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_official_vs_private_94d8d6": {
+      "Basilicata_3ea395_official_records_gap_43c6bb": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_potenza_1954_wave_8f4fde": {
+      "Basilicata_3ea395_potenza_early_report_7f20b6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_regional_ufo_flaps_a343e9": {
+      "Basilicata_3ea395_reading_weak_catalog_a80434": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_strong_ufo_evidence_2d7a8f": {
+      "Basilicata_3ea395_sighting_geography_5dd56a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Basilicata_3ea395_ufo_height_speed_err_3977d1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Calabria_663de5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_air_force_unidentifi_84628b": {
+      "Calabria_663de5_air_force_files_a3c8ea": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_calabria_1978_ufo_wa_9da356": {
+      "Calabria_663de5_calabria_2024_light_f0a06f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_calabria_pandemic_uf_f892d6": {
+      "Calabria_663de5_cisu_calabria_archiv_632010": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_calabria_police_ufo_38cc8e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_calabria_ufo_catalog_276ef7": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_calabria_ufo_false_a_acff32": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_early_calabrian_sigh_5ede64": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Calabria_663de5_index": {
@@ -350,70 +326,64 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Calabria_663de5_judging_calabria_ufo_b79b3a": {
+      "Calabria_663de5_lamezia_cluster_592095": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_lamezia_ufo_video_cl_f03b31": {
+      "Calabria_663de5_lamezia_photo_eviden_671147": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_rende_2004_lights_73c089": {
+      "Calabria_663de5_local_press_memory_21a229": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_reggio_1989_pilot_0a4ead": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_reggio_1995_diamond_fecf2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_rende_three_lights_ea73cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_southern_italy_2009_c7d2db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Campania_5acc6a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_air_force_ovni_files_a9d80e": {
+      "Campania_5acc6a_1973_airline_sightin_9dea1e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_campania_1978_flap_cc8663": {
+      "Campania_5acc6a_campania_big_picture_5b125d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_campania_2009_wave_0d1074": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_campania_2010_sighti_04fc98": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_campania_media_feedb_5cd5c8": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_capodimonte_light_6643b1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_cesa_sphere_claim_32e258": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Campania_5acc6a_index": {
@@ -422,52 +392,88 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_naples_airport_light_738468": {
+      "Campania_5acc6a_local_press_archive_73bbc5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_sky_lantern_explanat_933d0c": {
+      "Campania_5acc6a_military_activity_ex_00808f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_varcaturo_seven_ligh_7d8544": {
+      "Campania_5acc6a_naples_1978_wave_f77898": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_naples_air_traffic_ea6034": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_ordinary_explanation_a805d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_pozzuoli_air_force_c_1c1393": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_strongest_cases_bcb46f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_tyrrhenian_coastal_l_044449": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Emilia-Romagna_e1c904": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_adriatic_coast_ufo_r_66f02a": {
+      "Emilia-Romagna_e1c904_adriatic_triangle_my_d9af6d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_air_force_ufo_files_5aff21": {
+      "Emilia-Romagna_e1c904_air_force_files_emil_ff79d4": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_cervia_triangle_1972_e0cb7f": {
+      "Emilia-Romagna_e1c904_bologna_1978_wave_91a220": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_emilia_1954_ufo_wave_83f4f2": {
+      "Emilia-Romagna_e1c904_bologna_budrio_light_75c659": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Emilia-Romagna_e1c904_cisu_archives_count_95aebe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Emilia-Romagna_e1c904_index": {
@@ -476,82 +482,82 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_march_1978_multicity_047e22": {
+      "Emilia-Romagna_e1c904_judge_emilia_ufo_cas_e3d62e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_newspapers_ufo_flaps_6ea61d": {
+      "Emilia-Romagna_e1c904_lugo_1993_bolide_b0b91b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_piacenza_fighter_cha_69756f": {
+      "Emilia-Romagna_e1c904_misano_2016_report_798ad7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_poggio_renatico_rada_5cf98e": {
+      "Emilia-Romagna_e1c904_romagna_coast_sighti_b313a7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_regional_ufo_totals_03c070": {
+      "Emilia-Romagna_e1c904_starlink_bologna_mis_d32580": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Emilia-Romagna_e1c904_ufo_misidentificatio_aa312a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Friuli-Venezia_Giuli_608dd8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d": {
+      "Friuli-Venezia_Giuli_608dd8_air_force_files_friu_c85521": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9": {
+      "Friuli-Venezia_Giuli_608dd8_aviano_1999_planet_c_b5d6d1": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013": {
+      "Friuli-Venezia_Giuli_608dd8_aviano_military_sigh_704771": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8": {
+      "Friuli-Venezia_Giuli_608dd8_campoformido_orange_ba0bf4": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed": {
+      "Friuli-Venezia_Giuli_608dd8_chiumiento_friuli_in_de598d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a": {
+      "Friuli-Venezia_Giuli_608dd8_friuli_ufo_explanati_cc281a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Friuli-Venezia_Giuli_608dd8_friuli_ufo_press_cov_57ff74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Friuli-Venezia_Giuli_608dd8_index": {
@@ -560,58 +566,46 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739": {
+      "Friuli-Venezia_Giuli_608dd8_pordenone_red_globes_6b1d8f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f": {
+      "Friuli-Venezia_Giuli_608dd8_ronchi_1973_pilot_si_344236": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0": {
+      "Friuli-Venezia_Giuli_608dd8_ronchi_airport_aviat_9f3ce7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lazio_2e255a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_1978_official_respon_a0fe18": {
+      "Lazio_2e255a_ciampino_1954_b0d173": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_air_force_ufo_archiv_d3beb5": {
+      "Lazio_2e255a_coastal_lazio_sighti_4b6d96": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_alitalia_1973_encoun_9596cc": {
+      "Lazio_2e255a_common_explanations_72fcca": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Lazio_2e255a_ciampino_military_cl_aa1a53": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lazio_2e255a_index": {
@@ -620,52 +614,64 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_meaning_of_unidentif_199dca": {
+      "Lazio_2e255a_lazio_1954_flap_298044": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_modern_rome_sighting_8203dc": {
+      "Lazio_2e255a_military_institution_e21a58": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_ordinary_ufo_explana_25e14f": {
+      "Lazio_2e255a_official_air_force_f_794c9e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_ponza_military_sight_926e1d": {
+      "Lazio_2e255a_pilot_reports_lazio_1fc901": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_rome_1954_ufo_wave_830435": {
+      "Lazio_2e255a_reading_ufo_evidence_ec1a3a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_witness_credibility_c6d46d": {
+      "Lazio_2e255a_recent_lazio_reports_293d92": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lazio_2e255a_rome_airport_skies_1976b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Liguria_5b11e3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_genoa_airport_sighti_f2884f": {
+      "Liguria_5b11e3_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Liguria_5b11e3_genoa_sky_sightings_d205f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Liguria_5b11e3_index": {
@@ -674,76 +680,82 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_italy_official_ufo_s_16e050": {
+      "Liguria_5b11e3_liguria_1978_wave_c106a2": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_ligurian_coastal_lig_15c923": {
+      "Liguria_5b11e3_media_amplification_f92114": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_liguria_terrain_misp_22c2c6": {
+      "Liguria_5b11e3_savona_loano_videos_a638c8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_liguria_ufo_hotspots_c228fd": {
+      "Liguria_5b11e3_sky_light_explanatio_37c312": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_liguria_ufo_media_le_eba609": {
+      "Liguria_5b11e3_torriglia_triangles_cef55a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_torriglia_police_rec_1ac558": {
+      "Liguria_5b11e3_western_liguria_entr_23cddb": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_zanfretta_first_enco_870926": {
+      "Liguria_5b11e3_witness_credibility_c6d46d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_zanfretta_hypnosis_3749ab": {
+      "Liguria_5b11e3_zanfretta_case_c34a09": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Liguria_5b11e3_zanfretta_physical_c_a7b700": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lombardy_9b46d3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_abbiate_guazzone_cas_ba1c3a": {
+      "Lombardy_9b46d3_airport_aircraft_mis_1c6cf7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_air_force_lombardy_f_690f20": {
+      "Lombardy_9b46d3_air_force_files_lomb_5ae09e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lombardy_9b46d3_checking_lombardy_si_cd1166": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lombardy_9b46d3_ghedi_brescia_airspa_591540": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lombardy_9b46d3_index": {
@@ -752,100 +764,88 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_lombardy_report_proc_7ef31b": {
+      "Lombardy_9b46d3_lake_como_varese_pho_a25a5b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_lombardy_sighting_wa_82662b": {
+      "Lombardy_9b46d3_lombardy_report_patt_149a03": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_lombardy_sky_illusio_d04109": {
+      "Lombardy_9b46d3_magenta_crash_legend_3faeb8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_magenta_crash_claim_ef3d9f": {
+      "Lombardy_9b46d3_milan_summer_flaps_c66ec1": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_marconi_magenta_link_3fa8cb": {
+      "Lombardy_9b46d3_press_cun_coverage_fe1376": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_milan_airspace_misid_955ffb": {
+      "Lombardy_9b46d3_starlink_false_repor_98b697": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Lombardy_9b46d3_rs33_document_debate_bbfcb0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Lombardy_9b46d3_vatican_recovery_cla_b93e7c": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Marche_113fca": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_adriatic_1978_storie_fbf3b1": {
+      "Marche_113fca_1954_marche_wave_70c005": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_adriatic_meteotsunam_d6f8b3": {
+      "Marche_113fca_1978_pilot_reports_de1e6e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_adriatic_radar_claim_9debc0": {
+      "Marche_113fca_adriatic_triangle_d09026": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_air_force_official_r_dd3dd9": {
+      "Marche_113fca_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_ancona_coastal_wave_7ad705": {
+      "Marche_113fca_ancona_falconara_coa_c5223c": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_colcerasa_humanoid_c_60441d": {
-        "amazon_specific": true,
+      "Marche_113fca_close_encounter_clai_d675e7": {
+        "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_falconara_aviation_c_e3b9b5": {
+      "Marche_113fca_cun_source_trail_429be3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Marche_113fca_index": {
@@ -854,46 +854,40 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Marche_113fca_october_1954_wave_f826d5": {
+      "Marche_113fca_october_25_cluster_f8de35": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_portonovo_formation_4a4e17": {
+      "Marche_113fca_ordinary_sky_explana_5c53fe": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_sea_entry_horizon_il_8d401e": {
+      "Marche_113fca_regional_comparison_8ab665": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Molise_7c6aa1": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_castelpetroso_camera_34efda": {
+      "Molise_7c6aa1_castelpetroso_photo_3a842c": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_difesa_grande_sphere_83c4d8": {
+      "Molise_7c6aa1_early_catalogue_entr_a8f9a5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Molise_7c6aa1_guglionesi_2017_flap_2048a5": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Molise_7c6aa1_index": {
@@ -902,64 +896,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_official_ufo_f790b6": {
+      "Molise_7c6aa1_local_press_coverage_f034a6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_evidence_9e33a3": {
-        "amazon_specific": true,
+      "Molise_7c6aa1_molise_1978_wave_c0fffa": {
+        "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_explanati_a9013e": {
+      "Molise_7c6aa1_molise_hotspots_f33ad9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_media_amp_9ed718": {
+      "Molise_7c6aa1_monte_mutria_claim_0c9355": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_reporting_a8691d": {
+      "Molise_7c6aa1_official_reporting_r_13a6f5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_timeline_98de52": {
+      "Molise_7c6aa1_ordinary_explanation_a805d0": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_termoli_seafront_vid_978e8c": {
+      "Molise_7c6aa1_roccaravindola_light_3aed11": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Molise_7c6aa1_termoli_coastal_sigh_1ce271": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Piedmont_9fde2b": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_caselle_1973_radar_v_03dd82": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_air_force_records_78c8d9": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_corio_2018_mini_flap_18e166": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_caselle_1973_5fc4e6": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Piedmont_9fde2b_cisu_turin_archives_f5af43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Piedmont_9fde2b_index": {
@@ -968,70 +974,88 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_judging_piedmont_ufo_9fbe9d": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_monte_musine_myth_b21434": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_monte_musine_encount_776fc7": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_musine_1978_episode_31ed0d": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_official_ufo_investi_b5c390": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_myths_hoaxes_bfaa34": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_1978_ufo_wa_795a4f": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_ordinary_explanation_a805d0": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_aviation_ca_ad5924": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_press_amplification_845d0b": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_media_legen_277f26": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_susa_valley_lights_fc0837": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_sky_explana_17e16f": {
-        "amazon_specific": false,
+      "Piedmont_9fde2b_turin_pilot_sighting_b15d1c": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Piedmont_9fde2b_turin_ufo_archives_a1f7cb": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sardinia_83a1a0": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_campeda_lost_film_f9d377": {
-        "amazon_specific": false,
+      "Sardinia_83a1a0_1954_sighting_wave_9582f7": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_elmas_airport_case_86fce1": {
-        "amazon_specific": false,
+      "Sardinia_83a1a0_cagliari_porto_canal_a34ed6": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_campeda_film_claim_63b325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_case_strength_rating_2b1cae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_coastal_ferry_sighti_343c07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_drones_satellites_ex_8f8a69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sardinia_83a1a0_index": {
@@ -1040,64 +1064,46 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
+      "Sardinia_83a1a0_local_investigators_ddda8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Sardinia_83a1a0_military_ranges_ligh_a36ce2": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_modern_ufo_explanati_6eaf8b": {
-        "amazon_specific": false,
+      "Sardinia_83a1a0_official_reporting_s_e1e4db": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_official_ufo_files_98c8b0": {
-        "amazon_specific": false,
+      "Sardinia_83a1a0_southern_sardinia_20_abed5b": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_salto_quirra_rockets_178764": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_sardinia_1954_wave_8285e3": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_sardinia_1978_wave_b1a97b": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_southern_sardinia_cl_ad8c9f": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_why_cases_unresolved_fdb70d": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sicily_77b465": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_caronia_fires_ufo_cl_98ce8c": {
-        "amazon_specific": false,
+      "Sicily_77b465_canneto_caronia_fire_b9d6e3": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sicily_77b465_catania_1995_light_30f238": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sicily_77b465_index": {
@@ -1106,100 +1112,94 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Sicily_77b465_judging_sicilian_ufo_1f7de3": {
-        "amazon_specific": false,
+      "Sicily_77b465_modern_satellite_mis_246e71": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_media_amplified_sigh_cc1600": {
-        "amazon_specific": false,
+      "Sicily_77b465_official_sicilian_fi_a83380": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_military_airspace_si_f53ed5": {
-        "amazon_specific": false,
+      "Sicily_77b465_palermo_1997_aircraf_f99a11": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_official_air_force_r_c3fc83": {
-        "amazon_specific": false,
+      "Sicily_77b465_reading_sicilian_ufo_07fce8": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_sicily_1978_ufo_wave_d9ca00": {
-        "amazon_specific": false,
+      "Sicily_77b465_sicilian_ufo_media_s_46ff85": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_sicily_official_ufo_7ecae6": {
-        "amazon_specific": false,
+      "Sicily_77b465_sicily_sky_condition_8dbd20": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_sicily_ufo_groups_ar_fc6bc3": {
-        "amazon_specific": false,
+      "Sicily_77b465_sigonella_airspace_51cc9e": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_siragusa_contactee_m_21f46f": {
+      "Sicily_77b465_taormina_1954_photos_6b8ada": {
         "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sicily_77b465_taormina_photo_evide_7503a1": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Trentino-Alto_Adige_27eb8f": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_air_force_ufo_record_e3988d": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_air_force_records_78c8d9": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_alpine_distance_illu_9444d8": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_alpine_misidentifica_0e0bd8": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Trentino-Alto_Adige_27eb8f_bolzano_radar_limits_be0e28": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Trentino-Alto_Adige_27eb8f_bolzano_red_lights_b6714a": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_cortellazzi_ufo_arch_a8e210": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_bolzano_route_pilot_123e38": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_formation_sighting_c_931d69": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_bolzano_weather_ligh_732490": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Trentino-Alto_Adige_27eb8f_bressanone_hot_tub_2631f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Trentino-Alto_Adige_27eb8f_index": {
@@ -1208,52 +1208,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_regional_ufo_timelin_832582": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_molveno_fake_photo_e09a31": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_sciliar_light_disput_987d39": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_radar_aviation_check_82aef0": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_space_objects_ufo_co_13f3c8": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_regional_ufo_pattern_eeb261": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_ufo_witness_testimon_845b45": {
-        "amazon_specific": false,
+      "Trentino-Alto_Adige_27eb8f_trento_1992_light_80748d": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Tuscany_2685d2": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_air_force_checks_d303bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Tuscany_2685d2_angel_hair_filaments_58b16b": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_cennina_humanoid_cas_c6e066": {
-        "amazon_specific": false,
+      "Tuscany_2685d2_cennina_arezzo_case_73aecc": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_florence_stadium_sig_dbedae": {
-        "amazon_specific": false,
+      "Tuscany_2685d2_florence_1954_stadiu_c876f3": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_florence_sample_clai_6a6d7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_florence_wave_cluste_5c6574": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_gorgona_coastal_case_d2563b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Tuscany_2685d2_index": {
@@ -1262,70 +1286,46 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_military_chaff_theor_fa54af": {
-        "amazon_specific": false,
+      "Tuscany_2685d2_polcanto_case_status_f750e3": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_regional_1954_sighti_9bf14d": {
-        "amazon_specific": false,
+      "Tuscany_2685d2_sceptical_reinterpre_51152f": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_spider_ballooning_th_102e15": {
-        "amazon_specific": false,
+      "Tuscany_2685d2_tuscan_ufo_catalogue_160a19": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_torrita_close_encoun_5d1341": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_tuscany_1954_ufo_wav_6d6baf": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_tuscany_ufo_evidence_566ab8": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_tuscan_ufo_press_91c345": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Umbria_d4a7a8": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_air_force_ufo_record_e3988d": {
-        "amazon_specific": false,
+      "Umbria_d4a7a8_badiale_solar_balloo_eed072": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_apparent_light_motio_4370a3": {
-        "amazon_specific": false,
+      "Umbria_d4a7a8_cisu_four_cases_3be3da": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_civilian_ufo_archive_a2ad13": {
-        "amazon_specific": false,
+      "Umbria_d4a7a8_common_umbrian_expla_4c317e": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Umbria_d4a7a8_index": {
@@ -1334,76 +1334,82 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_nocera_umbra_1977_d9a042": {
-        "amazon_specific": false,
+      "Umbria_d4a7a8_nocera_umbra_encount_9ba6e3": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_orvieto_erratic_ligh_b23ae2": {
-        "amazon_specific": false,
+      "Umbria_d4a7a8_official_records_ver_812a48": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_polino_binocular_cas_d498fb": {
-        "amazon_specific": false,
+      "Umbria_d4a7a8_orvieto_car_park_sig_778499": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Umbria_d4a7a8_polino_binocular_sig_dd3582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Umbria_d4a7a8_smartphone_porano_pe_d81e35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Umbria_d4a7a8_terni_1978_flap_216229": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_ufo_retelling_effect_6cf03a": {
-        "amazon_specific": false,
+      "Umbria_d4a7a8_umbrian_aviation_clu_278697": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Umbria_d4a7a8_umbria_landscape_eff_1090ec": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Umbria_d4a7a8_umbria_sighting_coun_23d23f": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Veneto_862600": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_airport_sighting_clu_54b581": {
-        "amazon_specific": false,
+      "Veneto_862600_1954_veneto_wave_ee1bcf": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_cecconi_encounter_7c42de": {
-        "amazon_specific": false,
+      "Veneto_862600_2016_veneto_reports_412254": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_cecconi_photographs_e35280": {
-        "amazon_specific": false,
+      "Veneto_862600_air_force_procedure_331a35": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_common_ufo_explanati_51afb7": {
-        "amazon_specific": false,
+      "Veneto_862600_chioggia_folklore_4dbe5a": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Veneto_862600_cun_veneto_catalogue_0dbe00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Veneto_862600_index": {
@@ -1412,91 +1418,85 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Veneto_862600_istrana_airfield_rep_ad5cae": {
-        "amazon_specific": false,
+      "Veneto_862600_local_press_memory_21a229": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_official_ufo_process_66dd84": {
-        "amazon_specific": false,
+      "Veneto_862600_padua_flap_reports_b219d9": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_treviso_balloon_theo_d3ad1b": {
-        "amazon_specific": false,
+      "Veneto_862600_treviso_1979_e44e7e": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_veneto_1978_wave_dbaa0e": {
-        "amazon_specific": false,
+      "Veneto_862600_veneto_false_alarms_c13fc5": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_venice_1988_sighting_a22415": {
-        "amazon_specific": false,
+      "Veneto_862600_venice_1988_controll_ad1013": {
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Veneto_862600_villafranca_incomple_d76b4a": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       }
     }
   },
   "current": {
     "article_pages": 240,
-    "amazon_specific_pages": 220,
+    "amazon_specific_pages": 216,
     "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 0,
+    "ebay_specific_pages": 220,
     "ebay_fallback_pages": 0,
     "pages": {
       "Abruzzo_4c71bb": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_1978_adriatic_ufo_wa_f604e6": {
+      "Abruzzo_4c71bb_abruzzo_evidence_sca_307070": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_1978_changed_ufo_pol_676a10": {
+      "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986": {
+      "Abruzzo_4c71bb_adriatic_triangle_me_4a2124": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_adriatic_triangle_le_04bb67": {
+      "Abruzzo_4c71bb_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_fishermen_testimony_ab93e4": {
+      "Abruzzo_4c71bb_gran_sasso_2004_phot_059207": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64": {
+      "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Abruzzo_4c71bb_index": {
@@ -1505,52 +1505,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_missing_radar_sensor_34e550": {
+      "Abruzzo_4c71bb_lenticular_clouds_400b98": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_navy_twenty_mission_7de6b6": {
+      "Abruzzo_4c71bb_local_media_memory_8f14da": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_ordinary_coastal_exp_050055": {
+      "Abruzzo_4c71bb_pescara_giulianova_s_bab943": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Abruzzo_4c71bb_parliament_official_184be8": {
+      "Abruzzo_4c71bb_pietracamela_power_s_a2b68d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Aosta_Valley_ccb120": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_air_force_reporting_bc5e2a": {
+      "Aosta_Valley_ccb120_1947_luminous_trail_129984": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_alpine_cloud_misiden_0da585": {
+      "Aosta_Valley_ccb120_1970s_witness_cluste_d03626": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_eighty_vs_two_cases_2aba79": {
+      "Aosta_Valley_ccb120_1985_rai_pursuit_fefa25": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_alpine_illusion_engi_a757dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_aosta_photo_claims_0190a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_cosmos_167_reentry_ad4ac1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aosta_Valley_ccb120_folklore_sceptical_e_f26f4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Aosta_Valley_ccb120_index": {
@@ -1559,82 +1583,70 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_la_thuile_photo_55d22d": {
+      "Aosta_Valley_ccb120_luciano_caveri_witne_9fc139": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_local_press_and_memo_3aabf8": {
+      "Aosta_Valley_ccb120_official_vs_local_co_9473ed": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Aosta_Valley_ccb120_meteors_and_reentry_985ee0": {
+      "Aosta_Valley_ccb120_saint_barthelemy_obs_c8a248": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_postwar_sighting_tim_0c3127": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_rai_shape_changing_f_4ab9de": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_rhemes_campsite_obje_6be8a8": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Aosta_Valley_ccb120_rutor_manoeuvring_li_0750ec": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Apulia_98f3e8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_apulia_1978_wave_64d36d": {
+      "Apulia_98f3e8_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_apulia_ufo_explanati_ca846e": {
+      "Apulia_98f3e8_apulia_2022_snapshot_4d884f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_apulia_ufo_hotspots_bb076b": {
+      "Apulia_98f3e8_barletta_2011_case_c1c46e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_barletta_multiwitnes_bcc811": {
+      "Apulia_98f3e8_cisu_cassano_archive_41fb1e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_cisu_apulia_map_c05912": {
+      "Apulia_98f3e8_coastal_witness_clus_2dd196": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Apulia_98f3e8_conversano_2009_fire_111bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Apulia_98f3e8_copertino_2012_case_60d400": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Apulia_98f3e8_index": {
@@ -1643,46 +1655,40 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_official_ufo_process_66dd84": {
+      "Apulia_98f3e8_military_skies_ba8d68": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_polignano_1946_proje_0f57be": {
+      "Apulia_98f3e8_night_lights_explain_501ad5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Apulia_98f3e8_private_vs_official_87f263": {
+      "Apulia_98f3e8_reading_unresolved_c_c36618": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Apulia_98f3e8_san_pietro_1963_6934bd": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Apulia_98f3e8_ufo_reporting_waves_de814d": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Basilicata_3ea395": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_early_potenza_report_d3e261": {
+      "Basilicata_3ea395_acerenza_witness_vid_b28477": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Basilicata_3ea395_common_explanations_72fcca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Basilicata_3ea395_index": {
@@ -1691,106 +1697,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_inland_basilicata_si_11d365": {
+      "Basilicata_3ea395_june_2009_fireball_899af0": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_ionian_coast_sightin_e2aff8": {
+      "Basilicata_3ea395_local_press_memory_21a229": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_montereale_humanoid_14ae20": {
+      "Basilicata_3ea395_matera_space_backdro_5d9c75": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_muro_lucano_aircraft_c5c852": {
+      "Basilicata_3ea395_monticchio_rural_sig_c34b0a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_official_vs_private_94d8d6": {
+      "Basilicata_3ea395_official_records_gap_43c6bb": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_potenza_1954_wave_8f4fde": {
+      "Basilicata_3ea395_potenza_early_report_7f20b6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_regional_ufo_flaps_a343e9": {
+      "Basilicata_3ea395_reading_weak_catalog_a80434": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Basilicata_3ea395_strong_ufo_evidence_2d7a8f": {
+      "Basilicata_3ea395_sighting_geography_5dd56a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Basilicata_3ea395_ufo_height_speed_err_3977d1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Calabria_663de5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_air_force_unidentifi_84628b": {
+      "Calabria_663de5_air_force_files_a3c8ea": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_calabria_1978_ufo_wa_9da356": {
+      "Calabria_663de5_calabria_2024_light_f0a06f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_calabria_pandemic_uf_f892d6": {
+      "Calabria_663de5_cisu_calabria_archiv_632010": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_calabria_police_ufo_38cc8e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_calabria_ufo_catalog_276ef7": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_calabria_ufo_false_a_acff32": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Calabria_663de5_early_calabrian_sigh_5ede64": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Calabria_663de5_index": {
@@ -1799,70 +1775,64 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Calabria_663de5_judging_calabria_ufo_b79b3a": {
+      "Calabria_663de5_lamezia_cluster_592095": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_lamezia_ufo_video_cl_f03b31": {
+      "Calabria_663de5_lamezia_photo_eviden_671147": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Calabria_663de5_rende_2004_lights_73c089": {
+      "Calabria_663de5_local_press_memory_21a229": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_reggio_1989_pilot_0a4ead": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_reggio_1995_diamond_fecf2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_rende_three_lights_ea73cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Calabria_663de5_southern_italy_2009_c7d2db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Campania_5acc6a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_air_force_ovni_files_a9d80e": {
+      "Campania_5acc6a_1973_airline_sightin_9dea1e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_campania_1978_flap_cc8663": {
+      "Campania_5acc6a_campania_big_picture_5b125d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_campania_2009_wave_0d1074": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_campania_2010_sighti_04fc98": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_campania_media_feedb_5cd5c8": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_capodimonte_light_6643b1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Campania_5acc6a_cesa_sphere_claim_32e258": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Campania_5acc6a_index": {
@@ -1871,52 +1841,88 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_naples_airport_light_738468": {
+      "Campania_5acc6a_local_press_archive_73bbc5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_sky_lantern_explanat_933d0c": {
+      "Campania_5acc6a_military_activity_ex_00808f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Campania_5acc6a_varcaturo_seven_ligh_7d8544": {
+      "Campania_5acc6a_naples_1978_wave_f77898": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_naples_air_traffic_ea6034": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_ordinary_explanation_a805d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_pozzuoli_air_force_c_1c1393": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_strongest_cases_bcb46f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Campania_5acc6a_tyrrhenian_coastal_l_044449": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Emilia-Romagna_e1c904": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_adriatic_coast_ufo_r_66f02a": {
+      "Emilia-Romagna_e1c904_adriatic_triangle_my_d9af6d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_air_force_ufo_files_5aff21": {
+      "Emilia-Romagna_e1c904_air_force_files_emil_ff79d4": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_cervia_triangle_1972_e0cb7f": {
+      "Emilia-Romagna_e1c904_bologna_1978_wave_91a220": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_emilia_1954_ufo_wave_83f4f2": {
+      "Emilia-Romagna_e1c904_bologna_budrio_light_75c659": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Emilia-Romagna_e1c904_cisu_archives_count_95aebe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Emilia-Romagna_e1c904_index": {
@@ -1925,82 +1931,82 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_march_1978_multicity_047e22": {
+      "Emilia-Romagna_e1c904_judge_emilia_ufo_cas_e3d62e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_newspapers_ufo_flaps_6ea61d": {
+      "Emilia-Romagna_e1c904_lugo_1993_bolide_b0b91b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_piacenza_fighter_cha_69756f": {
+      "Emilia-Romagna_e1c904_misano_2016_report_798ad7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_poggio_renatico_rada_5cf98e": {
+      "Emilia-Romagna_e1c904_romagna_coast_sighti_b313a7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Emilia-Romagna_e1c904_regional_ufo_totals_03c070": {
+      "Emilia-Romagna_e1c904_starlink_bologna_mis_d32580": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Emilia-Romagna_e1c904_ufo_misidentificatio_aa312a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Friuli-Venezia_Giuli_608dd8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d": {
+      "Friuli-Venezia_Giuli_608dd8_air_force_files_friu_c85521": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9": {
+      "Friuli-Venezia_Giuli_608dd8_aviano_1999_planet_c_b5d6d1": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013": {
+      "Friuli-Venezia_Giuli_608dd8_aviano_military_sigh_704771": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8": {
+      "Friuli-Venezia_Giuli_608dd8_campoformido_orange_ba0bf4": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed": {
+      "Friuli-Venezia_Giuli_608dd8_chiumiento_friuli_in_de598d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a": {
+      "Friuli-Venezia_Giuli_608dd8_friuli_ufo_explanati_cc281a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Friuli-Venezia_Giuli_608dd8_friuli_ufo_press_cov_57ff74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Friuli-Venezia_Giuli_608dd8_index": {
@@ -2009,58 +2015,46 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739": {
+      "Friuli-Venezia_Giuli_608dd8_pordenone_red_globes_6b1d8f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f": {
+      "Friuli-Venezia_Giuli_608dd8_ronchi_1973_pilot_si_344236": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0": {
+      "Friuli-Venezia_Giuli_608dd8_ronchi_airport_aviat_9f3ce7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lazio_2e255a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_1978_official_respon_a0fe18": {
+      "Lazio_2e255a_ciampino_1954_b0d173": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_air_force_ufo_archiv_d3beb5": {
+      "Lazio_2e255a_coastal_lazio_sighti_4b6d96": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_alitalia_1973_encoun_9596cc": {
+      "Lazio_2e255a_common_explanations_72fcca": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Lazio_2e255a_ciampino_military_cl_aa1a53": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lazio_2e255a_index": {
@@ -2069,52 +2063,64 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_meaning_of_unidentif_199dca": {
+      "Lazio_2e255a_lazio_1954_flap_298044": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_modern_rome_sighting_8203dc": {
+      "Lazio_2e255a_military_institution_e21a58": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_ordinary_ufo_explana_25e14f": {
+      "Lazio_2e255a_official_air_force_f_794c9e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_ponza_military_sight_926e1d": {
+      "Lazio_2e255a_pilot_reports_lazio_1fc901": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_rome_1954_ufo_wave_830435": {
+      "Lazio_2e255a_reading_ufo_evidence_ec1a3a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lazio_2e255a_witness_credibility_c6d46d": {
+      "Lazio_2e255a_recent_lazio_reports_293d92": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lazio_2e255a_rome_airport_skies_1976b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Liguria_5b11e3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_genoa_airport_sighti_f2884f": {
+      "Liguria_5b11e3_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Liguria_5b11e3_genoa_sky_sightings_d205f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Liguria_5b11e3_index": {
@@ -2123,76 +2129,82 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_italy_official_ufo_s_16e050": {
+      "Liguria_5b11e3_liguria_1978_wave_c106a2": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_ligurian_coastal_lig_15c923": {
+      "Liguria_5b11e3_media_amplification_f92114": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_liguria_terrain_misp_22c2c6": {
+      "Liguria_5b11e3_savona_loano_videos_a638c8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_liguria_ufo_hotspots_c228fd": {
+      "Liguria_5b11e3_sky_light_explanatio_37c312": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_liguria_ufo_media_le_eba609": {
+      "Liguria_5b11e3_torriglia_triangles_cef55a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_torriglia_police_rec_1ac558": {
+      "Liguria_5b11e3_western_liguria_entr_23cddb": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_zanfretta_first_enco_870926": {
+      "Liguria_5b11e3_witness_credibility_c6d46d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Liguria_5b11e3_zanfretta_hypnosis_3749ab": {
+      "Liguria_5b11e3_zanfretta_case_c34a09": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Liguria_5b11e3_zanfretta_physical_c_a7b700": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lombardy_9b46d3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_abbiate_guazzone_cas_ba1c3a": {
+      "Lombardy_9b46d3_airport_aircraft_mis_1c6cf7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_air_force_lombardy_f_690f20": {
+      "Lombardy_9b46d3_air_force_files_lomb_5ae09e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lombardy_9b46d3_checking_lombardy_si_cd1166": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lombardy_9b46d3_ghedi_brescia_airspa_591540": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Lombardy_9b46d3_index": {
@@ -2201,100 +2213,88 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_lombardy_report_proc_7ef31b": {
+      "Lombardy_9b46d3_lake_como_varese_pho_a25a5b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_lombardy_sighting_wa_82662b": {
+      "Lombardy_9b46d3_lombardy_report_patt_149a03": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_lombardy_sky_illusio_d04109": {
+      "Lombardy_9b46d3_magenta_crash_legend_3faeb8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_magenta_crash_claim_ef3d9f": {
+      "Lombardy_9b46d3_milan_summer_flaps_c66ec1": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_marconi_magenta_link_3fa8cb": {
+      "Lombardy_9b46d3_press_cun_coverage_fe1376": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Lombardy_9b46d3_milan_airspace_misid_955ffb": {
+      "Lombardy_9b46d3_starlink_false_repor_98b697": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Lombardy_9b46d3_rs33_document_debate_bbfcb0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Lombardy_9b46d3_vatican_recovery_cla_b93e7c": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Marche_113fca": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_adriatic_1978_storie_fbf3b1": {
+      "Marche_113fca_1954_marche_wave_70c005": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_adriatic_meteotsunam_d6f8b3": {
+      "Marche_113fca_1978_pilot_reports_de1e6e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_adriatic_radar_claim_9debc0": {
+      "Marche_113fca_adriatic_triangle_d09026": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_air_force_official_r_dd3dd9": {
+      "Marche_113fca_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_ancona_coastal_wave_7ad705": {
+      "Marche_113fca_ancona_falconara_coa_c5223c": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_colcerasa_humanoid_c_60441d": {
-        "amazon_specific": true,
+      "Marche_113fca_close_encounter_clai_d675e7": {
+        "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_falconara_aviation_c_e3b9b5": {
+      "Marche_113fca_cun_source_trail_429be3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Marche_113fca_index": {
@@ -2303,46 +2303,40 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Marche_113fca_october_1954_wave_f826d5": {
+      "Marche_113fca_october_25_cluster_f8de35": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_portonovo_formation_4a4e17": {
+      "Marche_113fca_ordinary_sky_explana_5c53fe": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Marche_113fca_sea_entry_horizon_il_8d401e": {
+      "Marche_113fca_regional_comparison_8ab665": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Molise_7c6aa1": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_castelpetroso_camera_34efda": {
+      "Molise_7c6aa1_castelpetroso_photo_3a842c": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_difesa_grande_sphere_83c4d8": {
+      "Molise_7c6aa1_early_catalogue_entr_a8f9a5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Molise_7c6aa1_guglionesi_2017_flap_2048a5": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Molise_7c6aa1_index": {
@@ -2351,64 +2345,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_official_ufo_f790b6": {
+      "Molise_7c6aa1_local_press_coverage_f034a6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_evidence_9e33a3": {
-        "amazon_specific": true,
+      "Molise_7c6aa1_molise_1978_wave_c0fffa": {
+        "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_explanati_a9013e": {
+      "Molise_7c6aa1_molise_hotspots_f33ad9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_media_amp_9ed718": {
+      "Molise_7c6aa1_monte_mutria_claim_0c9355": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_reporting_a8691d": {
+      "Molise_7c6aa1_official_reporting_r_13a6f5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_molise_ufo_timeline_98de52": {
+      "Molise_7c6aa1_ordinary_explanation_a805d0": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Molise_7c6aa1_termoli_seafront_vid_978e8c": {
+      "Molise_7c6aa1_roccaravindola_light_3aed11": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Molise_7c6aa1_termoli_coastal_sigh_1ce271": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Piedmont_9fde2b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_caselle_1973_radar_v_03dd82": {
+      "Piedmont_9fde2b_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_corio_2018_mini_flap_18e166": {
+      "Piedmont_9fde2b_caselle_1973_5fc4e6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Piedmont_9fde2b_cisu_turin_archives_f5af43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Piedmont_9fde2b_index": {
@@ -2417,70 +2423,88 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_judging_piedmont_ufo_9fbe9d": {
+      "Piedmont_9fde2b_monte_musine_myth_b21434": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_monte_musine_encount_776fc7": {
+      "Piedmont_9fde2b_musine_1978_episode_31ed0d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_official_ufo_investi_b5c390": {
+      "Piedmont_9fde2b_myths_hoaxes_bfaa34": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_1978_ufo_wa_795a4f": {
+      "Piedmont_9fde2b_ordinary_explanation_a805d0": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_aviation_ca_ad5924": {
+      "Piedmont_9fde2b_press_amplification_845d0b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_media_legen_277f26": {
+      "Piedmont_9fde2b_susa_valley_lights_fc0837": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Piedmont_9fde2b_piedmont_sky_explana_17e16f": {
+      "Piedmont_9fde2b_turin_pilot_sighting_b15d1c": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Piedmont_9fde2b_turin_ufo_archives_a1f7cb": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sardinia_83a1a0": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_campeda_lost_film_f9d377": {
+      "Sardinia_83a1a0_1954_sighting_wave_9582f7": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_elmas_airport_case_86fce1": {
+      "Sardinia_83a1a0_cagliari_porto_canal_a34ed6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_campeda_film_claim_63b325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_case_strength_rating_2b1cae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_coastal_ferry_sighti_343c07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sardinia_83a1a0_drones_satellites_ex_8f8a69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sardinia_83a1a0_index": {
@@ -2489,64 +2513,46 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
+      "Sardinia_83a1a0_local_investigators_ddda8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Sardinia_83a1a0_military_ranges_ligh_a36ce2": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_modern_ufo_explanati_6eaf8b": {
+      "Sardinia_83a1a0_official_reporting_s_e1e4db": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sardinia_83a1a0_official_ufo_files_98c8b0": {
+      "Sardinia_83a1a0_southern_sardinia_20_abed5b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_salto_quirra_rockets_178764": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_sardinia_1954_wave_8285e3": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_sardinia_1978_wave_b1a97b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_southern_sardinia_cl_ad8c9f": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sardinia_83a1a0_why_cases_unresolved_fdb70d": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sicily_77b465": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_caronia_fires_ufo_cl_98ce8c": {
+      "Sicily_77b465_canneto_caronia_fire_b9d6e3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sicily_77b465_catania_1995_light_30f238": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Sicily_77b465_index": {
@@ -2555,100 +2561,94 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Sicily_77b465_judging_sicilian_ufo_1f7de3": {
+      "Sicily_77b465_modern_satellite_mis_246e71": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_media_amplified_sigh_cc1600": {
+      "Sicily_77b465_official_sicilian_fi_a83380": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_military_airspace_si_f53ed5": {
+      "Sicily_77b465_palermo_1997_aircraf_f99a11": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_official_air_force_r_c3fc83": {
+      "Sicily_77b465_reading_sicilian_ufo_07fce8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_sicily_1978_ufo_wave_d9ca00": {
+      "Sicily_77b465_sicilian_ufo_media_s_46ff85": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_sicily_official_ufo_7ecae6": {
+      "Sicily_77b465_sicily_sky_condition_8dbd20": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_sicily_ufo_groups_ar_fc6bc3": {
+      "Sicily_77b465_sigonella_airspace_51cc9e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Sicily_77b465_siragusa_contactee_m_21f46f": {
-        "amazon_specific": true,
+      "Sicily_77b465_taormina_1954_photos_6b8ada": {
+        "amazon_specific": false,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Sicily_77b465_taormina_photo_evide_7503a1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Trentino-Alto_Adige_27eb8f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_air_force_ufo_record_e3988d": {
+      "Trentino-Alto_Adige_27eb8f_air_force_records_78c8d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_alpine_distance_illu_9444d8": {
+      "Trentino-Alto_Adige_27eb8f_alpine_misidentifica_0e0bd8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Trentino-Alto_Adige_27eb8f_bolzano_radar_limits_be0e28": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Trentino-Alto_Adige_27eb8f_bolzano_red_lights_b6714a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_cortellazzi_ufo_arch_a8e210": {
+      "Trentino-Alto_Adige_27eb8f_bolzano_route_pilot_123e38": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_formation_sighting_c_931d69": {
+      "Trentino-Alto_Adige_27eb8f_bolzano_weather_ligh_732490": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Trentino-Alto_Adige_27eb8f_bressanone_hot_tub_2631f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Trentino-Alto_Adige_27eb8f_index": {
@@ -2657,52 +2657,76 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_regional_ufo_timelin_832582": {
+      "Trentino-Alto_Adige_27eb8f_molveno_fake_photo_e09a31": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_sciliar_light_disput_987d39": {
+      "Trentino-Alto_Adige_27eb8f_radar_aviation_check_82aef0": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_space_objects_ufo_co_13f3c8": {
+      "Trentino-Alto_Adige_27eb8f_regional_ufo_pattern_eeb261": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Trentino-Alto_Adige_27eb8f_ufo_witness_testimon_845b45": {
+      "Trentino-Alto_Adige_27eb8f_trento_1992_light_80748d": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Tuscany_2685d2": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_air_force_checks_d303bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Tuscany_2685d2_angel_hair_filaments_58b16b": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_cennina_humanoid_cas_c6e066": {
+      "Tuscany_2685d2_cennina_arezzo_case_73aecc": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_florence_stadium_sig_dbedae": {
+      "Tuscany_2685d2_florence_1954_stadiu_c876f3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_florence_sample_clai_6a6d7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_florence_wave_cluste_5c6574": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tuscany_2685d2_gorgona_coastal_case_d2563b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Tuscany_2685d2_index": {
@@ -2711,70 +2735,46 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_military_chaff_theor_fa54af": {
+      "Tuscany_2685d2_polcanto_case_status_f750e3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_regional_1954_sighti_9bf14d": {
+      "Tuscany_2685d2_sceptical_reinterpre_51152f": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Tuscany_2685d2_spider_ballooning_th_102e15": {
+      "Tuscany_2685d2_tuscan_ufo_catalogue_160a19": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_torrita_close_encoun_5d1341": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_tuscany_1954_ufo_wav_6d6baf": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_tuscany_ufo_evidence_566ab8": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Tuscany_2685d2_tuscan_ufo_press_91c345": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Umbria_d4a7a8": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_air_force_ufo_record_e3988d": {
+      "Umbria_d4a7a8_badiale_solar_balloo_eed072": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_apparent_light_motio_4370a3": {
+      "Umbria_d4a7a8_cisu_four_cases_3be3da": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_civilian_ufo_archive_a2ad13": {
+      "Umbria_d4a7a8_common_umbrian_expla_4c317e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Umbria_d4a7a8_index": {
@@ -2783,76 +2783,82 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_nocera_umbra_1977_d9a042": {
+      "Umbria_d4a7a8_nocera_umbra_encount_9ba6e3": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_orvieto_erratic_ligh_b23ae2": {
+      "Umbria_d4a7a8_official_records_ver_812a48": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_polino_binocular_cas_d498fb": {
+      "Umbria_d4a7a8_orvieto_car_park_sig_778499": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Umbria_d4a7a8_polino_binocular_sig_dd3582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Umbria_d4a7a8_smartphone_porano_pe_d81e35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Umbria_d4a7a8_terni_1978_flap_216229": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Umbria_d4a7a8_ufo_retelling_effect_6cf03a": {
+      "Umbria_d4a7a8_umbrian_aviation_clu_278697": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Umbria_d4a7a8_umbria_landscape_eff_1090ec": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Umbria_d4a7a8_umbria_sighting_coun_23d23f": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Veneto_862600": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_airport_sighting_clu_54b581": {
+      "Veneto_862600_1954_veneto_wave_ee1bcf": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_cecconi_encounter_7c42de": {
+      "Veneto_862600_2016_veneto_reports_412254": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_cecconi_photographs_e35280": {
+      "Veneto_862600_air_force_procedure_331a35": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_common_ufo_explanati_51afb7": {
+      "Veneto_862600_chioggia_folklore_4dbe5a": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Veneto_862600_cun_veneto_catalogue_0dbe00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Veneto_862600_index": {
@@ -2861,40 +2867,34 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "Veneto_862600_istrana_airfield_rep_ad5cae": {
+      "Veneto_862600_local_press_memory_21a229": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_official_ufo_process_66dd84": {
+      "Veneto_862600_padua_flap_reports_b219d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_treviso_balloon_theo_d3ad1b": {
+      "Veneto_862600_treviso_1979_e44e7e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_veneto_1978_wave_dbaa0e": {
+      "Veneto_862600_veneto_false_alarms_c13fc5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Veneto_862600_venice_1988_sighting_a22415": {
+      "Veneto_862600_venice_1988_controll_ad1013": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "Veneto_862600_villafranca_incomple_d76b4a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       }
     }
