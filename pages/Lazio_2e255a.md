@@ -2,17 +2,17 @@
 level: 1
 basename: Lazio_2e255a
 child_basenames:
-- Lazio_2e255a_ciampino_1954_b0d173
-- Lazio_2e255a_coastal_lazio_sighti_4b6d96
-- Lazio_2e255a_common_explanations_72fcca
+- Lazio_2e255a_1978_official_respon_a0fe18
+- Lazio_2e255a_air_force_ufo_archiv_d3beb5
+- Lazio_2e255a_alitalia_1973_encoun_9596cc
+- Lazio_2e255a_ciampino_military_cl_aa1a53
 - Lazio_2e255a_index
-- Lazio_2e255a_lazio_1954_flap_298044
-- Lazio_2e255a_military_institution_e21a58
-- Lazio_2e255a_official_air_force_f_794c9e
-- Lazio_2e255a_pilot_reports_lazio_1fc901
-- Lazio_2e255a_reading_ufo_evidence_ec1a3a
-- Lazio_2e255a_recent_lazio_reports_293d92
-- Lazio_2e255a_rome_airport_skies_1976b8
+- Lazio_2e255a_meaning_of_unidentif_199dca
+- Lazio_2e255a_modern_rome_sighting_8203dc
+- Lazio_2e255a_ordinary_ufo_explana_25e14f
+- Lazio_2e255a_ponza_military_sight_926e1d
+- Lazio_2e255a_rome_1954_ufo_wave_830435
+- Lazio_2e255a_witness_credibility_c6d46d
 sibling_basenames:
 - Abruzzo_4c71bb
 - Aosta_Valley_ccb120
@@ -39,24 +39,28 @@ keywords:
 - lazio
 affiliate_category: lazio
 show_ads: true
-description: Lazio’s UFO history is not built around one single dramatic case.
-hero_summary: 'Lazio’s UFO history is not built around one single dramatic case. It is a regional pattern: repeated reports from Rome and its airports, scattered cases in Frosinone, Rieti, Viterbo and the coast, and a long official paper trail maintained by the Italian Air Force.'
+description: Lazio has no single UFO incident that is both spectacular and securely documented.
+hero_summary: Lazio has no single UFO incident that is both spectacular and securely documented.
 layout: default
-permalink: /what-really-happened-in-lazios-ufo-files/
-nav_short_title: What Really Happened in Lazio's UFO Files?
-title: What Really Happened in Lazio's UFO Files?
-title_full: What Really Happened in Lazio's UFO Files?
-display_title_short: What Really Happened in Lazio's UFO Files?
-display_title: What Really Happened in Lazio's UFO Files?
-heading_title: What Really Happened in Lazio's UFO Files?
-page_heading_title: What Really Happened in Lazio's UFO Files?
-source_count: 108
+permalink: /why-lazios-ufo-history-remains/
+nav_short_title: Why Lazio's UFO History Remains Unresolved
+title: Why Lazio's UFO History Remains Unresolved
+title_full: Why Lazio's UFO History Remains Unresolved
+display_title_short: Why Lazio's UFO History Remains Unresolved
+display_title: Why Lazio's UFO History Remains Unresolved
+heading_title: Why Lazio's UFO History Remains Unresolved
+page_heading_title: Why Lazio's UFO History Remains Unresolved
+source_count: 77
 infographic_count: 3
-page_website_name: Lazio
-page_banner_line: Balanced, evidence-led pages on Lazio's sightings, files, witnesses and doubts.
-site_website_name: Lazio
-site_banner_line: Balanced, evidence-led pages on Lazio's sightings, files, witnesses and doubts.
-site_image_description: A night view over Rome with airport runway lights in the distance and a few unexplained lights high above the skyline.
+page_website_name: Lazio UFO Files
+page_banner_line: Explore Lazio's sightings, official records, aviation cases and unresolved evidence.
+site_website_name: Lazio UFO Files
+site_banner_line: Explore Lazio's sightings, official records, aviation cases and unresolved evidence.
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: horizon
+site_typography_tone: editorial
+site_image_description: The night skyline of Rome beneath several distant unexplained lights, with Ciampino airport, radar equipment and an open official...
 output_language: English
 lang: en
 locale: en
@@ -200,7 +204,18 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -218,145 +233,146 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 19:59:14'
+date: '2026-07-26 18:37:37'
 sibling_links:
-- basename: Aosta_Valley_ccb120
-  title: Aosta UFOs
-  permalink: /aosta-valley/
-  short_title: Aosta UFOs
 - basename: Friuli-Venezia_Giuli_608dd8
-  title: Friuli UFOs
+  title: Friuli UFO Files
   permalink: /friuli-venezia-giulia/
-  short_title: Friuli UFOs
-- basename: Trentino-Alto_Adige_27eb8f
-  title: Alpine UFOs
-  permalink: /trentino-alto-adige/
-  short_title: Alpine UFOs
-- basename: Umbria_d4a7a8
-  title: Umbrian Skies
-  permalink: /umbria/
-  short_title: Umbrian Skies
-- basename: Sardinia_83a1a0
-  title: Sardinia UFOs
-  permalink: /what-makes-sardinias-ufo-record-so/
-  short_title: Sardinia UFOs
-- basename: Abruzzo_4c71bb
-  title: Abruzzo UFOs
-  permalink: /what-really-happened-in-abruzzos-ufo/
-  short_title: Abruzzo UFOs
-- basename: Apulia_98f3e8
-  title: Apulia UFOs
-  permalink: /what-really-happened-in-apulias-ufo/
-  short_title: Apulia UFOs
-- basename: Basilicata_3ea395
-  title: Basilicata UFOs
-  permalink: /what-really-happened-in-basilicatas-ufo/
-  short_title: Basilicata UFOs
-- basename: Calabria_663de5
-  title: Calabria UFOs
-  permalink: /what-really-happened-in-calabrias-ufo/
-  short_title: Calabria UFOs
-- basename: Emilia-Romagna_e1c904
-  title: Emilia Romagna UFOs
-  permalink: /what-really-happened-in-emilia/
-  short_title: Emilia Romagna UFOs
-- basename: Liguria_5b11e3
-  title: Liguria UFOs
-  permalink: /what-really-happened-in-ligurias-ufo/
-  short_title: Liguria UFOs
-- basename: Lombardy_9b46d3
-  title: Lombardy UFOs
-  permalink: /what-really-happened-in-lombardys-ufo/
-  short_title: Lombardy UFOs
-- basename: Molise_7c6aa1
-  title: Molise UFOs
-  permalink: /what-really-happened-in-molises-ufo/
-  short_title: Molise UFOs
-- basename: Piedmont_9fde2b
-  title: Piedmont UFOs
-  permalink: /what-really-happened-in-piedmonts-ufo/
-  short_title: Piedmont UFOs
-- basename: Sicily_77b465
-  title: Sicily UFOs
-  permalink: /what-really-happened-in-sicilys-ufo/
-  short_title: Sicily UFOs
-- basename: Tuscany_2685d2
-  title: Tuscan Skies
-  permalink: /what-really-happened-in-tuscanys-ufo/
-  short_title: Tuscan Skies
-- basename: Veneto_862600
-  title: Veneto UFOs
-  permalink: /what-really-happened-in-venetos-ufo/
-  short_title: Veneto UFOs
+  short_title: Friuli UFO Files
 - basename: Marche_113fca
   title: Marche UFOs
-  permalink: /what-really-happened-over-marche/
+  permalink: /how-marches-ufo-legends-took-shape/
   short_title: Marche UFOs
+- basename: Lombardy_9b46d3
+  title: Lombardy UFOs
+  permalink: /lombardys-ufo-history-between-evidence/
+  short_title: Lombardy UFOs
+- basename: Piedmont_9fde2b
+  title: Piedmont UFO Files
+  permalink: /piedmonts-ufo-mysteries-under-closer/
+  short_title: Piedmont UFO Files
+- basename: Trentino-Alto_Adige_27eb8f
+  title: Alpine UFO Files
+  permalink: /trentino-alto-adige/
+  short_title: Alpine UFO Files
+- basename: Tuscany_2685d2
+  title: Tuscan UFO Files
+  permalink: /tuscanys-ufo-history-between-mystery-and/
+  short_title: Tuscan UFO Files
+- basename: Veneto_862600
+  title: Veneto UFOs
+  permalink: /venetos-ufo-history-between-evidence-and/
+  short_title: Veneto UFOs
+- basename: Basilicata_3ea395
+  title: Basilicata UFOs
+  permalink: /which-basilicata-ufo-cases-still/
+  short_title: Basilicata UFOs
+- basename: Abruzzo_4c71bb
+  title: Abruzzo
+  permalink: /why-abruzzo-became-italys-ufo-hotspot/
+  short_title: Abruzzo
+- basename: Aosta_Valley_ccb120
+  title: Aosta Valley UFOs
+  permalink: /why-aosta-valleys-ufo-record-looks-so/
+  short_title: Aosta Valley UFOs
+- basename: Apulia_98f3e8
+  title: Apulia UFO Files
+  permalink: /why-apulias-ufo-record-still-resists/
+  short_title: Apulia UFO Files
+- basename: Calabria_663de5
+  title: Calabria UFO Files
+  permalink: /why-calabria-has-many-ufo-reports-but-no/
+  short_title: Calabria UFO Files
 - basename: Campania_5acc6a
   title: Campania UFOs
-  permalink: /why-campania-keeps-appearing-in-ufo/
+  permalink: /why-campanias-ufo-waves-looked-so/
   short_title: Campania UFOs
+- basename: Emilia-Romagna_e1c904
+  title: Emilia Romagna UFOs
+  permalink: /why-emilia-romagna-became-a-ufo-hotspot/
+  short_title: Emilia Romagna UFOs
+- basename: Liguria_5b11e3
+  title: Liguria
+  permalink: /why-liguria-became-italys-ufo-coast/
+  short_title: Liguria
+- basename: Molise_7c6aa1
+  title: Molise UFOs
+  permalink: /why-molise-has-so-few-strong-ufo-cases/
+  short_title: Molise UFOs
+- basename: Sardinia_83a1a0
+  title: Sardinia UFOs
+  permalink: /why-sardinias-ufo-record-remains-so/
+  short_title: Sardinia UFOs
+- basename: Sicily_77b465
+  title: Sicily UFO Files
+  permalink: /why-sicilys-ufo-stories-still-resist/
+  short_title: Sicily UFO Files
+- basename: Umbria_d4a7a8
+  title: Umbria UFOs
+  permalink: /why-umbrias-ufo-stories-still-resist/
+  short_title: Umbria UFOs
 child_links:
-- basename: Lazio_2e255a_lazio_1954_flap_298044
-  title: 1954 Flap | What Really Happened in Lazio's UFO Files?
-  permalink: /1954-flap/
-  short_title: 1954 Flap
-  heading_title: Why Did Lazio's 1954 UFO Wave Spread?
-- basename: Lazio_2e255a_rome_airport_skies_1976b8
-  title: Airport Skies | What Really Happened in Lazio's UFO Files?
-  permalink: /airport-skies/
-  short_title: Airport Skies
-  heading_title: Why Rome's Airport Skies Attract UFO Reports
-- basename: Lazio_2e255a_ciampino_1954_b0d173
-  title: Ciampino 1954 | What Really Happened in Lazio's UFO Files?
-  permalink: /ciampino-1954/
-  short_title: Ciampino 1954
-  heading_title: Did Ciampino Really Become a UFO Case?
-- basename: Lazio_2e255a_coastal_lazio_sighti_4b6d96
-  title: Coastal Cases | What Really Happened in Lazio's UFO Files?
-  permalink: /coastal-cases/
-  short_title: Coastal Cases
-  heading_title: Why the Lazio Coast Became a Sighting Zone
-- basename: Lazio_2e255a_common_explanations_72fcca
-  title: Explanations | What Really Happened in Lazio's UFO Files?
-  permalink: /explanations-31cadb/
+- basename: Lazio_2e255a_rome_1954_ufo_wave_830435
+  title: 1954 Wave | Why Lazio's UFO History Remains Unresolved
+  permalink: /1954-wave-00e255/
+  short_title: 1954 Wave
+  heading_title: How Rome Joined Europe's Great UFO Wave
+- basename: Lazio_2e255a_1978_official_respon_a0fe18
+  title: 1978 Response | Why Lazio's UFO History Remains Unresolved
+  permalink: /1978-response/
+  short_title: 1978 Response
+  heading_title: Why the 1978 Wave Changed UFO Reporting
+- basename: Lazio_2e255a_alitalia_1973_encoun_9596cc
+  title: Alitalia Case | Why Lazio's UFO History Remains Unresolved
+  permalink: /alitalia-case/
+  short_title: Alitalia Case
+  heading_title: How Strong Is the 1973 Alitalia Case?
+- basename: Lazio_2e255a_ciampino_military_cl_aa1a53
+  title: Ciampino | Why Lazio's UFO History Remains Unresolved
+  permalink: /ciampino/
+  short_title: Ciampino
+  heading_title: Did Ciampino Radar Track a UFO?
+- basename: Lazio_2e255a_ordinary_ufo_explana_25e14f
+  title: Explanations | Why Lazio's UFO History Remains Unresolved
+  permalink: /explanations-39a50a/
   short_title: Explanations
-  heading_title: What Else Could Lazio Witnesses Have Seen?
-- basename: Lazio_2e255a_military_institution_e21a58
-  title: Military Witnesses | What Really Happened in Lazio's UFO Files?
-  permalink: /military-witnesses/
-  short_title: Military Witnesses
-  heading_title: Do Official Witnesses Make Cases Stronger?
-- basename: Lazio_2e255a_official_air_force_f_794c9e
-  title: Official Files | What Really Happened in Lazio's UFO Files?
-  permalink: /official-files-a401d7/
-  short_title: Official Files
-  heading_title: What Do Italy's UFO Files Say About Lazio?
-- basename: Lazio_2e255a_pilot_reports_lazio_1fc901
-  title: Pilot Reports | What Really Happened in Lazio's UFO Files?
-  permalink: /pilot-reports/
-  short_title: Pilot Reports
-  heading_title: Why Pilot Sightings Matter in Lazio
-- basename: Lazio_2e255a_reading_ufo_evidence_ec1a3a
-  title: Reading Evidence | What Really Happened in Lazio's UFO Files?
-  permalink: /reading-evidence/
-  short_title: Reading Evidence
-  heading_title: How Should You Judge a Lazio UFO Case?
-- basename: Lazio_2e255a_recent_lazio_reports_293d92
-  title: Recent Cases | What Really Happened in Lazio's UFO Files?
-  permalink: /recent-cases/
-  short_title: Recent Cases
-  heading_title: Are Lazio's Latest UFO Reports Any Stronger?
+  heading_title: What Could Explain Lazio's UFO Reports?
+- basename: Lazio_2e255a_modern_rome_sighting_8203dc
+  title: Modern Rome | Why Lazio's UFO History Remains Unresolved
+  permalink: /modern-rome/
+  short_title: Modern Rome
+  heading_title: Why Rome Still Produces Unresolved Sightings
+- basename: Lazio_2e255a_air_force_ufo_archiv_d3beb5
+  title: Official Archive | Why Lazio's UFO History Remains Unresolved
+  permalink: /official-archive-b3275d/
+  short_title: Official Archive
+  heading_title: What Lazio's Official UFO Files Contain
+- basename: Lazio_2e255a_ponza_military_sight_926e1d
+  title: Ponza | Why Lazio's UFO History Remains Unresolved
+  permalink: /ponza/
+  short_title: Ponza
+  heading_title: Why the Ponza Sighting Still Matters
+- basename: Lazio_2e255a_meaning_of_unidentif_199dca
+  title: Unidentified | Why Lazio's UFO History Remains Unresolved
+  permalink: /unidentified/
+  short_title: Unidentified
+  heading_title: Does Unidentified Mean Extraterrestrial?
+- basename: Lazio_2e255a_witness_credibility_c6d46d
+  title: Witnesses | Why Lazio's UFO History Remains Unresolved
+  permalink: /witnesses-bc33e6/
+  short_title: Witnesses
+  heading_title: Are Pilots and Military Witnesses More Reliable?
+has_inline_related_reports_panel: true
 prev_link:
   basename: Emilia-Romagna_e1c904
   title: Emilia Romagna UFOs
-  permalink: /what-really-happened-in-emilia/
+  permalink: /why-emilia-romagna-became-a-ufo-hotspot/
   short_title: Emilia Romagna UFOs
 next_link:
   basename: Liguria_5b11e3
-  title: Liguria UFOs
-  permalink: /what-really-happened-in-ligurias-ufo/
-  short_title: Liguria UFOs
+  title: Liguria
+  permalink: /why-liguria-became-italys-ufo-coast/
+  short_title: Liguria
 header:
   og_image: /assets/images/Lazio_2e255a-overview-social.jpg
   preview_image: /assets/images/Lazio_2e255a-overview.webp
@@ -365,89 +381,141 @@ image: /assets/images/Lazio_2e255a-overview-social.jpg
 
 ## Introduction
 
-The strongest evidence is still modest. There are official entries, witness descriptions, times, locations and in some cases military or aviation witnesses. There is not, however, public proof of an extraordinary craft. Many reports are brief, some are second-hand, and several fit familiar [explanations]({{'explanations-31cadb/' | relative_url }}) such as aircraft at altitude, meteors, balloons, satellite trains or visual misperception. The result is a region with a rich UFO archive, but one that rewards caution more than certainty.<img src="{{"/assets/images/Lazio_2e255a-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Lazio&#x27;s UFO Files?" loading="eager" decoding="sync" fetchpriority="high">
-## Why Lazio stands out in Italian UFO records
-
-Lazio’s role begins with geography. Rome is the national capital, the region contains major airports and military facilities, and its skies are watched by many people, from ordinary residents to pilots and air defence personnel. That matters because UFO history often depends less on where unknown objects really appear and more on where people are numerous, alert, and likely to report unusual lights.
-
-Italy’s official system gives Lazio unusual documentary value. After the large wave of Italian UFO reports in 1978, the Italian Government assigned the Air Force the institutional role of collecting, checking and monitoring reports of unidentified flying objects. The Air Force says the purpose is flight safety and national security; reports are checked against human activity and natural phenomena, and are published as unidentified only when a technical or natural explanation has not been found in the available inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
-
-That does not mean an official “unidentified” label proves anything exotic. It means the available checks did not settle the case. This distinction is crucial for Lazio, where several cases are interesting precisely because they passed into official lists without a named explanation, not because they contain decisive physical evidence.
-
-The Air Force’s regional statistics show Lazio as a meaningful contributor to the post-1990 official record. In the 1991–2000 table, Lazio is listed with 13 sightings, behind Tuscany’s 16 and level with Apulia’s 13, within a national total of 112 for that decade.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare Presentazione standard di Power Point</span><span class="citation-popover-snippet">Aeronautica Militare Presentazione standard di Power Point</span></span></span> That makes Lazio neither an outlier that overwhelms the Italian picture nor a marginal region. It is one of the steady, recurring centres of reported aerial anomalies.<img src="{{"/assets/images/Lazio_2e255a-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Lazio&#x27;s UFO Files? illustration 1" data-theme-src-dark="{{"/assets/images/Lazio_2e255a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Lazio_2e255a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The 1954 wave: Rome, Ciampino and the problem of mass reports
-
-The most famous Italian UFO year was 1954, a period when reports spread across Europe and Italy. In Lazio, the standout claim is the Rome-[Ciampino]({{'ciampino-1954/' | relative_url }}) episode of 17 September 1954. The National UFO Centre’s Lazio chronology summarises it as a red object seen by personnel at Ciampino airport, detected by radar at Pratica di Mare, and witnessed by thousands of people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-That combination explains why the case still attracts attention. Airport personnel, a claimed radar element and many witnesses are stronger ingredients than a lone night-time light report. They also raise the stakes: if the summary is accurate, the event involved trained observers and controlled airspace, not just a casual skywatcher in a field.
-
-Yet the case remains difficult to assess from public summaries alone. The short chronology does not provide the full radar record, the original witness statements, instrument data, chain of custody or later technical analysis. That does not make the case worthless, but it does limit what can responsibly be claimed. The most balanced reading is that the Ciampino-Pratica di Mare report is one of Lazio’s most important historical UFO claims, while still being under-documented for modern evidential standards.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U2teFYr-o2s" title="Declassified: The Air Force&#x27;s Secret UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer">Declassified: The Air Force&#x27;s Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 362.8K &middot; Uploaded: October 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U2teFYr-o2s">Open on YouTube</a></p></div></div></div>
+The strongest evidence shows that people in Lazio have repeatedly reported aerial objects they could not identify, sometimes to military or police authorities. It does **not** establish that those objects were extraterrestrial craft. Even the Air Force’s designation of a report as an [unidentified]({{ 'unidentified/' | relative_url }}) flying object means only that its checks found no match with known aviation or other recognised phenomena—not that an extraordinary origin was demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare - Ministero della DifesaSegnalazioni O.V.N.I., Oggetti Volanti Non Identificati. In quest...</span></span></span>
 
 
 
-## The aviation thread: pilots, airports and military witnesses
+<img src="{{ "/assets/images/Lazio_2e255a-overview.webp" | relative_url }}" alt="Overview image for Why Lazio&#x27;s UFO History Remains Unresolved" loading="eager" decoding="sync" fetchpriority="high">
 
-Aviation-linked cases are the part of Lazio’s UFO history most worth preserving, because they give investigators better reference points: altitude, direction, weather, flight routes and trained observers. Even here, the evidence varies.
+## The 1954 wave put Rome on Italy’s UFO map
 
-One notable official entry is the Lake Albano case of 26 August 1980. The Air Force archive records a report near Lake Albano, in the Rome province, at about 20:00. The object was described as white with a green trail, moving from south-east to north-west at about 7,000 metres, in cloudy conditions. The report came from the crew of flight IH 772, and the archive classified the event as an unidentified flying object after its review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+The autumn of 1954 produced one of Europe’s best-known waves of flying-saucer reports. Italy’s most famous episode occurred in Florence, but contemporary and later catalogues also place Rome and its surroundings inside the same wider pattern. The National UFO Centre’s Lazio chronology lists reports from Rome on 14, 16 and 28 October, from nearby Torvaianica around 16 October, and from Sora on 29 October. [Witnesses]({{ 'witnesses-bc33e6/' | relative_url }}) variously described bright globes, silver or cigar-shaped forms and objects leaving trails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico NazionaleLazio&gt;LAZIO principali avvistamenti dal 1954 … ore 17.45 Roma. 14 ottobre ore 18.00 Roma. Anzio (RM). Roma Cent...</span></span></span>
 
-This is a stronger-than-average entry because it involves an aircraft crew rather than a purely ground-based sighting. It is still not conclusive. A white object with a green trail could invite comparisons with meteors, re-entering debris or other luminous atmospheric events, although the official entry does not assign one of those explanations. The sensible conclusion is that the public archive preserves a credible aviation report, but not enough detail to settle the cause.
-
-The same archive records Lazio cases involving private citizens and institutional witnesses. On 15 December 1978, for example, a private citizen in Frosinone reported a circular red luminous object at about 05:15, with reduced speed and high altitude; the case was catalogued as unidentified in the archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span> On 13 July 1984, the archive includes a Parco del Circeo report from Air Force personnel describing a black cylindrical object at about 2,500 metres in clear sky, again catalogued as unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
-These entries matter less as spectacular stories and more as a pattern: Lazio’s file is not only folklore and newspaper talk. It includes reports reaching formal channels from pilots, Air Force staff, police or Carabinieri personnel as well as private citizens. But the official classification remains a negative finding — no known correlation found — rather than a positive identification of something extraordinary.<img src="{{"/assets/images/Lazio_2e255a-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Lazio&#x27;s UFO Files? illustration 2" data-theme-src-dark="{{"/assets/images/Lazio_2e255a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Lazio_2e255a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Recent official cases: Torricella, Rome and Pomezia
-
-The recent Air Force files show that Lazio has not disappeared from the official UFO map. The 2023 national list includes Torricella in Sabina, in the province of Rieti, on 14 May 2023 at 21:58. The witness described a white luminous cylindrical object, like a fluorescent tube, moving horizontally from west to east at very high altitude under scattered cloud and good visibility. The Air Force stated that its checks found no correlation with flight activity or other known phenomena, and the event was catalogued as an unidentified flying object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2024/03/AVVISTAMENTI_OVNI_LAST-2023-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
-The 2024 list contains two Lazio entries. In Rome, on 14 September 2024 at 00:40, a private citizen reported an irregular, transparent, faintly luminous object moving horizontally from north-east to north-west in a clear sky; the Air Force checks found no correlation with known flight activity or phenomena, and the case was catalogued as unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2025/02/OVNI_AVVISTAMENTI_022024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
-The more striking 2024 entry is Pomezia, south of Rome, on 26 November 2024 at 22:05. The report describes numerous orange-bright objects with luminous trails, estimated at about 500 km/h, moving from south to north-west at about 1,000 metres in slightly cloudy sky. Unlike the Rome case, the report came from Air Force personnel. The Air Force again recorded no correlation with flight activity or other known phenomena and catalogued the event as unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2025/02/OVNI_AVVISTAMENTI_022024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
-The Pomezia entry is worth treating carefully. “Numerous objects with luminous trails” can sound dramatic, but it is also a description that can overlap with meteors, re-entering debris, flares, lanterns or other grouped lights depending on duration, angular speed and trajectory. The public table does not provide video, radar, exact duration or independent corroboration. Its importance lies in the official witness category and the failed correlation check, not in proof of an extraordinary object.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfrg0rhIaGg" title="UFO Emits Weird White Material Onto Small French Town | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer">UFO Emits Weird White Material Onto Small French Town | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfrg0rhIaGg">Open on YouTube</a></p></div></div></div>
+One Torvaianica entry is especially interesting because the catalogue attributes the observation to a radar colonel and names defence and anti-aircraft command sources. Yet the publicly accessible entry is only a summary; it does not supply the underlying report, radar plot, instrument settings or a complete chain of custody. That makes the case more noteworthy than a casual anonymous sighting, but not independently verifiable from the material currently available online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico NazionaleLazio&gt;LAZIO principali avvistamenti dal 1954 … ore 17.45 Roma. 14 ottobre ore 18.00 Roma. Anzio (RM). Roma Cent...</span></span></span>
 
 
 
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/official-archive-b3275d/' | relative_url }}"><span class="article-branch-link-short">Official Archive</span><span class="article-branch-link-heading">What Lazio&#x27;s Official UFO Files Contain</span></a></li>
+<li><a href="{{ '/1978-response/' | relative_url }}"><span class="article-branch-link-short">1978 Response</span><span class="article-branch-link-heading">Why the 1978 Wave Changed UFO Reporting</span></a></li>
+<li><a href="{{ '/alitalia-case/' | relative_url }}"><span class="article-branch-link-short">Alitalia Case</span><span class="article-branch-link-heading">How Strong Is the 1973 Alitalia Case?</span></a></li>
+<li><a href="{{ '/explanations-39a50a/' | relative_url }}"><span class="article-branch-link-short">Explanations</span><span class="article-branch-link-heading">What Could Explain Lazio&#x27;s UFO Reports?</span></a></li>
+<li><a href="{{ '/unidentified/' | relative_url }}"><span class="article-branch-link-short">Unidentified</span><span class="article-branch-link-heading">Does Unidentified Mean Extraterrestrial?</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
 
+A separate Ciampino story is frequently dated 17 September 1954. Commercial photographic archives describe military personnel witnessing an object near the airport and say that radar confirmed it. Such captions demonstrate that the claim circulated at the time or was preserved in press collections, but they are not substitutes for the original radar record or operational report. The safest conclusion is that a military-associated Ciampino event formed part of the 1954 narrative, while its technical evidential basis remains difficult to inspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.maryevans.com/contributors/ftm/ufos-ciampino-italy-46530653.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maryevans.com">[Mary Evans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maryevans.com</span><span class="citation-popover-title">ufos ciampino italy 46530653</span><span class="citation-popover-snippet">Mary EvansRadar-Confirmed UFO Sighting at Ciampino Airport from Mary EvansThe sighting of this striking UFO by military personnel at Ciam...</span></span></span>
 
-## What likely explains many Lazio sightings?
-
-The ordinary explanations are not an afterthought. They are the first filter any serious regional UFO history needs. Lazio’s skies include commercial flights, military aircraft, drones, satellites, balloons, meteors, atmospheric effects and reflections. Rome’s population density also means that unusual but normal sky events can generate many reports very quickly.
-
-A useful sceptical point comes from CICAP, the Italian committee for the investigation of pseudoscientific claims. In a discussion of UFO perception, CICAP notes that distant aircraft can lose their recognisable outline, appear disc-like, reflect light oddly and be too far away for engine noise to be heard. Under the right conditions, ordinary aircraft can therefore look like silent discs or points of light to observers on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/articolo.php?id=275998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[cicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">UF O sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span><span class="citation-popover-snippet">UF O sulle nostre teste. Un esperimento per imparare a identificarli &#124; CICAP</span></span></span>
-
-Modern satellite constellations add a newer source of confusion. Starlink satellites, especially soon after launch, can appear as a line of bright, evenly spaced moving lights and are often mistaken for UFOs. They are usually most visible shortly after sunset or before sunrise, when sunlight reflects from satellites while the ground is dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train — how to see and track it &#124; Space</span><span class="citation-popover-snippet">Starlink satellite train — how to see and track it &#124; Space</span></span></span> This matters for [recent Lazio reports]({{'recent-cases/' | relative_url }}) because many modern “fleet” or “train” sightings worldwide are now checked first against satellite pass predictions.
-
-Older “angel hair” style reports also need caution. In Italian UFO history, the best-known example is Florence in 1954 rather than Lazio, but similar language appears in the wider 1954 wave. Explanations proposed for such filaments include spider ballooning and chaff from military exercises. The Florence debate remains contested in popular writing, but it shows a broader lesson for Lazio: material that appears mysterious at the time can later be reframed by better knowledge of aviation activity, atmospheric optics or animal behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamento_di_UFO_a_Firenze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento di UFO a Firenze</span><span class="citation-popover-snippet">Avvistamento di UFO a Firenze</span></span></span><img src="{{"/assets/images/Lazio_2e255a-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Lazio&#x27;s UFO Files? illustration 3" data-theme-src-dark="{{"/assets/images/Lazio_2e255a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Lazio_2e255a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How to read Lazio’s UFO archive without overclaiming
-
-The most reliable approach is to sort Lazio cases into three broad groups.
-
-**Officially unresolved cases** are the strongest starting points. These include entries in the Italian Air Force archive where the date, location, witness type and basic description are recorded and the inquiry found no correlation with known flight activity or natural phenomena. Torricella in Sabina in 2023, Rome and Pomezia in 2024, Lake Albano in 1980 and Parco del Circeo in 1984 belong in this evidential tier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2024/03/AVVISTAMENTI_OVNI_LAST-2023-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2025/02/OVNI_AVVISTAMENTI_022024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
-**Historically important but thinly documented cases** include the 1954 Rome-Ciampino-Pratica di Mare claim. It is important because of the alleged airport and radar elements, and because it sits inside the major 1954 Italian wave. But without a full public technical file, it should be described as a major historical report rather than as a demonstrated radar-visual unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-**Weak, folkloric or likely explained cases** include reports with poor sourcing, uncertain dates, photographic blemishes, likely planets, meteors or aircraft, and stories repeated mainly in UFO compilations without primary records. The National UFO Centre chronology itself contains entries marked as insufficient, unaffirmed or probably identified, which is a useful reminder that even pro-UFO catalogues often include internal doubts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-This sorting does not make the topic less interesting. It makes it more usable. Lazio’s UFO history becomes a layered record of how people, institutions and media reacted to unusual aerial observations across decades, rather than a single claim that must be either believed or dismissed wholesale.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJ5k5uhe68I" title="UFO sighting or Starlink Satellites?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer">UFO sighting or Starlink Satellites?</a></p><p class="youtube-embed-meta">Channel: joelnert &middot; Views: 1.2K &middot; Uploaded: May 2021 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJ5k5uhe68I">Open on YouTube</a></p></div></div></div>
+Several entries in the same Lazio catalogue also illustrate why historical lists need critical reading. A supposed object photographed above Monte Mario is judged by the compilers themselves to have been probably no more than a mark on the photograph. That candid qualification matters: the regional record contains both genuinely unresolved testimony and cases weakened by ordinary photographic defects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico NazionaleLazio&gt;LAZIO principali avvistamenti dal 1954 … ore 17.45 Roma. 14 ottobre ore 18.00 Roma. Anzio (RM). Roma Cent...</span></span></span>
 
 
 
+<img src="{{ "/assets/images/Lazio_2e255a-Illustration-1-dark.svg" | relative_url }}" alt="Why Lazio&#x27;s UFO History Remains Unresolved illustration 1" data-theme-src-dark="{{ "/assets/images/Lazio_2e255a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lazio_2e255a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## The 1973 Alitalia case is famous but poorly documented
+
+The most repeated Lazio aviation story concerns an Alitalia flight travelling from Rome towards Naples in 1973. According to later summaries, its crew saw a round grey object near Latina, after which two Italian Air Force aircraft from Ciampino reportedly took off and confirmed the observation. If supported by contemporary flight, interception and radar records, this would be Lazio’s most important UFO case because it combines a professional aircrew with an alleged military response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">UFO sightings in Italy</span></span></span>
+
+The difficulty is that widely available accounts mostly repeat the same brief narrative. They rarely provide the flight number, exact date, crew names, radio transcript, radar data or original Air Force file. The citation trail commonly leads to specialist UFO literature rather than a readily inspectable primary document. Repetition across websites therefore should not be mistaken for multiple independent confirmations.
+
+This does not prove the event was invented. Aviation incidents can survive in incomplete form, particularly when early reports were never digitised. It does mean the claim should be classified as **historically notable but weakly sourced**, rather than as a proven radar-and-pilot encounter. Later reporting has preserved the story but has not, in the accessible record, substantially strengthened it.
+
+Ciampino’s place in both the 1954 and 1973 stories also explains why military connections loom so large in Lazio UFO history. Rome contains major national institutions and busy controlled airspace, while Ciampino has long combined civil and military functions. Reports made in such surroundings are more likely to involve trained observers or official checks—but also more likely to concern aircraft, training activity, balloons and other conventional traffic.
 
 
-## What Lazio adds to Italy’s wider UFO history
 
-Lazio is best understood as a bridge between popular UFO culture and official reporting. Rome gives the region visibility. Ciampino, Fiumicino, Pratica di Mare and other aviation settings give it technical relevance. The Air Force archive gives it a public institutional trail. Local chronologies and newspapers preserve the more colourful folklore of waves, cigars, discs, luminous globes and coastal sightings.
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybDQGcZjJWI" title="UFO Sightings Terrify Italy | The Proof Is Out There | History" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 14:38">14:38</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer">UFO Sightings Terrify Italy | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 444.1K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybDQGcZjJWI">Open on YouTube</a></p></div></div></div>
 
-The most defensible conclusion is modest but meaningful: Lazio has produced a persistent run of UFO and unidentified aerial reports, including some with trained or official witnesses, but the public evidence does not justify treating them as confirmed extraordinary craft. The region’s value lies in the contrast between intriguing unresolved entries and the many ways ordinary aerial events can become puzzling when seen briefly, at night, from the ground, or during a media-driven flap.
+## The 1978 wave changed official handling
 
-That is why Lazio deserves a place in any region-by-region history of Italian UFO phenomena. It shows both sides of the subject at once: the genuine need to document unexplained reports that touch aviation and public safety, and the equally important need to resist turning every unresolved light into a finished mystery.
+Italy experienced another large sighting wave in 1978. In response, Prime Minister Giulio Andreotti assigned the Italian Air Force responsibility for collecting, checking and monitoring reports of unidentified flying objects. That institutional role continues through the Air Staff’s security organisation and is explicitly connected to flight and national security. Members of the public are instructed to submit reports through the Carabinieri.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/en/category/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI ArchivesUFO. Oggetti Volanti Non Identificati A seguito dell&#x27;ondata di avvistamenti di Oggetti Volanti Non Ident...</span></span></span>
+
+This development is more important to Lazio’s history than any unsupported tale of secret government knowledge. It created a formal reporting route centred on national institutions in Rome and produced an archive in which regional cases can be traced. The Air Force’s published records generally list the location, date, time, reported shape, colour, movement, weather and witness category, followed by the outcome of its checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+
+The terminology requires care. When an Air Force sheet says that an event was catalogued as an unidentified flying object, it usually means that investigators could not associate the report with recorded flight activity, radiosonde launches or another known phenomenon using the information available. It is a residual administrative category, not a finding that the object displayed impossible technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare - Ministero della DifesaSegnalazioni O.V.N.I., Oggetti Volanti Non Identificati. In quest...</span></span></span>
+
+The 1978 wave also intensified press and public interest throughout Italy. Lazio’s role was partly institutional: Rome was where political decisions, national broadcasters and major newspapers amplified the subject. This makes the region’s history as much about the creation and preservation of UFO records as about one dominant close encounter.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QuesA4_J5fQ" title="Did a Fighter Jet Really Chase a UFO in 1979?" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 2:28">2:28</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QuesA4_J5fQ" target="_blank" rel="noopener noreferrer">Did a Fighter Jet Really Chase a UFO in 1979?</a></p><p class="youtube-embed-meta">Channel: Documentify TV &middot; Views: 842 &middot; Uploaded: March 2024 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QuesA4_J5fQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QuesA4_J5fQ">Open on YouTube</a></p></div></div></div>
+
+## What the official Lazio files actually contain
+
+Published Air Force material shows a recurring pattern of short, descriptive case sheets rather than elaborate investigations. A report from eastern Rome at about 6am on 20 November 1994 described a luminous white cylindrical object moving at constant speed from north to south in clear weather. The witness was a private citizen, and the event remained catalogued as unidentified after examination of the archived information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+
+Another file records a luminous object over Ponza, in the province of Latina, between approximately 5am and 6am on 2 January 1995. It was described as white, yellow and red, apparently stationary at an estimated altitude of about 500 metres. The report is notable because it came from Air Force personnel, but the sheet still contains no photograph, range measurement or corroborating sensor record in the published summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+
+Rome has continued to generate official reports. On 14 March 2010, witnesses described a formation of nine or ten round lights, white with pink borders, moving slowly in a clear sky. The Air Force stated that it could not associate the event with known flying or radiosonde activity. In January 2012, another Rome report concerned a grey spherical object moving steadily from south-west to north. Both remained unidentified within the limits of the checks described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">OVNI 2010</span><span class="citation-popover-snippet">OVNI 2010</span></span></span>
+
+A September 2024 record describes an irregular, transparent and faintly luminous object observed above Rome at 00:40, travelling horizontally from north-east towards north-west in clear weather. The Air Force reported no correlation with known flight activity or another recognised phenomenon and consequently retained the unidentified classification. The report came from one private citizen and contains no published image or instrument data, so its status is unresolved rather than evidentially strong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2025/02/OVNI_AVVISTAMENTI_022024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+
+These examples show both the value and the limit of the archive. It confirms that reports were formally received and checked, preventing later storytellers from freely inventing the basic administrative history. At the same time, many entries remain single-witness observations with estimated heights, shapes and speeds. Without triangulation, calibrated photography or radar corroboration, investigators cannot reliably determine an object’s distance or true motion.
+
+
+
+<img src="{{ "/assets/images/Lazio_2e255a-Illustration-2-dark.svg" | relative_url }}" alt="Why Lazio&#x27;s UFO History Remains Unresolved illustration 2" data-theme-src-dark="{{ "/assets/images/Lazio_2e255a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lazio_2e255a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Why Rome produces so many reports
+
+Population is the simplest reason. Rome has far more potential observers than any other part of Lazio, and the city’s newspapers, broadcasters and online communities make it easy for an unusual light to become a reported event. In the National UFO Centre’s 2018 figures, Lazio produced 22 reports, the third-highest regional total, while Rome was the Italian province with the greatest number, at 16.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/comunicatistampa/Comunicato%20stampa%20CUN%20SUF%20avvistamenti%20UFO%20in%20Italia%20nel%202018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Open source on centroufologiconazionale.net.</span></span></span>
+
+Those numbers measure submissions, not extraordinary craft. The same 2018 analysis noted recurring misidentifications involving sky lanterns and increasing reports involving LED balloons and drones. Modern urban skies also contain aircraft landing lights, helicopters, satellites and satellite trains. A bright point seen head-on can appear motionless; once an aircraft turns, it may seem to accelerate or vanish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/comunicatistampa/Comunicato%20stampa%20CUN%20SUF%20avvistamenti%20UFO%20in%20Italia%20nel%202018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Open source on centroufologiconazionale.net.</span></span></span>
+
+Lazio also includes several environments that encourage misperception:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Rome and its suburbs:** dense air traffic, helicopters, drones, illuminated advertising and restricted-airspace activity.
+* **The coast and islands:** long, dark sightlines over water, where distance and height are difficult to judge.
+* **The Alban Hills and Apennine areas:** clear horizons, astronomical objects near ridgelines and isolated lights whose scale is ambiguous.
+* **Military or airport zones:** genuine but unfamiliar aircraft activity, often viewed without reliable range information.
+
+</div>
+
+A rise in sightings can therefore reflect improved reporting, a widely viewed launch, favourable weather or heightened media attention rather than an increase in unknown physical objects. Clusters become persuasive only when independent witnesses provide matching times and directions, and investigators can compare them with radar, weather, astronomy and flight data.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W_amIBrImoQ" title="Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 4:00">4:00</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer">Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.9K &middot; Uploaded: December 2025 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W_amIBrImoQ">Open on YouTube</a></p></div></div></div>
+
+## The main doubts surrounding Lazio’s best-known claims
+
+The regional record repeatedly encounters the same evidential problems.
+
+**Distance and speed are usually guessed.** A witness cannot determine the speed of a light without knowing its distance. A nearby slow object and a distant fast one may create the same apparent motion.
+
+**“Radar confirmed” is often asserted without radar evidence.** The Ciampino stories matter because radar is mentioned, but the accessible summaries do not generally reproduce plots, operator logs or technical analysis. Radar can also register weather, birds, equipment artefacts and conventional aircraft unless those alternatives are excluded.
+
+**Later accounts compress uncertain details into confident narratives.** The 1973 Alitalia story is a clear example. Its core claim has remained stable, but crucial identifying information is missing from most retellings. That leaves little way to distinguish independent evidence from copying.
+
+**An official unidentified classification is easily overstated.** It means no satisfactory match was found from the data examined. Sparse information can remain unidentified precisely because there is too little evidence, not because the observed object was exceptionally strange.
+
+**Photographs rarely solve the range problem.** A small blurred shape against an empty sky contains little information about size, distance or velocity. The Lazio catalogue’s own sceptical treatment of the Monte Mario photograph is a useful warning against assuming every historical image represents a solid object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico NazionaleLazio&gt;LAZIO principali avvistamenti dal 1954 … ore 17.45 Roma. 14 ottobre ore 18.00 Roma. Anzio (RM). Roma Cent...</span></span></span>
+
+The most credible future case would require several independent elements: original full-resolution imagery, precise time and location, duration and direction, aircraft and satellite checks, weather and astronomical data, and ideally observations from more than one location. Multisensor research similarly stresses triangulation, calibrated cameras, radar-derived range and environmental measurements because eyewitness description alone cannot establish unusual performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Lazio_2e255a-Illustration-3-dark.svg" | relative_url }}" alt="Why Lazio&#x27;s UFO History Remains Unresolved illustration 3" data-theme-src-dark="{{ "/assets/images/Lazio_2e255a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lazio_2e255a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## A balanced verdict on Lazio’s UFO history
+
+Lazio’s significance lies less in one conclusive mystery than in the interaction of witnesses, aviation and national institutions. The 1954 Rome-area reports show how the first great European flying-saucer wave reached the Italian capital. The 1973 Alitalia story remains the region’s most intriguing aviation claim, but its public documentation is too thin to support the certainty often attached to it. The 1978 wave led to a durable official reporting system, giving later Lazio cases a better archival foundation even when their physical evidence remained weak.
+
+A small number of reports are genuinely unresolved because official checks found no obvious match. Others are historically interesting but poorly sourced, and some are probably ordinary phenomena recorded under difficult viewing conditions. No publicly available Lazio case reviewed here provides robust, independently testable proof of an extraterrestrial vehicle.
+
+That conclusion does not make the archive worthless. It separates three categories that popular retellings often blur: **unresolved reports**, where the cause remains unknown; **weak cases**, where missing information prevents a meaningful conclusion; and **plausibly explained or debunked cases**, where photography, aviation, astronomy or human error offers a sufficient answer. Lazio’s UFO history becomes clearer—not less interesting—when those distinctions are preserved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -456,38 +524,21 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to What Really Happened in Lazio&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Why Lazio&#x27;s UFO History Remains Unresolved. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-</h4>
-<p class="fr-book-author">By Ross Coulthart</p>
-        
-<p class="fr-book-desc">Surveys official investigations and modern UFO evidence claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">Provides a framework for assessing regional UFO archives.</p>
+<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -495,16 +546,16 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
         
-<p class="fr-book-desc">Useful context for interpreting government case files.</p>
+<p class="fr-book-desc">The Report on Unidentified Flying Objects, written by Captain Edward Ruppelt in 1956, was the first serious, unbiased account written abo...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -512,16 +563,33 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
 </h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Encourages cautious evaluation of extraordinary claims.</p>
+<p class="fr-book-author">By Leslie Kean</p>
+        
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government: A Historical Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government: A Historical Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government: A Historical Inquiry">UFOs and Government: A Historical Inquiry</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
+        
+<p class="fr-book-desc">Governments around the world have had to deal with the UFO phenomenon for a good part of a century. How and why they did so is the subjec...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -529,29 +597,127 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{'/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{'/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{'/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{'/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-lazios-ufo-files-what-really-happened-in-lazio-s-ufo-files-lazio-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">ufo poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="why-lazios-ufo-history-remains-why-lazio-s-ufo-history-remains-unresolved-lazio-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
-  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket ='';
-    var languageMarket ='';
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -570,24 +736,24 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language ||'';
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
-    var tz ='';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
-    if (!tz) return'';
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return'';
+    return '';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -598,7 +764,7 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] ||'';
+    return available[0] || '';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -606,43 +772,45 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();</script><script type="text/javascript">
+})();
+</script>
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket ="EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return'#';
-    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
-    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label ||'eBay';
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
-    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -660,8 +828,8 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') ||'';
-      var reference = link.getAttribute('data-ebay-reference') ||'';
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -681,11 +849,11 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ?'true' :'false');
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -694,13 +862,13 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
-    section.setAttribute('data-ebay-localized-init','1');
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey:'phoenix-ebay-market',
+        storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -717,9 +885,9 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -738,24 +906,25 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
     });
     applyMarket(section, marketId, false);
   });
-})();</script></section>
+})();
+</script>
+</section>
 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: centroufologiconazionale.net  
-   Title: Centro Ufologico Nazionale  
-   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/lazio.htm</a>  
+   Source: Wikipedia  
+   Title: UFO sightings in Italy  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
 2.<a id="endnote-2"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf</a>  
+   Source: Wikipedia  
+   Link:<a href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO</a>  
 
 3.<a id="endnote-3"></a>
    Source: aeronautica.difesa.it  
    Title: Aeronautica Militare  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2024/03/AVVISTAMENTI_OVNI_LAST-2023-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2024/03/AVVISTAMENTI_OVNI_LAST-2023-1.pdf</a>  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf</a>  
 
 4.<a id="endnote-4"></a>
    Source: aeronautica.difesa.it  
@@ -763,139 +932,195 @@ That is why Lazio deserves a place in any region-by-region history of Italian UF
    Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2025/02/OVNI_AVVISTAMENTI_022024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2025/02/OVNI_AVVISTAMENTI_022024.pdf</a>  
 
 5.<a id="endnote-5"></a>
-   Source: cicap.org  
-   Title: UF O sulle nostre teste. Un esperimento per imparare a identificarli | CICAP  
-   Link:<a href="https://www.cicap.org/n/articolo.php?id=275998" target="_blank" rel="noopener noreferrer nofollow">https://www.cicap.org/n/articolo.php?id=275998</a>  
+   Source: arxiv.org  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 6.<a id="endnote-6"></a>
-   Source: space.com  
-   Title: Starlink satellite train — how to see and track it | Space  
-   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Source: Wikipedia  
+   Title: Zanfretta UFO Incident  
+   Link:<a href="https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident</a>  
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: Avvistamento di UFO a Firenze  
-   Link:<a href="https://it.wikipedia.org/wiki/Avvistamento_di_UFO_a_Firenze" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Avvistamento_di_UFO_a_Firenze</a>  
+   Title: List of accidents and incidents involving commercial aircraft  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft</a>  
 
 8.<a id="endnote-8"></a>
-   Source: ufo.it  
-   Title: bollettino rete ufologica computerizzata n 3  
-   Link:<a href="https://ufo.it/2015/12/10/bollettino-rete-ufologica-computerizzata-n-3/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.it/2015/12/10/bollettino-rete-ufologica-computerizzata-n-3/</a>  
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/January" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/January</a>  
 
 9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Title: Centro ufologico nazionale  
-   Link:<a href="https://it.wikipedia.org/wiki/Centro_ufologico_nazionale" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Centro_ufologico_nazionale</a>  
+   Title: List of reported UFO sightings  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 10.<a id="endnote-10"></a>
-   Source: Wikipedia  
-   Title: Ondata di avvistamenti dell'autunno 1954  
-   Link:<a href="https://it.wikipedia.org/wiki/Ondata_di_avvistamenti_dell%27autunno_1954" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Ondata_di_avvistamenti_dell%27autunno_1954</a>  
+   Source: archive.org  
+   Link:<a href="https://archive.org/stream/issue-31/Issue%2033_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/issue-31/Issue%2033_djvu.txt</a>  
 
 11.<a id="endnote-11"></a>
-   Source: Wikipedia  
-   Title: UFO sightings in Italy  
-   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+   Source: archive.org  
+   Title: unita 1978 07 25 djvu.txt  
+   Link:<a href="https://archive.org/stream/unita_1978-07-25/unita_1978-07-25_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/unita_1978-07-25/unita_1978-07-25_djvu.txt</a>  
 
 12.<a id="endnote-12"></a>
-   Source: Wikipedia  
-   Link:<a href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO</a>  
+   Source: arxiv.org  
+   Link:<a href="https://arxiv.org/pdf/2303.17103" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2303.17103</a>  
 
 13.<a id="endnote-13"></a>
-   Source: Wikipedia  
-   Title: Bambagia silicea  
-   Link:<a href="https://it.wikipedia.org/wiki/Bambagia_silicea" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Bambagia_silicea</a>  
+   Source: time.com  
+   Title: ufo photos  
+   Link:<a href="https://time.com/4706583/ufo-photos/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4706583/ufo-photos/</a>  
 
 14.<a id="endnote-14"></a>
-   Source: Wikipedia  
-   Title: Angel hair (folklore)  
-   Link:<a href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29</a>  
-
-15.<a id="endnote-15"></a>
-   Source: consiglio.regione.lazio.it  
-   Link:<a href="https://www.consiglio.regione.lazio.it/binary/consiglio_regionale/tbl_bandi/Graduatoria_generale_rettificata.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.consiglio.regione.lazio.it/binary/consiglio_regionale/tbl_bandi/Graduatoria_generale_rettificata.pdf</a>  
-
-16.<a id="endnote-16"></a>
    Source: aeronautica.difesa.it  
    Title: Aeronautica Militare OVNI  
    Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare - Ministero della DifesaSegnalazioni O.V.N.I., Oggetti Volanti Non Identificati. In quest...</p></details>
+
+15.<a id="endnote-15"></a>
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare Ufficio relazioni con il pubblico  
+   Link:<a href="https://www.aeronautica.difesa.it/ufficio-relazioni-con-il-pubblico/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ufficio-relazioni-con-il-pubblico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>06.49866626. urp@aeronautica.difesa.it. Informazioni... OVNI. Attualmente tale attività viene svolta dal: Reparto Generale Sicurezza...</p></details>
+
+16.<a id="endnote-16"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/lazio.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/lazio.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Ufologico NazionaleLazio&gt;LAZIO principali avvistamenti dal 1954 … ore 17.45 Roma. 14 ottobre ore 18.00 Roma. Anzio (RM). Roma Cent...</p></details>
 
 17.<a id="endnote-17"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare Presentazione standard di Power Point  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf</a>  
+   Source: maryevans.com  
+   Title: ufos ciampino italy 46530653  
+   Link:<a href="https://www.maryevans.com/contributors/ftm/ufos-ciampino-italy-46530653.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/ftm/ufos-ciampino-italy-46530653.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mary EvansRadar-Confirmed UFO Sighting at Ciampino Airport from Mary EvansThe sighting of this striking UFO by military personnel at Ciam...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf</a>  
+   Link:<a href="https://www.aeronautica.difesa.it/en/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/category/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI ArchivesUFO. Oggetti Volanti Non Identificati A seguito dell&#x27;ondata di avvistamenti di Oggetti Volanti Non Ident...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/07/INTERCALARE-SEGNALAZIONI-2022_-DICEMBRE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/07/INTERCALARE-SEGNALAZIONI-2022_-DICEMBRE.pdf</a>  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf</a>  
 
 20.<a id="endnote-20"></a>
    Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/10/INTERCALARE-C-TORRICELLA-IN-SABINA-RI-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/10/INTERCALARE-C-TORRICELLA-IN-SABINA-RI-2.pdf</a>  
+   Title: OVNI 2010  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf</a>  
 
 21.<a id="endnote-21"></a>
    Source: aeronautica.difesa.it  
-   Title: RIV 4 2020 FIN  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf</a>  
+   Title: OVNI 2012  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2012.pdf</a>  
 
 22.<a id="endnote-22"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/photo.php?fbid=846678544249192&amp;set=a.104743295109391&amp;type=3" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=846678544249192&amp;set=a.104743295109391&amp;type=3</a>  
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/comunicatistampa/Comunicato%20stampa%20CUN%20SUF%20avvistamenti%20UFO%20in%20Italia%20nel%202018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/comunicatistampa/Comunicato%20stampa%20CUN%20SUF%20avvistamenti%20UFO%20in%20Italia%20nel%202018.pdf</a>  
 
 23.<a id="endnote-23"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/popular/aeronautica-militare-meteo-roma-15-gg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/aeronautica-militare-meteo-roma-15-gg/</a>  
+   Source: aeronautica.difesa.it  
+   Title: it Archivi Notizie  
+   Link:<a href="https://www.aeronautica.difesa.it/en/news/page/674/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/page/674/</a>  
 
 24.<a id="endnote-24"></a>
-   Source: spacedoutclassroom.com  
-   Title: famous ufo incidents 1948 1954  
-   Link:<a href="https://spacedoutclassroom.com/2022/08/31/famous-ufo-incidents-1948-1954/" target="_blank" rel="noopener noreferrer nofollow">https://spacedoutclassroom.com/2022/08/31/famous-ufo-incidents-1948-1954/</a>  
+   Source: aeronautica.difesa.it  
+   Title: OVNI 2013  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2013.pdf</a>  
+
+25.<a id="endnote-25"></a>
+   Source: centroufologiconazionale.net  
+   Title: CasisticaCunItalia1900 2008  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/CasisticaCunItalia1900-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/CasisticaCunItalia1900-2008.pdf</a>  
+
+26.<a id="endnote-26"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/Documenti/5convegnoroma.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/Documenti/5convegnoroma.htm</a>  
+
+27.<a id="endnote-27"></a>
+   Source: centroufologiconazionale.net  
+   Title: CASISTICA UFOLOGICA COMPLETA 14 1 16 B  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf</a>  
+
+28.<a id="endnote-28"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/Statistiche2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/Statistiche2022.pdf</a>  
+
+29.<a id="endnote-29"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/news/newarchive.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/news/newarchive.htm</a>  
+
+30.<a id="endnote-30"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/avv2002.html" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/avv2002.html</a>  
+
+31.<a id="endnote-31"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/filodiretto/filodiretto.html" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/filodiretto/filodiretto.html</a>  
+
+32.<a id="endnote-32"></a>
+   Source: centroufologiconazionale.net  
+   Title: STATISTICH E SEGNALAZIONI UFO  
+   Link:<a href="https://www.centroufologiconazionale.net/comunicatistampa/Press-stat-avvistamenti-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/comunicatistampa/Press-stat-avvistamenti-2023.pdf</a>  
+
+33.<a id="endnote-33"></a>
+   Source: scribd.com  
+   Title: Unidentified Flying Object  
+   Link:<a href="https://www.scribd.com/document/336790598/Unidentified-Flying-Object" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/336790598/Unidentified-Flying-Object</a>  
+
+34.<a id="endnote-34"></a>
+   Source: podme.com  
+   Link:<a href="https://podme.com/no/episode/1409260/" target="_blank" rel="noopener noreferrer nofollow">https://podme.com/no/episode/1409260/</a>  
+
+35.<a id="endnote-35"></a>
+   Source: ultimatepopculture.fandom.com  
+   Title: Unidentified flying object  
+   Link:<a href="https://ultimatepopculture.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://ultimatepopculture.fandom.com/wiki/Unidentified_flying_object</a>  
 
 ### Additional References
 
-25.<a id="endnote-25"></a>
-   Source: youtube.com  
-   Title: What Really Happened in Rome: The Vatican, AI, UAPs & Disclosure  
-   Link:<a href="https://www.youtube.com/watch?v=ZS_BB0IT2Jo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZS_BB0IT2Jo</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni...</p></details>
-
-26.<a id="endnote-26"></a>
+36.<a id="endnote-36"></a>
    Source: cia.gov  
-   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-27.<a id="endnote-27"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Title: Ufo in Italia, 56 avvistamenti dell'Aeronautica in quattro anni  
-   Link:<a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v2VqVPL5DH4</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo: 445 avvistamenti ufficiali in Italia...</p></details>
+   Title: Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World  
+   Link:<a href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W_amIBrImoQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did a Fighter Jet Really Chase a UFO in 1979?...</p></details>
 
-28.<a id="endnote-28"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Title: Declassified: The Air Force's Secret UFO Files  
-   Link:<a href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2teFYr-o2s</a><details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in Rome: The Vatican, AI, UAPs &amp; Disclosure...</p></details>
+   Title: UFO Sightings Terrify Italy | The Proof Is Out There  
+   Link:<a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybDQGcZjJWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World...</p></details>
 
-29.<a id="endnote-29"></a>
+39.<a id="endnote-39"></a>
+   Source: theflorentine.net  
+   Title: ufos 1954  
+   Link:<a href="https://www.theflorentine.net/2025/10/22/ufos-1954/" target="_blank" rel="noopener noreferrer nofollow">https://www.theflorentine.net/2025/10/22/ufos-1954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FlorentineUFOs over Tuscany: the mystery of Italy&#x27;s 1954 autumn wave22 Oct 2025 — A halted football match in Florence, an eerie encou...</p></details>
+
+40.<a id="endnote-40"></a>
+   Source: hermes.aero  
+   Link:<a href="https://hermes.aero/wp-content/uploads/2020/01/100-YoCA_E-BOOK_FINAL_updated_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hermes.aero/wp-content/uploads/2020/01/100-YoCA_E-BOOK_FINAL_updated_2020.pdf</a>  
+
+41.<a id="endnote-41"></a>
+   Source: zencastr.com  
+   Link:<a href="https://zencastr.com/z/KB4D_DSv" target="_blank" rel="noopener noreferrer nofollow">https://zencastr.com/z/KB4D_DSv</a>  
+
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/zona.romanord/posts/ufo-a-roma-nord-e-voi-lo-avete-vistosta-facendo-il-giro-del-web-il-video-di-un-u/2233520790030584/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zona.romanord/posts/ufo-a-roma-nord-e-voi-lo-avete-vistosta-facendo-il-giro-del-web-il-video-di-un-u/2233520790030584/</a>  
+   Link:<a href="https://www.facebook.com/groups/Mystify2010/posts/27623105960611943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27623105960611943/</a>  
 
-30.<a id="endnote-30"></a>
-   Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/226479342_Isotope_geochemistry_Sr-Nd-Pb_and_petrogenesis_of_leucite-bearing_volcanic_rocks_from_Colli_Albani_volcano_Roman_Magmatic_Province_Central_Italy_inferences_on_volcano_evolution_and_magma_genesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226479342_Isotope_geochemistry_Sr-Nd-Pb_and_petrogenesis_of_leucite-bearing_volcanic_rocks_from_Colli_Albani_volcano_Roman_Magmatic_Province_Central_Italy_inferences_on_volcano_evolution_and_magma_genesis</a>  
-
-31.<a id="endnote-31"></a>
-   Source: dire.it  
-   Link:<a href="https://www.dire.it/09-08-2024/1070779-gli-ufo-esistono-e-in-italia-si-studiano-al-cun-centro-ufologico-nazionale-il-primo-schianto-nel-1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.dire.it/09-08-2024/1070779-gli-ufo-esistono-e-in-italia-si-studiano-al-cun-centro-ufologico-nazionale-il-primo-schianto-nel-1933/</a>  
-
-32.<a id="endnote-32"></a>
-   Source: scribd.com  
-   Link:<a href="https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair</a>  
-
-33.<a id="endnote-33"></a>
-   Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/UFOs/comments/xrhz3c/angel_hair_is_crucial_element_of_the_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xrhz3c/angel_hair_is_crucial_element_of_the_ufo/</a>  
-
-34.<a id="endnote-34"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
+   Link:<a href="https://www.facebook.com/10NewsAU/posts/italians-have-been-left-confused-after-a-glowing-ring-of-lights-was-captured-abo/1274470454719510/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsAU/posts/italians-have-been-left-confused-after-a-glowing-ring-of-lights-was-captured-abo/1274470454719510/</a>  
+
+44.<a id="endnote-44"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/IndiaToday/posts/mysterious-pillars-of-light-seen-falling-from-the-sky-over-italy/1340885091408369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/mysterious-pillars-of-light-seen-falling-from-the-sky-over-italy/1340885091408369/</a>  
+
+45.<a id="endnote-45"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/wktv2/posts/on-a-sunny-saturday-afternoon-in-rome-a-large-white-streak-of-light-was-seen-fly/1413633140797178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wktv2/posts/on-a-sunny-saturday-afternoon-in-rome-a-large-white-streak-of-light-was-seen-fly/1413633140797178/</a>  

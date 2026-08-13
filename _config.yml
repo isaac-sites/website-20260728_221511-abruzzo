@@ -11,13 +11,13 @@ text_direction: 'ltr'
 direction: 'ltr'
 visual_profile: 'compact'
 site_visual_identity: 'signal-cobalt'
-site_visual_identity_source: 'local_inference'
-site_visual_identity_confidence: 'medium'
+site_visual_identity_source: 'remote_model'
+site_visual_identity_confidence: 'high'
 layout_archetype: 'compact-grid'
 visual_palette: 'signal-cobalt'
-visual_motif: 'constellation'
-font_heading: 'Sora'
-font_body: 'Public Sans'
+visual_motif: 'horizon'
+font_heading: 'Space Grotesk'
+font_body: 'Source Serif 4'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
@@ -33,7 +33,10 @@ endnotes_initial_visible: 3
 endnotes_show_accessed: false
 social_cards_enabled: true
 social_infographic_candidates_enabled: true
-social_card_max_level: 1
+social_card_max_level: 0
+social_card_template_version: '2'
+social_preview_audit_enabled: true
+social_preview_contact_sheet_enabled: true
 native_share_enabled: true
 article_schema_enabled: true
 baseurl: ""
@@ -44,7 +47,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1786267379'
+ui_bundle_version: 'build-1786638597'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

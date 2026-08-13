@@ -2,17 +2,17 @@
 level: 1
 basename: Molise_7c6aa1
 child_basenames:
-- Molise_7c6aa1_castelpetroso_photo_3a842c
-- Molise_7c6aa1_early_catalogue_entr_a8f9a5
+- Molise_7c6aa1_castelpetroso_camera_34efda
+- Molise_7c6aa1_difesa_grande_sphere_83c4d8
+- Molise_7c6aa1_guglionesi_2017_flap_2048a5
 - Molise_7c6aa1_index
-- Molise_7c6aa1_local_press_coverage_f034a6
-- Molise_7c6aa1_molise_1978_wave_c0fffa
-- Molise_7c6aa1_molise_hotspots_f33ad9
-- Molise_7c6aa1_monte_mutria_claim_0c9355
-- Molise_7c6aa1_official_reporting_r_13a6f5
-- Molise_7c6aa1_ordinary_explanation_a805d0
-- Molise_7c6aa1_roccaravindola_light_3aed11
-- Molise_7c6aa1_termoli_coastal_sigh_1ce271
+- Molise_7c6aa1_molise_official_ufo_f790b6
+- Molise_7c6aa1_molise_ufo_evidence_9e33a3
+- Molise_7c6aa1_molise_ufo_explanati_a9013e
+- Molise_7c6aa1_molise_ufo_media_amp_9ed718
+- Molise_7c6aa1_molise_ufo_reporting_a8691d
+- Molise_7c6aa1_molise_ufo_timeline_98de52
+- Molise_7c6aa1_termoli_seafront_vid_978e8c
 sibling_basenames:
 - Abruzzo_4c71bb
 - Aosta_Valley_ccb120
@@ -39,24 +39,28 @@ keywords:
 - molise
 affiliate_category: molise
 show_ads: true
-description: Molise’s UFO record is best understood as a modest, fragmented regional trail rather than a catalogue of famous “classic” cases.
-hero_summary: Molise’s UFO record is best understood as a modest, fragmented regional trail rather than a catalogue of famous “classic” cases.
+description: Molise has no well-documented “classic” UFO incident comparable with Italy’s best-known close encounters, pilot reports or radar cases.
+hero_summary: Molise has no well-documented “classic” UFO incident comparable with Italy’s best-known close encounters, pilot reports or radar cases.
 layout: default
-permalink: /what-really-happened-in-molises-ufo/
-nav_short_title: What Really Happened in Molise's UFO Record?
-title: What Really Happened in Molise's UFO Record?
-title_full: What Really Happened in Molise's UFO Record?
-display_title_short: What Really Happened in Molise's UFO Record?
-display_title: What Really Happened in Molise's UFO Record?
-heading_title: What Really Happened in Molise's UFO Record?
-page_heading_title: What Really Happened in Molise's UFO Record?
-source_count: 65
+permalink: /why-molise-has-so-few-strong-ufo-cases/
+nav_short_title: Why Molise Has So Few Strong UFO Cases
+title: Why Molise Has So Few Strong UFO Cases
+title_full: Why Molise Has So Few Strong UFO Cases
+display_title_short: Why Molise Has So Few Strong UFO Cases
+display_title: Why Molise Has So Few Strong UFO Cases
+heading_title: Why Molise Has So Few Strong UFO Cases
+page_heading_title: Why Molise Has So Few Strong UFO Cases
+source_count: 110
 infographic_count: 3
 page_website_name: Molise
-page_banner_line: A balanced look at Molise's scattered sightings, records and explanations.
+page_banner_line: A clear-eyed look at Molise's sightings, records, evidence gaps and likely explanations.
 site_website_name: Molise
-site_banner_line: A balanced look at Molise's scattered sightings, records and explanations.
-site_image_description: A quiet Molise hill town at dusk with distant lights above the rooftops and a road sign pointing towards Campobasso and Termoli.
+site_banner_line: A clear-eyed look at Molise's sightings, records, evidence gaps and likely explanations.
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: horizon
+site_typography_tone: editorial
+site_image_description: A quiet Molise hillside at dusk with a small luminous object above distant villages, a camera tripod in the foreground and the...
 output_language: English
 lang: en
 locale: en
@@ -200,7 +204,18 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -218,256 +233,303 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 09:38:21'
+date: '2026-07-26 21:28:15'
 sibling_links:
-- basename: Aosta_Valley_ccb120
-  title: Aosta UFOs
-  permalink: /aosta-valley/
-  short_title: Aosta UFOs
 - basename: Friuli-Venezia_Giuli_608dd8
-  title: Friuli UFOs
+  title: Friuli UFO Files
   permalink: /friuli-venezia-giulia/
-  short_title: Friuli UFOs
-- basename: Trentino-Alto_Adige_27eb8f
-  title: Alpine UFOs
-  permalink: /trentino-alto-adige/
-  short_title: Alpine UFOs
-- basename: Umbria_d4a7a8
-  title: Umbrian Skies
-  permalink: /umbria/
-  short_title: Umbrian Skies
-- basename: Sardinia_83a1a0
-  title: Sardinia UFOs
-  permalink: /what-makes-sardinias-ufo-record-so/
-  short_title: Sardinia UFOs
-- basename: Abruzzo_4c71bb
-  title: Abruzzo UFOs
-  permalink: /what-really-happened-in-abruzzos-ufo/
-  short_title: Abruzzo UFOs
-- basename: Apulia_98f3e8
-  title: Apulia UFOs
-  permalink: /what-really-happened-in-apulias-ufo/
-  short_title: Apulia UFOs
-- basename: Basilicata_3ea395
-  title: Basilicata UFOs
-  permalink: /what-really-happened-in-basilicatas-ufo/
-  short_title: Basilicata UFOs
-- basename: Calabria_663de5
-  title: Calabria UFOs
-  permalink: /what-really-happened-in-calabrias-ufo/
-  short_title: Calabria UFOs
-- basename: Emilia-Romagna_e1c904
-  title: Emilia Romagna UFOs
-  permalink: /what-really-happened-in-emilia/
-  short_title: Emilia Romagna UFOs
-- basename: Lazio_2e255a
-  title: Lazio UFOs
-  permalink: /what-really-happened-in-lazios-ufo-files/
-  short_title: Lazio UFOs
-- basename: Liguria_5b11e3
-  title: Liguria UFOs
-  permalink: /what-really-happened-in-ligurias-ufo/
-  short_title: Liguria UFOs
+  short_title: Friuli UFO Files
+- basename: Marche_113fca
+  title: Marche
+  permalink: /how-marches-ufo-legends-took-shape/
+  short_title: Marche
 - basename: Lombardy_9b46d3
-  title: Lombardy UFOs
-  permalink: /what-really-happened-in-lombardys-ufo/
-  short_title: Lombardy UFOs
+  title: Lombardy
+  permalink: /lombardys-ufo-history-between-evidence/
+  short_title: Lombardy
 - basename: Piedmont_9fde2b
-  title: Piedmont UFOs
-  permalink: /what-really-happened-in-piedmonts-ufo/
-  short_title: Piedmont UFOs
-- basename: Sicily_77b465
-  title: Sicily UFOs
-  permalink: /what-really-happened-in-sicilys-ufo/
-  short_title: Sicily UFOs
+  title: Piedmont UFO Files
+  permalink: /piedmonts-ufo-mysteries-under-closer/
+  short_title: Piedmont UFO Files
+- basename: Trentino-Alto_Adige_27eb8f
+  title: Alpine UFO Files
+  permalink: /trentino-alto-adige/
+  short_title: Alpine UFO Files
 - basename: Tuscany_2685d2
-  title: Tuscan Skies
-  permalink: /what-really-happened-in-tuscanys-ufo/
-  short_title: Tuscan Skies
+  title: Tuscan UFO Files
+  permalink: /tuscanys-ufo-history-between-mystery-and/
+  short_title: Tuscan UFO Files
 - basename: Veneto_862600
   title: Veneto UFOs
-  permalink: /what-really-happened-in-venetos-ufo/
+  permalink: /venetos-ufo-history-between-evidence-and/
   short_title: Veneto UFOs
-- basename: Marche_113fca
-  title: Marche UFOs
-  permalink: /what-really-happened-over-marche/
-  short_title: Marche UFOs
+- basename: Basilicata_3ea395
+  title: Basilicata UFOs
+  permalink: /which-basilicata-ufo-cases-still/
+  short_title: Basilicata UFOs
+- basename: Abruzzo_4c71bb
+  title: Abruzzo
+  permalink: /why-abruzzo-became-italys-ufo-hotspot/
+  short_title: Abruzzo
+- basename: Aosta_Valley_ccb120
+  title: Aosta Valley UFOs
+  permalink: /why-aosta-valleys-ufo-record-looks-so/
+  short_title: Aosta Valley UFOs
+- basename: Apulia_98f3e8
+  title: Apulia UFO Files
+  permalink: /why-apulias-ufo-record-still-resists/
+  short_title: Apulia UFO Files
+- basename: Calabria_663de5
+  title: Calabria UFO Files
+  permalink: /why-calabria-has-many-ufo-reports-but-no/
+  short_title: Calabria UFO Files
 - basename: Campania_5acc6a
-  title: Campania UFOs
-  permalink: /why-campania-keeps-appearing-in-ufo/
-  short_title: Campania UFOs
+  title: Campania
+  permalink: /why-campanias-ufo-waves-looked-so/
+  short_title: Campania
+- basename: Emilia-Romagna_e1c904
+  title: Emilia Romagna
+  permalink: /why-emilia-romagna-became-a-ufo-hotspot/
+  short_title: Emilia Romagna
+- basename: Lazio_2e255a
+  title: Lazio UFO Files
+  permalink: /why-lazios-ufo-history-remains/
+  short_title: Lazio UFO Files
+- basename: Liguria_5b11e3
+  title: Liguria UFOs
+  permalink: /why-liguria-became-italys-ufo-coast/
+  short_title: Liguria UFOs
+- basename: Sardinia_83a1a0
+  title: Sardinia UFOs
+  permalink: /why-sardinias-ufo-record-remains-so/
+  short_title: Sardinia UFOs
+- basename: Sicily_77b465
+  title: Sicily UFO Files
+  permalink: /why-sicilys-ufo-stories-still-resist/
+  short_title: Sicily UFO Files
+- basename: Umbria_d4a7a8
+  title: Umbria UFOs
+  permalink: /why-umbrias-ufo-stories-still-resist/
+  short_title: Umbria UFOs
 child_links:
-- basename: Molise_7c6aa1_molise_1978_wave_c0fffa
-  title: 1978 Wave | What Really Happened in Molise's UFO Record?
-  permalink: /1978-wave-71ae69/
-  short_title: 1978 Wave
-  heading_title: Why Did Molise Reports Surge in 1978?
-- basename: Molise_7c6aa1_castelpetroso_photo_3a842c
-  title: Castelpetroso | What Really Happened in Molise's UFO Record?
+- basename: Molise_7c6aa1_castelpetroso_camera_34efda
+  title: Castelpetroso | Why Molise Has So Few Strong UFO Cases
   permalink: /castelpetroso/
   short_title: Castelpetroso
-  heading_title: Was Castelpetroso a UFO or Camera Artefact?
-- basename: Molise_7c6aa1_early_catalogue_entr_a8f9a5
-  title: Early Entries | What Really Happened in Molise's UFO Record?
-  permalink: /early-entries/
-  short_title: Early Entries
-  heading_title: How Far Back Do Molise UFO Reports Go?
-- basename: Molise_7c6aa1_ordinary_explanation_a805d0
-  title: Explanations | What Really Happened in Molise's UFO Record?
-  permalink: /explanations-d7031a/
-  short_title: Explanations
-  heading_title: What Else Could Molise Witnesses Have Seen?
-- basename: Molise_7c6aa1_molise_hotspots_f33ad9
-  title: Hotspots | What Really Happened in Molise's UFO Record?
-  permalink: /hotspots/
-  short_title: Hotspots
-  heading_title: Where Do Molise UFO Reports Cluster?
-- basename: Molise_7c6aa1_local_press_coverage_f034a6
-  title: Local Press | What Really Happened in Molise's UFO Record?
-  permalink: /local-press-1ba079/
-  short_title: Local Press
-  heading_title: How Did Local Press Shape Molise UFOs?
-- basename: Molise_7c6aa1_monte_mutria_claim_0c9355
-  title: Monte Mutria | What Really Happened in Molise's UFO Record?
-  permalink: /monte-mutria/
-  short_title: Monte Mutria
-  heading_title: Was Monte Mutria a UFO Crash Story?
-- basename: Molise_7c6aa1_official_reporting_r_13a6f5
-  title: Official Route | What Really Happened in Molise's UFO Record?
-  permalink: /official-route/
-  short_title: Official Route
-  heading_title: Who Checks UFO Reports from Molise?
-- basename: Molise_7c6aa1_roccaravindola_light_3aed11
-  title: Roccaravindola | What Really Happened in Molise's UFO Record?
-  permalink: /roccaravindola/
-  short_title: Roccaravindola
-  heading_title: How Strong Is the Roccaravindola Light Report?
-- basename: Molise_7c6aa1_termoli_coastal_sigh_1ce271
-  title: Termoli Coast | What Really Happened in Molise's UFO Record?
-  permalink: /termoli-coast/
-  short_title: Termoli Coast
-  heading_title: Why Do Termoli's Seafront Lights Matter?
+  heading_title: Were Castelpetroso's UFOs Only Camera Artefacts?
+- basename: Molise_7c6aa1_difesa_grande_sphere_83c4d8
+  title: Difesa Grande | Why Molise Has So Few Strong UFO Cases
+  permalink: /difesa-grande/
+  short_title: Difesa Grande
+  heading_title: What Was Seen Near Difesa Grande in 2007?
+- basename: Molise_7c6aa1_molise_ufo_evidence_9e33a3
+  title: Evidence Gaps | Why Molise Has So Few Strong UFO Cases
+  permalink: /evidence-gaps/
+  short_title: Evidence Gaps
+  heading_title: Why Molise's UFO Evidence Is So Hard to Test
+- basename: Molise_7c6aa1_guglionesi_2017_flap_2048a5
+  title: Guglionesi Flap | Why Molise Has So Few Strong UFO Cases
+  permalink: /guglionesi-flap/
+  short_title: Guglionesi Flap
+  heading_title: How Guglionesi Became Molise's UFO Hotspot
+- basename: Molise_7c6aa1_molise_ufo_explanati_a9013e
+  title: Likely Causes | Why Molise Has So Few Strong UFO Cases
+  permalink: /likely-causes-379ec5/
+  short_title: Likely Causes
+  heading_title: What Usually Explains Molise's Strange Sky Lights?
+- basename: Molise_7c6aa1_molise_ufo_media_amp_9ed718
+  title: Media Effect | Why Molise Has So Few Strong UFO Cases
+  permalink: /media-effect/
+  short_title: Media Effect
+  heading_title: How Media Turned Weak Sightings Into Big Stories
+- basename: Molise_7c6aa1_molise_official_ufo_f790b6
+  title: Official Record | Why Molise Has So Few Strong UFO Cases
+  permalink: /official-record/
+  short_title: Official Record
+  heading_title: Why Molise Has Only One Official UFO Case
+- basename: Molise_7c6aa1_molise_ufo_reporting_a8691d
+  title: Reporting Process | Why Molise Has So Few Strong UFO Cases
+  permalink: /reporting-process/
+  short_title: Reporting Process
+  heading_title: How a Molise UFO Sighting Becomes Official
+- basename: Molise_7c6aa1_termoli_seafront_vid_978e8c
+  title: Termoli Video | Why Molise Has So Few Strong UFO Cases
+  permalink: /termoli-video/
+  short_title: Termoli Video
+  heading_title: Did Termoli's Seafront Video Capture a UFO?
+- basename: Molise_7c6aa1_molise_ufo_timeline_98de52
+  title: Timeline | Why Molise Has So Few Strong UFO Cases
+  permalink: /timeline/
+  short_title: Timeline
+  heading_title: Molise's UFO History From Sparse Reports to Mini Flaps
+has_inline_related_reports_panel: true
 prev_link:
-  basename: Lombardy_9b46d3
-  title: Lombardy UFOs
-  permalink: /what-really-happened-in-lombardys-ufo/
-  short_title: Lombardy UFOs
+  basename: Liguria_5b11e3
+  title: Liguria UFOs
+  permalink: /why-liguria-became-italys-ufo-coast/
+  short_title: Liguria UFOs
 next_link:
-  basename: Piedmont_9fde2b
-  title: Piedmont UFOs
-  permalink: /what-really-happened-in-piedmonts-ufo/
-  short_title: Piedmont UFOs
+  basename: Sardinia_83a1a0
+  title: Sardinia UFOs
+  permalink: /why-sardinias-ufo-record-remains-so/
+  short_title: Sardinia UFOs
 header:
   og_image: /assets/images/Molise_7c6aa1-overview-social.jpg
   preview_image: /assets/images/Molise_7c6aa1-overview.webp
 image: /assets/images/Molise_7c6aa1-overview-social.jpg
 ---
 
-## What makes Molise different in Italian UFO history?
+## Introduction
 
-Molise does not have the same UFO folklore weight as better-known Italian cases from Liguria, Tuscany, Piedmont or major military-airport settings. Its significance is quieter. The region’s public UFO history is built from scattered observations in small towns, coastal sightings around Termoli and Campomarino, inland reports near Isernia and Campobasso, and hill-town episodes where strange lights become local conversation before any rigorous investigation is visible.<img src="{{"/assets/images/Molise_7c6aa1-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Molise&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
-That matters because many UFO pages focus on spectacular national cases, while regional history is often where the evidential problems are clearest. In Molise, reports often arrive with one or more weaknesses: uncertain date, no primary witness statement, no recoverable image metadata, no radar record, no Air Force conclusion, or no follow-up after the first press article. Yet those weaknesses are also instructive. They show why a sighting can be culturally memorable without becoming a strong unresolved case.
-
-The most useful way to read Molise’s record is therefore to separate three things:
-
-* **archival entries**, which show that reports were logged but often provide little context;
-* **[local press]({{'local-press-1ba079/' | relative_url }}) incidents**, which preserve witness claims but may lack investigation;
-* **institutional reporting**, where the Italian Air Force route exists but does not automatically mean a case has strong evidence.
-
-Italy’s official procedure is relatively clear: after the [1978 wave]({{'1978-wave-71ae69/' | relative_url }}), the Air Force was designated to collect, verify and monitor reports; witnesses can submit a form through the Carabinieri, and cases are checked for possible links to human activity or natural phenomena before being listed as unidentified when no technical or natural explanation is found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
-
-## The early record: catalogue entries before the modern media cycle
-
-The Centro Ufologico Nazionale’s long national catalogue lists a Molise entry at San Martino in Pensilis, in the Campobasso province, on 3 April 1948 at about 06:35. That entry is significant mainly as a marker: Molise appears in post-war Italian UFO chronologies early, but the catalogue line alone does not provide enough detail to judge what witnesses saw, how many people were involved, or whether any investigation followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-The same catalogue places Isernia in the famous 1954 Italian wave, with an entry for 29 December 1954 at 23:00. Again, the evidential value is limited without the underlying case file, but it shows Molise was not absent from the period when “flying saucer” stories spread widely through Italian newspapers and public conversation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-A later entry for Agnone in May 1957 adds another point to the region’s early record. The value of these entries is cumulative rather than dramatic: they help establish that Molise sightings were not simply a social-media-era phenomenon. The weakness is that catalogue rows are not full investigations. A responsible reading treats them as leads for archival work, not as proof of anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span><img src="{{"/assets/images/Molise_7c6aa1-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Molise&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{"/assets/images/Molise_7c6aa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Molise_7c6aa1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## 1978: Molise inside Italy’s national UFO wave
-
-The year 1978 is central to Italian UFO history because the wave of reports was large enough to reshape official handling. The Italian Air Force states that, following the 1978 wave, Prime Minister Giulio Andreotti designated the Air Force as the institutional body responsible for collecting, checking and monitoring reports of unidentified flying objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
-
-Molise appears within that national wave in several catalogue entries. The CUN list includes Campobasso on 18 November 1978 at 23:00, another Campobasso entry on 24 November, Termoli after dawn on 14 December, Campobasso between 15 and 18 December, Campobasso at 04:00 on 16 December, Campobasso again on the night of 17 December, and Isernia in the very early morning of 1 January 1979.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-This cluster is probably the most historically interesting part of the Molise record. It does not stand alone as a dramatic local case; rather, it places the region inside a wider Italian wave. That distinction matters. During flap periods, reports can multiply because more people are watching the sky, local newspapers are primed to publish sightings, and ambiguous lights are more likely to be interpreted within the UFO frame. The Molise entries therefore strengthen the historical case for public attention in the region, but not necessarily the evidential case for a single extraordinary object.
-
-## The Monte Mutria story: when an “impact” report met aviation reality
-
-One of the more concrete Molise-linked stories appears in a 1994 issue of a CISU publication, which reproduces and discusses a local press report from Guardiaregia. According to the account, a newspaper article from the Molise edition of Il Tempo reported that an unidentified ovoid object had supposedly crashed on [Monte Mutria]({{'monte-mutria/' | relative_url }}) on 6 March 1994, prompting notice to the Carabinieri and fire service; the article itself raised the possibility that the object could instead have been a light aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/UFO_Rivista_di_Informazione_Ufologica_No_18/UFO_Rivista_di_Informazione_Ufologica_No_18_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO Rivista di Informazione Ufologica No 18</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO Rivista di Informazione Ufologica No 18</span></span></span>
-
-This is a useful case because it shows a common escalation path. A sighting or rumour becomes an “object down” story; emergency authorities are mentioned; difficult terrain adds uncertainty; and the UFO label becomes a headline question before the facts are settled. The very wording preserved in the CISU text is cautious: it asks whether the report involved a UFO or an aircraft. That is not the same as a confirmed crash of an anomalous object.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0aUmG7e6O9g" title="Ufo in Molise - 27/07/2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer">Ufo in Molise - 27/07/2014</a></p><p class="youtube-embed-meta">Channel: TeleRegione TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0aUmG7e6O9g">Open on YouTube</a></p></div></div></div>
+Italian Air Force figures released for 1972–2013 placed Molise last among Italy’s regions, with only one officially registered case. Local reporting nevertheless records several additional claims that apparently never entered, or never survived as unresolved cases in, the military system. The most useful examples are a reported luminous sphere near Termoli in 2007, an ambiguous video from the town’s seafront in 2010, camera-only anomalies at [Castelpetroso]({{ 'castelpetroso/' | relative_url }}) in 2012 and a cluster of luminous-object reports around Guglionesi in 2017. Together, they show a regional UFO history shaped more by incomplete reporting and media amplification than by strong physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
 
 
 
-## The 2010–2014 local sightings: many lights, thin follow-up
+<img src="{{ "/assets/images/Molise_7c6aa1-overview.webp" | relative_url }}" alt="Overview image for Why Molise Has So Few Strong UFO Cases" loading="eager" decoding="sync" fetchpriority="high">
 
-Molise’s more recent UFO trail is heavily shaped by local media. In June 2010, myNews Termoli carried items about a strange sighting over Termoli’s northern seafront, including a report that young people on the beach had recorded video, and a follow-up linking the Termoli story to other sightings in central and southern Italy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mynews.it/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mynews.it">[myNews Termoli e Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mynews.it</span><span class="citation-popover-title">my News Termoli e Moliseufo &#124; my News Termoli e Molise</span><span class="citation-popover-snippet">my News Termoli e Moliseufo &#124; my News Termoli e Molise</span></span></span>
+## Why Molise has so few official cases
 
-In 2012, Primo Piano Molise reported a photographic case at [Castelpetroso]({{'castelpetroso/' | relative_url }}) near the sanctuary. The description is important because it contains its own sceptical clue: the photographer reportedly saw nothing unusual with the naked eye during a roughly ninety-minute exposure, then noticed a light beam-like feature only after downloading the image; the article also notes star trails at the sides of the picture. Long exposures can produce surprising artefacts, trails and light effects, so this is a weak case unless original files, exposure settings and independent checks support something more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primopianomolise.it">[PrimoPiano Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primopianomolise.it</span><span class="citation-popover-title">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span><span class="citation-popover-snippet">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span></span></span>
+Following Italy’s nationwide wave of sightings in 1978, Prime Minister Giulio Andreotti assigned the Italian Air Force responsibility for receiving, checking and monitoring reports of unidentified flying objects. The present procedure requires a witness to complete a form and submit it through the Carabinieri. Investigators then look for links with aircraft, other human activity or natural phenomena; only reports that remain without an identified technical or natural explanation are retained as unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
 
-A few days later, the same newspaper reported a third sighting in three days, this time near [Roccaravindola]({{'roccaravindola/' | relative_url }}) on the route between Isernia and Venafro. The witness account described a strong light, a rotating round object with multicoloured lights, and a smaller light moving towards the mountain. The article also says the story had remained private for months and was being relayed through a reader, which makes it vivid but evidentially fragile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://primopianomolise.it/attualita/8466/ufo-terza-segnalazione-in-tre-giorni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primopianomolise.it">[PrimoPiano Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primopianomolise.it</span><span class="citation-popover-title">Primo Piano Molise Ufo, terza segnalazione in tre giorni &#124; Primo Piano Molise</span><span class="citation-popover-snippet">Primo Piano Molise Ufo, terza segnalazione in tre giorni &#124; Primo Piano Molise</span></span></span>
-
-The CUN catalogue records several Molise entries around this period: Termoli in 2009, Montaquila and Miranda in 2010, Fornelli in 2011, Campobasso province, Toro and Isernia in 2012, Campomarino and Termoli in 2014, and San Pietro Avellana and Venafro in 2015. These entries show recurring reports across the region, but they do not by themselves establish a single coherent flap with verified common causes or common witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
-
-## The 2012–2013 investigator moment: why a regional portal mattered
-
-In November 2012, Il Giornale del Molise reported the launch of a regional CISU portal for Molise, intended to collect, catalogue and investigate sightings with a scientific method. The article described CISU as a non-profit cultural association opposed to commercial and sensationalist ufology, and framed the Molise project as an attempt to become a regional reference point for more accurate information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilgiornaledelmolise.it/2012/11/08/nasce-in-molise-un-portale-per-segnalare-avvistamenti-di-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilgiornaledelmolise.it">[Il giornale del Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilgiornaledelmolise.it</span><span class="citation-popover-snippet">Il giornale del MoliseNasce in Molise un portale per segnalare avvistamenti di UFO - Il giornale del Molise...</span></span></span>
-
-That was an important development because Molise’s UFO material had a problem: reports were appearing, but the public record was scattered across local papers, private databases and television segments. A regional collection point could, in principle, improve the quality of reports by standardising basic details: time, direction, duration, weather, camera settings, witness position, aircraft checks and follow-up interviews.
-
-In December 2013, isNews reported that the Italian UFO study centre was looking for serious volunteer collaborators in both Campobasso and Isernia, saying the number of sightings in Molise had apparently increased and new resources were needed. The same article made clear that this was unpaid volunteer work, not an official institutional role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isnews.it/2013/12/05/emergenza-ufo-in-molise-il-centro-studi-cerca-volontari-a-campobasso-e-isernia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isnews.it">[isNews - Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isnews.it</span><span class="citation-popover-title">is News</span><span class="citation-popover-snippet">is News</span></span></span>
-
-That distinction matters. Private UFO groups can preserve valuable reports, but their conclusions do not carry the same weight as official aviation checks, radar data, meteorological confirmation or independently verified image analysis. For Molise, the investigator moment is therefore best read as a response to growing public interest, not as proof that the region had become an exceptional UFO hotspot.<img src="{{"/assets/images/Molise_7c6aa1-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Molise&#x27;s UFO Record? illustration 2" data-theme-src-dark="{{"/assets/images/Molise_7c6aa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Molise_7c6aa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Guglionesi 2017: “Area 51” language and a more ordinary explanation
-
-The most media-friendly Molise UFO episode of recent years was the Guglionesi story. RaiPlay’s page for a December 2017 Agorà segment describes “luminous spheres” and “lights in the sky”, saying that several reports had reached the Centro Ufologico Mediterraneo from Guglionesi, a town in the Campobasso province. The television framing used the phrase “Italian Area 51”, which made the story memorable but also risked overstating the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raiplay.it/video/2017/12/Area-51-italiana---20122017--945e2748-5f20-4aa8-a08e-f4eb00594031.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raiplay.it">[raiplay.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raiplay.it</span><span class="citation-popover-snippet">Open source on raiplay.it.</span></span></span>
-
-A local write-up said the Guglionesi sightings dated back to 5 April and involved numerous reports of mysterious spheres of different sizes and colours; it also noted a sceptical response from Antonio Di Pietro, who suggested the lights were simply street lamps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://laterrainmezzo.altervista.org/avvistamenti-ufo-guglionesi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laterrainmezzo.altervista.org">[La terra in mezzo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laterrainmezzo.altervista.org</span><span class="citation-popover-title">La terra in mezzo Avvistamenti UFO a Guglionesi &#124; La terra in mezzo</span><span class="citation-popover-snippet">La terra in mezzo Avvistamenti UFO a Guglionesi &#124; La terra in mezzo</span></span></span>
-
-Guglionesi is a good example of how a UFO story can become a media event without becoming a strong unexplained case. The ingredients were attractive: a small town, repeated reports, lights in the sky, television attention and a sceptical public figure. But the public evidence described in accessible sources does not show radar data, multiple instrument records, recovered physical evidence or a detailed elimination of ordinary light sources. The more restrained conclusion is that Guglionesi became a local UFO talking point, not that it became a landmark unexplained aerial case.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rMh88AlbpGU" title="UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer">UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo</a></p><p class="youtube-embed-meta">Channel: Gruppo Tv7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rMh88AlbpGU">Open on YouTube</a></p></div></div></div>
+That distinction matters because “official” does not mean extraterrestrial, and a local newspaper report does not automatically become an official case. A sighting may never be formally submitted, may be too poorly documented to investigate, or may be resolved before appearing in an unidentified-case total.
 
 
 
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/reporting-process/' | relative_url }}"><span class="article-branch-link-short">Reporting Process</span><span class="article-branch-link-heading">How a Molise UFO Sighting Becomes Official</span></a></li>
+<li><a href="{{ '/guglionesi-flap/' | relative_url }}"><span class="article-branch-link-short">Guglionesi Flap</span><span class="article-branch-link-heading">How Guglionesi Became Molise&#x27;s UFO Hotspot</span></a></li>
+<li><a href="{{ '/official-record/' | relative_url }}"><span class="article-branch-link-short">Official Record</span><span class="article-branch-link-heading">Why Molise Has Only One Official UFO Case</span></a></li>
+<li><a href="{{ '/castelpetroso/' | relative_url }}"><span class="article-branch-link-short">Castelpetroso</span><span class="article-branch-link-heading">Were Castelpetroso&#x27;s UFOs Only Camera Artefacts?</span></a></li>
+<li><a href="{{ '/difesa-grande/' | relative_url }}"><span class="article-branch-link-short">Difesa Grande</span><span class="article-branch-link-heading">What Was Seen Near Difesa Grande in 2007?</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
+
+Figures publicised in 2014, based on Italian Air Force records from 1972 to 2013, credited Molise with just one case, compared with 53 for Lazio. The same material identified 1978 as Italy’s peak year, with 69 official reports. Whatever minor discrepancies exist between published national totals, the position of Molise at the bottom of the regional table is consistent across contemporary coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ansa.it/amp/sito/notizie/cronaca/2014/03/29/dal-1972-ad-oggi-445-i-casi-di-ufo-italiani_ecf3e1b2-440f-4366-8f83-3cca910eeff2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ansa.it">[ansa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ansa.it</span><span class="citation-popover-title">dal 1972 ad oggi 445 i casi di ufo italiani ecf3e1b2 440f 4366 8f83 3cca910eeff2</span><span class="citation-popover-snippet">Dal 1972 ad oggi 445 i casi di Ufo italiani &#124; ANSA.it...</span></span></span>
+
+The low figure should not be read as proof that unusual lights are rarely seen in Molise. It more safely indicates that very few reports completed the chain from observation to formal submission, investigation and unresolved classification. Population size, limited press coverage, uneven public awareness of the reporting procedure and the loss of original photographs or video can all reduce the visible record.
+
+## The 2007 Difesa Grande report
+
+One of the more striking Molise stories appeared in August 2007. An aviation news service reported that several witnesses near [Difesa Grande]({{ 'difesa-grande/' | relative_url }}), in the Campobasso area, had seen a strange luminous sphere at around midnight. The witnesses reportedly rejected a helicopter or meteor as an explanation. The report also connected the sighting with supposed crop-circle discoveries near Venafro and Termoli.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.avionews.it/item/1073397-new-evidences-for-ufo-in-the-italian-region-of-molise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avionews.it">[AVIONEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avionews.it</span><span class="citation-popover-title">New evidences for Ufo in the Italian region of Molise?</span><span class="citation-popover-snippet">New evidences for Ufo in the Italian region of Molise?...</span></span></span>
+
+On the surface, multiple witnesses make the episode more interesting than a single blurred photograph. Yet the surviving account provides almost none of the information needed to test the claim. It gives no precise duration, angular size, direction of travel, weather conditions, astronomical comparison, aircraft check, named testimony or instrument record. Nor does the available article document an Air Force investigation.
+
+The reference to crop circles further weakens rather than strengthens the case. It joins separate claims into a suggestive narrative without demonstrating that they shared a cause. Ground markings can arise through agricultural activity, weather effects or deliberate construction, while a light in the sky requires an entirely different investigation. Without physical examination records or a documented connection, the pairing is thematic rather than evidential.
+
+The fairest classification is therefore **weakly sourced and unresolved in the everyday sense**, not an established official unknown. Something may have been seen, but the surviving report is too thin to determine what it was.
 
 
-## Are there military, airport or radar links in Molise?
 
-The public material found for Molise does not support a strong military-base or pilot-radar narrative. The official Italian framework is national: the Air Force collects and checks reports submitted through the appropriate route, with the purpose of protecting flight safety and national security. That process may involve checking human activity and natural phenomena, and cases are listed as unidentified only if no technical or natural justification is found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
+<img src="{{ "/assets/images/Molise_7c6aa1-Illustration-1-dark.svg" | relative_url }}" alt="Why Molise Has So Few Strong UFO Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Molise_7c6aa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Molise_7c6aa1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-Molise’s public record, however, is dominated by civilian observations, local press reports and private ufological catalogues. There are coastal sightings near Termoli and Campomarino, inland sightings around Campobasso and Isernia, and hill or mountain reports such as Guardiaregia and Castelpetroso, but the available public evidence does not show a major Molise case with confirmed radar tracking or pilot testimony comparable to the better-known aviation-centred cases elsewhere in Italy.
+## Termoli’s ambiguous seafront video
 
-This absence should not be overread. It does not prove that no such official material exists in archives; it only means that the accessible public record is thin. For readers, the practical takeaway is simple: Molise UFO claims should be graded case by case, with much higher confidence given to reports that include official filing, independent witnesses, time-correlated data and ruled-out ordinary explanations.
+On 7 June 2010, two young people filming near Termoli’s northern seafront recorded what they described as a dark, shadow-like object moving around the Foce dell’Angelo bridge. They said it passed behind the bridge twice and disappeared as the camera turned. The resulting video was uploaded online, while the local report itself asked whether the episode was a UFO sighting or a publicity device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mynews.it/strano-avvistamento-nei-cieli-del-lungomare-nord-di-termoli-qoggetto-volanteq-o-escamotage-pubblicitario/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mynews.it">[myNews Termoli e Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mynews.it</span><span class="citation-popover-snippet">myNews Termoli e MoliseStrano avvistamento nei cieli del Lungomare nord di Termoli. “Oggetto volante” o escamotage pubblicitario? &#124; myNew...</span></span></span>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MAencpsseZY" title="Rituali, tradizioni, luci: in Molise iniziano gli eventi di Natale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MAencpsseZY" target="_blank" rel="noopener noreferrer">Rituali, tradizioni, luci: in Molise iniziano gli eventi di Natale</a></p><p class="youtube-embed-meta">Channel: Telemolise</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MAencpsseZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MAencpsseZY">Open on YouTube</a></p></div></div></div>
+This case is useful because the original coverage did not conceal the central credibility problem. The witnesses were already making a video for an online audience, and the supposed object was captured within that production. That does not prove deception, but it increases the need for the original file, an unedited sequence, camera data and independent witnesses.
+
+The reported shape is also poorly suited to distance or speed estimates. A dark patch in compressed video might be a nearby insect or bird, an artefact caused by motion and exposure, an object close to the lens, or an edited effect. Without scale, focus information and a continuous view of the scene, apparently rapid movement cannot reliably be converted into extraordinary performance.
+
+No later technical analysis located in the surviving coverage appears to have strengthened the claim. The [Termoli video]({{ 'termoli-video/' | relative_url }}) is consequently best treated as an **ambiguous media clip**, not a landmark regional sighting.
+
+## Castelpetroso and the problem of camera-only anomalies
+
+A small run of reports around Castelpetroso in August 2012 centred on objects that witnesses did not notice directly but discovered later in photographs. The most discussed image was a long-exposure night photograph of the sanctuary in which a bright vertical feature appeared above the building. The photographer had spent roughly an hour and a half taking pictures and said he saw nothing unusual with his own eyes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primopianomolise.it">[PrimoPiano Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primopianomolise.it</span><span class="citation-popover-title">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span><span class="citation-popover-snippet">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span></span></span>
+
+The photograph also contained star trails, showing that the camera shutter had remained open long enough to record the apparent movement of the sky. Local discussion offered photographic settings and reflections from nearby lights as possible explanations. A previous image from the area reportedly contained a small dark point, again noticed only after the photograph was examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primopianomolise.it">[PrimoPiano Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primopianomolise.it</span><span class="citation-popover-title">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span><span class="citation-popover-snippet">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span></span></span>
+
+These details make a photographic artefact more plausible than a structured object hovering above the sanctuary. Long exposures can record lens flare, internal reflections, sensor effects, light entering the lens from outside the frame and brief nearby objects that the photographer never notices. The fact that a feature appears stationary while stars form trails does not by itself prove that it was a distant stationary craft; an optical reflection can remain fixed relative to the camera.
+
+The case could have been tested by repeating the photograph from the same position with the same lens, exposure and surrounding lights. The photographer reportedly intended to do this, but no published follow-up confirming a repeatable anomaly or excluding ordinary photographic causes was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primopianomolise.it">[PrimoPiano Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primopianomolise.it</span><span class="citation-popover-title">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span><span class="citation-popover-snippet">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span></span></span>
+
+Castelpetroso therefore illustrates a recurring weakness in UFO photography: an unexplained mark in a picture is not automatically an unexplained object in the sky. Here, the lack of a direct visual observation and the acknowledged possibility of reflections leave the claim **more plausibly photographic than aerial**.
 
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0aUmG7e6O9g" title="Ufo in Molise - 27/07/2014" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer">Ufo in Molise - 27/07/2014</a></p><p class="youtube-embed-meta">Channel: TeleRegione TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0aUmG7e6O9g">Open on YouTube</a></p></div></div></div>
+
+## Guglionesi’s 2017 burst of attention
+
+In December 2017, the national broadcaster RAI aired a short report on claims of luminous spheres and lights around Guglionesi, in the province of Campobasso. The programme described several recent notifications to the Mediterranean UFO Centre and playfully presented the town as a possible Italian “Area 51”. A local account linked the attention to sightings said to date back to 5 April that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raiplay.it/video/2017/12/Area-51-italiana---20122017--945e2748-5f20-4aa8-a08e-f4eb00594031.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raiplay.it">[RAI Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raiplay.it</span><span class="citation-popover-title">RAI Play Agorà</span><span class="citation-popover-snippet">RAI PlayAgorà - Area 51 italiana - 20/12/2017 - Video - RaiPlay...</span></span></span>
+
+This was Molise’s clearest example of a media-driven mini-flap: several reports concentrated in one locality, followed by wider television interest. Clustering can be important when witnesses are independent and observations agree on time, direction and behaviour. It can also arise when publicity encourages residents to reinterpret aircraft, planets, lanterns or other familiar lights as part of the same mystery.
+
+The publicly accessible material does not provide the case-by-case detail required to distinguish those possibilities. There is no consolidated chronology, triangulation, radar confirmation or technical report matching each light to astronomical and aviation data. The label “boom” therefore describes the number of claims and the intensity of attention, not the quality of the evidence.
+
+Later publicity did not transform Guglionesi into a documented aviation or military case. It remains a **local sighting cluster with insufficient published data**, notable mainly for showing how quickly a handful of light reports can acquire a larger identity through television framing.
+
+## Local investigators and the missing archive
+
+Molise did acquire an organised reporting initiative. In November 2012, a regional portal associated with the Italian Centre for UFO Studies was launched to collect, catalogue and investigate sightings. Its stated aim was rational, non-sensational research, with a catalogue organised by period and location and a section for analytical studies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilgiornaledelmolise.it/2012/11/08/nasce-in-molise-un-portale-per-segnalare-avvistamenti-di-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilgiornaledelmolise.it">[Il Giornale del Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilgiornaledelmolise.it</span><span class="citation-popover-snippet">Open source on ilgiornaledelmolise.it.</span></span></span>
+
+Such projects matter because local newspapers rarely preserve the materials needed for serious review. A useful case file should include the original photograph or video, exact time and position, compass direction, duration, weather, witness interviews, possible aircraft movements and astronomical conditions. A short article written after an online post usually contains only a fraction of that information.
+
+The difficulty for present-day readers is that Molise’s public digital trail is fragmented. Reports survive across local news sites, television summaries and specialist organisations, but the underlying files and final investigative conclusions are often absent. A sighting can therefore remain “unexplained” simply because the information needed to explain it was never collected or is no longer accessible.
+
+This distinction separates a genuine residual case from an evidential dead end. A strong unresolved case has good data that resist reasonable explanations. A weak case remains open because there is too little data to choose among them. Most of Molise’s reported incidents fall into the second category.
 
 
-## How strong is the evidence overall?
 
-Molise’s UFO evidence is historically interesting but generally weak to moderate as proof of unexplained aerial phenomena. The strongest evidence that “something was reported” comes from catalogues, local press archives and official reporting structures. The weakest part is the leap from “reported” to “unexplained in a robust sense”.
+<img src="{{ "/assets/images/Molise_7c6aa1-Illustration-2-dark.svg" | relative_url }}" alt="Why Molise Has So Few Strong UFO Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Molise_7c6aa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Molise_7c6aa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-Several recurring problems appear across the region’s cases:
+## Military, aviation and radar connections
 
-* **Catalogue entries without case files.** They help build a timeline but rarely contain enough information to evaluate the sighting.
-* **Press accounts without technical checks.** They preserve local testimony, but often leave out weather, aircraft, satellite, balloon, drone or camera-analysis work.
-* **Photographs noticed only afterwards.** The Castelpetroso case is a clear example where the reported witness did not see anything unusual at the time, which lowers confidence unless the image can be technically examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primopianomolise.it">[PrimoPiano Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primopianomolise.it</span><span class="citation-popover-title">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span><span class="citation-popover-snippet">Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso &#124; Primo Piano Molise</span></span></span>
-* **Television framing that adds drama.** Guglionesi’s “Area 51” label made the story more memorable, but the phrase does not add evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raiplay.it/video/2017/12/Area-51-italiana---20122017--945e2748-5f20-4aa8-a08e-f4eb00594031.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raiplay.it">[raiplay.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raiplay.it</span><span class="citation-popover-snippet">Open source on raiplay.it.</span></span></span>
-* **Flap effects.** The 1978 entries are valuable historically, but wave years can increase reporting through public attention as much as through unusual sky activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
+No strong public evidence links Molise’s best-known sighting stories to a military interception, pilot encounter or radar track. The Italian Air Force’s role is institutional: it receives and technically assesses reports across the country for flight and national security purposes. That does not mean every local light was detected by military sensors or treated as a security event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
 
-The best unresolved Molise cases would be those where original witness statements, precise times, direction of travel, image files, flight checks and official correspondence can be brought together. Without those, the safest classification for most public Molise reports is “insufficiently evidenced”, not “debunked” and not “confirmed”.<img src="{{"/assets/images/Molise_7c6aa1-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Molise&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{"/assets/images/Molise_7c6aa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Molise_7c6aa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The balanced view of Molise’s UFO history
+This is an important corrective to a common misunderstanding. The presence of Air Force facilities, helicopters or military aircraft in or around a region can provide ordinary explanations for some observations; it does not by itself indicate official concern about exotic craft. In the Molise material, no published radar data corroborate the Difesa Grande sphere, the Termoli video, the Castelpetroso photographs or the Guglionesi lights.
 
-Molise has a real UFO paper trail, but not a single dominant case that defines the region. Its record begins in post-war catalogue entries, becomes more visible during the 1978 Italian wave, resurfaces in the Monte Mutria report of 1994, and then shifts into local-media sightings in Termoli, Castelpetroso, Roccaravindola, Guglionesi and other towns. La terra in mezzo+4Centro Ufologico Nazionale+4Centro Ufologico Nazionale<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[centroufologiconazionale.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionale</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
+The absence of such confirmation is not proof that witnesses saw nothing. It does, however, remove one of the strongest forms of corroboration available in aerial cases. Molise’s UFO history is consequently dominated by civilian visual and photographic claims rather than aviation evidence.
 
-The region’s most interesting lesson is methodological. Molise shows why UFO history should not be written only from dramatic claims. A careful regional account has to include weak sightings, media effects, private investigators, official reporting routes and mundane explanations. Some witnesses may have seen genuinely puzzling lights or objects. Some reports may have been misidentifications. Some may remain impossible to resolve because too much information was never collected.
 
-That is not a disappointing conclusion. It is the honest shape of the evidence. Molise’s UFO history is not a story of certainty; it is a regional archive of questions, sightings and interpretations that becomes most valuable when each claim is kept in proportion to the evidence behind it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CCqy4UxmY88" title="Edge of Belief: Faith, Imagination, and Science with Robert Duncan, Brett Robinson, Àlex Gómez-Marín" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CCqy4UxmY88" target="_blank" rel="noopener noreferrer">Edge of Belief: Faith, Imagination, and Science with Robert Duncan, Brett Robinson, Àlex Gómez-Marín</a></p><p class="youtube-embed-meta">Channel: Pari Center</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CCqy4UxmY88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CCqy4UxmY88">Open on YouTube</a></p></div></div></div>
+
+## What ordinary sky events teach us
+
+A well-documented event over Molise in March 2021 provides a useful comparison. A brilliant fireball was seen across central and southern Italy before fading west of Isernia. Cameras belonging to astronomical monitoring networks recorded it from separate locations, allowing researchers to reconstruct its trajectory, entry speed, altitude and possible fall area. The object entered at about 50,000 kilometres per hour, remained visible for a little over five seconds and ceased glowing at an altitude of roughly 21.5 kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isnews.it/2021/03/17/meteorite-si-spegne-sui-cieli-del-molise-prisma-rivela-possibili-frammenti-caduti-al-suolo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isnews.it">[isnews.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isnews.it</span><span class="citation-popover-snippet">Open source on isnews.it.</span></span></span>
+
+At first sight, such a bright, fast-moving object could easily generate UFO reports. What made identification possible was not witness confidence but independent measurements: synchronised cameras, triangulation and expert analysis. The event moved from “strange light” to meteor because evidence was available to test competing explanations.
+
+That contrast captures the central problem with Molise’s older cases. They generally lack simultaneous recordings, precise timings and preserved technical data. Plausible explanations include meteors, aircraft, satellites, bright planets, lanterns, birds, insects, reflections and camera artefacts, but selecting one retrospectively is often impossible.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZzNjaNySi7Y" title="Passiamo la notte sul monte con più avvistamenti UFO d’Italia! Loro sono qui !!!" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZzNjaNySi7Y" target="_blank" rel="noopener noreferrer">Passiamo la notte sul monte con più avvistamenti UFO d’Italia! Loro sono qui !!!</a></p><p class="youtube-embed-meta">Channel: PIT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZzNjaNySi7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZzNjaNySi7Y">Open on YouTube</a></p></div></div></div>
+
+## The balanced assessment
+
+Molise’s regional UFO record is historically real as a body of stories, witness impressions and local media events. It includes a midnight luminous sphere, a puzzling seafront video, photographic anomalies around a prominent sanctuary and a later cluster of reports that reached national television. These episodes are worth documenting because they show how UFO narratives develop in a small region with limited formal case material.
+
+They do not, however, amount to strong evidence of extraordinary aircraft or extraterrestrial visitation. The official count was exceptionally low, no major Molise case has emerged with radar or pilot corroboration, and the best-known civilian reports are undermined by missing originals, uncertain chronology or obvious photographic alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
+
+A practical regional classification is therefore:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Difesa Grande, 2007:** reportedly witnessed by several people, but too sparsely documented to assess.
+* **Termoli, 2010:** an ambiguous video with unresolved authenticity and scale problems.
+* **Castelpetroso, 2012:** probably a photographic or optical anomaly rather than a visually observed craft.
+* **Guglionesi, 2017:** a genuine cluster of reports, but not a technically documented flap.
+* **Molise overall:** historically interesting, officially sparse and evidentially weak.
+
+</div>
+
+The region’s most defensible UFO history is not a catalogue of proven mysteries. It is a study in the difference between seeing something unidentified, preserving enough information to investigate it and demonstrating that ordinary explanations have genuinely failed.
+
+
+
+<img src="{{ "/assets/images/Molise_7c6aa1-Illustration-3-dark.svg" | relative_url }}" alt="Why Molise Has So Few Strong UFO Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Molise_7c6aa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Molise_7c6aa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -476,21 +538,21 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to What Really Happened in Molise&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Why Molise Has So Few Strong UFO Cases. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">Excellent overview for understanding a regional UFO record.</p>
+<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -498,16 +560,16 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
 </h4>
-<p class="fr-book-author">By Edward J. Ruppelt</p>
+<p class="fr-book-author">By Leslie Kean</p>
         
-<p class="fr-book-desc">Shows how investigations differ from anecdotal reports.</p>
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -515,33 +577,33 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRAqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J Ruppelt</p>
+        
+<p class="fr-book-desc">The Report on Unidentified Flying Objects is a book by Edward J. Ruppelt which described the study of UFOs by United States Air Force fro...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
         
-<p class="fr-book-desc">Helps contextualize local stories and traditions.</p>
+<p class="fr-book-desc">Over two decades ago, eminent scientist Vallee wrote a provocative book about alleged UFO landings, folklore, and certain unexplained phe...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Useful for evaluating extraordinary claims critically.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -549,29 +611,127 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{'/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{'/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{'/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{'/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-really-happened-in-molises-ufo-what-really-happened-in-molise-s-ufo-record-molise-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="why-molise-has-so-few-strong-ufo-cases-molise-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
-  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket ='';
-    var languageMarket ='';
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -590,24 +750,24 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language ||'';
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
-    var tz ='';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
-    if (!tz) return'';
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return'';
+    return '';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -618,7 +778,7 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] ||'';
+    return available[0] || '';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -626,43 +786,45 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();</script><script type="text/javascript">
+})();
+</script>
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket ="EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return'#';
-    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
-    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label ||'eBay';
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
-    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -680,8 +842,8 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') ||'';
-      var reference = link.getAttribute('data-ebay-reference') ||'';
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,11 +863,11 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ?'true' :'false');
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -714,13 +876,13 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
-    section.setAttribute('data-ebay-localized-init','1');
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey:'phoenix-ebay-market',
+        storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -737,9 +899,9 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -758,124 +920,165 @@ That is not a disappointing conclusion. It is the honest shape of the evidence. 
     });
     applyMarket(section, marketId, false);
   });
-})();</script></section>
+})();
+</script>
+</section>
 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: centroufologiconazionale.net  
-   Title: Centro Ufologico Nazionale  
-   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/CASISTICA%20UFOLOGICA%20COMPLETA%2014%201%2016%20B.pdf</a>  
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare OVNI  
+   Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare...</p></details>
 
 2.<a id="endnote-2"></a>
-   Source: archive.org  
-   Title: Internet Archive Full text of"UFO Rivista di Informazione Ufologica No 18"  
-   Link:<a href="https://archive.org/stream/UFO_Rivista_di_Informazione_Ufologica_No_18/UFO_Rivista_di_Informazione_Ufologica_No_18_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Rivista_di_Informazione_Ufologica_No_18/UFO_Rivista_di_Informazione_Ufologica_No_18_djvu.txt</a>  
+   Source: ansa.it  
+   Title: dal 1972 ad oggi 445 i casi di ufo italiani ecf3e1b2 440f 4366 8f83 3cca910eeff2  
+   Link:<a href="https://www.ansa.it/amp/sito/notizie/cronaca/2014/03/29/dal-1972-ad-oggi-445-i-casi-di-ufo-italiani_ecf3e1b2-440f-4366-8f83-3cca910eeff2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ansa.it/amp/sito/notizie/cronaca/2014/03/29/dal-1972-ad-oggi-445-i-casi-di-ufo-italiani_ecf3e1b2-440f-4366-8f83-3cca910eeff2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dal 1972 ad oggi 445 i casi di Ufo italiani | ANSA.it...</p></details>
 
 3.<a id="endnote-3"></a>
-   Source: mynews.it  
-   Title: my News Termoli e Moliseufo | my News Termoli e Molise  
-   Link:<a href="https://mynews.it/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mynews.it/tag/ufo/</a>  
+   Source: avionews.it  
+   Title: New evidences for Ufo in the Italian region of Molise?  
+   Link:<a href="https://www.avionews.it/item/1073397-new-evidences-for-ufo-in-the-italian-region-of-molise.html" target="_blank" rel="noopener noreferrer nofollow">https://www.avionews.it/item/1073397-new-evidences-for-ufo-in-the-italian-region-of-molise.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New evidences for Ufo in the Italian region of Molise?...</p></details>
 
 4.<a id="endnote-4"></a>
-   Source: isnews.it  
-   Title: is News  
-   Link:<a href="https://www.isnews.it/2013/12/05/emergenza-ufo-in-molise-il-centro-studi-cerca-volontari-a-campobasso-e-isernia/" target="_blank" rel="noopener noreferrer nofollow">https://www.isnews.it/2013/12/05/emergenza-ufo-in-molise-il-centro-studi-cerca-volontari-a-campobasso-e-isernia/</a>  
+   Source: mynews.it  
+   Link:<a href="https://mynews.it/strano-avvistamento-nei-cieli-del-lungomare-nord-di-termoli-qoggetto-volanteq-o-escamotage-pubblicitario/" target="_blank" rel="noopener noreferrer nofollow">https://mynews.it/strano-avvistamento-nei-cieli-del-lungomare-nord-di-termoli-qoggetto-volanteq-o-escamotage-pubblicitario/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>myNews Termoli e MoliseStrano avvistamento nei cieli del Lungomare nord di Termoli. “Oggetto volante” o escamotage pubblicitario? | myNew...</p></details>
 
 5.<a id="endnote-5"></a>
-   Source: raiplay.it  
-   Link:<a href="https://www.raiplay.it/video/2017/12/Area-51-italiana---20122017--945e2748-5f20-4aa8-a08e-f4eb00594031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.raiplay.it/video/2017/12/Area-51-italiana---20122017--945e2748-5f20-4aa8-a08e-f4eb00594031.html</a>  
+   Source: isnews.it  
+   Link:<a href="https://www.isnews.it/2021/03/17/meteorite-si-spegne-sui-cieli-del-molise-prisma-rivela-possibili-frammenti-caduti-al-suolo/" target="_blank" rel="noopener noreferrer nofollow">https://www.isnews.it/2021/03/17/meteorite-si-spegne-sui-cieli-del-molise-prisma-rivela-possibili-frammenti-caduti-al-suolo/</a>  
 
 6.<a id="endnote-6"></a>
    Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare OVNI  
-   Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare...</p></details>
+   Link:<a href="https://www.aeronautica.difesa.it/en/news/105-2023-aeronautica-militare-ricerca-e-soccorso-recuperata-escursionista-bloccata-in-zona-campobasso/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/105-2023-aeronautica-militare-ricerca-e-soccorso-recuperata-escursionista-bloccata-in-zona-campobasso/</a>  
 
 7.<a id="endnote-7"></a>
-   Source: ilgiornaledelmolise.it  
-   Link:<a href="https://www.ilgiornaledelmolise.it/2012/11/08/nasce-in-molise-un-portale-per-segnalare-avvistamenti-di-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilgiornaledelmolise.it/2012/11/08/nasce-in-molise-un-portale-per-segnalare-avvistamenti-di-ufo/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Il giornale del MoliseNasce in Molise un portale per segnalare avvistamenti di UFO - Il giornale del Molise...</p></details>
+   Source: isnews.it  
+   Link:<a href="https://www.isnews.it/2022/11/03/interventi-in-areee-montane-e-impervie-soccorso-alpino-e-aeronautica-uniscono-le-forze/" target="_blank" rel="noopener noreferrer nofollow">https://www.isnews.it/2022/11/03/interventi-in-areee-montane-e-impervie-soccorso-alpino-e-aeronautica-uniscono-le-forze/</a>  
 
 8.<a id="endnote-8"></a>
-   Source: primopianomolise.it  
-   Title: Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso | Primo Piano Molise  
-   Link:<a href="https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow">https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/</a>  
+   Source: isnews.it  
+   Link:<a href="https://www.isnews.it/2021/03/20/meteorite-sui-cieli-del-molise-prisma-conferma-caduto-in-provincia-di-isernia-arrivano-gli-scienziati/" target="_blank" rel="noopener noreferrer nofollow">https://www.isnews.it/2021/03/20/meteorite-sui-cieli-del-molise-prisma-conferma-caduto-in-provincia-di-isernia-arrivano-gli-scienziati/</a>  
 
 9.<a id="endnote-9"></a>
-   Source: primopianomolise.it  
-   Title: Primo Piano Molise Ufo, terza segnalazione in tre giorni | Primo Piano Molise  
-   Link:<a href="https://primopianomolise.it/attualita/8466/ufo-terza-segnalazione-in-tre-giorni/" target="_blank" rel="noopener noreferrer nofollow">https://primopianomolise.it/attualita/8466/ufo-terza-segnalazione-in-tre-giorni/</a>  
+   Source: ansa.it  
+   Title: dal 1972 ad oggi 445 i casi di ufo italiani ecf3e1b2 440f 4366 8f83 3cca910eeff2  
+   Link:<a href="https://www.ansa.it/sito/notizie/cronaca/2014/03/29/dal-1972-ad-oggi-445-i-casi-di-ufo-italiani_ecf3e1b2-440f-4366-8f83-3cca910eeff2.html?fb_comment_id=219054201622536_376532" target="_blank" rel="noopener noreferrer nofollow">https://www.ansa.it/sito/notizie/cronaca/2014/03/29/dal-1972-ad-oggi-445-i-casi-di-ufo-italiani_ecf3e1b2-440f-4366-8f83-3cca910eeff2.html?fb_comment_id=219054201622536_376532</a>  
 
 10.<a id="endnote-10"></a>
-   Source: laterrainmezzo.altervista.org  
-   Title: La terra in mezzo Avvistamenti UFO a Guglionesi | La terra in mezzo  
-   Link:<a href="https://laterrainmezzo.altervista.org/avvistamenti-ufo-guglionesi/" target="_blank" rel="noopener noreferrer nofollow">https://laterrainmezzo.altervista.org/avvistamenti-ufo-guglionesi/</a>  
-
-11.<a id="endnote-11"></a>
    Source: aeronautica.difesa.it  
    Title: it OVN I  
    Link:<a href="https://www.aeronautica.difesa.it/en/2023/01/12/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/2023/01/12/ovni/</a>  
 
+11.<a id="endnote-11"></a>
+   Source: aeronautica.difesa.it  
+   Title: it OVN I  
+   Link:<a href="https://www.aeronautica.difesa.it/en/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/ovni/</a>  
+
 12.<a id="endnote-12"></a>
    Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/en/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/category/ovni/</a>  
+   Title: it Ufficio relazioni con il pubblico  
+   Link:<a href="https://www.aeronautica.difesa.it/ufficio-relazioni-con-il-pubblico/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ufficio-relazioni-con-il-pubblico/</a>  
 
 13.<a id="endnote-13"></a>
-   Source: centroufologiconazionale.net  
-   Title: CasisticaCunItalia1900 2008  
-   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/CasisticaCunItalia1900-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/CasisticaCunItalia1900-2008.pdf</a>  
+   Source: isnews.it  
+   Title: emergenza ufo in molise il centro studi cerca volontari a campobasso e isernia  
+   Link:<a href="https://www.isnews.it/2013/12/05/emergenza-ufo-in-molise-il-centro-studi-cerca-volontari-a-campobasso-e-isernia/" target="_blank" rel="noopener noreferrer nofollow">https://www.isnews.it/2013/12/05/emergenza-ufo-in-molise-il-centro-studi-cerca-volontari-a-campobasso-e-isernia/</a>  
 
 14.<a id="endnote-14"></a>
-   Source: Wikipedia  
-   Link:<a href="https://en.wikipedia.org/wiki/Guglionesi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guglionesi</a>  
+   Source: mynews.it  
+   Link:<a href="https://mynews.it/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mynews.it/tag/ufo/</a>  
 
 15.<a id="endnote-15"></a>
+   Source: ilcentro.it  
+   Title: ufo diciotto avvistamenti in abruzzo dal 1972 al 2013 video 1.366865  
+   Link:<a href="https://www.ilcentro.it/abruzzo/ufo-diciotto-avvistamenti-in-abruzzo-dal-1972-al-2013-video-1.366865" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcentro.it/abruzzo/ufo-diciotto-avvistamenti-in-abruzzo-dal-1972-al-2013-video-1.366865</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>il CentroUfo, diciotto avvistamenti in Abruzzo dal 1972 al 2013...13 Oct 2014 — L&#x27;Abruzzo è undicesima con 18 segnalazioni, mentre fanal...</p></details>
+
+16.<a id="endnote-16"></a>
+   Source: primopianomolise.it  
+   Title: Primo Piano Molise Ufo, nuovo avvistamento a Castelpetroso | Primo Piano Molise  
+   Link:<a href="https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow">https://primopianomolise.it/attualita/8422/ufo-nuovo-avvistamento-a-castelpetroso/</a>  
+
+17.<a id="endnote-17"></a>
+   Source: raiplay.it  
+   Title: RAI Play Agorà  
+   Link:<a href="https://www.raiplay.it/video/2017/12/Area-51-italiana---20122017--945e2748-5f20-4aa8-a08e-f4eb00594031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.raiplay.it/video/2017/12/Area-51-italiana---20122017--945e2748-5f20-4aa8-a08e-f4eb00594031.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAI PlayAgorà - Area 51 italiana - 20/12/2017 - Video - RaiPlay...</p></details>
+
+18.<a id="endnote-18"></a>
+   Source: ilgiornaledelmolise.it  
+   Link:<a href="https://www.ilgiornaledelmolise.it/2012/11/08/nasce-in-molise-un-portale-per-segnalare-avvistamenti-di-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilgiornaledelmolise.it/2012/11/08/nasce-in-molise-un-portale-per-segnalare-avvistamenti-di-ufo/</a>  
+
+19.<a id="endnote-19"></a>
+   Source: primopianomolise.it  
+   Title: Termoli, sesso spinto tra due giovani in spiaggia | Primo Piano Molise  
+   Link:<a href="https://www.primopianomolise.it/citta/termoli/80902/termoli-sesso-spinto-tra-due-giovani-in-spiaggia/" target="_blank" rel="noopener noreferrer nofollow">https://www.primopianomolise.it/citta/termoli/80902/termoli-sesso-spinto-tra-due-giovani-in-spiaggia/</a>  
+
+20.<a id="endnote-20"></a>
+   Source: primopianomolise.it  
+   Title: Ufo, terza segnalazione in tre giorni | Primo Piano Molise  
+   Link:<a href="https://primopianomolise.it/attualita/8466/ufo-terza-segnalazione-in-tre-giorni/" target="_blank" rel="noopener noreferrer nofollow">https://primopianomolise.it/attualita/8466/ufo-terza-segnalazione-in-tre-giorni/</a>  
+
+21.<a id="endnote-21"></a>
+   Source: primopianomolise.it  
+   Title: Turista immortala un ufo a Castelpetroso | Primo Piano Molise  
+   Link:<a href="https://www.primopianomolise.it/cronaca/8404/turista-immortala-un-ufo-a-castelpetroso/" target="_blank" rel="noopener noreferrer nofollow">https://www.primopianomolise.it/cronaca/8404/turista-immortala-un-ufo-a-castelpetroso/</a>  
+
+22.<a id="endnote-22"></a>
    Source: ilgiornale.it  
    Title: sono arrivati alieni lanno record degli ufo italia 2507015  
    Link:<a href="https://www.ilgiornale.it/news/attualit/sono-arrivati-alieni-lanno-record-degli-ufo-italia-2507015.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ilgiornale.it/news/attualit/sono-arrivati-alieni-lanno-record-degli-ufo-italia-2507015.html</a>  
 
-16.<a id="endnote-16"></a>
-   Source: italia.it  
-   Link:<a href="https://www.italia.it/en/molise/campobasso/guglionesi" target="_blank" rel="noopener noreferrer nofollow">https://www.italia.it/en/molise/campobasso/guglionesi</a>  
-
 ### Additional References
 
-17.<a id="endnote-17"></a>
-   Source: youtube.com  
-   Title: The most famous UFO case in Italy (which even involved the State)  
-   Link:<a href="https://www.youtube.com/watch?v=fJOE0vUjjo8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fJOE0vUjjo8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Shocking UFO Encounter and Alien Friendship...</p></details>
-
-18.<a id="endnote-18"></a>
-   Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=QuesA4_J5fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QuesA4_J5fQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: Strange Cigar-Shaped UFO SHOCKS Pilot...</p></details>
-
-19.<a id="endnote-19"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/p/DAX1uhZuDJG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DAX1uhZuDJG/</a>  
-
-20.<a id="endnote-20"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/reel/DQEeB6rjK8z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQEeB6rjK8z/</a>  
-
-21.<a id="endnote-21"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/p/DViiWCYlYtm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DViiWCYlYtm/</a>  
-
-22.<a id="endnote-22"></a>
-   Source: freeforumzone.com  
-   Link:<a href="https://www.freeforumzone.com/mobile/d/3486822/Fotografati-due-U-F-O-su-Abruzzo-e-Molise/discussione.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.freeforumzone.com/mobile/d/3486822/Fotografati-due-U-F-O-su-Abruzzo-e-Molise/discussione.aspx</a>  
-
 23.<a id="endnote-23"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/reel/DRtN7PmksZz/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRtN7PmksZz/?hl=en</a>  
+   Source: corriere.it  
+   Title: Molise, con un solo  
+   Link:<a href="https://www.corriere.it/cronache/14_marzo_29/ufo-italia-445-avvistamenti-ufficiali-40-anni-a4323106-b75a-11e3-ba7c-41adf96a3a3a.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.corriere.it/cronache/14_marzo_29/ufo-italia-445-avvistamenti-ufficiali-40-anni-a4323106-b75a-11e3-ba7c-41adf96a3a3a.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Corriere della SeraUfo in Italia: 445 avvistamenti «ufficiali» in 40 anni29 Mar 2014 — Dal 1972 sono stati 445 gli avvistamenti «ufficial...</p></details>
 
 24.<a id="endnote-24"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/reel/DZj4ZHlKNMK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZj4ZHlKNMK/</a>  
+   Source: youtube.com  
+   Title: TOP 4 MYSTERIES OF EUROPE | The Proof Is Out There | History  
+   Link:<a href="https://www.youtube.com/watch?v=8PPGvORtxrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8PPGvORtxrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edge of Belief: Faith, Imagination, and Science with Robert Duncan, Brett Robinson, Àlex Gómez-Marín...</p></details>
 
 25.<a id="endnote-25"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/p/DUNn-r_iDxr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUNn-r_iDxr/</a>  
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=CCqy4UxmY88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CCqy4UxmY88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files #7: UFO Invasion in Italy - 1978...</p></details>
 
 26.<a id="endnote-26"></a>
-   Source: scribd.com  
-   Link:<a href="https://www.scribd.com/document/742831338/Roberto-Pinotti-I-Signori-Del-Mondo-Dagli-UFO-Alla-Bifronte-Eredita-Aliena-Dell-Umanita-Ufologia-Extraterrestri-Alieni-Verdechiaro-Nexus-2018" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/742831338/Roberto-Pinotti-I-Signori-Del-Mondo-Dagli-UFO-Alla-Bifronte-Eredita-Aliena-Dell-Umanita-Ufologia-Extraterrestri-Alieni-Verdechiaro-Nexus-2018</a>  
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=QuesA4_J5fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QuesA4_J5fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TOP 4 MYSTERIES OF EUROPE | The Proof Is Out There | History...</p></details>
+
+27.<a id="endnote-27"></a>
+   Source: rainews.it  
+   Link:<a href="https://www.rainews.it/archivio-rainews/articoli/Ufo-filmato-durante-esibizione-delle-Frecce-Tricolori-a-Forte-dei-Marmi-diffuso-il-video-acae7b41-85c9-487b-ac98-0d409491b858.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rainews.it/archivio-rainews/articoli/Ufo-filmato-durante-esibizione-delle-Frecce-Tricolori-a-Forte-dei-Marmi-diffuso-il-video-acae7b41-85c9-487b-ac98-0d409491b858.html</a>  
+
+28.<a id="endnote-28"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/documenti/2011programmatarquinia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/documenti/2011programmatarquinia.pdf</a>  
+
+29.<a id="endnote-29"></a>
+   Source: researchgate.net  
+   Link:<a href="https://www.researchgate.net/publication/359759735_NEW_RECORDS_OF_NATIVE_AND_ALIEN_VASCULAR_PLANTS_FROM_ABRUZZO_LAZIO_AND_MOLISE_NATIONAL_PARK_ITALY_-_AND_ADDITIONS_TO_THE_FLORA_OF_ABRUZZO_AND_MOLISE_ADMINISTRATIVE_REGIONS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359759735_NEW_RECORDS_OF_NATIVE_AND_ALIEN_VASCULAR_PLANTS_FROM_ABRUZZO_LAZIO_AND_MOLISE_NATIONAL_PARK_ITALY_-_AND_ADDITIONS_TO_THE_FLORA_OF_ABRUZZO_AND_MOLISE_ADMINISTRATIVE_REGIONS</a>  
+
+30.<a id="endnote-30"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/2014Cartinaok.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/2014Cartinaok.pdf</a>  
+
+31.<a id="endnote-31"></a>
+   Source: centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/news/newarchive.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/news/newarchive.htm</a>  
+
+32.<a id="endnote-32"></a>
+   Source: hwupgrade.it  
+   Link:<a href="https://www.hwupgrade.it/forum/archive/index.php/t-2204935.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hwupgrade.it/forum/archive/index.php/t-2204935.html</a>  

@@ -2,17 +2,17 @@
 level: 1
 basename: Emilia-Romagna_e1c904
 child_basenames:
-- Emilia-Romagna_e1c904_adriatic_triangle_my_d9af6d
-- Emilia-Romagna_e1c904_air_force_files_emil_ff79d4
-- Emilia-Romagna_e1c904_bologna_1978_wave_91a220
-- Emilia-Romagna_e1c904_bologna_budrio_light_75c659
-- Emilia-Romagna_e1c904_cisu_archives_count_95aebe
+- Emilia-Romagna_e1c904_adriatic_coast_ufo_r_66f02a
+- Emilia-Romagna_e1c904_air_force_ufo_files_5aff21
+- Emilia-Romagna_e1c904_cervia_triangle_1972_e0cb7f
+- Emilia-Romagna_e1c904_emilia_1954_ufo_wave_83f4f2
 - Emilia-Romagna_e1c904_index
-- Emilia-Romagna_e1c904_judge_emilia_ufo_cas_e3d62e
-- Emilia-Romagna_e1c904_lugo_1993_bolide_b0b91b
-- Emilia-Romagna_e1c904_misano_2016_report_798ad7
-- Emilia-Romagna_e1c904_romagna_coast_sighti_b313a7
-- Emilia-Romagna_e1c904_starlink_bologna_mis_d32580
+- Emilia-Romagna_e1c904_march_1978_multicity_047e22
+- Emilia-Romagna_e1c904_newspapers_ufo_flaps_6ea61d
+- Emilia-Romagna_e1c904_piacenza_fighter_cha_69756f
+- Emilia-Romagna_e1c904_poggio_renatico_rada_5cf98e
+- Emilia-Romagna_e1c904_regional_ufo_totals_03c070
+- Emilia-Romagna_e1c904_ufo_misidentificatio_aa312a
 sibling_basenames:
 - Abruzzo_4c71bb
 - Aosta_Valley_ccb120
@@ -39,24 +39,28 @@ keywords:
 - emilia-romagna
 affiliate_category: emilia-romagna
 show_ads: true
-description: Emilia-Romagna is one of the more active Italian regions in UFO reporting, but its UFO history is best understood as a mixture of documented official files,...
-hero_summary: Emilia-Romagna is one of the more active Italian regions in UFO reporting, but its UFO history is best understood as a mixture of documented official files, local press stories, civilian cataloguing, mass-media waves and ordinary sky phenomena that were not recognised at the time.
+description: Emilia-Romagna has a substantial UFO history, but not one dominated by a single spectacular encounter.
+hero_summary: Emilia-Romagna has a substantial UFO history, but not one dominated by a single spectacular encounter. Its importance lies in repeated waves of reports across Bologna, Modena, Ferrara, Piacenza, Ravenna and the Adriatic coast, combined with unusually useful official records from the Italian Air Force.
 layout: default
-permalink: /what-really-happened-in-emilia/
-nav_short_title: What Really Happened in Emilia Romagna's UFO Files?
-title: What Really Happened in Emilia Romagna's UFO Files?
-title_full: What Really Happened in Emilia Romagna's UFO Files?
-display_title_short: What Really Happened in Emilia Romagna's UFO Files?
-display_title: What Really Happened in Emilia Romagna's UFO Files?
-heading_title: What Really Happened in Emilia Romagna's UFO Files?
-page_heading_title: What Really Happened in Emilia Romagna's UFO Files?
-source_count: 138
+permalink: /why-emilia-romagna-became-a-ufo-hotspot/
+nav_short_title: Why Emilia Romagna Became a UFO Hotspot
+title: Why Emilia Romagna Became a UFO Hotspot
+title_full: Why Emilia Romagna Became a UFO Hotspot
+display_title_short: Why Emilia Romagna Became a UFO Hotspot
+display_title: Why Emilia Romagna Became a UFO Hotspot
+heading_title: Why Emilia Romagna Became a UFO Hotspot
+page_heading_title: Why Emilia Romagna Became a UFO Hotspot
+source_count: 60
 infographic_count: 3
 page_website_name: Emilia Romagna
-page_banner_line: Evidence-led pages on the region's sightings, archives and explanations.
+page_banner_line: Explore the sightings, official files and plausible explanations behind the region's UFO history.
 site_website_name: Emilia Romagna
-site_banner_line: Evidence-led pages on the region's sightings, archives and explanations.
-site_image_description: A night view over Bologna rooftops with a few distant lights in the sky and the outline of the Apennines beyond the city.
+site_banner_line: Explore the sightings, official files and plausible explanations behind the region's UFO history.
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: horizon
+site_typography_tone: editorial
+site_image_description: A night view across Emilia-Romagna with Bologna's rooftops, Adriatic coastline lights, a radar installation and an unexplained...
 output_language: English
 lang: en
 locale: en
@@ -200,7 +204,18 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -218,145 +233,146 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 18:14:54'
+date: '2026-07-26 17:11:07'
 sibling_links:
-- basename: Aosta_Valley_ccb120
-  title: Aosta UFOs
-  permalink: /aosta-valley/
-  short_title: Aosta UFOs
 - basename: Friuli-Venezia_Giuli_608dd8
-  title: Friuli UFOs
+  title: Friuli UFO Files
   permalink: /friuli-venezia-giulia/
-  short_title: Friuli UFOs
-- basename: Trentino-Alto_Adige_27eb8f
-  title: Alpine UFOs
-  permalink: /trentino-alto-adige/
-  short_title: Alpine UFOs
-- basename: Umbria_d4a7a8
-  title: Umbrian Skies
-  permalink: /umbria/
-  short_title: Umbrian Skies
-- basename: Sardinia_83a1a0
-  title: Sardinia UFOs
-  permalink: /what-makes-sardinias-ufo-record-so/
-  short_title: Sardinia UFOs
-- basename: Abruzzo_4c71bb
-  title: Abruzzo UFOs
-  permalink: /what-really-happened-in-abruzzos-ufo/
-  short_title: Abruzzo UFOs
-- basename: Apulia_98f3e8
-  title: Apulia UFOs
-  permalink: /what-really-happened-in-apulias-ufo/
-  short_title: Apulia UFOs
-- basename: Basilicata_3ea395
-  title: Basilicata UFOs
-  permalink: /what-really-happened-in-basilicatas-ufo/
-  short_title: Basilicata UFOs
-- basename: Calabria_663de5
-  title: Calabria UFOs
-  permalink: /what-really-happened-in-calabrias-ufo/
-  short_title: Calabria UFOs
-- basename: Lazio_2e255a
-  title: Lazio UFOs
-  permalink: /what-really-happened-in-lazios-ufo-files/
-  short_title: Lazio UFOs
-- basename: Liguria_5b11e3
-  title: Liguria UFOs
-  permalink: /what-really-happened-in-ligurias-ufo/
-  short_title: Liguria UFOs
+  short_title: Friuli UFO Files
+- basename: Marche_113fca
+  title: Marche
+  permalink: /how-marches-ufo-legends-took-shape/
+  short_title: Marche
 - basename: Lombardy_9b46d3
-  title: Lombardy UFOs
-  permalink: /what-really-happened-in-lombardys-ufo/
-  short_title: Lombardy UFOs
-- basename: Molise_7c6aa1
-  title: Molise UFOs
-  permalink: /what-really-happened-in-molises-ufo/
-  short_title: Molise UFOs
+  title: Lombardy
+  permalink: /lombardys-ufo-history-between-evidence/
+  short_title: Lombardy
 - basename: Piedmont_9fde2b
-  title: Piedmont UFOs
-  permalink: /what-really-happened-in-piedmonts-ufo/
-  short_title: Piedmont UFOs
-- basename: Sicily_77b465
-  title: Sicily UFOs
-  permalink: /what-really-happened-in-sicilys-ufo/
-  short_title: Sicily UFOs
+  title: Piedmont UFO Files
+  permalink: /piedmonts-ufo-mysteries-under-closer/
+  short_title: Piedmont UFO Files
+- basename: Trentino-Alto_Adige_27eb8f
+  title: Alpine UFO Files
+  permalink: /trentino-alto-adige/
+  short_title: Alpine UFO Files
 - basename: Tuscany_2685d2
-  title: Tuscan Skies
-  permalink: /what-really-happened-in-tuscanys-ufo/
-  short_title: Tuscan Skies
+  title: Tuscan UFO Files
+  permalink: /tuscanys-ufo-history-between-mystery-and/
+  short_title: Tuscan UFO Files
 - basename: Veneto_862600
   title: Veneto UFOs
-  permalink: /what-really-happened-in-venetos-ufo/
+  permalink: /venetos-ufo-history-between-evidence-and/
   short_title: Veneto UFOs
-- basename: Marche_113fca
-  title: Marche UFOs
-  permalink: /what-really-happened-over-marche/
-  short_title: Marche UFOs
+- basename: Basilicata_3ea395
+  title: Basilicata UFOs
+  permalink: /which-basilicata-ufo-cases-still/
+  short_title: Basilicata UFOs
+- basename: Abruzzo_4c71bb
+  title: Abruzzo UFOs
+  permalink: /why-abruzzo-became-italys-ufo-hotspot/
+  short_title: Abruzzo UFOs
+- basename: Aosta_Valley_ccb120
+  title: Aosta Valley UFOs
+  permalink: /why-aosta-valleys-ufo-record-looks-so/
+  short_title: Aosta Valley UFOs
+- basename: Apulia_98f3e8
+  title: Apulia UFO Files
+  permalink: /why-apulias-ufo-record-still-resists/
+  short_title: Apulia UFO Files
+- basename: Calabria_663de5
+  title: Calabria UFO Files
+  permalink: /why-calabria-has-many-ufo-reports-but-no/
+  short_title: Calabria UFO Files
 - basename: Campania_5acc6a
-  title: Campania UFOs
-  permalink: /why-campania-keeps-appearing-in-ufo/
-  short_title: Campania UFOs
+  title: Campania
+  permalink: /why-campanias-ufo-waves-looked-so/
+  short_title: Campania
+- basename: Lazio_2e255a
+  title: Lazio UFO Files
+  permalink: /why-lazios-ufo-history-remains/
+  short_title: Lazio UFO Files
+- basename: Liguria_5b11e3
+  title: Liguria UFOs
+  permalink: /why-liguria-became-italys-ufo-coast/
+  short_title: Liguria UFOs
+- basename: Molise_7c6aa1
+  title: Molise UFOs
+  permalink: /why-molise-has-so-few-strong-ufo-cases/
+  short_title: Molise UFOs
+- basename: Sardinia_83a1a0
+  title: Sardinia UFOs
+  permalink: /why-sardinias-ufo-record-remains-so/
+  short_title: Sardinia UFOs
+- basename: Sicily_77b465
+  title: Sicily UFO Files
+  permalink: /why-sicilys-ufo-stories-still-resist/
+  short_title: Sicily UFO Files
+- basename: Umbria_d4a7a8
+  title: Umbria
+  permalink: /why-umbrias-ufo-stories-still-resist/
+  short_title: Umbria
 child_links:
-- basename: Emilia-Romagna_e1c904_bologna_1978_wave_91a220
-  title: 1978 Wave | What Really Happened in Emilia Romagna's UFO...
-  permalink: /1978-wave-93353b/
-  short_title: 1978 Wave
-  heading_title: Was 1978 Italy's Real UFO Turning Point?
-- basename: Emilia-Romagna_e1c904_adriatic_triangle_my_d9af6d
-  title: Adriatic Myth | What Really Happened in Emilia Romagna's UFO...
-  permalink: /adriatic-myth/
-  short_title: Adriatic Myth
-  heading_title: Did the Adriatic Triangle Really Exist?
-- basename: Emilia-Romagna_e1c904_air_force_files_emil_ff79d4
-  title: Air Force Files | What Really Happened in Emilia Romagna's UFO...
-  permalink: /air-force-files-f60efe/
-  short_title: Air Force Files
-  heading_title: How Official UFO Files Treat Emilia Romagna Sightings
-- basename: Emilia-Romagna_e1c904_bologna_budrio_light_75c659
-  title: Bologna Lights | What Really Happened in Emilia Romagna's UFO...
-  permalink: /bologna-lights/
-  short_title: Bologna Lights
-  heading_title: When Bologna's Night Sky Looked Unusual
-- basename: Emilia-Romagna_e1c904_cisu_archives_count_95aebe
-  title: CISU Archive | What Really Happened in Emilia Romagna's UFO...
-  permalink: /cisu-archive-32a5d2/
-  short_title: CISU Archive
-  heading_title: Why Emilia Romagna Has So Many UFO Reports
-- basename: Emilia-Romagna_e1c904_romagna_coast_sighti_b313a7
-  title: Coast Cases | What Really Happened in Emilia Romagna's UFO...
-  permalink: /coast-cases/
-  short_title: Coast Cases
-  heading_title: Why the Romagna Coast Produces UFO Stories
-- basename: Emilia-Romagna_e1c904_judge_emilia_ufo_cas_e3d62e
-  title: Judge Cases | What Really Happened in Emilia Romagna's UFO...
-  permalink: /judge-cases/
-  short_title: Judge Cases
-  heading_title: How Strong Are Emilia Romagna UFO Claims?
-- basename: Emilia-Romagna_e1c904_lugo_1993_bolide_b0b91b
-  title: Lugo Bolide | What Really Happened in Emilia Romagna's UFO...
-  permalink: /lugo-bolide/
-  short_title: Lugo Bolide
-  heading_title: The Fireball That Explains Many UFO Stories
-- basename: Emilia-Romagna_e1c904_misano_2016_report_798ad7
-  title: Misano 2016 | What Really Happened in Emilia Romagna's UFO...
-  permalink: /misano-2016/
-  short_title: Misano 2016
-  heading_title: What Did the Misano 2016 Sighting Prove?
-- basename: Emilia-Romagna_e1c904_starlink_bologna_mis_d32580
-  title: Starlink | What Really Happened in Emilia Romagna's UFO...
-  permalink: /starlink/
-  short_title: Starlink
-  heading_title: How Starlink Changed Bologna UFO Reports
+- basename: Emilia-Romagna_e1c904_emilia_1954_ufo_wave_83f4f2
+  title: 1954 Wave | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /1954-wave-227217/
+  short_title: 1954 Wave
+  heading_title: Inside Emilia Romagna's Great UFO Wave of 1954
+- basename: Emilia-Romagna_e1c904_adriatic_coast_ufo_r_66f02a
+  title: Adriatic Coast | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /adriatic-coast/
+  short_title: Adriatic Coast
+  heading_title: Why the Adriatic Coast Generates Unusual Sky Reports
+- basename: Emilia-Romagna_e1c904_cervia_triangle_1972_e0cb7f
+  title: Cervia Case | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /cervia-case/
+  short_title: Cervia Case
+  heading_title: Was the 1972 Cervia Triangle Truly Unexplained?
+- basename: Emilia-Romagna_e1c904_ufo_misidentificatio_aa312a
+  title: Likely Explanations | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /likely-explanations/
+  short_title: Likely Explanations
+  heading_title: The Ordinary Events Most Often Mistaken for UFOs
+- basename: Emilia-Romagna_e1c904_march_1978_multicity_047e22
+  title: March 1978 | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /march-1978/
+  short_title: March 1978
+  heading_title: What Cross Country Sightings Reveal About Bologna's 1978 UFO
+- basename: Emilia-Romagna_e1c904_newspapers_ufo_flaps_6ea61d
+  title: Media Flaps | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /media-flaps/
+  short_title: Media Flaps
+  heading_title: How Newspapers Helped Build Emilia Romagna's UFO Waves
+- basename: Emilia-Romagna_e1c904_air_force_ufo_files_5aff21
+  title: Official Files | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /official-files/
+  short_title: Official Files
+  heading_title: What Italy's Air Force Files Actually Say
+- basename: Emilia-Romagna_e1c904_piacenza_fighter_cha_69756f
+  title: Piacenza Chase | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /piacenza-chase/
+  short_title: Piacenza Chase
+  heading_title: Did NATO Fighters Chase a UFO Near Piacenza?
+- basename: Emilia-Romagna_e1c904_poggio_renatico_rada_5cf98e
+  title: Radar Network | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /radar-network/
+  short_title: Radar Network
+  heading_title: Why Radar Matters in Emilia Romagna UFO Reports
+- basename: Emilia-Romagna_e1c904_regional_ufo_totals_03c070
+  title: Regional Totals | Why Emilia Romagna Became a UFO Hotspot
+  permalink: /regional-totals/
+  short_title: Regional Totals
+  heading_title: Was Emilia Romagna Really One of Italy's UFO Hotspots?
+has_inline_related_reports_panel: true
 prev_link:
-  basename: Calabria_663de5
-  title: Calabria UFOs
-  permalink: /what-really-happened-in-calabrias-ufo/
-  short_title: Calabria UFOs
+  basename: Campania_5acc6a
+  title: Campania
+  permalink: /why-campanias-ufo-waves-looked-so/
+  short_title: Campania
 next_link:
   basename: Lazio_2e255a
-  title: Lazio UFOs
-  permalink: /what-really-happened-in-lazios-ufo-files/
-  short_title: Lazio UFOs
+  title: Lazio UFO Files
+  permalink: /why-lazios-ufo-history-remains/
+  short_title: Lazio UFO Files
 header:
   og_image: /assets/images/Emilia-Romagna_e1c904-overview-social.jpg
   preview_image: /assets/images/Emilia-Romagna_e1c904-overview.webp
@@ -365,103 +381,140 @@ image: /assets/images/Emilia-Romagna_e1c904-overview-social.jpg
 
 ## Introduction
 
-The most useful way to read Emilia-Romagna’s UFO record is not as a list of “mysteries solved” or “mysteries confirmed”, but as a layered public history. Some cases remain unidentified in the official sense: no known aircraft, balloon, radiosonde or natural explanation was matched to the report. Others have later become good examples of misidentification, such as [Starlink]({{'starlink/' | relative_url }}) satellite trains over Bologna. A few spectacular sky events, such as the 1993 [Lugo bolide]({{'lugo-bolide/' | relative_url }}), remind readers that natural objects can produce dramatic effects that sound extraordinary even when the cause is known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/astro-ph/9805124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">astro ph</span><span class="citation-popover-snippet">astro ph</span></span></span><img src="{{"/assets/images/Emilia-Romagna_e1c904-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Emilia Romagna&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-## Why Emilia-Romagna stands out in Italian UFO records
-
-CISU’s national overview says UFO reports in Italy are especially numerous in Piemonte, Tuscany and Emilia-Romagna, with each of those regions exceeding 1,000 collected cases. CISU also cautions that regional differences partly reflect the activity of local researchers, not simply the objective frequency of strange things in the sky. That warning matters for Emilia-Romagna: a strong local archive can make a region look more “UFO-rich” because more witnesses were interviewed, more newspaper cuttings were saved and more cases were entered into catalogues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/ufo-in-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Ufo in Italia</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Ufo in Italia</span></span></span>
-
-The region’s profile also fits wider Italian patterns. CISU’s national data emphasises that reports come in waves rather than at a constant rate, with 1954 and 1978 named as Italy’s two major waves. It also notes that most UFO reports are “night lights”: distant lights seen after dark, usually without enough detail to identify structure, size or distance securely. This is especially relevant for a region with large urban skies, an active transport corridor, coastal tourism, military and civil aviation, and many summer and evening witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/ufo-in-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Ufo in Italia</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Ufo in Italia</span></span></span>
-
-The official layer comes from the Italian Air Force. After the major Italian UFO wave of 1978, the government designated the Air Force as the institutional body for collecting, checking and monitoring UFO reports. The current procedure asks citizens to complete a form and submit it through the Carabinieri; the Air Force then checks possible links to human activity or natural phenomena, with the stated purpose of flight safety and national security. A case is published as an unidentified flying object only when no technical or natural justification has been found after checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
-
-## The 1978 wave: Bologna as a place of memory, not just sightings
-
-The year 1978 is central to Italian UFO history, and Emilia-Romagna matters because Bologna later became one of the main places where that wave was re-examined. Contemporary and retrospective accounts describe 1978 as Italy’s exceptional UFO year: sightings rose from dozens per month to hundreds, newspapers and television devoted major attention to the subject, and the wave ended abruptly after the beginning of 1979.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iltascabile.com/scienze/dischi-volanti-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iltascabile.com">[Il Tascabile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iltascabile.com</span><span class="citation-popover-title">Il Tascabile Dischi volanti sull’Italia</span><span class="citation-popover-snippet">Il Tascabile Dischi volanti sull’Italia</span></span></span>
-
-CISU’s 33rd national UFO conference was held in Bologna in November 2018 and was devoted to the fortieth anniversary of the [1978 wave]({{'1978-wave-93353b/' | relative_url }}). The theme framed 1978 as a historical object: documents, reflections and research rather than simple retelling. CISU reported that its updated catalogue for 1978 had grown from about 1,800 to more than 2,300 Italian sightings for that year alone, and that its press archive for the same year contained more than 2,200 articles or cuttings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/londata-del-1978-diventa-storia-33-convegno-del-cisu-a-bologna/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">londata del 1978 diventa storia 33 convegno del cisu a bologna</span><span class="citation-popover-snippet">londata del 1978 diventa storia 33 convegno del cisu a bologna</span></span></span>
-
-That Bologna conference is important for Emilia-Romagna because it shows how the region is not only a setting for sightings but also part of Italy’s UFO research infrastructure. The 2018 discussions included month-by-month chronology, media analysis, case numbers, landings, close encounters, television coverage, books and the influence of Steven Spielberg’s *Close Encounters of the Third Kind*. It also included a deliberately provocative paper asking whether part of the 1978 wave may have been shaped by disinformation or media construction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/londata-del-1978-diventa-storia-33-convegno-del-cisu-a-bologna/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">londata del 1978 diventa storia 33 convegno del cisu a bologna</span><span class="citation-popover-snippet">londata del 1978 diventa storia 33 convegno del cisu a bologna</span></span></span>
-
-For a reader asking “what really happened?”, the best answer is cautious. The 1978 wave did happen as a social and documentary phenomenon: many reports, much press coverage and a large archival trace. But that does not make each reported object physically extraordinary. The likely explanation is mixed: genuine misidentifications, unusual atmospheric or astronomical observations, hoaxes or exaggerations, media feedback, and a cultural moment primed by cinema, television, politics and anxiety. Emilia-Romagna’s role is strongest where it preserves and interprets that national wave, rather than where one single regional case settles it.<img src="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Emilia Romagna&#x27;s UFO... illustration 1" data-theme-src-dark="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The Adriatic coast: Rimini, Riccione and Misano as recurring locations
-
-The Romagna coast appears repeatedly in the public record because it combines several features that produce UFO reports: open sea horizons, tourist crowds, night-time observation, aircraft routes, fireworks, balloons, military or civil activity, and bright astronomical or atmospheric events seen with few distance cues. This does not make every coastal report weak, but it does mean the setting is prone to ambiguity.
-
-A useful official-era example is Misano Adriatico in 2016. Local reporting based on Air Force records said that on 15 August, at Porto Verde, a municipal police officer saw two high-altitude groups of spheroidal objects: one white group and another white and red-orange group. The case was one of four UFO reports recorded by the Italian Air Force for 2016, the other three being in Veneto. The Air Force’s position, as reported locally, was careful: unidentified means that no technical or natural justification had been found, not that the sighting proved extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilrestodelcarlino.it/rimini/cronaca/ufo-misano-d645882a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrestodelcarlino.it">[Il Resto del Carlino]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrestodelcarlino.it</span><span class="citation-popover-title">ufo misano d645882a</span><span class="citation-popover-snippet">ufo misano d645882a</span></span></span>
-
-Riccione also appears in the official record. Press coverage of Air Force cases for 2008 described a 28 July daytime report in Riccione of an irregular object that seemed to lengthen and shorten while moving or floating on itself for about three minutes. The same report noted another Riccione-area sighting on 21 August: a red “fireball” seen over the sea at an estimated altitude of about 1,500 metres. These are interesting as documented reports, but their evidential value is limited by the usual problems: short duration, uncertain distance, estimated height, and descriptions that could overlap with balloons, illuminated objects, meteor-like events or other ordinary sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lastampa.it/cronaca/2009/02/05/news/luci-sfere-di-fuoco-e-oggetti-volanti-1.37084920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lastampa.it">[La Stampa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lastampa.it</span><span class="citation-popover-title">La Stampa Luci, sfere di fuoco e oggetti volanti</span><span class="citation-popover-snippet">La Stampa Luci, sfere di fuoco e oggetti volanti</span></span></span>
-
-The Adriatic also became part of the wider 1978 mythology. Retrospective writing on the national wave notes that strange phenomena in the Adriatic were discussed in late 1978, that the label “[Adriatic triangle]({{'adriatic-myth/' | relative_url }})” was sensationalistic, and that possible explanations have ranged from seabed methane to social and psychological feedback. The point is not that one explanation has definitively closed the matter, but that the label itself can make scattered reports sound more coherent than the underlying evidence allows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iltascabile.com/scienze/dischi-volanti-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iltascabile.com">[Il Tascabile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iltascabile.com</span><span class="citation-popover-title">Il Tascabile Dischi volanti sull’Italia</span><span class="citation-popover-snippet">Il Tascabile Dischi volanti sull’Italia</span></span></span>
-
-## Bologna cases and the problem of ordinary skies looking extraordinary
-
-Bologna’s UFO relevance is partly archival and organisational, but the city and its surrounding area also feature in specific sighting records. In 2007, the Air Force catalogued a report from the Bologna area: at about 10.10 on 11 July, a white object was described as slowly rotating on itself at roughly one kilometre altitude. The same press accounts placed this among a small number of officially catalogued Italian cases for that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lastampa.it/cronaca/2009/02/05/news/luci-sfere-di-fuoco-e-oggetti-volanti-1.37084920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lastampa.it">[La Stampa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lastampa.it</span><span class="citation-popover-title">La Stampa Luci, sfere di fuoco e oggetti volanti</span><span class="citation-popover-snippet">La Stampa Luci, sfere di fuoco e oggetti volanti</span></span></span>
-
-Budrio, near Bologna, appears in older Air Force-linked press summaries as well. A 4 September 2004 sighting involved citizens who reported a spherical, star-like object around 4 a.m., changing from orange to white, moving with variable speed on a north to north-east line. Again, this is a worthwhile record because it entered the official reporting chain, but the description remains too sparse to support a strong extraordinary conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.corrierece.it/notizie-cronaca/2009/02/04/avvistamento-ovni-ufo-anche-in.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: corrierece.it">[Corriere CE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">corrierece.it</span><span class="citation-popover-snippet">Open source on corrierece.it.</span></span></span>
-
-Bologna is also a good example of how modern explanations can arrive quickly. In May 2021, many people in Bologna reported a line of strange lights moving across the sky. The explanation was not a UFO formation but a Starlink satellite train: a row of newly launched communications satellites visible as bright points moving in formation. Local reporting described the social-media reaction and then identified the lights as part of the Starlink constellation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bologna.repubblica.it/cronaca/2021/05/07/news/scia_puntini_luminosi_satelliti_elon_musk_spacex_starlink_bologna-299808543/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bologna.repubblica.it">[la Repubblica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bologna.repubblica.it</span><span class="citation-popover-snippet">Open source on repubblica.it.</span></span></span>
-
-That Starlink episode is valuable because it shows how a sincere mass sighting can be both real and non-mysterious. Witnesses did see something unusual. The pattern was unfamiliar. The movement looked organised. But the cause was traceable, repeatable and human-made. For present-day Emilia-Romagna UFO reports, this has become one of the first explanations to check, alongside aircraft, drones, balloons, lanterns, planets, meteors and atmospheric effects.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzqM4L_3fXc" title="Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer">Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 146.0K &middot; Uploaded: January 2024 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzqM4L_3fXc">Open on YouTube</a></p></div></div></div>
+The clearest regional pattern begins with the nationwide “flying-saucer” wave of 1954, resurfaces in official aviation reports during the 1970s and continues through smaller clusters in later decades. The evidence ranges from terse newspaper-derived catalogues to formal military summaries. A few cases remain officially unidentified, largely because surviving information is incomplete. Others have weakened as astronomical events, meteors, space debris, aircraft and lanterns became more convincing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/emilia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[centroufologiconazionale.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span></span></span>
 
 
 
+<img src="{{ "/assets/images/Emilia-Romagna_e1c904-overview.webp" | relative_url }}" alt="Overview image for Why Emilia Romagna Became a UFO Hotspot" loading="eager" decoding="sync" fetchpriority="high">
 
+## The 1954 wave put the region on Italy’s UFO map
 
-## Parma and the value of local catalogues
+The autumn of 1954 was the first major concentration of reports in Emilia-Romagna. A historical catalogue maintained by the Centro Ufologico Nazionale, or CUN, lists numerous sightings between 10 and 29 October, including reports from Bologna, Bazzano, Fabbrico, the Bologna–Budrio–Molinella road, the Modena countryside, Ferrara, Albareto, Goro, Monghidoro, Comacchio, Formigine and other locations. Witnesses used the characteristic language of the period: fiery globes, luminous cigars, discs, flattened shapes and objects trailing sparks or coloured light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/emilia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span></span></span>
 
-Parma is one of the stronger examples of local UFO documentation within Emilia-Romagna. CISU’s profile of researcher Cristian Vitali says he coordinated the provincial case archive for Parma after joining CISU in 2012. It also records his publication of *UFO su Parma*, a collection of UFO reports from the Parma area from 1947 to 2014, first published in 2015 and revised and expanded in 2018.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/cristian-vitali/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Cristian Vitali</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Cristian Vitali</span></span></span>
-
-This kind of provincial catalogue matters more than it may first appear. UFO history often suffers from repeated anecdotes detached from dates, witnesses, original newspapers and later corrections. A local catalogue can make a region’s record more testable by grouping reports geographically and chronologically. It can also reveal whether a “hotspot” is a genuine cluster, a press effect, a single active investigator’s footprint, or a repeated local misidentification.
-
-There is also a caution. A catalogue is not the same thing as proof. It preserves claims and sometimes investigations; it does not automatically validate them. The best use of a Parma-style archive is comparative: which years were busy, which descriptions recur, which reports had multiple witnesses, which had photographs or official involvement, and which were later explained.
-
-## The Lugo bolide: a natural event that shows why scepticism matters
-
-One of the most dramatic sky events tied to Emilia-Romagna was not a UFO in the alien sense at all. On 19 January 1993, a very bright bolide crossed northern Italy and exploded roughly over Lugo, in Emilia-Romagna. Luigi Foschini’s scientific reanalysis describes a peak magnitude of about -23, an energy release of roughly 14 kilotons, and shock waves recorded by six local seismic stations. The proposed interpretation was a porous carbonaceous meteoroid, broadly similar in composition to asteroid 253 Mathilde.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/astro-ph/9805124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">astro ph</span><span class="citation-popover-snippet">astro ph</span></span></span>
-
-The Lugo event is important for UFO history because it shows how spectacular natural phenomena can be. A very bright meteor can produce light, sound, shock, fear and confused witness accounts across a wide area. Without seismic records, astronomical analysis and later scientific interpretation, parts of such an event might easily circulate as unexplained aerial mystery.
-
-This does not mean every Emilia-Romagna UFO report is a meteor. It means that extraordinary witness impressions need comparison with known sky phenomena before any stronger conclusion is drawn. The region’s record contains both unexplained reports and well-explained dramatic events; confusing those two categories is one of the main ways UFO folklore becomes inflated.<img src="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Emilia Romagna&#x27;s UFO... illustration 2" data-theme-src-dark="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What the official label “unidentified” does and does not mean
-
-The Italian Air Force’s wording is central to a fair reading of Emilia-Romagna cases. Its OVNI page says the Air Force checks whether a report can be correlated with human events or natural phenomena and classifies a case as unidentified when no technical or natural justification has been found after the checks. The stated purpose is flight safety and national security, not confirming alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
-
-This distinction is often lost in public discussion. “Unidentified” can mean several things:<div class="content-enhancement content-enhancement--metric" markdown="1">
-
-* the report lacked enough data for a confident identification;
-* known aircraft, balloons or radiosondes were checked but not matched;
-* the witness described something real but distance, size and altitude were uncertain;
-* the available records were too thin to test properly;
-* the case remains genuinely puzzling on the surviving evidence.</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xx6JpXlwIaQ" title="The Proof Is Out There: Strange Cigar-Shaped UFO SHOCKS Pilot (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xx6JpXlwIaQ" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Strange Cigar-Shaped UFO SHOCKS Pilot (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xx6JpXlwIaQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xx6JpXlwIaQ">Open on YouTube</a></p></div></div></div>
+Several reports occurred on the same dates and at similar evening times. On 14 October, for example, objects were described over Bazzano, Fabbrico, Bologna, roads east of Bologna and the Modena countryside. On 27 and 28 October, further claims came from Monghidoro, Comacchio, Modena and Bologna. This clustering matters more than any one description because it shows how a regional “flap” develops: an unusual light is reported, newspapers and word of mouth increase public attention, and subsequent ambiguous objects are more readily interpreted as part of the same phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/emilia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span></span></span>
 
 
 
-## The strongest explanations to check in Emilia-Romagna reports
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/likely-explanations/' | relative_url }}"><span class="article-branch-link-short">Likely Explanations</span><span class="article-branch-link-heading">The Ordinary Events Most Often Mistaken for UFOs</span></a></li>
+<li><a href="{{ '/official-files/' | relative_url }}"><span class="article-branch-link-short">Official Files</span><span class="article-branch-link-heading">What Italy&#x27;s Air Force Files Actually Say</span></a></li>
+<li><a href="{{ '/cervia-case/' | relative_url }}"><span class="article-branch-link-short">Cervia Case</span><span class="article-branch-link-heading">Was the 1972 Cervia Triangle Truly Unexplained?</span></a></li>
+<li><a href="{{ '/media-flaps/' | relative_url }}"><span class="article-branch-link-short">Media Flaps</span><span class="article-branch-link-heading">How Newspapers Helped Build Emilia Romagna&#x27;s UFO Waves</span></a></li>
+<li><a href="{{ '/march-1978/' | relative_url }}"><span class="article-branch-link-short">March 1978</span><span class="article-branch-link-heading">What Cross Country Sightings Reveal About Bologna&#x27;s 1978 UFO</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
 
-A balanced regional UFO page should not begin by assuming witnesses are foolish, but it should recognise the explanations that repeatedly account for sightings. CISU’s national material notes that more than 70% of its catalogue consists of night lights: distant luminous bodies with few sharp details. It also notes that evening and night reports are especially common, partly because lights in the sky are easier to notice then.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/ufo-in-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Ufo in Italia</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Ufo in Italia</span></span></span>
+The weakness is that the CUN page is a compressed retrospective chronology rather than a collection of full case files. It rarely supplies witness statements, weather data, astronomical checks, photographs or the original newspaper articles. Consequently, it is useful for reconstructing the scale and geography of the wave, but not for deciding that each entry represents a genuinely anomalous craft.
 
-For Emilia-Romagna, the most useful checks are:
+Descriptions such as “fireball”, “incandescent torpedo”, “globe with a trail” and an object “emitting sparks” are also compatible with bright meteors or re-entering debris. Other reports may have involved aircraft seen under unfamiliar lighting conditions. The close timing of some observations could indicate a single astronomical or aerospace event seen from several towns rather than multiple independent vehicles.
 
-**Satellites and satellite trains.** The Bologna Starlink reports show how a line of moving lights can generate sudden public excitement but be identified from orbital data and timing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bologna.repubblica.it/cronaca/2021/05/07/news/scia_puntini_luminosi_satelliti_elon_musk_spacex_starlink_bologna-299808543/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bologna.repubblica.it">[la Repubblica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bologna.repubblica.it</span><span class="citation-popover-snippet">Open source on repubblica.it.</span></span></span>
+## The strongest records came from aviation and military channels
 
-**Meteors and bolides.** The Lugo bolide shows that natural objects can produce intense light and even measurable shock waves. Smaller meteors are far more common and can be mistaken for fast-moving craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/astro-ph/9805124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">astro ph</span><span class="citation-popover-snippet">astro ph</span></span></span>
+Italy did not establish a central state UFO-reporting system because the authorities had concluded that alien vehicles were visiting the country. The arrangement followed the exceptional national wave of 1978, after which Prime Minister Giulio Andreotti assigned the Italian Air Force responsibility for collecting, checking and monitoring reports. Today, reports are passed through the Carabinieri and assessed for possible links with human activity or natural phenomena, principally for flight and national security. An incident is retained as unidentified when no technical or natural explanation can be established from the available information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
 
-**Aircraft, drones, balloons and lanterns.** The Air Force procedure explicitly checks for human activity, aircraft, balloons and other known sources before leaving a report unidentified. Coastal areas and urban corridors make such checks especially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
+That definition is important. In the Italian archive, “UFO” means that investigators could not identify the reported object; it does not mean they verified an exotic machine. Some files are unresolved because the observations were genuinely unusual. Others remain open because the record lacks enough detail to test ordinary explanations.
 
-**Media feedback and cultural priming.** The 1978 wave shows that reports can multiply during periods of intense press, cinema and television attention. This does not mean all witnesses copied each other, but it does mean public expectation can shape what people notice, how they describe it and whether they report it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iltascabile.com/scienze/dischi-volanti-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iltascabile.com">[Il Tascabile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iltascabile.com</span><span class="citation-popover-title">Il Tascabile Dischi volanti sull’Italia</span><span class="citation-popover-snippet">Il Tascabile Dischi volanti sull’Italia</span></span></span><img src="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Emilia Romagna&#x27;s UFO... illustration 3" data-theme-src-dark="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Emilia-Romagna_e1c904-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How later reporting has changed the regional picture
 
-Later reporting has generally weakened sensational readings of Emilia-Romagna’s UFO history while strengthening the value of the archive itself. The most credible picture is not “aliens prefer Emilia-Romagna”, but “Emilia-Romagna has a large and unusually visible record of reported UFO experiences, some official, many civilian, and many shaped by identifiable cultural and observational factors.”
 
-The official Air Force record gives certain cases a firmer documentary status, especially Bologna-area and Romagna-coast reports from the 2000s and 2010s. CISU’s catalogues and conferences give the region a serious research context, particularly through Bologna and Parma. But the same sources also urge caution: reporting density depends partly on local investigator activity, most cases are distant lights, and the meaning of “unidentified” is narrower than the popular meaning of “alien”. CISU - Centro Italiano Studi Ufologici+2Aeronautica Militare<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/ufo-in-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Ufo in Italia</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Ufo in Italia</span></span></span>
+<img src="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-1-dark.svg" | relative_url }}" alt="Why Emilia Romagna Became a UFO Hotspot illustration 1" data-theme-src-dark="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-The most persuasive unresolved cases in Emilia-Romagna are therefore not the loudest legends, but the better-documented reports that survived initial checks while still lacking enough detail for a conventional identification. The weakest are anonymous, single-witness, late-retold or highly embellished stories with no original record. The clearest debunked or explained examples are modern satellite trains and natural sky events, which are valuable precisely because they show how real observations can become UFO stories before the evidence catches up.
+### Cervia, August 1972
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FGa15lBzeao" title="🇮🇹👽 5 AFFAIRES SECRÈTES SUR LES OVNI EN ITALIE QUE PERSONNE NE VOUS A JAMAIS RACONTÉES ! 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FGa15lBzeao" target="_blank" rel="noopener noreferrer">🇮🇹👽 5 AFFAIRES SECRÈTES SUR LES OVNI EN ITALIE QUE PERSONNE NE VOUS A JAMAIS RACONTÉES ! 🛸</a></p><p class="youtube-embed-meta">Channel: Mémoire d’Outre-Ciel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FGa15lBzeao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FGa15lBzeao">Open on YouTube</a></p></div></div></div>
+One of Emilia-Romagna’s clearest official entries concerns Cervia, in Ravenna province, on the night of 16–17 August 1972. Air Force personnel reported a triangular object at about 11 pm. It had star-like brightness with flashes of different colours, appeared to move slowly in a straight line towards the south-west and was seen under clear skies. The archive records it as unidentified after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+
+The military witnesses make the report more interesting than an anonymous anecdote, but the surviving summary is still too thin for a firm judgement. There is no published radar confirmation, measured angular speed, duration, precise bearing sequence or record of comparison with aircraft and astronomical objects. Star-like brightness combined with changing colours can result from atmospheric scintillation, particularly when a bright object is low in the sky. The reported straight-line movement may instead suggest an aircraft or satellite. The case deserves an “unresolved” label, but not a stronger conclusion.
+
+### The multi-city report of 9 March 1978
+
+On 9 [March 1978]({{ 'march-1978/' | relative_url }}), Air Force personnel and civilian pilots reported an elongated red-and-green phenomenon from several places, including Bologna, Terni, the Gran Sasso area, Vicenza and Ancona, between about 8.30 and 8.40 pm. The official archive classifies the event as unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+
+Its wide geographical spread is the central clue. An object seen almost simultaneously from widely separated parts of Italy was unlikely to have been hovering locally over Bologna. A high-altitude event—such as a rocket stage, satellite re-entry, fireball or distant aerospace activity—would better fit the observation geometry. The archive entry does not publish a trajectory reconstruction or a matching launch record, so the explanation cannot be confirmed from the surviving summary. Even so, the multi-region character weakens interpretations involving a low-flying craft manoeuvring over Emilia-Romagna.
+
+### A region tied into air-surveillance infrastructure
+
+Emilia-Romagna also has genuine military and radar significance. Poggio Renatico, in Ferrara province, forms part of Italy’s integrated air-surveillance structure and has been involved in directing interceptions of aircraft whose identity or communications required checking. This does not make nearby UFO claims more likely to be extraordinary. It means that the region sits within a heavily monitored airspace where unidentified traffic has practical defence implications and where military sightings may enter formal reporting channels more readily than in places with less aviation infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/en/news/comunicato-stampa-n-19-2016/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare Comunicato stampa n</span><span class="citation-popover-snippet">19/2016 - Aeronautica MilitareJune 4, 2016 — ## 19/2016 - Press release no.... 19/2016 “SCRAMBLE” FOR THE TYPHOONS OF THE 4TH WING Two I...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+
+No strong public evidence links a regional UFO case to radar tracks showing impossible speed, acceleration or manoeuvres. Claims that “fighters chased a UFO” therefore require particular caution. A private catalogue describes a triangular object near Piacenza in October 1966 and says NATO F-84 aircraft pursued it, but the accessible entry provides no operational records, pilot testimony or radar documentation with which to verify that account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/emilia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span></span></span>
+
+## The official totals show persistence, not a continuous flap
+
+Air Force statistics record 11 Emilia-Romagna cases between 1972 and 1990. The regional entries were spread across several years, with two reports in 1978 and further cases in the 1980s and 1990. This places the region below Lazio and Tuscany in that particular official series, but within a group of Italian regions producing a recurring rather than negligible number of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">REGIONE EMILIA ROMAGNA &#124; ANNI 1 &#124; 1 &#124; &#124; &#124; &#124; &#124; 2 &#124; &#124; 1 &#124; &#124; &#124; 1 &#124; &#124; &#124; 1 &#124; &#124; 1 &#124; 2 &#124; 1 &#124; AVVISTAMENTI 11... Aeronautica Militare...</span></span></span>
+
+For 1991–2000, the Air Force table lists six cases in Emilia-Romagna: two in 1995, one in 1997, two in 1998 and one in 2000. Across Italy, the same table records 112 sightings for the decade. Emilia-Romagna therefore accounted for about 5.4 per cent of the national total in that dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare Presentazione standard di Power Point</span><span class="citation-popover-snippet">Aeronautica Militare Presentazione standard di Power Point</span></span></span>
+
+Broader historical compilations place Emilia-Romagna among Italy’s more frequently represented regions, although totals differ because military files, press catalogues and civilian UFO databases apply different selection rules. An academic study of Italian UFO culture cites historical research ranking Emilia-Romagna third among Italian regions by number of catalogued sightings. The same study stresses that raw sighting totals reflect not only events in the sky but also public awareness, media interest, reporting habits and the activity of local investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wrap.warwick.ac.uk/id/eprint/167606/1/WRAP-Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978-Camilletti-22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wrap.warwick.ac.uk">[WRAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wrap.warwick.ac.uk</span><span class="citation-popover-snippet">Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978...</span></span></span>
+
+That qualification prevents a common mistake. A high count does not demonstrate that a region attracts unusual craft. Emilia-Romagna has a large population, several airports, major road and rail corridors, military facilities, a long Adriatic coastline and active local media. All increase both the number of things visible in the sky and the likelihood that ambiguous observations will be reported.
+
+
+
+<img src="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-2-dark.svg" | relative_url }}" alt="Why Emilia Romagna Became a UFO Hotspot illustration 2" data-theme-src-dark="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## The Lugo fireball shows how dramatic sightings can be solved
+
+The most instructive regional event may be one that is no longer mysterious. On 19 January 1993, an exceptionally bright fireball crossed northern Italy and ended in an atmospheric explosion near Lugo, in Ravenna province. The blast produced shock waves registered by six seismic stations. A scientific reanalysis estimated an energy of roughly 14 kilotons and concluded that the body was probably a porous carbon-rich meteoroid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/astro-ph/9805124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+
+To witnesses, such an event can appear far stranger than a conventional “disc”: an intensely luminous body, changing colours, a visible trail, apparent fragmentation, a delayed boom and even shaking at ground level. Without instrument records, the descriptions could easily enter a UFO catalogue. In the Lugo case, seismic evidence, trajectory analysis and physical modelling converted a frightening aerial mystery into a well-supported natural explanation.
+
+A similar pattern appeared north of Bologna in 2014. Residents around San Giorgio di Piano, Bentivoglio and Argelato reported and photographed fiery, apparently disc-shaped lights. Astronomers consulted by local media said meteoroids and, in some reports, airborne lanterns offered ordinary explanations. The photographs and calls were genuine; the “UFO” interpretation was the part that failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilrestodelcarlino.it/bologna/avvistamento-ufo-san-giorgio-di-piano-2666b4f9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrestodelcarlino.it">[Il Resto del Carlino]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrestodelcarlino.it</span><span class="citation-popover-snippet">Open source on ilrestodelcarlino.it.</span></span></span>
+
+These examples do not prove that every older report was a meteor. They demonstrate why appearance alone is unreliable. A distant light has no obvious scale, and without distance it is impossible to calculate size or speed. A witness may sincerely describe a rapid turn when the effect was produced by their own movement, drifting cloud, atmospheric distortion or the disappearance of one light followed by another.
+
+## Local catalogues preserve history but vary in reliability
+
+Civilian UFO organisations have played a major role in preserving Emilia-Romagna material that would otherwise be difficult to locate. The CUN chronology, for instance, records the dense [1954 wave]({{ '1954-wave-227217/' | relative_url }}) and later reports from Modena, Cervia, Forlì, Faenza, Bologna, Parma and Piacenza. It also sometimes adds cautious interpretations. Lights seen across Bologna, Piacenza, Imola, Forlì and Parma on 18 July 1967 are listed as probable fragments associated with a Soviet Cosmos launch vehicle. A photographed light at San Damiano is described as probably a photographic defect, while another image is treated as likely showing the Sun and a reflection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/emilia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-title">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionalewww.centroufologiconazionale.net</span></span></span>
+
+That willingness to mark possible explanations is valuable. It also reveals the uneven character of the archive. Alongside multi-witness aerial observations are poorly supported humanoid stories and alleged close encounters. The catalogue itself flags some of those claims as unreliable. They should not be treated as equivalent to a report from trained aircrew or to an event documented by instruments.
+
+A practical evidence hierarchy helps distinguish the cases:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Strongly documented but explained:** events supported by photographs, seismic stations or astronomical analysis that point to meteors, space debris, aircraft or lanterns.
+* **Formally unresolved:** reports retained by the Air Force because available checks did not identify the object, but without evidence sufficient to establish extraordinary performance.
+* **Historically interesting but weak:** press-derived sightings with names, dates and locations but little surviving investigative material.
+* **Very weak or disputed:** humanoid encounters, alleged landings or dramatic pursuit stories lacking contemporaneous documents and independent confirmation.
+
+</div>
+
+The official archive is not automatically infallible, while civilian investigators are not automatically unreliable. The decisive question is what each case preserves: original testimony, timing, direction, weather, radar data, photographs, independent witnesses and documented attempts to rule out known objects.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6RHan37uryE" title="Gli ufologici italiani: &quot;Ufo in Italia? Il 5% degli avvistamenti è inspiegabile&quot;" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6RHan37uryE" target="_blank" rel="noopener noreferrer">Gli ufologici italiani: &quot;Ufo in Italia? Il 5% degli avvistamenti è inspiegabile&quot;</a></p><p class="youtube-embed-meta">Channel: Fanpage.it</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6RHan37uryE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6RHan37uryE">Open on YouTube</a></p></div></div></div>
+
+## Media attention shaped the region’s UFO history
+
+Emilia-Romagna’s UFO culture developed alongside Italy’s post-war popular press and science-fiction boom. Researchers studying Italian literature and UFO belief identify the late 1960s and 1970s as a period in which flying-saucer imagery moved through magazines, paperbacks, cinema and organised amateur investigation. Several writers connected with Emilia-Romagna—including Inisero Cremaschi, Giuseppe Pederiali and Gilda Musa—worked at the boundary between science fiction, popular culture and UFO advocacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wrap.warwick.ac.uk/id/eprint/167606/1/WRAP-Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978-Camilletti-22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wrap.warwick.ac.uk">[WRAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wrap.warwick.ac.uk</span><span class="citation-popover-snippet">Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978...</span></span></span>
+
+The distinction between cultural influence and fabrication matters. Witnesses need not invent a sighting for familiar imagery to shape how they describe it. A bright elongated meteor becomes a “cigar”; an out-of-focus point of light becomes a “disc”; changing aircraft lights become a rotating object. During a heavily publicised flap, reports also encourage further observation. People spend more time looking upwards, and objects that would normally pass unnoticed acquire significance.
+
+Italy’s 1978 wave was particularly large. Historical research cited in the academic literature describes nearly 1,800 reports nationally during that year and more than 750 close-encounter claims across the wider 1970s peak. The wave was sufficiently important for the government to formalise the Air Force’s role in handling UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wrap.warwick.ac.uk/id/eprint/167606/1/WRAP-Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978-Camilletti-22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wrap.warwick.ac.uk">[WRAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wrap.warwick.ac.uk</span><span class="citation-popover-snippet">Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978...</span></span></span>
+
+Emilia-Romagna participated in that national pattern, but its official record does not show an exceptional local outbreak comparable with the raw national publicity. The Air Force table lists two regional cases for 1978. This gap illustrates the difference between every story collected by UFO groups and the much smaller number that entered official military files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">REGIONE EMILIA ROMAGNA &#124; ANNI 1 &#124; 1 &#124; &#124; &#124; &#124; &#124; 2 &#124; &#124; 1 &#124; &#124; &#124; 1 &#124; &#124; &#124; 1 &#124; &#124; 1 &#124; 2 &#124; 1 &#124; AVVISTAMENTI 11... Aeronautica Militare...</span></span></span>
+
+## What remains genuinely unresolved
+
+A small core of Emilia-Romagna reports remains unidentified in the literal sense. The Cervia observation of 1972 and the multi-city event involving Bologna in March 1978 are legitimate examples because they appear in the declassified Air Force archive and involved aviation or military witnesses. Yet neither case, in its publicly available form, contains the kind of evidence needed to demonstrate technology beyond known aircraft or natural phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
+
+The region’s broader UFO history is therefore best understood as three overlapping stories. The first is a history of sincere observation: people repeatedly saw lights and objects they could not immediately recognise. The second is a history of investigation, ranging from press catalogues and local enthusiasts to the Air Force’s security-led archive. The third is a history of reinterpretation, in which meteors, space debris, aircraft, astronomical objects, optical effects and airborne lanterns have steadily reduced the number of cases requiring exotic explanations.
+
+Later evidence has strengthened the conclusion that Emilia-Romagna experienced genuine waves of reporting and that some reports reached serious official channels. It has weakened the claim that those waves provide persuasive evidence of extraterrestrial visitation. What survives is more modest but still worthwhile: a regional record of unusual skies, fallible perception, changing technology and the persistent difficulty of identifying brief events after the fact.
+
+
+
+<img src="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-3-dark.svg" | relative_url }}" alt="Why Emilia Romagna Became a UFO Hotspot illustration 3" data-theme-src-dark="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Emilia-Romagna_e1c904-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -470,21 +523,21 @@ The most persuasive unresolved cases in Emilia-Romagna are therefore not the lou
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to What Really Happened in Emilia-Romagna&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Why Emilia Romagna Became a UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
-<p class="fr-book-author">By Joseph Allen Hynek</p>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-<p class="fr-book-desc">Useful for understanding case categories and investigations.</p>
+<p class="fr-book-desc">Cited by the New York Review of Books as “the best brief for visitation,” this classic study presents an analysis of UFO reports and conc...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -492,16 +545,16 @@ The most persuasive unresolved cases in Emilia-Romagna are therefore not the lou
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
 </h4>
-<p class="fr-book-author">By Michael D. Swords</p>
+<p class="fr-book-author">By Leslie Kean</p>
         
-<p class="fr-book-desc">Covers institutional responses to UFO reports.</p>
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -509,16 +562,16 @@ The most persuasive unresolved cases in Emilia-Romagna are therefore not the lou
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
-<p class="fr-book-author">By Ross Coulthart</p>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-<p class="fr-book-desc">Places regional UFO histories into a wider context.</p>
+<p class="fr-book-desc">Over two decades ago, eminent scientist Vallee wrote a provocative book about alleged UFO landings, folklore, and certain unexplained phe...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -526,16 +579,16 @@ The most persuasive unresolved cases in Emilia-Romagna are therefore not the lou
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
-<p class="fr-book-author">By Edward J. Ruppelt</p>
+<p class="fr-book-author">By Carl Sagan</p>
         
-<p class="fr-book-desc">Provides historical perspective on official UFO files.</p>
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • From the renowned astronomer and author of Cosmos comes a “powerful [and] stirring defense of informed ration...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -543,7 +596,7 @@ The most persuasive unresolved cases in Emilia-Romagna are therefore not the lou
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
@@ -577,74 +630,75 @@ The most persuasive unresolved cases in Emilia-Romagna are therefore not the lou
 </div>
 
 <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
 <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-emilia-romagna-s-ufo-files-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="why-emilia-romagna-became-a-ufo-hotspot-emilia-romagna-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -858,193 +912,195 @@ The most persuasive unresolved cases in Emilia-Romagna are therefore not the lou
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: cisu.org  
-   Title: Centro Italiano Studi Ufologici Ufo in Italia  
-   Link:<a href="https://www.cisu.org/ufo-in-italia/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/ufo-in-italia/</a>  
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf</a>  
 
 2.<a id="endnote-2"></a>
-   Source: arxiv.org  
-   Title: astro ph  
-   Link:<a href="https://arxiv.org/abs/astro-ph/9805124" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/astro-ph/9805124</a>  
+   Source: wrap.warwick.ac.uk  
+   Link:<a href="https://wrap.warwick.ac.uk/id/eprint/167606/1/WRAP-Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978-Camilletti-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wrap.warwick.ac.uk/id/eprint/167606/1/WRAP-Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978-Camilletti-22.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fantascienza-e-ufologia-nell-opera-di-Inisero-Cremaschi-Gilda-Musa-e-Giuseppe-Pederiali-1967-1978...</p></details>
 
 3.<a id="endnote-3"></a>
-   Source: bologna.repubblica.it  
-   Link:<a href="https://bologna.repubblica.it/cronaca/2021/05/07/news/scia_puntini_luminosi_satelliti_elon_musk_spacex_starlink_bologna-299808543/" target="_blank" rel="noopener noreferrer nofollow">https://bologna.repubblica.it/cronaca/2021/05/07/news/scia_puntini_luminosi_satelliti_elon_musk_spacex_starlink_bologna-299808543/</a>  
+   Source: arxiv.org  
+   Link:<a href="https://arxiv.org/abs/astro-ph/9805124" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/astro-ph/9805124</a>  
 
 4.<a id="endnote-4"></a>
-   Source: cisu.org  
-   Title: londata del 1978 diventa storia 33 convegno del cisu a bologna  
-   Link:<a href="https://www.cisu.org/londata-del-1978-diventa-storia-33-convegno-del-cisu-a-bologna/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/londata-del-1978-diventa-storia-33-convegno-del-cisu-a-bologna/</a>  
-
-5.<a id="endnote-5"></a>
-   Source: corrierece.it  
-   Link:<a href="https://www.corrierece.it/notizie-cronaca/2009/02/04/avvistamento-ovni-ufo-anche-in.html" target="_blank" rel="noopener noreferrer nofollow">https://www.corrierece.it/notizie-cronaca/2009/02/04/avvistamento-ovni-ufo-anche-in.html</a>  
-
-6.<a id="endnote-6"></a>
-   Source: cisu.org  
-   Title: Centro Italiano Studi Ufologici Cristian Vitali  
-   Link:<a href="https://www.cisu.org/cristian-vitali/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/cristian-vitali/</a>  
-
-7.<a id="endnote-7"></a>
-   Source: cisu.org  
-   Title: Cristian Vitali Archivi  
-   Link:<a href="https://www.cisu.org/tag/cristian-vitali/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/tag/cristian-vitali/</a>  
-
-8.<a id="endnote-8"></a>
-   Source: cisu.org  
-   Title: «Dove va l'ufologia»  
-   Link:<a href="https://www.cisu.org/dove-va-lufologia-39-convegno-nazionale-cisu-bologna-23-novembre-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/dove-va-lufologia-39-convegno-nazionale-cisu-bologna-23-novembre-2024/</a>  
-
-9.<a id="endnote-9"></a>
-   Source: cisu.org  
-   Link:<a href="https://www.cisu.org/convegni-nazionali-di-ufologia/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/convegni-nazionali-di-ufologia/</a>  
-
-10.<a id="endnote-10"></a>
-   Source: cisu.org  
-   Title: convegno di studi sullondata del 1978  
-   Link:<a href="https://www.cisu.org/convegno-di-studi-sullondata-del-1978/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/convegno-di-studi-sullondata-del-1978/</a>  
-
-11.<a id="endnote-11"></a>
    Source: carabinieri.it  
    Title: Contatti Urp  
    Link:<a href="https://www.carabinieri.it/in-vostro-aiuto/informazioni/u-r-p-/contatti_urp_nurp" target="_blank" rel="noopener noreferrer nofollow">https://www.carabinieri.it/in-vostro-aiuto/informazioni/u-r-p-/contatti_urp_nurp</a>  
 
-12.<a id="endnote-12"></a>
+5.<a id="endnote-5"></a>
    Source: carabinieri.it  
    Link:<a href="https://www.carabinieri.it/docs/default-source/editoria/natura/natura_126_web.pdf?sfvrsn=cc9aeb23_2" target="_blank" rel="noopener noreferrer nofollow">https://www.carabinieri.it/docs/default-source/editoria/natura/natura_126_web.pdf?sfvrsn=cc9aeb23_2</a>  
 
-13.<a id="endnote-13"></a>
+6.<a id="endnote-6"></a>
    Source: carabinieri.it  
    Link:<a href="https://www.carabinieri.it/docs/default-source/Editoria/NotiziarioStorico/notiziario-6-2016.pdf?sfvrsn=6" target="_blank" rel="noopener noreferrer nofollow">https://www.carabinieri.it/docs/default-source/Editoria/NotiziarioStorico/notiziario-6-2016.pdf?sfvrsn=6</a>  
 
-14.<a id="endnote-14"></a>
-   Source: corriere.it  
-   Title: avvistamenti ufo  
-   Link:<a href="https://www.corriere.it/Primo_Piano/Cronache/2007/04_Aprile/15/avvistamenti_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.corriere.it/Primo_Piano/Cronache/2007/04_Aprile/15/avvistamenti_ufo.html</a>  
+7.<a id="endnote-7"></a>
+   Source: centroufologiconazionale.net  
+   Title: Centro Ufologico Nazionalewww.centroufologiconazionale.net  
+   Link:<a href="https://www.centroufologiconazionale.net/avvistamenti/emilia.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/avvistamenti/emilia.htm</a>  
 
-15.<a id="endnote-15"></a>
-   Source: corriere.it  
-   Title: dossier dell arma azzurra principale.shtml  
-   Link:<a href="https://www.corriere.it/cronache/cards/gli-ufo-rapporti-dell-aeronautica-militare-sfere-dischi-dieci-avvistamenti-due-anni/dossier-dell-arma-azzurra_principale.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.corriere.it/cronache/cards/gli-ufo-rapporti-dell-aeronautica-militare-sfere-dischi-dieci-avvistamenti-due-anni/dossier-dell-arma-azzurra_principale.shtml</a>  
-
-16.<a id="endnote-16"></a>
-   Source: corrieredibologna.corriere.it  
-   Link:<a href="https://corrieredibologna.corriere.it/bologna/cultura-spettacoli/22_ottobre_11/wu-ming-nuovo-romanzo-ufo-78-extraterrestri-papi-caso-moro-a0bf0afa-495d-11ed-82ee-5d2eeef35e11.shtml" target="_blank" rel="noopener noreferrer nofollow">https://corrieredibologna.corriere.it/bologna/cultura-spettacoli/22_ottobre_11/wu-ming-nuovo-romanzo-ufo-78-extraterrestri-papi-caso-moro-a0bf0afa-495d-11ed-82ee-5d2eeef35e11.shtml</a>  
-
-17.<a id="endnote-17"></a>
-   Source: firenze.repubblica.it  
-   Title: firenze ufo avvistamenti 309906782  
-   Link:<a href="https://firenze.repubblica.it/cronaca/2021/07/11/news/firenze_ufo_avvistamenti-309906782/" target="_blank" rel="noopener noreferrer nofollow">https://firenze.repubblica.it/cronaca/2021/07/11/news/firenze_ufo_avvistamenti-309906782/</a>  
-
-18.<a id="endnote-18"></a>
-   Source: comune.bologna.it  
-   Link:<a href="https://www.comune.bologna.it/novita/comunicati-stampa/be-bolognaestate-2014-gli-appuntamenti-di-sabato-23-domenica-24-e-lunedi-25-agosto" target="_blank" rel="noopener noreferrer nofollow">https://www.comune.bologna.it/novita/comunicati-stampa/be-bolognaestate-2014-gli-appuntamenti-di-sabato-23-domenica-24-e-lunedi-25-agosto</a>  
-
-19.<a id="endnote-19"></a>
-   Source: epi.piemonte.it  
-   Link:<a href="https://www.epi.piemonte.it/formazione/AIE2025/abstract_book-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epi.piemonte.it/formazione/AIE2025/abstract_book-2025.pdf</a>  
-
-20.<a id="endnote-20"></a>
-   Source: ia803205.us.archive.org  
-   Title: MESSAGGERI DI ILLUSIONI text  
-   Link:<a href="https://ia803205.us.archive.org/22/items/messaggeri-di-illusioni/MESSAGGERI%20DI%20ILLUSIONI_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803205.us.archive.org/22/items/messaggeri-di-illusioni/MESSAGGERI%20DI%20ILLUSIONI_text.pdf</a>  
-
-21.<a id="endnote-21"></a>
-   Source: starlink.com  
-   Link:<a href="https://starlink.com/it/map?srsltid=AfmBOoq6hoDS0wAGKCMXDIN5qtabN5V_XVAwwiq7g7v8EX-oiWi6LzIo" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/it/map?srsltid=AfmBOoq6hoDS0wAGKCMXDIN5qtabN5V_XVAwwiq7g7v8EX-oiWi6LzIo</a>  
-
-22.<a id="endnote-22"></a>
+8.<a id="endnote-8"></a>
    Source: aeronautica.difesa.it  
    Title: Aeronautica Militare OVNI  
    Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare...</p></details>
 
-23.<a id="endnote-23"></a>
-   Source: ilrestodelcarlino.it  
-   Title: ufo misano d645882a  
-   Link:<a href="https://www.ilrestodelcarlino.it/rimini/cronaca/ufo-misano-d645882a" target="_blank" rel="noopener noreferrer nofollow">https://www.ilrestodelcarlino.it/rimini/cronaca/ufo-misano-d645882a</a>  
-
-24.<a id="endnote-24"></a>
-   Source: iltascabile.com  
-   Title: Il Tascabile Dischi volanti sull’Italia  
-   Link:<a href="https://www.iltascabile.com/scienze/dischi-volanti-italia/" target="_blank" rel="noopener noreferrer nofollow">https://www.iltascabile.com/scienze/dischi-volanti-italia/</a>  
-
-25.<a id="endnote-25"></a>
-   Source: lastampa.it  
-   Title: La Stampa Luci, sfere di fuoco e oggetti volanti  
-   Link:<a href="https://www.lastampa.it/cronaca/2009/02/05/news/luci-sfere-di-fuoco-e-oggetti-volanti-1.37084920" target="_blank" rel="noopener noreferrer nofollow">https://www.lastampa.it/cronaca/2009/02/05/news/luci-sfere-di-fuoco-e-oggetti-volanti-1.37084920</a>  
-
-26.<a id="endnote-26"></a>
-   Source: lastampa.it  
-   Title: Ufo nella notte a Calamandrana? No, sono i satelliti Starlink  
-   Link:<a href="https://www.lastampa.it/asti/2021/05/05/news/ufo-nella-notte-a-calamandrana-no-sono-i-satelliti-starlink-1.40234834/" target="_blank" rel="noopener noreferrer nofollow">https://www.lastampa.it/asti/2021/05/05/news/ufo-nella-notte-a-calamandrana-no-sono-i-satelliti-starlink-1.40234834/</a>  
-
-27.<a id="endnote-27"></a>
-   Source: ilrestodelcarlino.it  
-   Title: Bologna, strane luci in cielo. Non sono Ufo, ma satelliti  
-   Link:<a href="https://www.ilrestodelcarlino.it/bologna/cronaca/ufo-satelliti-66d16bd5" target="_blank" rel="noopener noreferrer nofollow">https://www.ilrestodelcarlino.it/bologna/cronaca/ufo-satelliti-66d16bd5</a>  
-
-28.<a id="endnote-28"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/124754521603598/posts/2393528254726202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/124754521603598/posts/2393528254726202/</a>  
-
-29.<a id="endnote-29"></a>
+9.<a id="endnote-9"></a>
    Source: aeronautica.difesa.it  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf</a>  
+   Title: Aeronautica Militare OVNI  
+   Link:<a href="https://www.aeronautica.difesa.it/en/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare2016...</p></details>
 
-30.<a id="endnote-30"></a>
+10.<a id="endnote-10"></a>
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare Comunicato stampa n  
+   Link:<a href="https://www.aeronautica.difesa.it/en/news/comunicato-stampa-n-19-2016/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/comunicato-stampa-n-19-2016/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19/2016 - Aeronautica MilitareJune 4, 2016 — ## 19/2016 - Press release no.... 19/2016 “SCRAMBLE” FOR THE TYPHOONS OF THE 4TH WING Two I...</p></details>
+   Published: June 4, 2016  
+
+11.<a id="endnote-11"></a>
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare Comunicato stampa n  
+   Link:<a href="https://www.aeronautica.difesa.it/news/comunicato-stampa-n-19-2016/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/comunicato-stampa-n-19-2016/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19/2016 - Aeronautica Militare19/2016 “SCRAMBLE” PER GLI EUROFIGHTER DEL 4º STORMO Due caccia italiani sono decollati per intercettare ed...</p></details>
+
+12.<a id="endnote-12"></a>
+   Source: aeronautica.difesa.it  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1972-1990.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REGIONE EMILIA ROMAGNA | ANNI 1 | 1 | | | | | 2 | | 1 | | | 1 | | | 1 | | 1 | 2 | 1 | AVVISTAMENTI 11... Aeronautica Militare...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare Presentazione standard di Power Point  
+   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1991-2000.pdf</a>  
+
+14.<a id="endnote-14"></a>
+   Source: ilrestodelcarlino.it  
+   Link:<a href="https://www.ilrestodelcarlino.it/bologna/avvistamento-ufo-san-giorgio-di-piano-2666b4f9" target="_blank" rel="noopener noreferrer nofollow">https://www.ilrestodelcarlino.it/bologna/avvistamento-ufo-san-giorgio-di-piano-2666b4f9</a>  
+
+15.<a id="endnote-15"></a>
    Source: aeronautica.difesa.it  
    Title: it OVN I  
    Link:<a href="https://www.aeronautica.difesa.it/en/2023/01/12/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/2023/01/12/ovni/</a>  
 
-31.<a id="endnote-31"></a>
-   Source: lastampa.it  
-   Title: avvistamenti ufo registrati dall aeronautica militare a maggio 1.40486737  
-   Link:<a href="https://www.lastampa.it/cronaca/2021/07/11/news/avvistamenti-ufo-registrati-dall-aeronautica-militare-a-maggio-1.40486737" target="_blank" rel="noopener noreferrer nofollow">https://www.lastampa.it/cronaca/2021/07/11/news/avvistamenti-ufo-registrati-dall-aeronautica-militare-a-maggio-1.40486737</a>  
+16.<a id="endnote-16"></a>
+   Source: aeronautica.difesa.it  
+   Title: comunicato stampa n 38 2016  
+   Link:<a href="https://www.aeronautica.difesa.it/en/news/comunicato-stampa-n-38-2016/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/comunicato-stampa-n-38-2016/</a>  
 
-32.<a id="endnote-32"></a>
+17.<a id="endnote-17"></a>
+   Source: aeronautica.difesa.it  
+   Title: it L' A.M. PARTECIPA AL MEETING SUGLI OVNI  
+   Link:<a href="https://www.aeronautica.difesa.it/news/l-a-m-partecipa-al-meeting-sugli-ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/l-a-m-partecipa-al-meeting-sugli-ovni/</a>  
+
+18.<a id="endnote-18"></a>
+   Source: aeronautica.difesa.it  
+   Title: it L' A.M. PARTECIPA AL MEETING SUGLI OVNI  
+   Link:<a href="https://www.aeronautica.difesa.it/en/news/l-a-m-partecipa-al-meeting-sugli-ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/news/l-a-m-partecipa-al-meeting-sugli-ovni/</a>  
+
+19.<a id="endnote-19"></a>
+   Source: aeronautica.difesa.it  
+   Title: it OVN I Archives  
+   Link:<a href="https://www.aeronautica.difesa.it/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/category/ovni/</a>  
+
+20.<a id="endnote-20"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Ufficio relazioni con il pubblico  
+   Link:<a href="https://www.aeronautica.difesa.it/ufficio-relazioni-con-il-pubblico/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ufficio-relazioni-con-il-pubblico/</a>  
+
+21.<a id="endnote-21"></a>
+   Source: aeronautica.difesa.it  
+   Title: it OVN I Archives  
+   Link:<a href="https://www.aeronautica.difesa.it/en/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/category/ovni/</a>  
+
+22.<a id="endnote-22"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Redazione Aeronautica Militare, Author at Aeronautica Militare  
+   Link:<a href="https://www.aeronautica.difesa.it/author/redazione-aeronautica-militare/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/author/redazione-aeronautica-militare/page/2/</a>  
+
+23.<a id="endnote-23"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Ufficio relazioni con il pubblico  
+   Link:<a href="https://www.aeronautica.difesa.it/en/ufficio-relazioni-con-il-pubblico/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/ufficio-relazioni-con-il-pubblico/</a>  
+
+24.<a id="endnote-24"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Redazione Aeronautica Militare, Author at Aeronautica Militare  
+   Link:<a href="https://www.aeronautica.difesa.it/en/author/redazione-aeronautica-militare/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/author/redazione-aeronautica-militare/page/2/</a>  
+
+25.<a id="endnote-25"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Pubblicazioni Aeronautiche  
+   Link:<a href="https://www.aeronautica.difesa.it/pubblicazioni-aeronautiche/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/pubblicazioni-aeronautiche/</a>  
+
+26.<a id="endnote-26"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Pubblicazioni Aeronautiche  
+   Link:<a href="https://www.aeronautica.difesa.it/en/pubblicazioni-aeronautiche/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/pubblicazioni-aeronautiche/</a>  
+
+27.<a id="endnote-27"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Comunicati Stampa  
+   Link:<a href="https://www.aeronautica.difesa.it/en/home/media-e-comunicazione/comunicati-stampa/137/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/home/media-e-comunicazione/comunicati-stampa/137/</a>  
+
+28.<a id="endnote-28"></a>
+   Source: aeronautica.difesa.it  
+   Title: it Archivi Notizie  
+   Link:<a href="https://www.aeronautica.difesa.it/news/page/160/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/news/page/160/</a>  
+
+29.<a id="endnote-29"></a>
    Source: it.scribd.com  
    Link:<a href="https://it.scribd.com/document/490374032/Ufo" target="_blank" rel="noopener noreferrer nofollow">https://it.scribd.com/document/490374032/Ufo</a>  
 
+30.<a id="endnote-30"></a>
+   Source: rezero.fandom.com  
+   Link:<a href="https://rezero.fandom.com/wiki/Emilia" target="_blank" rel="noopener noreferrer nofollow">https://rezero.fandom.com/wiki/Emilia</a>  
+
 ### Additional References
 
-33.<a id="endnote-33"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Title: Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History  
-   Link:<a href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzqM4L_3fXc</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: Strange Cigar-Shaped UFO SHOCKS Pilot (Season 4) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QuesA4_J5fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QuesA4_J5fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italian UFO researchers: &quot;UFOs in Italy? 5% of sightings are unexplained.&quot;...</p></details>
+
+32.<a id="endnote-32"></a>
+   Source: youtube.com  
+   Title: UFO Files #4: UFOs over Florence  
+   Link:<a href="https://www.youtube.com/watch?v=dQHx76CM0d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dQHx76CM0d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did a Fighter Jet Really Chase a UFO in 1979?...</p></details>
+
+33.<a id="endnote-33"></a>
+   Source: sdcinematografica.com  
+   Link:<a href="https://www.sdcinematografica.com/media/docs_pagine/en/00002_catalogue_of_documentaries.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcinematografica.com/media/docs_pagine/en/00002_catalogue_of_documentaries.pdf</a>  
 
 34.<a id="endnote-34"></a>
-   Source: youtube.com  
-   Title: Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart  
-   Link:<a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
+   Source: tripadvisor.co.uk  
+   Link:<a href="https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d27101257-Reviews-Emilia_s_Crafted_Pasta_Baker_Street-London_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d27101257-Reviews-Emilia_s_Crafted_Pasta_Baker_Street-London_England.html</a>  
 
 35.<a id="endnote-35"></a>
-   Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=Xx6JpXlwIaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xx6JpXlwIaQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Did a Fighter Jet Really Chase a UFO in 1979?...</p></details>
+   Source: emiliaashburton.co.uk  
+   Link:<a href="https://www.emiliaashburton.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.emiliaashburton.co.uk/</a>  
 
 36.<a id="endnote-36"></a>
-   Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=QuesA4_J5fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QuesA4_J5fQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/emiliaspasta/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/emiliaspasta/?hl=en</a>  
 
 37.<a id="endnote-37"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/p/DTH50PhgIYa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTH50PhgIYa/</a>  
+   Source: tripadvisor.co.uk  
+   Link:<a href="https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d11877515-Reviews-Emilia_s_Crafted_Pasta_St_Katharine_Docks-London_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d11877515-Reviews-Emilia_s_Crafted_Pasta_St_Katharine_Docks-London_England.html</a>  
 
 38.<a id="endnote-38"></a>
-   Source: academia.edu  
-   Link:<a href="https://www.academia.edu/60903323/ALIENI_UFO_E_I_DOSSIER_DECLASSIFICATI" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60903323/ALIENI_UFO_E_I_DOSSIER_DECLASSIFICATI</a>  
+   Source: bolognaporticifestival.it  
+   Link:<a href="https://www.bolognaporticifestival.it/objects/fortezza-volante" target="_blank" rel="noopener noreferrer nofollow">https://www.bolognaporticifestival.it/objects/fortezza-volante</a>  
 
 39.<a id="endnote-39"></a>
-   Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/372807158_UFO_and_the_dissolution_of_architecture_From_the_Production_of_Handmade_Pieces_to_Behavioural_Actions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372807158_UFO_and_the_dissolution_of_architecture_From_the_Production_of_Handmade_Pieces_to_Behavioural_Actions</a>  
+   Source: thedotcultura.it  
+   Link:<a href="https://www.thedotcultura.it/presunto-avvistamento-ufo-sulle-alpi-apuane/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedotcultura.it/presunto-avvistamento-ufo-sulle-alpi-apuane/</a>  
 
 40.<a id="endnote-40"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/infocilento/videos/60-luci-in-fila-indiana-illuminano-il-cielo-notturno-del-cilentosono-i-satelliti/2236924933107783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/infocilento/videos/60-luci-in-fila-indiana-illuminano-il-cielo-notturno-del-cilentosono-i-satelliti/2236924933107783/</a>  
-
-41.<a id="endnote-41"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/ass.spaziindecisi/photos/-avvistato-un-ufo-nei-cieli-di-forl%C3%AC-da-domani-e-per-tutti-i-mercoled%C3%AC-estivi-ne/6882220638462953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ass.spaziindecisi/photos/-avvistato-un-ufo-nei-cieli-di-forl%C3%AC-da-domani-e-per-tutti-i-mercoled%C3%AC-estivi-ne/6882220638462953/</a>  
-
-42.<a id="endnote-42"></a>
-   Source: euroufo.net  
-   Link:<a href="https://www.euroufo.net/tag/cisu/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/cisu/</a>  
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/reel/C8kjJq5gKy8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C8kjJq5gKy8/?hl=en</a>  

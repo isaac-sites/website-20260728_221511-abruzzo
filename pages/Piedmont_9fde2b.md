@@ -2,17 +2,17 @@
 level: 1
 basename: Piedmont_9fde2b
 child_basenames:
-- Piedmont_9fde2b_air_force_records_78c8d9
-- Piedmont_9fde2b_caselle_1973_5fc4e6
-- Piedmont_9fde2b_cisu_turin_archives_f5af43
+- Piedmont_9fde2b_caselle_1973_radar_v_03dd82
+- Piedmont_9fde2b_corio_2018_mini_flap_18e166
 - Piedmont_9fde2b_index
-- Piedmont_9fde2b_monte_musine_myth_b21434
-- Piedmont_9fde2b_musine_1978_episode_31ed0d
-- Piedmont_9fde2b_myths_hoaxes_bfaa34
-- Piedmont_9fde2b_ordinary_explanation_a805d0
-- Piedmont_9fde2b_press_amplification_845d0b
-- Piedmont_9fde2b_susa_valley_lights_fc0837
-- Piedmont_9fde2b_turin_pilot_sighting_b15d1c
+- Piedmont_9fde2b_judging_piedmont_ufo_9fbe9d
+- Piedmont_9fde2b_monte_musine_encount_776fc7
+- Piedmont_9fde2b_official_ufo_investi_b5c390
+- Piedmont_9fde2b_piedmont_1978_ufo_wa_795a4f
+- Piedmont_9fde2b_piedmont_aviation_ca_ad5924
+- Piedmont_9fde2b_piedmont_media_legen_277f26
+- Piedmont_9fde2b_piedmont_sky_explana_17e16f
+- Piedmont_9fde2b_turin_ufo_archives_a1f7cb
 sibling_basenames:
 - Abruzzo_4c71bb
 - Aosta_Valley_ccb120
@@ -39,24 +39,28 @@ keywords:
 - piedmont
 affiliate_category: piedmont
 show_ads: true
-description: Piedmont is one of the stronger regional chapters in Italian UFO history, not because it proves alien visitation, but because it combines three unusually...
-hero_summary: 'Piedmont is one of the stronger regional chapters in Italian UFO history, not because it proves alien visitation, but because it combines three unusually useful ingredients: a famous airport radar-visual case at Turin-Caselle in 1973, a long-running local mythology around Monte Musinè near Turin, and a serious research/archive culture centred on the...'
+description: Piedmont’s UFO history is best understood not as a catalogue of alien visits, but as a mixture of one unusually substantial aviation case, several dramatic...
+hero_summary: Piedmont’s UFO history is best understood not as a catalogue of alien visits, but as a mixture of one unusually substantial aviation case, several dramatic yet poorly documented encounter stories, periodic clusters of lights in the sky, and a strong local tradition of civilian investigation.
 layout: default
-permalink: /what-really-happened-in-piedmonts-ufo/
-nav_short_title: What Really Happened in Piedmont's UFO Stories?
-title: What Really Happened in Piedmont's UFO Stories?
-title_full: What Really Happened in Piedmont's UFO Stories?
-display_title_short: What Really Happened in Piedmont's UFO Stories?
-display_title: What Really Happened in Piedmont's UFO Stories?
-heading_title: What Really Happened in Piedmont's UFO Stories?
-page_heading_title: What Really Happened in Piedmont's UFO Stories?
-source_count: 91
+permalink: /piedmonts-ufo-mysteries-under-closer/
+nav_short_title: Piedmont's UFO Mysteries Under Closer Examination
+title: Piedmont's UFO Mysteries Under Closer Examination
+title_full: Piedmont's UFO Mysteries Under Closer Examination
+display_title_short: Piedmont's UFO Mysteries Under Closer Examination
+display_title: Piedmont's UFO Mysteries Under Closer Examination
+heading_title: Piedmont's UFO Mysteries Under Closer Examination
+page_heading_title: Piedmont's UFO Mysteries Under Closer Examination
+source_count: 19
 infographic_count: 3
-page_website_name: Piedmont
-page_banner_line: Balanced pages on Turin, Caselle, Musine and Piedmont's UFO record.
-site_website_name: Piedmont
-site_banner_line: Balanced pages on Turin, Caselle, Musine and Piedmont's UFO record.
-site_image_description: A night view of Turin with airport runway lights in the distance, the dark outline of the Alps, and a single bright light over the...
+page_website_name: Piedmont UFO Files
+page_banner_line: Cases, witnesses, archives and explanations from Piedmont's UFO history.
+site_website_name: Piedmont UFO Files
+site_banner_line: Cases, witnesses, archives and explanations from Piedmont's UFO history.
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: horizon
+site_typography_tone: editorial
+site_image_description: A bright light hangs above the distant Alps while an aircraft approaches Turin-Caselle Airport and radar screens glow inside a...
 output_language: English
 lang: en
 locale: en
@@ -200,7 +204,18 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -218,220 +233,302 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 09:38:24'
+date: '2026-07-26 22:12:09'
 sibling_links:
-- basename: Aosta_Valley_ccb120
-  title: Aosta UFOs
-  permalink: /aosta-valley/
-  short_title: Aosta UFOs
 - basename: Friuli-Venezia_Giuli_608dd8
-  title: Friuli UFOs
+  title: Friuli UFO Files
   permalink: /friuli-venezia-giulia/
-  short_title: Friuli UFOs
-- basename: Trentino-Alto_Adige_27eb8f
-  title: Alpine UFOs
-  permalink: /trentino-alto-adige/
-  short_title: Alpine UFOs
-- basename: Umbria_d4a7a8
-  title: Umbrian Skies
-  permalink: /umbria/
-  short_title: Umbrian Skies
-- basename: Sardinia_83a1a0
-  title: Sardinia UFOs
-  permalink: /what-makes-sardinias-ufo-record-so/
-  short_title: Sardinia UFOs
-- basename: Abruzzo_4c71bb
-  title: Abruzzo UFOs
-  permalink: /what-really-happened-in-abruzzos-ufo/
-  short_title: Abruzzo UFOs
-- basename: Apulia_98f3e8
-  title: Apulia UFOs
-  permalink: /what-really-happened-in-apulias-ufo/
-  short_title: Apulia UFOs
-- basename: Basilicata_3ea395
-  title: Basilicata UFOs
-  permalink: /what-really-happened-in-basilicatas-ufo/
-  short_title: Basilicata UFOs
-- basename: Calabria_663de5
-  title: Calabria UFOs
-  permalink: /what-really-happened-in-calabrias-ufo/
-  short_title: Calabria UFOs
-- basename: Emilia-Romagna_e1c904
-  title: Emilia Romagna UFOs
-  permalink: /what-really-happened-in-emilia/
-  short_title: Emilia Romagna UFOs
-- basename: Lazio_2e255a
-  title: Lazio UFOs
-  permalink: /what-really-happened-in-lazios-ufo-files/
-  short_title: Lazio UFOs
-- basename: Liguria_5b11e3
-  title: Liguria UFOs
-  permalink: /what-really-happened-in-ligurias-ufo/
-  short_title: Liguria UFOs
+  short_title: Friuli UFO Files
+- basename: Marche_113fca
+  title: Marche
+  permalink: /how-marches-ufo-legends-took-shape/
+  short_title: Marche
 - basename: Lombardy_9b46d3
-  title: Lombardy UFOs
-  permalink: /what-really-happened-in-lombardys-ufo/
-  short_title: Lombardy UFOs
-- basename: Molise_7c6aa1
-  title: Molise UFOs
-  permalink: /what-really-happened-in-molises-ufo/
-  short_title: Molise UFOs
-- basename: Sicily_77b465
-  title: Sicily UFOs
-  permalink: /what-really-happened-in-sicilys-ufo/
-  short_title: Sicily UFOs
+  title: Lombardy
+  permalink: /lombardys-ufo-history-between-evidence/
+  short_title: Lombardy
+- basename: Trentino-Alto_Adige_27eb8f
+  title: Alpine UFO Files
+  permalink: /trentino-alto-adige/
+  short_title: Alpine UFO Files
 - basename: Tuscany_2685d2
-  title: Tuscan Skies
-  permalink: /what-really-happened-in-tuscanys-ufo/
-  short_title: Tuscan Skies
+  title: Tuscan UFO Files
+  permalink: /tuscanys-ufo-history-between-mystery-and/
+  short_title: Tuscan UFO Files
 - basename: Veneto_862600
   title: Veneto UFOs
-  permalink: /what-really-happened-in-venetos-ufo/
+  permalink: /venetos-ufo-history-between-evidence-and/
   short_title: Veneto UFOs
-- basename: Marche_113fca
-  title: Marche UFOs
-  permalink: /what-really-happened-over-marche/
-  short_title: Marche UFOs
+- basename: Basilicata_3ea395
+  title: Basilicata UFOs
+  permalink: /which-basilicata-ufo-cases-still/
+  short_title: Basilicata UFOs
+- basename: Abruzzo_4c71bb
+  title: Abruzzo UFOs
+  permalink: /why-abruzzo-became-italys-ufo-hotspot/
+  short_title: Abruzzo UFOs
+- basename: Aosta_Valley_ccb120
+  title: Aosta Valley UFOs
+  permalink: /why-aosta-valleys-ufo-record-looks-so/
+  short_title: Aosta Valley UFOs
+- basename: Apulia_98f3e8
+  title: Apulia UFO Files
+  permalink: /why-apulias-ufo-record-still-resists/
+  short_title: Apulia UFO Files
+- basename: Calabria_663de5
+  title: Calabria UFO Files
+  permalink: /why-calabria-has-many-ufo-reports-but-no/
+  short_title: Calabria UFO Files
 - basename: Campania_5acc6a
-  title: Campania UFOs
-  permalink: /why-campania-keeps-appearing-in-ufo/
-  short_title: Campania UFOs
+  title: Campania
+  permalink: /why-campanias-ufo-waves-looked-so/
+  short_title: Campania
+- basename: Emilia-Romagna_e1c904
+  title: Emilia Romagna
+  permalink: /why-emilia-romagna-became-a-ufo-hotspot/
+  short_title: Emilia Romagna
+- basename: Lazio_2e255a
+  title: Lazio UFO Files
+  permalink: /why-lazios-ufo-history-remains/
+  short_title: Lazio UFO Files
+- basename: Liguria_5b11e3
+  title: Liguria
+  permalink: /why-liguria-became-italys-ufo-coast/
+  short_title: Liguria
+- basename: Molise_7c6aa1
+  title: Molise UFOs
+  permalink: /why-molise-has-so-few-strong-ufo-cases/
+  short_title: Molise UFOs
+- basename: Sardinia_83a1a0
+  title: Sardinia UFOs
+  permalink: /why-sardinias-ufo-record-remains-so/
+  short_title: Sardinia UFOs
+- basename: Sicily_77b465
+  title: Sicily UFO Files
+  permalink: /why-sicilys-ufo-stories-still-resist/
+  short_title: Sicily UFO Files
+- basename: Umbria_d4a7a8
+  title: Umbria UFOs
+  permalink: /why-umbrias-ufo-stories-still-resist/
+  short_title: Umbria UFOs
 child_links:
-- basename: Piedmont_9fde2b_musine_1978_episode_31ed0d
-  title: 1978 Episode | What Really Happened in Piedmont's UFO...
-  permalink: /1978-episode/
-  short_title: 1978 Episode
-  heading_title: What Happened on Monte Musine in 1978?
-- basename: Piedmont_9fde2b_caselle_1973_5fc4e6
-  title: Caselle 1973 | What Really Happened in Piedmont's UFO...
+- basename: Piedmont_9fde2b_piedmont_1978_ufo_wa_795a4f
+  title: 1978 Wave | Piedmont's UFO Mysteries Under Closer...
+  permalink: /1978-wave-52d472/
+  short_title: 1978 Wave
+  heading_title: Why Did Piedmont Report So Many UFOs in 1978?
+- basename: Piedmont_9fde2b_piedmont_aviation_ca_ad5924
+  title: Aviation Cases | Piedmont's UFO Mysteries Under Closer...
+  permalink: /aviation-cases/
+  short_title: Aviation Cases
+  heading_title: Why Aviation Witnesses Matter in Piedmont's UFO Cases
+- basename: Piedmont_9fde2b_caselle_1973_radar_v_03dd82
+  title: Caselle 1973 | Piedmont's UFO Mysteries Under Closer...
   permalink: /caselle-1973/
   short_title: Caselle 1973
-  heading_title: Was Caselle Piedmont's Strongest UFO Case?
-- basename: Piedmont_9fde2b_cisu_turin_archives_f5af43
-  title: CISU Archives | What Really Happened in Piedmont's UFO...
-  permalink: /cisu-archives/
-  short_title: CISU Archives
-  heading_title: Why Turin Became a UFO Research Centre
-- basename: Piedmont_9fde2b_ordinary_explanation_a805d0
-  title: Explanations | What Really Happened in Piedmont's UFO...
-  permalink: /explanations-bd1701/
-  short_title: Explanations
-  heading_title: When Strange Lights Have Ordinary Causes
-- basename: Piedmont_9fde2b_monte_musine_myth_b21434
-  title: Musine Myth | What Really Happened in Piedmont's UFO...
-  permalink: /musine-myth/
-  short_title: Musine Myth
-  heading_title: How Did Monte Musine Become UFO Mountain?
-- basename: Piedmont_9fde2b_myths_hoaxes_bfaa34
-  title: Myths & Hoaxes | What Really Happened in Piedmont's UFO...
-  permalink: /myths-hoaxes/
-  short_title: Myths & Hoaxes
-  heading_title: Which Piedmont UFO Claims Fell Apart?
-- basename: Piedmont_9fde2b_air_force_records_78c8d9
-  title: Official Records | What Really Happened in Piedmont's UFO...
-  permalink: /official-records-f752bd/
-  short_title: Official Records
-  heading_title: What Does Officially Unidentified Really Mean?
-- basename: Piedmont_9fde2b_turin_pilot_sighting_b15d1c
-  title: Pilot Reports | What Really Happened in Piedmont's UFO...
-  permalink: /pilot-reports-bd27a1/
-  short_title: Pilot Reports
-  heading_title: Why Turin Skies Produce Serious UFO Reports
-- basename: Piedmont_9fde2b_press_amplification_845d0b
-  title: Press Role | What Really Happened in Piedmont's UFO...
-  permalink: /press-role/
-  short_title: Press Role
-  heading_title: How Newspapers Enlarged Piedmont's UFO Cases
-- basename: Piedmont_9fde2b_susa_valley_lights_fc0837
-  title: Susa Valley | What Really Happened in Piedmont's UFO...
-  permalink: /susa-valley/
-  short_title: Susa Valley
-  heading_title: Is the Susa Valley Really a UFO Hotspot?
+  heading_title: Did Caselle Radar and Pilots See One Object?
+- basename: Piedmont_9fde2b_corio_2018_mini_flap_18e166
+  title: Corio 2018 | Piedmont's UFO Mysteries Under Closer...
+  permalink: /corio-2018/
+  short_title: Corio 2018
+  heading_title: Did the Corio Sighting Trigger a Reporting Flap?
+- basename: Piedmont_9fde2b_judging_piedmont_ufo_9fbe9d
+  title: Evidence Guide | Piedmont's UFO Mysteries Under Closer...
+  permalink: /evidence-guide/
+  short_title: Evidence Guide
+  heading_title: Which Piedmont UFO Claims Deserve the Most Confidence?
+- basename: Piedmont_9fde2b_piedmont_media_legen_277f26
+  title: Media Legends | Piedmont's UFO Mysteries Under Closer...
+  permalink: /media-legends/
+  short_title: Media Legends
+  heading_title: How Did Piedmont's UFO Stories Grow in Retelling?
+- basename: Piedmont_9fde2b_monte_musine_encount_776fc7
+  title: Monte Musine | Piedmont's UFO Mysteries Under Closer...
+  permalink: /monte-musine/
+  short_title: Monte Musine
+  heading_title: How Strong Is the Monte Musine Encounter Story?
+- basename: Piedmont_9fde2b_official_ufo_investi_b5c390
+  title: Official Process | Piedmont's UFO Mysteries Under Closer...
+  permalink: /official-process/
+  short_title: Official Process
+  heading_title: What Happens When Piedmont Reports a UFO?
+- basename: Piedmont_9fde2b_piedmont_sky_explana_17e16f
+  title: Sky Explanations | Piedmont's UFO Mysteries Under Closer...
+  permalink: /sky-explanations/
+  short_title: Sky Explanations
+  heading_title: Could Planets Explain Piedmont's Brightest UFO Reports?
+- basename: Piedmont_9fde2b_turin_ufo_archives_a1f7cb
+  title: Turin Archives | Piedmont's UFO Mysteries Under Closer...
+  permalink: /turin-archives/
+  short_title: Turin Archives
+  heading_title: How Turin's Archives Changed Piedmont UFO History
+has_inline_related_reports_panel: true
 prev_link:
-  basename: Molise_7c6aa1
-  title: Molise UFOs
-  permalink: /what-really-happened-in-molises-ufo/
-  short_title: Molise UFOs
+  basename: Lombardy_9b46d3
+  title: Lombardy
+  permalink: /lombardys-ufo-history-between-evidence/
+  short_title: Lombardy
 next_link:
-  basename: Sicily_77b465
-  title: Sicily UFOs
-  permalink: /what-really-happened-in-sicilys-ufo/
-  short_title: Sicily UFOs
+  basename: Trentino-Alto_Adige_27eb8f
+  title: Alpine UFO Files
+  permalink: /trentino-alto-adige/
+  short_title: Alpine UFO Files
 header:
   og_image: /assets/images/Piedmont_9fde2b-overview-social.jpg
   preview_image: /assets/images/Piedmont_9fde2b-overview.webp
 image: /assets/images/Piedmont_9fde2b-overview-social.jpg
 ---
 
-## Why Piedmont matters in Italian UFO history
+## Introduction
 
-Piedmont’s UFO profile is dominated by Turin and its surrounding valleys. That is partly geographical: Turin has a major airport at Caselle, Alpine approaches, military and aviation infrastructure, and clear night skies in which bright planets or aircraft can easily become dramatic if seen in unusual conditions. It is also institutional. CISU, one of Italy’s main UFO research bodies, has its roots and archive culture in Turin, and Piedmontese investigators such as Paolo Fiorino and Edoardo Russo have helped re-examine older cases with attention to press sources, witnesses, radar material and later documentation. CISU - Centro Italiano Studi Ufologici+2uapcheck.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">caselle 1973</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</span></span></span><img src="{{"/assets/images/Piedmont_9fde2b-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Piedmont&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-The region also sits inside Italy’s wider post-war UFO pattern. The Italian Air Force states that after the 1978 national wave of unidentified flying-object reports, Prime Minister Giulio Andreotti designated the Air Force as the institutional body responsible for collecting, checking and monitoring such reports, with the present task handled through the General Security Department of the Air Staff. The official purpose is not to investigate aliens, but to identify possible correlations with human activity or natural phenomena and to protect flight and national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
+Piedmont also played an important institutional role. Turin became a centre of Italian UFO research, preserving witness statements, press cuttings and case files that allow old stories to be checked rather than merely repeated. That archival strength exposes a recurring pattern: reports often begin with sincere observations, but grow more extraordinary as newspapers, later writers and UFO enthusiasts combine separate details. The result is a regional history containing genuine mysteries, probable misidentifications and a few famous claims for which the surviving evidence is much thinner than the legend.
 
-That distinction matters for Piedmont. A report can be officially “unidentified” without becoming evidence of extraterrestrial craft. In the Air Force’s own description, an episode is classed as unidentified when checks have not found a technical or natural explanation. That is a residual category, not a positive identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
 
-## The 1973 Caselle airport case: Piedmont’s landmark incident
 
-The strongest Piedmont case for a mainstream reader to know is the evening of 30 November 1973 at Turin-Caselle airport. CISU’s account, originally by Paolo Fiorino, describes it as a radar-visual sighting: an object or light was reportedly observed by multiple witnesses and also detected by radar. The case began shortly before 7 pm and continued into the period after 7.30 pm, involving airport personnel, airline crews and a private pilot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">caselle 1973</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</span></span></span>
+<img src="{{ "/assets/images/Piedmont_9fde2b-overview.webp" | relative_url }}" alt="Overview image for Piedmont&#x27;s UFO Mysteries Under Closer..." loading="eager" decoding="sync" fetchpriority="high">
 
-The basic claim is striking. According to later reconstructions, radar operators at Caselle detected an anomalous echo in a position of potential concern for landing traffic. Tower personnel also saw a bright object. Two Alitalia crews reported a strong light in the direction of the [Susa Valley]({{'susa-valley/' | relative_url }}), while a private Piper pilot, Riccardo Marano, tried to approach a bright white light that appeared to maintain or increase its distance. Military radar at Mortara later recorded a series of tracks over Piedmont and Liguria, although later analysis separated some of these later radar events from the first visual episode over Turin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">50 years ago 1973 turin mass sighting</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
+## Caselle 1973: Piedmont’s strongest aviation case
 
-The case became famous because it seemed to combine credible witnesses and instruments. Local and national newspapers reported it, and a 1973 French press item relayed by AFP described a luminous globe over Turin-Caselle, seen by a private pilot and associated with a radar trace. Decades later, La Stampa revisited the affair, noting claims that declassified Air Force radar material supported the presence of unconventional objects over Caselle in late 1973, while also reporting that there had been scepticism at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/francesoir2dec1973.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+Shortly before 7 pm on 30 November 1973, a bright light was reported near Turin-Caselle Airport. The witnesses were not confined to a single person on the ground. Accounts involved airport staff, pilots aboard two arriving Alitalia DC-9s, the pilot of a private Piper Navajo and radar personnel at Caselle and at the military radar centre in Mortara, roughly 85 kilometres away. This combination of observers is why Caselle became one of Italy’s best-known “radar-visual” UFO cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">caselle 1973</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
-The doubts are just as important as the dramatic elements. CISU’s own treatment stresses that the original material was fragmentary, press accounts were incomplete or contradictory, and no UFO organisation conducted timely direct interviews with the main witnesses in 1973. Later retrospective work improved the record, but it could not remove every uncertainty. Edoardo Russo’s fiftieth-anniversary reconstruction notes that early accounts mixed valid information with errors, sensational exaggerations and even invented details; it also points out that the Caselle precision radar capable of giving accurate altitude was reportedly out of order, leaving a less precise search and surveillance radar in use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">50 years ago 1973 turin mass sighting</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
+The basic visual observation was less exotic than many later summaries suggest. People at the airport and pilots approaching from the south-east described a strong white or bluish-white light towards the mountains and the Susa Valley, south-west of Caselle. It remained visible for roughly 45 minutes. Radar operators, meanwhile, recorded intermittent or irregular echoes rather than one continuously tracked object whose position could be securely matched to the light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/radar-e-aerei-a-caccia-di-ufo-sopra-laeroporto-di-caselle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciRADAR E AEREI A CACCIA DI UFO SOPRA L’AEROPORTO DI CASELLE - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
-The strongest balanced conclusion is that Caselle remains a serious unresolved aviation case, not a clean proof case. It had multiple witnesses, a flight-safety context and radar claims, but it also suffered from delayed investigation, confused press reporting, possible astronomical misidentification for some observations, and technical limits in the radar record. Conventional [explanations]({{'explanations-bd1701/' | relative_url }}) proposed over the years have included Venus or other astronomical bodies, atmospheric refraction, radar anomalies, balloons and plasma-like atmospheric phenomena. None has neatly settled every part of the story, but the case is weaker than the popular legend and stronger than a simple “someone saw a light” anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">50 years ago 1973 turin mass sighting</span><span class="citation-popover-snippet">UAP Check...</span></span></span><img src="{{"/assets/images/Piedmont_9fde2b-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Piedmont&#x27;s UFO... illustration 1" data-theme-src-dark="{{"/assets/images/Piedmont_9fde2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Piedmont_9fde2b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Monte Musinè: from local folklore to “UFO mountain”
 
-If Caselle is Piedmont’s aviation case, Monte Musinè is its folklore case. The mountain lies near Turin at the entrance to the Susa Valley and has long carried legends about magic, unusual lights, esoteric traditions and strange presences. The official regional tourism site describes it as a place surrounded by tales of UFO sightings, alleged alien bases, mysterious night fires and other local legends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.piemonteitalia.eu/en/curiosita/mysterious-mount-musin%C3%A8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: piemonteitalia.eu">[Piemonte Italia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">piemonteitalia.eu</span><span class="citation-popover-title">Piemonte Italia The mysterious Mount Musinè &#124; Piemonte Italia</span><span class="citation-popover-snippet">Piemonte Italia The mysterious Mount Musinè &#124; Piemonte Italia</span></span></span>
 
-CISU’s treatment is notably more restrained. It says that from the 1960s onwards rumours multiplied about lights on the slopes and alleged flying-saucer bases inside the mountain, but that CISU’s systematically collected case material does not show an unusually high number of sightings in the area. That is a crucial corrective: Musinè’s fame may be greater than its documented case density.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/il-mito-del-monte-musine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Il mito del Monte Musinè</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Il mito del Monte Musinè</span></span></span>
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/official-process/' | relative_url }}"><span class="article-branch-link-short">Official Process</span><span class="article-branch-link-heading">What Happens When Piedmont Reports a UFO?</span></a></li>
+<li><a href="{{ '/sky-explanations/' | relative_url }}"><span class="article-branch-link-short">Sky Explanations</span><span class="article-branch-link-heading">Could Planets Explain Piedmont&#x27;s Brightest UFO Reports?</span></a></li>
+<li><a href="{{ '/aviation-cases/' | relative_url }}"><span class="article-branch-link-short">Aviation Cases</span><span class="article-branch-link-heading">Why Aviation Witnesses Matter in Piedmont&#x27;s UFO Cases</span></a></li>
+<li><a href="{{ '/evidence-guide/' | relative_url }}"><span class="article-branch-link-short">Evidence Guide</span><span class="article-branch-link-heading">Which Piedmont UFO Claims Deserve the Most Confidence?</span></a></li>
+<li><a href="{{ '/turin-archives/' | relative_url }}"><span class="article-branch-link-short">Turin Archives</span><span class="article-branch-link-heading">How Turin&#x27;s Archives Changed Piedmont UFO History</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
 
-The most famous Musinè incident took place on 8 December 1978. In the common version, young people went up the mountain looking for mysterious lights; they saw a strong light among the trees; one of them disappeared for about an hour; when found, he said he had been enveloped by a mysterious light and had glimpsed humanoid figures. Popular retellings often add burns, shock, physical effects and a close encounter narrative, but the better research issue is not whether the story is dramatic. It is how the story changed as it passed through newspapers, local rumour, UFO literature and later internet retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/il-mito-del-monte-musine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Il mito del Monte Musinè</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Il mito del Monte Musinè</span></span></span>
+The private pilot’s experience supplied the case’s most dramatic element. After being directed towards the reported light, he said it appeared to move away and that he followed it eastwards before breaking off. Later retellings described abrupt climbs, reversals and speeds approaching Mach 4. Those details helped turn Caselle into a story of an object “playing” with an aircraft, but reconstruction of the available records shows that several observations occurred at different times and bearings. The stationary light seen towards the mountains, the moving target followed by the Piper and the radar echoes need not all have been the same thing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">caselle 1973</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JDTIqTJMBZ0" title="How Piedmont became the UFO Capitol of Missouri | Living St. Louis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer">How Piedmont became the UFO Capitol of Missouri | Living St. Louis</a></p><p class="youtube-embed-meta">Channel: Nine PBS &middot; Views: 17.7K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JDTIqTJMBZ0">Open on YouTube</a></p></div></div></div>
+This distinction matters because the strongest version of the story assumes perfect visual-radar correlation. In reality, the radar returns were intermittent, some later reports confused events on 30 November with another series of observations on 4 December, and claims that additional radar stations at Linate and Capo Mele tracked the object have been judged unsupported by the surviving documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">caselle 1973</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
-## Alessandria and the quieter provincial record
+### Could planets or atmospheric effects explain it?
 
-Piedmont’s UFO history is not only Turin. The province of Alessandria has its own documented catalogue work, and this is useful because it shifts attention away from spectacular single stories towards patterns in ordinary reports. In 2018, Casale News reported that CISU, through Paolo Toselli, had completed an update of the Alessandria provincial catalogue: 482 UFO reports over roughly seventy years, making Alessandria second only to Turin within Piedmont in that account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casalenews.it/attualita/gli-avvistamenti-ufo-a-casale-monferrato-sono-stati-31-negli-ultimi-70-anni-35195.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casalenews.it">[Casale News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casalenews.it</span><span class="citation-popover-snippet">Open source on casalenews.it.</span></span></span>
+The sky was clear, with Venus and Jupiter both bright and low in the south-west—the same general direction as the prolonged stationary light. Venus was especially conspicuous. This makes astronomical misidentification a serious possibility for at least part of the visual evidence, particularly when aircraft motion, haze near the horizon and changing viewing angles are considered. Suggested explanations for the radar returns have included abnormal radio propagation, which can create misleading echoes, while other proposals have ranged from a weather balloon to atmospheric plasma. None has been demonstrated conclusively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/radar-e-aerei-a-caccia-di-ufo-sopra-laeroporto-di-caselle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciRADAR E AEREI A CACCIA DI UFO SOPRA L’AEROPORTO DI CASELLE - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
-The same report identified two local peaks: the end of 1973 into summer 1974, and another concentration in the final months of 1978. That mirrors the wider Italian pattern, in which 1973 and 1978 were major flap periods. In Alessandria, the article highlighted two unresolved or important cases: a 16 April 1974 report at Casale Monferrato involving a couple who said a disc-like object with a dome hovered near their home and left marks on a car windscreen, and a 2 September 1978 case at San Michele, near Alessandria, where a cigar-shaped metallic object was said to have left traces in a maize field, prompting police and Carabinieri involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casalenews.it/attualita/gli-avvistamenti-ufo-a-casale-monferrato-sono-stati-31-negli-ultimi-70-anni-35195.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casalenews.it">[Casale News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casalenews.it</span><span class="citation-popover-snippet">Open source on casalenews.it.</span></span></span>
+Caselle therefore deserves a careful label: **unresolved, but not a single cleanly documented object confirmed simultaneously by every witness and sensor**. It contains better evidence than an isolated light report, yet its most extraordinary performance claims depend on joining together observations that may have had different causes. The later archival work strengthened the case’s historical foundations while weakening its simplest “one extraordinary craft” narrative.
 
-The provincial data also puts the subject into proportion. According to the same CISU-linked account, 71% of Alessandria cases were night lights, only 10% had photographs or some film material, and many reports were attributable to known objects or phenomena such as aircraft, satellites, weather balloons, stars, planets, meteors and Chinese lanterns. Around thirty cases were said to remain unexplained. This is exactly the kind of ratio a balanced regional page should foreground: most reports are weak or explainable, but a small residue is not automatically solved by that fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casalenews.it/attualita/gli-avvistamenti-ufo-a-casale-monferrato-sono-stati-31-negli-ultimi-70-anni-35195.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casalenews.it">[Casale News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casalenews.it</span><span class="citation-popover-snippet">Open source on casalenews.it.</span></span></span>
 
-## What official records add, and what they do not
 
-Official involvement in Italian UFO reporting is often misunderstood. The Italian Air Force’s OVNI page makes clear that reports are channelled through a formal process: a citizen who wants to report an event uses the relevant form and submits it to the nearest Carabinieri station. The Air Force may then carry out technical checks to see whether the event correlates with human activity or natural phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
+<img src="{{ "/assets/images/Piedmont_9fde2b-Illustration-1-dark.svg" | relative_url }}" alt="Piedmont&#x27;s UFO Mysteries Under Closer... illustration 1" data-theme-src-dark="{{ "/assets/images/Piedmont_9fde2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Piedmont_9fde2b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-For Piedmont, [official records]({{'official-records-f752bd/' | relative_url }}) matter most where aviation safety is involved, as at Caselle. They can confirm that a report was taken seriously enough to be recorded, that radar or flight-control personnel were involved, or that military channels handled information. But official recording does not mean official endorsement of an extraordinary explanation. The Air Force’s standard is whether an event can be technically or naturally identified after checks; “unidentified” means unresolved within the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
+## The 1978 wave and the Monte Musinè story
 
-National statistics also help place Piedmont in context. Rai News reported in 2014 that the Italian Air Force had recorded 445 UFO sightings from 1972 onward, with 1978 the boom year at 69 cases. In that summary, Piedmont had 18 classified Air Force sightings, lower than Lazio, Tuscany, Lombardy, Campania and several other regions. That means Piedmont is culturally prominent in Italian ufology without necessarily being the most statistically active region in the official national record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rainews.it/archivio-rainews/articoli/ufo-avvistamenti-segnalazioni-italia-aeronautica-218a7f1a-d128-4494-b464-066f409c5400.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainews.it">[RaiNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainews.it</span><span class="citation-popover-snippet">Open source on rainews.it.</span></span></span><img src="{{"/assets/images/Piedmont_9fde2b-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Piedmont&#x27;s UFO... illustration 2" data-theme-src-dark="{{"/assets/images/Piedmont_9fde2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Piedmont_9fde2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The main explanations that recur in Piedmont cases
+Italy experienced a major surge of UFO reporting in 1978. The volume of public concern was sufficient for Prime Minister Giulio Andreotti to assign the Italian Air Force responsibility for collecting, checking and monitoring reports. That official role continues: reports can be submitted through the Carabinieri, after which the Air Force investigates possible links with aircraft, human activity or natural phenomena. An event remains officially “unidentified” only when no technical or natural explanation can be established—not because an extraterrestrial origin has been proved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare...</span></span></span>
 
-The Piedmont record shows the same recurring explanation pattern seen across much of UFO history, but with local features. The first is astronomical misidentification. In the Caselle material, investigators noted that Venus, Jupiter and Mars were prominent light sources on the evening in question, and CISU’s account specifically says some simultaneous or nearby reports may have involved Venus under favourable atmospheric conditions. This does not automatically explain the whole Caselle case, but it likely explains some reports around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">50 years ago 1973 turin mass sighting</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
+Piedmont’s best-known story from that wave allegedly occurred on 8 December on the slopes of Monte Musinè, west of Turin. In the familiar version, two young hikers saw an intense light. One approached it and temporarily disappeared from his companion’s view. He was later found shocked and reportedly suffering from a burn on his leg; he then described an elongated craft and beings that touched or lifted him. Both men were also said to have experienced eye inflammation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">UFO sightings in Italy</span></span></span>
 
-The second is aviation and radar ambiguity. Airports create highly credible witnesses, but they also create complicated visual fields: landing lights, approach paths, reflections, changing perspective, stress over possible traffic conflicts and radar artefacts. Caselle is important precisely because it sits on this boundary. The case has better witnesses than most, but radar limitations and later separation of different radar episodes weaken the simplistic claim that one object was cleanly tracked in every phase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">50 years ago 1973 turin mass sighting</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
+The story is memorable, but its evidential status is much weaker than Caselle’s. Most readily available accounts are later summaries, paranormal features and recycled narratives rather than contemporary medical records, signed testimony or an accessible police investigation. Even the exact sequence is usually presented without the original interview material needed to establish when particular details first appeared.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YOrUpRT1Xao" title="In the Mountain of the Unknown - Alien Portal | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YOrUpRT1Xao" target="_blank" rel="noopener noreferrer">In the Mountain of the Unknown - Alien Portal | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YOrUpRT1Xao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YOrUpRT1Xao">Open on YouTube</a></p></div></div></div>
+Monte Musinè already possessed a rich body of folklore, unusual-place narratives and later associations with UFO culture. Archival work around the mountain has uncovered a mixture of press stories, local legends, performances and retrospective interpretations, showing how readily a striking landscape can become a container for successive mystery traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marianotomatis.it/research.php?url=Musine_CISU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marianotomatis.it">[Mariano Tomatis Wonder Injector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marianotomatis.it</span><span class="citation-popover-title">Ve., “Pic-nic con gli Ufo al Teatro Erba</span><span class="citation-popover-snippet">Mariano Tomatis Wonder InjectorIntorno al monte Musinè - Mariano TomatisNell&#x27;agosto 2014, dopo una prima visita alla sede torinese del Ci...</span></span></span>
 
-## How to judge a Piedmont UFO claim
+For that reason, the Musinè incident should be treated as a **famous regional claim with insufficient primary evidence**, not as a documented abduction. The reported injuries sound potentially testable, but without contemporaneous clinical documentation, photographs with reliable provenance or independent examination, they cannot bear the weight later accounts place upon them. Nothing in the surviving public record establishes that non-human beings were involved.
 
-A good Piedmont UFO claim is not one that sounds dramatic. It is one with enough detail to test. The most useful reports give a precise time, location, direction, elevation, duration, weather, witness position, aircraft or airport context, and whether independent witnesses saw the same thing from different places. Caselle remains important because it had pilots, tower personnel, ground observers and radar claims, even though its early documentation was messy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">caselle 1973</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Liz17A9e2sw" title="Learn About UFOs, Alien Encounters, and Abductions in October 1973?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Liz17A9e2sw" target="_blank" rel="noopener noreferrer">Learn About UFOs, Alien Encounters, and Abductions in October 1973?</a></p><p class="youtube-embed-meta">Channel: Middle Coast Publishing</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Liz17A9e2sw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Liz17A9e2sw">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kj-wlydnzK4" title="Musiné: Il monte degli UFO" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kj-wlydnzK4" target="_blank" rel="noopener noreferrer">Musiné: Il monte degli UFO</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kj-wlydnzK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kj-wlydnzK4">Open on YouTube</a></p></div></div></div>
+
+## Turin’s archives changed how the stories were judged
+
+Piedmont’s importance goes beyond sightings because Turin became one of the principal centres of Italian civilian UFO research. The Centro Italiano Studi Ufologici, or CISU, emerged in 1985 from researchers previously active within the national UFO movement. It adopted a deliberately critical, documentation-led approach: collect testimony, compare sources, test conventional explanations and distinguish the witness’s sincerity from the accuracy of an interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Centro_italiano_studi_ufologici" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Centro italiano studi ufologici</span><span class="citation-popover-snippet">Centro italiano studi ufologici</span></span></span>
+
+That approach is particularly valuable for historical cases. Newspaper stories often compress several witnesses into a single narrative, omit conflicting times or directions, and repeat estimates of height and speed that were never measured. An archive can reveal whether a spectacular detail appeared in the earliest testimony or was added years later. The re-examination of Caselle is a good example: it did not dismiss the witnesses, but separated the stationary astronomical-looking light, the private pilot’s pursuit and the irregular radar returns instead of assuming they represented one coherent machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misterobufo.corriere.it/files/2013/11/Caselle1973-Russo20134.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misterobufo.corriere.it">[misterobufo.corriere.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misterobufo.corriere.it</span><span class="citation-popover-title">Caselle1973 Russo20134</span><span class="citation-popover-snippet">Caselle1973 Russo20134</span></span></span>
+
+Turin’s researchers also documented how media attention can generate a “mini-flap”. Once one striking report receives coverage, other people re-examine recent memories or submit unrelated observations. This does not mean witnesses are dishonest. It means a cluster of reports may partly reflect increased attention and reporting behaviour rather than an increased number of unusual objects. In June 2018, for example, publicity surrounding a case at Corio was followed by reports from other parts of Piedmont.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/tag/torino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Torino Archivi</span><span class="citation-popover-snippet">Quando i mass media danno spazio a notizie di avvistamenti clamorosi...Read more...</span></span></span>
+
+The regional archive therefore matters as much for subtraction as accumulation. Its real value lies in identifying duplicated cases, locating original articles, correcting dates and distinguishing unsolved observations from those explainable as aircraft, planets, balloons, lanterns or satellites.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r42J9oLXgRM" title="01.1974 &quot;Pas de Panique&quot; France Inter, &quot;Dossier OVNI&quot; 10 premiers épisodes Jean-Claude Bourret" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:55:04">1:55:04</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r42J9oLXgRM" target="_blank" rel="noopener noreferrer">01.1974 &quot;Pas de Panique&quot; France Inter, &quot;Dossier OVNI&quot; 10 premiers épisodes Jean-Claude Bourret</a></p><p class="youtube-embed-meta">Channel: totophman &middot; Views: 15.7K &middot; Uploaded: December 2023 &middot; Length: 1 hour 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r42J9oLXgRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r42J9oLXgRM">Open on YouTube</a></p></div></div></div>
+
+## Corio 2018: aircraft confirmed, the first light unresolved
+
+On the night of 6 June 2018, residents around Corio, Rocca Canavese and Levone heard a powerful roar that shook windows. Numerous witnesses reported two low-flying military aircraft; some also described a white light moving slowly or hovering near a ridge before the jets arrived. Police were contacted, politicians raised parliamentary questions and prosecutors sought clarification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euroufo.net/tag/corio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[euroufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-title">Corio &#124; Euro UFO</span><span class="citation-popover-snippet">Corio &#124; Euro UFO</span></span></span>
+
+The official response initially complicated matters. Air Force representatives were quoted as saying that no military aircraft had flown low over Corio, although a Tornado was training at high altitude. Several weeks later, information given to the Ivrea prosecutor acknowledged that two Tornados had been above the area during an exercise and that a technical problem had produced abnormal noise. This reversal supported the witnesses who had reported military aircraft and showed why immediate official denials should not automatically be treated as the final word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euroufo.net/tag/corio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[euroufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-title">Corio &#124; Euro UFO</span><span class="citation-popover-snippet">Corio &#124; Euro UFO</span></span></span>
+
+It did not, however, confirm that the aircraft were chasing a UFO. The later explanation accounted for the roar and the two jets but reportedly said nothing conclusive about the earlier white light. Nor is there publicly demonstrated radar evidence showing the Tornados intercepting an unknown target. The most defensible assessment is therefore divided:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **The low-flying military-aircraft component was substantially confirmed.**
+* **The claim that they were pursuing the light was not established.**
+* **The light itself remained unidentified in the available investigation, which is not equivalent to being extraordinary.**
+
+</div>
+
+Corio illustrates a central problem in UFO reporting. A witness can be correct about an important part of an event—the aircraft and the noise—while the more dramatic interpretation remains unsupported. It also shows how inconsistent public communication can prolong a mystery that might otherwise have been resolved more quickly.
+
+
+
+<img src="{{ "/assets/images/Piedmont_9fde2b-Illustration-2-dark.svg" | relative_url }}" alt="Piedmont&#x27;s UFO Mysteries Under Closer... illustration 2" data-theme-src-dark="{{ "/assets/images/Piedmont_9fde2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Piedmont_9fde2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Why modern sighting numbers can mislead
+
+Piedmont continues to produce regular UFO reports, but raw totals say little about their quality. The National UFO Centre received 12 reports from the region in 2018, compared with 184 across Italy. These were public submissions, not 12 verified anomalous craft. The same report noted how seasonal reporting peaks can be pronounced, with July producing far more Italian cases than early spring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lastampa.it/asti/2019/01/10/news/dal-piemonte-12-segnalazioni-di-ufo-al-centro-nazionale-1.33670183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lastampa.it">[La Stampa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lastampa.it</span><span class="citation-popover-title">La Stampa Dal Piemonte 12 segnalazioni di Ufo al Centro nazionale</span><span class="citation-popover-snippet">La Stampa Dal Piemonte 12 segnalazioni di Ufo al Centro nazionale</span></span></span>
+
+Some local stories have collapsed under straightforward investigation. Crop circles discovered at Robella in 2013 attracted visitors before a presumed maker disowned their mysterious status. Such episodes matter because they demonstrate how rapidly an ambiguous physical trace can acquire a UFO interpretation before provenance is checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lastampa.it/asti/2019/01/10/news/dal-piemonte-12-segnalazioni-di-ufo-al-centro-nazionale-1.33670183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lastampa.it">[La Stampa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lastampa.it</span><span class="citation-popover-title">La Stampa Dal Piemonte 12 segnalazioni di Ufo al Centro nazionale</span><span class="citation-popover-snippet">La Stampa Dal Piemonte 12 segnalazioni di Ufo al Centro nazionale</span></span></span>
+
+More recently, satellite constellations have become a major source of mass sightings. In August 2022, a line of bright points was reported across Piedmont and other northern Italian regions; it was identified as a train of 53 Starlink satellites. Newly launched satellites can appear unusually bright and closely spaced, especially near twilight, producing a formation unlike the isolated satellites familiar to earlier generations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilfattoquotidiano.it/2022/08/21/luci-nel-cielo-del-nord-italia-non-sono-ufo-ma-i-satelliti-starlink-di-elon-musk/6769675/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilfattoquotidiano.it">[Il Fatto Quotidiano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilfattoquotidiano.it</span><span class="citation-popover-title">Il Fatto Quotidiano Luci nel cielo del Nord Italia: non sono ufo, ma i satelliti</span><span class="citation-popover-snippet">Il Fatto Quotidiano Luci nel cielo del Nord Italia: non sono ufo, ma i satelliti</span></span></span>
+
+Other recurring explanations include:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* bright planets seen low over the Alps;
+* aircraft landing lights viewed head-on;
+* helicopters or military training;
+* meteors and re-entering space debris;
+* balloons and illuminated lanterns;
+* insects or nearby objects rendered as luminous “swarms” by cameras;
+* lens reflections, digital zoom artefacts and loss of focus.
+
+</div>
+
+A 2024 sceptical analysis of reports of “UFO swarms” near the Tanaro in the Asti area proposed short-lived insect emergences as a plausible explanation, noting the local river habitat and the narrow seasonal window of the observations. The case is a useful reminder that unusual appearance on video does not establish unusual distance or scale: a small nearby object can look like a large distant one when the image contains no reliable reference point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.queryonline.it/2024/02/15/sciami-di-ufo-nel-cielo-piemontese-una-questione-di-metodo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: queryonline.it">[Query Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">queryonline.it</span><span class="citation-popover-title">sciami di ufo nel cielo piemontese una questione di metodo</span><span class="citation-popover-snippet">sciami di ufo nel cielo piemontese una questione di metodo</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xd5fMKwVLdo" title="Incontri ravvicinati del tipo strano - con Giuseppe Stilo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xd5fMKwVLdo" target="_blank" rel="noopener noreferrer">Incontri ravvicinati del tipo strano - con Giuseppe Stilo</a></p><p class="youtube-embed-meta">Channel: CICAP</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xd5fMKwVLdo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xd5fMKwVLdo">Open on YouTube</a></p></div></div></div>
 
 ## What remains genuinely unresolved
 
-The strongest unresolved Piedmont material is not the most colourful. Caselle 1973 remains the central case because it involved aviation witnesses, radar discussion, later declassified material and serious retrospective investigation. Even after removing exaggerations, it still leaves questions about what different witnesses saw, how radar returns should be interpreted, and whether one or more ordinary stimuli combined into a more complex incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">50 years ago 1973 turin mass sighting</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
+Piedmont does not have a publicly documented case that proves extraterrestrial visitation. It does have incidents that resist neat resolution because records are incomplete, observations conflict or the original data were never preserved.
 
-The Alessandria provincial catalogue suggests another kind of unresolved residue: not one famous mystery, but a small number of reports that remain unexplained after many others are attributed to mundane causes. The useful point is modest but important. “Unexplained” is not the same as “extraordinary”; it means the record is insufficient, ambiguous or resistant to the available checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.casalenews.it/attualita/gli-avvistamenti-ufo-a-casale-monferrato-sono-stati-31-negli-ultimi-70-anni-35195.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casalenews.it">[Casale News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casalenews.it</span><span class="citation-popover-snippet">Open source on casalenews.it.</span></span></span>
+Caselle remains the region’s most important case because it involved aviation professionals and radar reports. Yet the evidence supports several anomalous observations more securely than it supports one object performing impossible manoeuvres. Corio is a strong example of witnesses being vindicated about military aircraft without the supposed pursuit of an unknown craft being demonstrated. Monte Musinè remains culturally prominent but evidentially weak because the extraordinary encounter narrative is not matched by accessible contemporary documentation.
 
-Monte Musinè is more culturally unresolved than evidentially unresolved. The 1978 incident still attracts attention, but its value is as a study of how a local place becomes a UFO landmark. The most responsible reading is that some people reported strange lights and experiences, while later interpretations, occult claims, alleged ancient evidence and online embellishments made the mountain seem more evidentially rich than the documented case record supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/il-mito-del-monte-musine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Il mito del Monte Musinè</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Il mito del Monte Musinè</span></span></span><img src="{{"/assets/images/Piedmont_9fde2b-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Piedmont&#x27;s UFO... illustration 3" data-theme-src-dark="{{"/assets/images/Piedmont_9fde2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Piedmont_9fde2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The balanced takeaway for Piedmont
+The most useful classification is therefore not “real” against “fake”, but three levels:
 
-Piedmont’s UFO history is best understood as a layered regional record. At the top is Caselle, a serious but imperfect radar-visual aviation case. Around it is the Turin research tradition, especially CISU’s archival and retrospective work. Alongside it is Monte Musinè, where UFO reports merge with older folklore and modern myth-making. Beyond Turin are provincial catalogues, especially Alessandria, which show how most reports are ordinary lights or explainable phenomena, while a minority remain open because the evidence is incomplete.
+**Unresolved:** enough information survives to show that something was observed, but not enough to identify it confidently. Parts of the Caselle and Corio cases belong here.
 
-That makes Piedmont neither a “UFO capital” in any simple sense nor a region where everything can be waved away. Its real importance lies in showing how UFO history is made: a sighting occurs, the press frames it, official or aviation records may preserve part of it, investigators later sort testimony from rumour, and sceptical checks often reduce the mystery without always eliminating it. For readers trying to understand Italian UFO phenomena region by region, Piedmont is one of the clearest examples of why the best answer is rarely “confirmed” or “nothing happened”, but a careful ranking of cases from well-documented and unresolved to weak, explainable or folkloric.
+**Weakly sourced:** the claim is dramatic, but depends mainly on later retellings or inaccessible original records. Monte Musinè is the clearest Piedmont example.
+
+**Explained or undermined:** investigation identifies satellites, aircraft, astronomical objects, insects, human construction or another ordinary cause. Starlink trains and the Robella crop circles fall into this category.
+
+Piedmont’s UFO history is most compelling where the documentation reveals uncertainty rather than erasing it. Its archives show that sincere witnesses can misjudge distance, that officials can issue incomplete answers, that radar returns require interpretation, and that later storytelling can make a case more coherent—and more extraordinary—than the original evidence allows.
+
+
+
+<img src="{{ "/assets/images/Piedmont_9fde2b-Illustration-3-dark.svg" | relative_url }}" alt="Piedmont&#x27;s UFO Mysteries Under Closer... illustration 3" data-theme-src-dark="{{ "/assets/images/Piedmont_9fde2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Piedmont_9fde2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -440,21 +537,21 @@ That makes Piedmont neither a “UFO capital” in any simple sense nor a region
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to What Really Happened in Piedmont&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Piedmont&#x27;s UFO Mysteries Under Closer Examination. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">Helps interpret regional sighting records.</p>
+<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -462,16 +559,16 @@ That makes Piedmont neither a “UFO capital” in any simple sense nor a region
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
 </h4>
-<p class="fr-book-author">By Jacques Vallee</p>
+<p class="fr-book-author">By Leslie Kean</p>
         
-<p class="fr-book-desc">Useful for European UFO traditions and folklore.</p>
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -479,16 +576,16 @@ That makes Piedmont neither a “UFO capital” in any simple sense nor a region
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRAqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
-<p class="fr-book-author">By Ross Coulthart</p>
+<p class="fr-book-author">By Edward J Ruppelt</p>
         
-<p class="fr-book-desc">Covers major cases, investigations and historical context.</p>
+<p class="fr-book-desc">The Report on Unidentified Flying Objects is a book by Edward J. Ruppelt which described the study of UFOs by United States Air Force fro...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -496,16 +593,16 @@ That makes Piedmont neither a “UFO capital” in any simple sense nor a region
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government: A Historical Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government: A Historical Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government: A Historical Inquiry">UFOs and Government: A Historical Inquiry</a>
 </h4>
-<p class="fr-book-author">By Jacques Vallee</p>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-<p class="fr-book-desc">Explores patterns relevant to regional case histories.</p>
+<p class="fr-book-desc">Governments around the world have had to deal with the UFO phenomenon for a good part of a century. How and why they did so is the subjec...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -513,7 +610,7 @@ That makes Piedmont neither a “UFO capital” in any simple sense nor a region
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
@@ -547,74 +644,75 @@ That makes Piedmont neither a “UFO capital” in any simple sense nor a region
 </div>
 
 <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
 <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/Pk8AAeSwcsxpfiqE/s-l225.jpg" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/RvcAAeSwP-Vpfip~/s-l225.jpg" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/Nu8AAeSwq4FpxSlo/s-l225.jpg" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/SxgAAeSwMYJpfiq8/s-l225.jpg" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
+<p class="fr-book-kicker">Current eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
 </a>
 </div>
 </div>
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-really-happened-in-piedmont-s-ufo-stories-ufo-photo-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="piedmonts-ufo-mysteries-under-closer-piedmont-s-ufo-mysteries-under-closer-examination-piedmont-ufo-poster-series-televi" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -829,168 +927,102 @@ That makes Piedmont neither a “UFO capital” in any simple sense nor a region
 
 1.<a id="endnote-1"></a>
    Source: cisu.org  
-   Title: caselle 1973  
-   Link:<a href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/caselle-1973/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</p></details>
+   Title: [caselle 1973](&#123;&#123; 'caselle-1973/' | relative_url &#125;&#125;)  
+   Link:<a href="https://www.cisu.org/caselle-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/caselle-1973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciCASELLE, 1973 - CISU - Centro Italiano Studi Ufologici...</p></details>
 
 2.<a id="endnote-2"></a>
-   Source: uapcheck.com  
-   Title: 50 years ago 1973 turin mass sighting  
-   Link:<a href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Check...</p></details>
+   Source: misterobufo.corriere.it  
+   Title: Caselle1973 Russo20134  
+   Link:<a href="https://misterobufo.corriere.it/files/2013/11/Caselle1973-Russo20134.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misterobufo.corriere.it/files/2013/11/Caselle1973-Russo20134.pdf</a>  
 
 3.<a id="endnote-3"></a>
    Source: cisu.org  
-   Title: Centro Italiano Studi Ufologici Il mito del Monte Musinè  
-   Link:<a href="https://www.cisu.org/il-mito-del-monte-musine/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/il-mito-del-monte-musine/</a>  
+   Link:<a href="https://www.cisu.org/radar-e-aerei-a-caccia-di-ufo-sopra-laeroporto-di-caselle/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/radar-e-aerei-a-caccia-di-ufo-sopra-laeroporto-di-caselle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciRADAR E AEREI A CACCIA DI UFO SOPRA L’AEROPORTO DI CASELLE - CISU - Centro Italiano Studi Ufologici...</p></details>
 
 4.<a id="endnote-4"></a>
-   Source: cisu.org  
-   Title: Centro Italiano Studi Ufologici Musiné Archivi  
-   Link:<a href="https://www.cisu.org/tag/musine/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/tag/musine/</a>  
+   Source: Wikipedia  
+   Title: UFO sightings in Italy  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
 5.<a id="endnote-5"></a>
-   Source: ufologie.patrickgross.org  
-   Link:<a href="https://ufologie.patrickgross.org/press/francesoir2dec1973.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/francesoir2dec1973.htm</a>  
+   Source: Wikipedia  
+   Link:<a href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO</a>  
 
 6.<a id="endnote-6"></a>
-   Source: rainews.it  
-   Link:<a href="https://www.rainews.it/archivio-rainews/articoli/ufo-avvistamenti-segnalazioni-italia-aeronautica-218a7f1a-d128-4494-b464-066f409c5400.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rainews.it/archivio-rainews/articoli/ufo-avvistamenti-segnalazioni-italia-aeronautica-218a7f1a-d128-4494-b464-066f409c5400.html</a>  
-
-7.<a id="endnote-7"></a>
-   Source: uapcheck.com  
-   Title: 50 anni fa 1973 avvistamento di massa a torino  
-   Link:<a href="https://www.uapcheck.com/it/notizie/id/2174/50-anni-fa-1973-avvistamento-di-massa-a-torino/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/it/notizie/id/2174/50-anni-fa-1973-avvistamento-di-massa-a-torino/</a>  
-
-8.<a id="endnote-8"></a>
-   Source: cisu.org  
-   Title: Doxa Archivi  
-   Link:<a href="https://www.cisu.org/tag/doxa/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/tag/doxa/</a>  
-
-9.<a id="endnote-9"></a>
-   Source: cisu.org  
-   Title: Maurizio Verga  
-   Link:<a href="https://www.cisu.org/maurizio-verga/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/maurizio-verga/</a>  
-
-10.<a id="endnote-10"></a>
-   Source: cisu.org  
-   Title: Torino Archivi  
-   Link:<a href="https://www.cisu.org/tag/torino/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/tag/torino/</a>  
-
-11.<a id="endnote-11"></a>
-   Source: ia600600.us.archive.org  
-   Title: UFOs The Definitive Casebook LQ2  
-   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
-
-12.<a id="endnote-12"></a>
-   Source: ufo.it  
-   Title: the story of the italian ufo landings  
-   Link:<a href="https://ufo.it/2025/06/10/the-story-of-the-italian-ufo-landings/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.it/2025/06/10/the-story-of-the-italian-ufo-landings/</a>  
-
-13.<a id="endnote-13"></a>
-   Source: aeronautica.difesa.it  
-   Title: Aeronautica Militare OVNI  
-   Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
-
-14.<a id="endnote-14"></a>
-   Source: piemonteitalia.eu  
-   Title: Piemonte Italia The mysterious Mount Musinè | Piemonte Italia  
-   Link:<a href="https://www.piemonteitalia.eu/en/curiosita/mysterious-mount-musin%C3%A8" target="_blank" rel="noopener noreferrer nofollow">https://www.piemonteitalia.eu/en/curiosita/mysterious-mount-musin%C3%A8</a>  
-
-15.<a id="endnote-15"></a>
-   Source: marianotomatis.it  
-   Title: Mariano Tomatis Wonder Injector Incontri ravvicinati del terzo tipo  
-   Link:<a href="https://www.marianotomatis.it/index.php?doc=musine08&amp;special=musine" target="_blank" rel="noopener noreferrer nofollow">https://www.marianotomatis.it/index.php?doc=musine08&amp;special=musine</a>  
-
-16.<a id="endnote-16"></a>
-   Source: casalenews.it  
-   Link:<a href="https://www.casalenews.it/attualita/gli-avvistamenti-ufo-a-casale-monferrato-sono-stati-31-negli-ultimi-70-anni-35195.html" target="_blank" rel="noopener noreferrer nofollow">https://www.casalenews.it/attualita/gli-avvistamenti-ufo-a-casale-monferrato-sono-stati-31-negli-ultimi-70-anni-35195.html</a>  
-
-17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Centro italiano studi ufologici  
    Link:<a href="https://it.wikipedia.org/wiki/Centro_italiano_studi_ufologici" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Centro_italiano_studi_ufologici</a>  
 
-18.<a id="endnote-18"></a>
-   Source: Wikipedia  
-   Title: Monte Musinè  
-   Link:<a href="https://en.wikipedia.org/wiki/Monte_Musin%C3%A8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Monte_Musin%C3%A8</a>  
+7.<a id="endnote-7"></a>
+   Source: cisu.org  
+   Title: Centro Italiano Studi Ufologici Torino Archivi  
+   Link:<a href="https://www.cisu.org/tag/torino/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/tag/torino/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quando i mass media danno spazio a notizie di avvistamenti clamorosi...Read more...</p></details>
 
-19.<a id="endnote-19"></a>
-   Source: Wikipedia  
-   Link:<a href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO</a>  
+8.<a id="endnote-8"></a>
+   Source: euroufo.net  
+   Title: Corio | Euro UFO  
+   Link:<a href="https://www.euroufo.net/tag/corio/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/corio/</a>  
 
-20.<a id="endnote-20"></a>
-   Source: Wikipedia  
-   Title: Monte Musinè  
-   Link:<a href="https://it.wikipedia.org/wiki/Monte_Musin%C3%A8" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Monte_Musin%C3%A8</a>  
+9.<a id="endnote-9"></a>
+   Source: aeronautica.difesa.it  
+   Title: Aeronautica Militare OVNI  
+   Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica Militare...</p></details>
 
-21.<a id="endnote-21"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/977704395576978/posts/33998943366359655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/33998943366359655/</a>  
-
-22.<a id="endnote-22"></a>
+10.<a id="endnote-10"></a>
    Source: marianotomatis.it  
-   Title: Intorno al monte Musinè  
+   Title: Ve., “Pic-nic con gli Ufo al Teatro Erba  
    Link:<a href="https://www.marianotomatis.it/research.php?url=Musine_CISU" target="_blank" rel="noopener noreferrer nofollow">https://www.marianotomatis.it/research.php?url=Musine_CISU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mariano Tomatis Wonder InjectorIntorno al monte Musinè - Mariano TomatisNell&#x27;agosto 2014, dopo una prima visita alla sede torinese del Ci...</p></details>
 
-23.<a id="endnote-23"></a>
-   Source: aeronautica.difesa.it  
-   Title: it OVN I Archives  
-   Link:<a href="https://www.aeronautica.difesa.it/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/category/ovni/</a>  
+11.<a id="endnote-11"></a>
+   Source: lastampa.it  
+   Title: La Stampa Dal Piemonte 12 segnalazioni di Ufo al Centro nazionale  
+   Link:<a href="https://www.lastampa.it/asti/2019/01/10/news/dal-piemonte-12-segnalazioni-di-ufo-al-centro-nazionale-1.33670183" target="_blank" rel="noopener noreferrer nofollow">https://www.lastampa.it/asti/2019/01/10/news/dal-piemonte-12-segnalazioni-di-ufo-al-centro-nazionale-1.33670183</a>  
 
-24.<a id="endnote-24"></a>
-   Source: aeronautica.difesa.it  
-   Title: RIV 4 2020 FIN  
-   Link:<a href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/wp-content/uploads/2023/01/RIV_4_2020_FIN.pdf</a>  
+12.<a id="endnote-12"></a>
+   Source: ilfattoquotidiano.it  
+   Title: Il Fatto Quotidiano Luci nel cielo del Nord Italia: non sono ufo, ma i satelliti  
+   Link:<a href="https://www.ilfattoquotidiano.it/2022/08/21/luci-nel-cielo-del-nord-italia-non-sono-ufo-ma-i-satelliti-starlink-di-elon-musk/6769675/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilfattoquotidiano.it/2022/08/21/luci-nel-cielo-del-nord-italia-non-sono-ufo-ma-i-satelliti-starlink-di-elon-musk/6769675/</a>  
 
-25.<a id="endnote-25"></a>
-   Source: it.scribd.com  
-   Link:<a href="https://it.scribd.com/document/490374032/Ufo" target="_blank" rel="noopener noreferrer nofollow">https://it.scribd.com/document/490374032/Ufo</a>  
-
-26.<a id="endnote-26"></a>
-   Source: sos.mo.gov  
-   Link:<a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
+13.<a id="endnote-13"></a>
+   Source: queryonline.it  
+   Title: sciami di ufo nel cielo piemontese una questione di metodo  
+   Link:<a href="https://www.queryonline.it/2024/02/15/sciami-di-ufo-nel-cielo-piemontese-una-questione-di-metodo/" target="_blank" rel="noopener noreferrer nofollow">https://www.queryonline.it/2024/02/15/sciami-di-ufo-nel-cielo-piemontese-una-questione-di-metodo/</a>  
 
 ### Additional References
 
-27.<a id="endnote-27"></a>
+14.<a id="endnote-14"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=r42J9oLXgRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r42J9oLXgRM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HALF DESTINATION - CISU ITALIAN CENTER FOR UFO STUDIES LEADS MAURIZIO MAGENES DIRECTED BY ROBERTO...</p></details>
+
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: HALF DESTINATION  
-   Link:<a href="https://www.youtube.com/watch?v=u3xUsLeVemk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u3xUsLeVemk</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Italian UFO researchers: &quot;UFOs in Italy? 5% of sightings are unexplained.&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u3xUsLeVemk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u3xUsLeVemk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Strange Kind - with Giuseppe Stilo...</p></details>
 
-28.<a id="endnote-28"></a>
+16.<a id="endnote-16"></a>
+   Source: arxiv.org  
+   Link:<a href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07446</a>  
+
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Title: In the Mountain of the Unknown  
-   Link:<a href="https://www.youtube.com/watch?v=YOrUpRT1Xao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YOrUpRT1Xao</a><details class="endnote-snippet"><summary>Source snippet</summary><p>HALF DESTINATION - CISU ITALIAN CENTER FOR UFO STUDIES LEADS MAURIZIO MAGENES DIRECTED BY ROBERTO...</p></details>
+   Title: Musiné: The UFO Mountain  
+   Link:<a href="https://www.youtube.com/watch?v=kj-wlydnzK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kj-wlydnzK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>01/1974 &quot;Pas de Panique&quot; France Inter, &quot;UFO Files&quot; 10 first episodes Jean-Claude Bourret...</p></details>
 
-29.<a id="endnote-29"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=Liz17A9e2sw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Liz17A9e2sw</a><details class="endnote-snippet"><summary>Source snippet</summary><p>In the Mountain of the Unknown - Alien Portal | Full Documentary...</p></details>
-   Published: October 1973  
+   Title: UFO Files #4: UFOs over Florence  
+   Link:<a href="https://www.youtube.com/watch?v=dQHx76CM0d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dQHx76CM0d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musiné: The UFO Mountain...</p></details>
 
-30.<a id="endnote-30"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/p/DHmSG2tiFjs/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DHmSG2tiFjs/?hl=en</a>  
-
-31.<a id="endnote-31"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/reel/DWtOj7giE97/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWtOj7giE97/</a>  
-
-32.<a id="endnote-32"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/NinePBS/videos/how-piedmont-became-the-ufo-capitol-of-missouri-living-st-louis/1210535040154211/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NinePBS/videos/how-piedmont-became-the-ufo-capitol-of-missouri-living-st-louis/1210535040154211/</a>  
-
-33.<a id="endnote-33"></a>
-   Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/673336086071389/posts/27406459715665663/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/673336086071389/posts/27406459715665663/</a>  
-
-34.<a id="endnote-34"></a>
-   Source: clubsupermarathon.it  
-   Link:<a href="https://www.clubsupermarathon.it/i-misteri-del-monte-musine/" target="_blank" rel="noopener noreferrer nofollow">https://www.clubsupermarathon.it/i-misteri-del-monte-musine/</a>  
-
-35.<a id="endnote-35"></a>
-   Source: amazon.de  
-   Link:<a href="https://www.amazon.de/UFO-NAZISTI-Unintroduzione-alla-storia/dp/B0B92HPJJ9?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/UFO-NAZISTI-Unintroduzione-alla-storia/dp/B0B92HPJJ9?tag=searcht-20</a>  
-
-36.<a id="endnote-36"></a>
-   Source: instagram.com  
-   Link:<a href="https://www.instagram.com/reel/DVTZfdUDInj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVTZfdUDInj/</a>  
+19.<a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: Close Encounters of the Strange Kind  
+   Link:<a href="https://www.youtube.com/watch?v=Xd5fMKwVLdo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xd5fMKwVLdo</a>  

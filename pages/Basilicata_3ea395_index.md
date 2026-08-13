@@ -1,30 +1,30 @@
 ---
-title: What Really Happened in Basilicata's UFO... Sub-Topic Index
-title_full: What Really Happened in Basilicata's UFO... Sub-Topic Index
+title: Which Basilicata UFO Cases Still Withstand... Sub-Topic Index
+title_full: Which Basilicata UFO Cases Still Withstand... Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /basilicata-3ea395-index/
-description: Focused pages that expand on What Really Happened in Basilicata's UFO....
+description: Focused pages that expand on Which Basilicata UFO Cases Still Withstand....
 date: '2026'
 layout: default
 parent_basename: Basilicata_3ea395
-parent_title: What Really Happened in Basilicata's UFO...
-parent_nav_short_title: What Really Happened in Basilicata's UFO...
-parent_permalink: /what-really-happened-in-basilicatas-ufo/
+parent_title: Which Basilicata UFO Cases Still Withstand...
+parent_nav_short_title: Which Basilicata UFO Cases Still Withstand...
+parent_permalink: /which-basilicata-ufo-cases-still/
 ---
 
-# Explore Topics in What Really Happened in Basilicata's UFO...
+# Explore Topics in Which Basilicata UFO Cases Still Withstand...
 
-The following pages expand on the main **[What Really Happened in Basilicata's UFO...]({{ '/what-really-happened-in-basilicatas-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Which Basilicata UFO Cases Still Withstand...]({{ '/which-basilicata-ufo-cases-still/' | relative_url }})** page and cover its key branches in.
 
-- [Acerenza]({{ '/acerenza/' | relative_url }})
-- [Explanations]({{ '/explanations/' | relative_url }})
-- [2009 Fireball]({{ '/2009-fireball/' | relative_url }})
-- [Local Press]({{ '/local-press/' | relative_url }})
-- [Matera]({{ '/matera/' | relative_url }})
-- [Monticchio]({{ '/monticchio/' | relative_url }})
-- [Official Records]({{ '/official-records/' | relative_url }})
-- [Potenza]({{ '/potenza/' | relative_url }})
-- [Reading Claims]({{ '/reading-claims/' | relative_url }})
-- [Sightings Map]({{ '/sightings-map/' | relative_url }})
+- [Early Potenza]({{ '/early-potenza/' | relative_url }})
+- [Inland Cases]({{ '/inland-cases/' | relative_url }})
+- [Ionian Coast]({{ '/ionian-coast/' | relative_url }})
+- [Montereale]({{ '/montereale/' | relative_url }})
+- [Muro Lucano]({{ '/muro-lucano/' | relative_url }})
+- [Two Archives]({{ '/two-archives/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave-bc5619/' | relative_url }})
+- [UFO Flaps]({{ '/ufo-flaps/' | relative_url }})
+- [Strong Evidence]({{ '/strong-evidence/' | relative_url }})
+- [Visual Errors]({{ '/visual-errors/' | relative_url }})

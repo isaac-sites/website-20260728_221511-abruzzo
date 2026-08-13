@@ -1,30 +1,30 @@
 ---
-title: What Really Happened Over Marche? Sub-Topic Index
-title_full: What Really Happened Over Marche? Sub-Topic Index
+title: How Marche's UFO Legends Took Shape Sub-Topic Index
+title_full: How Marche's UFO Legends Took Shape Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /marche-113fca-index/
-description: Focused pages that expand on What Really Happened Over Marche?.
+description: Focused pages that expand on How Marche's UFO Legends Took Shape.
 date: '2026'
 layout: default
 parent_basename: Marche_113fca
-parent_title: What Really Happened Over Marche?
-parent_nav_short_title: What Really Happened Over Marche?
-parent_permalink: /what-really-happened-over-marche/
+parent_title: How Marche's UFO Legends Took Shape
+parent_nav_short_title: How Marche's UFO Legends Took Shape
+parent_permalink: /how-marches-ufo-legends-took-shape/
 ---
 
-# Explore Topics in What Really Happened Over Marche?
+# Explore Topics in How Marche's UFO Legends Took Shape
 
-The following pages expand on the main **[What Really Happened Over Marche?]({{ '/what-really-happened-over-marche/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[How Marche's UFO Legends Took Shape]({{ '/how-marches-ufo-legends-took-shape/' | relative_url }})** page and cover its key branches in.
 
-- [1954 Wave]({{ '/1954-wave/' | relative_url }})
-- [1978 Pilots]({{ '/1978-pilots/' | relative_url }})
-- [Adriatic]({{ '/adriatic/' | relative_url }})
-- [Air Force Files]({{ '/air-force-files-dcfd6c/' | relative_url }})
-- [Ancona Coast]({{ '/ancona-coast/' | relative_url }})
-- [Close Encounters]({{ '/close-encounters/' | relative_url }})
-- [The CUN Catalogue]({{ '/the-cun-catalogue/' | relative_url }})
-- [25 October]({{ '/25-october/' | relative_url }})
-- [Explanations]({{ '/explanations-24ae81/' | relative_url }})
-- [Regional Rank]({{ '/regional-rank/' | relative_url }})
+- [1978 Adriatic]({{ '/1978-adriatic/' | relative_url }})
+- [Sea Anomalies]({{ '/sea-anomalies/' | relative_url }})
+- [Radar Claims]({{ '/radar-claims-0fd25c/' | relative_url }})
+- [Official Records]({{ '/official-records/' | relative_url }})
+- [Ancona Wave]({{ '/ancona-wave/' | relative_url }})
+- [Colcerasa Claim]({{ '/colcerasa-claim/' | relative_url }})
+- [Falconara]({{ '/falconara/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave-9ad069/' | relative_url }})
+- [Portonovo Lights]({{ '/portonovo-lights/' | relative_url }})
+- [Sea Entry]({{ '/sea-entry/' | relative_url }})

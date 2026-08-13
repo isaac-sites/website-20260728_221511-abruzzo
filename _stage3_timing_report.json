@@ -1,11 +1,3236 @@
 {
   "version": 1,
-  "page_count": 0,
-  "total_page_seconds": 0,
-  "average_page_seconds": 0.0,
-  "phase_totals_seconds": {},
-  "slowest_pages": [],
-  "pages": [],
+  "page_count": 169,
+  "total_page_seconds": 238.3315,
+  "average_page_seconds": 1.4102,
+  "phase_totals_seconds": {
+    "monetization": 108.7154,
+    "content_assembly": 89.6588,
+    "media_svg": 12.7292,
+    "quality_write": 7.7541,
+    "internal_links": 6.1648,
+    "youtube": 5.9672,
+    "content_cleanup_final": 4.0876,
+    "preparation": 3.1791,
+    "content_cleanup_initial": 0.075
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Lazio_2e255a_alitalia_1973_encoun_9596cc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 12.732,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.022,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.0554,
+        "youtube": 0.0136,
+        "content_assembly": 0.544,
+        "monetization": 12.0043,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_ponza_military_sight_926e1d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 11.6102,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.008,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.06,
+        "youtube": 0.0125,
+        "content_assembly": 0.4815,
+        "monetization": 10.9758,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_alpine_distance_illu_9444d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8337,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0185,
+        "content_cleanup_final": 0.0415,
+        "media_svg": 0.0642,
+        "youtube": 0.0105,
+        "content_assembly": 0.5973,
+        "monetization": 6.0346,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "Marche_113fca_adriatic_radar_claim_9debc0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9513,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0854,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.0552,
+        "youtube": 0.0122,
+        "content_assembly": 0.5205,
+        "monetization": 4.1889,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_military_chaff_theor_fa54af",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5394,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0134,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.1233,
+        "youtube": 0.0106,
+        "content_assembly": 0.5033,
+        "monetization": 3.8158,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Abruzzo_4c71bb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1717,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0885,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.0947,
+        "youtube": 1.3902,
+        "content_assembly": 0.5802,
+        "monetization": 1.9166,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1164,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.078,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.098,
+        "youtube": 1.3923,
+        "content_assembly": 0.5114,
+        "monetization": 1.9488,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0529,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0765,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.1412,
+        "youtube": 1.396,
+        "content_assembly": 0.5142,
+        "monetization": 1.8358,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Veneto_862600_airport_sighting_clu_54b581",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.903,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0171,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.0672,
+        "youtube": 0.0103,
+        "content_assembly": 0.5377,
+        "monetization": 3.1824,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_piedmont_sky_explana_17e16f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8534,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0203,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.0666,
+        "youtube": 0.0117,
+        "content_assembly": 0.5173,
+        "monetization": 3.1569,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_ufo_evidence_9e33a3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7065,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0085,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.0625,
+        "youtube": 0.0113,
+        "content_assembly": 0.5007,
+        "monetization": 3.0426,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_sciliar_light_disput_987d39",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6706,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0087,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.071,
+        "youtube": 0.0094,
+        "content_assembly": 0.5173,
+        "monetization": 2.9838,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_ufo_explanati_a9013e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6682,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0113,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.0626,
+        "youtube": 0.0128,
+        "content_assembly": 0.5502,
+        "monetization": 2.9353,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_witness_credibility_c6d46d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6265,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0863,
+        "content_cleanup_final": 0.0297,
+        "media_svg": 0.0596,
+        "youtube": 0.0124,
+        "content_assembly": 0.5232,
+        "monetization": 2.8538,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_castelpetroso_camera_34efda",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6102,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0724,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.0605,
+        "youtube": 0.0076,
+        "content_assembly": 0.5036,
+        "monetization": 2.8839,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_ciampino_military_cl_aa1a53",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.476,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0151,
+        "content_cleanup_final": 0.0108,
+        "media_svg": 0.4123,
+        "youtube": 0.0095,
+        "content_assembly": 0.464,
+        "monetization": 2.5051,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_meteors_and_reentry_985ee0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4754,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0077,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.0633,
+        "youtube": 0.0104,
+        "content_assembly": 0.5291,
+        "monetization": 2.7821,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4365,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.0593,
+        "youtube": 0.0088,
+        "content_assembly": 0.4975,
+        "monetization": 2.7711,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3_italy_official_ufo_s_16e050",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3744,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0747,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.0965,
+        "youtube": 0.0079,
+        "content_assembly": 0.4806,
+        "monetization": 2.6357,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_air_force_ufo_archiv_d3beb5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3203,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.085,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.07,
+        "youtube": 0.01,
+        "content_assembly": 0.5967,
+        "monetization": 2.4714,
+        "quality_write": 0.0472
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Abruzzo_4c71bb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1717,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0885,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.0947,
+        "youtube": 1.3902,
+        "content_assembly": 0.5802,
+        "monetization": 1.9166,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "Abruzzo_4c71bb_ordinary_coastal_exp_050055",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.96,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0198,
+        "content_cleanup_final": 0.0486,
+        "media_svg": 0.0623,
+        "youtube": 0.0111,
+        "content_assembly": 0.6316,
+        "monetization": 0.1118,
+        "quality_write": 0.0561
+      }
+    },
+    {
+      "base_name": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1164,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.078,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.098,
+        "youtube": 1.3923,
+        "content_assembly": 0.5114,
+        "monetization": 1.9488,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9777,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0994,
+        "content_cleanup_final": 0.0344,
+        "media_svg": 0.0629,
+        "youtube": 0.0144,
+        "content_assembly": 0.6076,
+        "monetization": 0.08,
+        "quality_write": 0.0562
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_ufo_speed_estimates_8a3697",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7536,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0119,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.0597,
+        "youtube": 0.0115,
+        "content_assembly": 0.5154,
+        "monetization": 0.0774,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_air_force_ufo_checks_60d80d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7136,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.009,
+        "content_cleanup_final": 0.0133,
+        "media_svg": 0.071,
+        "youtube": 0.0146,
+        "content_assembly": 0.4714,
+        "monetization": 0.0762,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0529,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0765,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.1412,
+        "youtube": 1.396,
+        "content_assembly": 0.5142,
+        "monetization": 1.8358,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_aviano_ufo_influence_147ac9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.788,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0111,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.0563,
+        "youtube": 0.0089,
+        "content_assembly": 0.5293,
+        "monetization": 0.1001,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_cordenons_white_obje_ae5013",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9367,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0856,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.0598,
+        "youtube": 0.012,
+        "content_assembly": 0.6056,
+        "monetization": 0.08,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_feletto_umberto_1978_82d6f8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8116,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0115,
+        "content_cleanup_final": 0.029,
+        "media_svg": 0.0603,
+        "youtube": 0.0068,
+        "content_assembly": 0.5601,
+        "monetization": 0.0797,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_friuli_1978_79_wave_4f68ed",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3155,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0824,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.0595,
+        "youtube": 0.0106,
+        "content_assembly": 0.5094,
+        "monetization": 2.5656,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_lake_burida_orange_l_791739",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7725,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0096,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.0643,
+        "youtube": 0.0114,
+        "content_assembly": 0.5209,
+        "monetization": 0.0832,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_pinzano_pordenone_li_2e089f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8151,
+      "phases": {
+        "preparation": 0.0675,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0183,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.0587,
+        "youtube": 0.0075,
+        "content_assembly": 0.5068,
+        "monetization": 0.0819,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_pordenone_2010_12_cl_f6c3d0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7223,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0067,
+        "content_cleanup_final": 0.0132,
+        "media_svg": 0.0648,
+        "youtube": 0.0121,
+        "content_assembly": 0.4879,
+        "monetization": 0.0781,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Friuli-Venezia_Giuli_608dd8_friuli_likely_explan_3dfa7a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4365,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.0593,
+        "youtube": 0.0088,
+        "content_assembly": 0.4975,
+        "monetization": 2.7711,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2851,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0828,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.063,
+        "youtube": 0.0099,
+        "content_assembly": 0.545,
+        "monetization": 2.4948,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3_genoa_airport_sighti_f2884f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1893,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0757,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.0595,
+        "youtube": 0.0066,
+        "content_assembly": 0.5322,
+        "monetization": 2.4275,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3_liguria_terrain_misp_22c2c6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8367,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0126,
+        "content_cleanup_final": 0.0398,
+        "media_svg": 0.0935,
+        "youtube": 0.0078,
+        "content_assembly": 0.5421,
+        "monetization": 0.0765,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3_italy_official_ufo_s_16e050",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3744,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0747,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.0965,
+        "youtube": 0.0079,
+        "content_assembly": 0.4806,
+        "monetization": 2.6357,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3_ligurian_coastal_lig_15c923",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8194,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0193,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.0585,
+        "youtube": 0.0098,
+        "content_assembly": 0.5374,
+        "monetization": 1.103,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3_zanfretta_first_enco_870926",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0541,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0075,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.0892,
+        "youtube": 0.0091,
+        "content_assembly": 0.5116,
+        "monetization": 1.3541,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8859,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0793,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.062,
+        "youtube": 0.0144,
+        "content_assembly": 0.5719,
+        "monetization": 0.0659,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_official_ufo_f790b6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8159,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0711,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.0578,
+        "youtube": 0.0115,
+        "content_assembly": 0.5179,
+        "monetization": 0.0772,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Liguria_5b11e3_zanfretta_physical_c_a7b700",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9798,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.0654,
+        "youtube": 0.0085,
+        "content_assembly": 0.5384,
+        "monetization": 1.2571,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_ufo_timeline_98de52",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7637,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0179,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.0573,
+        "youtube": 0.008,
+        "content_assembly": 0.5314,
+        "monetization": 0.0534,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_difesa_grande_sphere_83c4d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7922,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0089,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.0613,
+        "youtube": 0.0171,
+        "content_assembly": 0.5495,
+        "monetization": 0.0729,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_guglionesi_2017_flap_2048a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7621,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0096,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.0576,
+        "youtube": 0.0106,
+        "content_assembly": 0.5146,
+        "monetization": 0.0784,
+        "quality_write": 0.0493
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_ufo_evidence_9e33a3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7065,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0085,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.0625,
+        "youtube": 0.0113,
+        "content_assembly": 0.5007,
+        "monetization": 3.0426,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_ufo_media_amp_9ed718",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7591,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.009,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.0609,
+        "youtube": 0.007,
+        "content_assembly": 0.5219,
+        "monetization": 0.0744,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_castelpetroso_camera_34efda",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6102,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0724,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.0605,
+        "youtube": 0.0076,
+        "content_assembly": 0.5036,
+        "monetization": 2.8839,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_ufo_reporting_a8691d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7074,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0083,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.0636,
+        "youtube": 0.0086,
+        "content_assembly": 0.4983,
+        "monetization": 0.0504,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_termoli_seafront_vid_978e8c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7721,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0173,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.0564,
+        "youtube": 0.0154,
+        "content_assembly": 0.5371,
+        "monetization": 0.0518,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "Sicily_77b465",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.971,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0995,
+        "content_cleanup_final": 0.0374,
+        "media_svg": 0.0575,
+        "youtube": 0.0144,
+        "content_assembly": 0.6204,
+        "monetization": 0.064,
+        "quality_write": 0.0562
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_sicily_official_ufo_7ecae6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0882,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.0546,
+        "youtube": 0.0169,
+        "content_assembly": 0.4746,
+        "monetization": 0.0899,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "Molise_7c6aa1_molise_ufo_explanati_a9013e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6682,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0113,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.0626,
+        "youtube": 0.0128,
+        "content_assembly": 0.5502,
+        "monetization": 2.9353,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_judging_sicilian_ufo_1f7de3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7755,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0187,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.0629,
+        "youtube": 0.0086,
+        "content_assembly": 0.5172,
+        "monetization": 0.0785,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_caronia_fires_ufo_cl_98ce8c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8784,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0142,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.1408,
+        "youtube": 0.009,
+        "content_assembly": 0.5476,
+        "monetization": 0.0794,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_media_amplified_sigh_cc1600",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8854,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0884,
+        "content_cleanup_final": 0.0297,
+        "media_svg": 0.0597,
+        "youtube": 0.0088,
+        "content_assembly": 0.5421,
+        "monetization": 0.0913,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_official_air_force_r_c3fc83",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7346,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0091,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.0646,
+        "youtube": 0.0106,
+        "content_assembly": 0.4961,
+        "monetization": 0.0768,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_military_airspace_si_f53ed5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9624,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0228,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 0.0609,
+        "youtube": 0.0131,
+        "content_assembly": 0.6367,
+        "monetization": 0.0981,
+        "quality_write": 0.0607
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_sicily_1978_ufo_wave_d9ca00",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7928,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0176,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.0608,
+        "youtube": 0.0118,
+        "content_assembly": 0.5386,
+        "monetization": 0.0778,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_sicily_ufo_groups_ar_fc6bc3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7486,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0088,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.0691,
+        "youtube": 0.007,
+        "content_assembly": 0.5063,
+        "monetization": 0.0777,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_siragusa_contactee_m_21f46f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8746,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0111,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.142,
+        "youtube": 0.017,
+        "content_assembly": 0.5325,
+        "monetization": 0.0784,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Sicily_77b465_taormina_photo_evide_7503a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7291,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.007,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.0671,
+        "youtube": 0.01,
+        "content_assembly": 0.4885,
+        "monetization": 0.0767,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.921,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0736,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.1291,
+        "youtube": 0.0114,
+        "content_assembly": 0.5516,
+        "monetization": 0.0647,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_tuscan_ufo_press_91c345",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8663,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0708,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.1036,
+        "youtube": 0.0081,
+        "content_assembly": 0.5204,
+        "monetization": 0.0769,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_angel_hair_filaments_58b16b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8589,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0696,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.0655,
+        "youtube": 0.0076,
+        "content_assembly": 0.5272,
+        "monetization": 0.0986,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_cennina_humanoid_cas_c6e066",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7441,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0098,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.0653,
+        "youtube": 0.009,
+        "content_assembly": 0.5051,
+        "monetization": 0.0765,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_florence_stadium_sig_dbedae",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.77,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.0646,
+        "youtube": 0.0106,
+        "content_assembly": 0.512,
+        "monetization": 0.0862,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_regional_1954_sighti_9bf14d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7521,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0075,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.0645,
+        "youtube": 0.0158,
+        "content_assembly": 0.5128,
+        "monetization": 0.073,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_spider_ballooning_th_102e15",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7735,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0083,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.0626,
+        "youtube": 0.01,
+        "content_assembly": 0.519,
+        "monetization": 0.0892,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_torrita_close_encoun_5d1341",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7225,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0065,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.062,
+        "youtube": 0.0117,
+        "content_assembly": 0.493,
+        "monetization": 0.0747,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_tuscany_1954_ufo_wav_6d6baf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9375,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0104,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.2365,
+        "youtube": 0.0108,
+        "content_assembly": 0.5199,
+        "monetization": 0.0757,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_tuscany_ufo_evidence_566ab8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8382,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0107,
+        "content_cleanup_final": 0.0282,
+        "media_svg": 0.1065,
+        "youtube": 0.0071,
+        "content_assembly": 0.545,
+        "monetization": 0.0772,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.902,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0983,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.061,
+        "youtube": 0.0094,
+        "content_assembly": 0.5685,
+        "monetization": 0.0658,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_terni_1978_flap_216229",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8044,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0925,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.0668,
+        "youtube": 0.0115,
+        "content_assembly": 0.5076,
+        "monetization": 0.0507,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_nocera_umbra_1977_d9a042",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7895,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0141,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.069,
+        "youtube": 0.0127,
+        "content_assembly": 0.555,
+        "monetization": 0.0527,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Tuscany_2685d2_military_chaff_theor_fa54af",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5394,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0134,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.1233,
+        "youtube": 0.0106,
+        "content_assembly": 0.5033,
+        "monetization": 3.8158,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_air_force_ufo_record_e3988d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8165,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0209,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.058,
+        "youtube": 0.0124,
+        "content_assembly": 0.5519,
+        "monetization": 0.0895,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_apparent_light_motio_4370a3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8106,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0109,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.1064,
+        "youtube": 0.0104,
+        "content_assembly": 0.5369,
+        "monetization": 0.053,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_orvieto_erratic_ligh_b23ae2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7932,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0099,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.0897,
+        "youtube": 0.0066,
+        "content_assembly": 0.5436,
+        "monetization": 0.0525,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_civilian_ufo_archive_a2ad13",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8196,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0927,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.0658,
+        "youtube": 0.0077,
+        "content_assembly": 0.5179,
+        "monetization": 0.0506,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_polino_binocular_cas_d498fb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7519,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0093,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.0615,
+        "youtube": 0.0102,
+        "content_assembly": 0.5314,
+        "monetization": 0.0509,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_ufo_retelling_effect_6cf03a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7736,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0084,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.0625,
+        "youtube": 0.0068,
+        "content_assembly": 0.5274,
+        "monetization": 0.0773,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_umbria_landscape_eff_1090ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8742,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0236,
+        "content_cleanup_final": 0.0404,
+        "media_svg": 0.0903,
+        "youtube": 0.0106,
+        "content_assembly": 0.5557,
+        "monetization": 0.0842,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "Umbria_d4a7a8_umbria_sighting_coun_23d23f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7024,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0066,
+        "content_cleanup_final": 0.0112,
+        "media_svg": 0.0629,
+        "youtube": 0.0124,
+        "content_assembly": 0.4707,
+        "monetization": 0.078,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_potenza_1954_wave_8f4fde",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8577,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0928,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.0659,
+        "youtube": 0.0146,
+        "content_assembly": 0.5225,
+        "monetization": 0.0784,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0606,
+      "phases": {
+        "preparation": 0.1094,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.1061,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.0668,
+        "youtube": 0.0085,
+        "content_assembly": 0.5984,
+        "monetization": 0.0963,
+        "quality_write": 0.0498
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_regional_ufo_flaps_a343e9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8234,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0909,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.0631,
+        "youtube": 0.0073,
+        "content_assembly": 0.499,
+        "monetization": 0.0775,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_official_vs_private_94d8d6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7494,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0109,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.0687,
+        "youtube": 0.0111,
+        "content_assembly": 0.5042,
+        "monetization": 0.0806,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_montereale_humanoid_14ae20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8678,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.0633,
+        "youtube": 0.0119,
+        "content_assembly": 0.6242,
+        "monetization": 0.0779,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_inland_basilicata_si_11d365",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8591,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0259,
+        "content_cleanup_final": 0.033,
+        "media_svg": 0.0571,
+        "youtube": 0.0081,
+        "content_assembly": 0.5702,
+        "monetization": 0.0969,
+        "quality_write": 0.0499
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_ionian_coast_sightin_e2aff8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8305,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.014,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.0588,
+        "youtube": 0.0158,
+        "content_assembly": 0.5539,
+        "monetization": 0.0896,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_muro_lucano_aircraft_c5c852",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8061,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0115,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.0629,
+        "youtube": 0.0096,
+        "content_assembly": 0.5556,
+        "monetization": 0.0782,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "Basilicata_3ea395_ufo_height_speed_err_3977d1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8849,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 0.0602,
+        "youtube": 0.0114,
+        "content_assembly": 0.5949,
+        "monetization": 0.0971,
+        "quality_write": 0.0502
+      }
+    },
+    {
+      "base_name": "Calabria_663de5",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9067,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0774,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.0607,
+        "youtube": 0.0132,
+        "content_assembly": 0.5659,
+        "monetization": 0.091,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "Calabria_663de5_rende_2004_lights_73c089",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8896,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0751,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.0614,
+        "youtube": 0.0125,
+        "content_assembly": 0.5606,
+        "monetization": 0.0801,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "Calabria_663de5_calabria_1978_ufo_wa_9da356",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.791,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.0661,
+        "youtube": 0.009,
+        "content_assembly": 0.5216,
+        "monetization": 0.0911,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Calabria_663de5_air_force_unidentifi_84628b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.806,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0129,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.067,
+        "youtube": 0.0145,
+        "content_assembly": 0.5317,
+        "monetization": 0.0938,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Calabria_663de5_calabria_police_ufo_38cc8e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8492,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0716,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.0607,
+        "youtube": 0.0124,
+        "content_assembly": 0.531,
+        "monetization": 1.0942,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "Calabria_663de5_calabria_pandemic_uf_f892d6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7883,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0072,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.0642,
+        "youtube": 0.0094,
+        "content_assembly": 0.5269,
+        "monetization": 0.0952,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "Calabria_663de5_early_calabrian_sigh_5ede64",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8096,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0122,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.0625,
+        "youtube": 0.0074,
+        "content_assembly": 0.5519,
+        "monetization": 0.0782,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "Campania_5acc6a_capodimonte_light_6643b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8343,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0747,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.0603,
+        "youtube": 0.0112,
+        "content_assembly": 0.5191,
+        "monetization": 0.0805,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Campania_5acc6a_air_force_ovni_files_a9d80e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7879,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0735,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.0637,
+        "youtube": 0.0097,
+        "content_assembly": 0.4907,
+        "monetization": 0.077,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "Campania_5acc6a_cesa_sphere_claim_32e258",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8247,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0722,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.0576,
+        "youtube": 0.0112,
+        "content_assembly": 0.5125,
+        "monetization": 0.0943,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Campania_5acc6a_campania_2010_sighti_04fc98",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7708,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0161,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.0631,
+        "youtube": 0.0151,
+        "content_assembly": 0.5173,
+        "monetization": 0.0782,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "Campania_5acc6a_campania_media_feedb_5cd5c8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.754,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.0622,
+        "youtube": 0.005,
+        "content_assembly": 0.5127,
+        "monetization": 0.0792,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "Campania_5acc6a_naples_airport_light_738468",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8129,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0173,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.0614,
+        "youtube": 0.0108,
+        "content_assembly": 0.5435,
+        "monetization": 0.0925,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Emilia-Romagna_e1c904_regional_ufo_totals_03c070",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8182,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0858,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.0624,
+        "youtube": 0.0104,
+        "content_assembly": 0.5034,
+        "monetization": 0.0753,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Emilia-Romagna_e1c904_adriatic_coast_ufo_r_66f02a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8542,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0872,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.0571,
+        "youtube": 0.011,
+        "content_assembly": 0.5241,
+        "monetization": 0.0882,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Emilia-Romagna_e1c904_piacenza_fighter_cha_69756f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.841,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0848,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.063,
+        "youtube": 0.0121,
+        "content_assembly": 0.5103,
+        "monetization": 0.0856,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_1978_official_respon_a0fe18",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8822,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0909,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.0639,
+        "youtube": 0.0119,
+        "content_assembly": 0.5377,
+        "monetization": 0.0822,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_witness_credibility_c6d46d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6265,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0863,
+        "content_cleanup_final": 0.0297,
+        "media_svg": 0.0596,
+        "youtube": 0.0124,
+        "content_assembly": 0.5232,
+        "monetization": 2.8538,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_air_force_ufo_archiv_d3beb5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3203,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.085,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.07,
+        "youtube": 0.01,
+        "content_assembly": 0.5967,
+        "monetization": 2.4714,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_modern_rome_sighting_8203dc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7299,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.017,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.0592,
+        "youtube": 0.0122,
+        "content_assembly": 0.4912,
+        "monetization": 0.0768,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_ciampino_military_cl_aa1a53",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.476,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0151,
+        "content_cleanup_final": 0.0108,
+        "media_svg": 0.4123,
+        "youtube": 0.0095,
+        "content_assembly": 0.464,
+        "monetization": 2.5051,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_ordinary_ufo_explana_25e14f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0419,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0154,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.0611,
+        "youtube": 0.006,
+        "content_assembly": 0.542,
+        "monetization": 2.3209,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "Lombardy_9b46d3_magenta_crash_claim_ef3d9f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.801,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0717,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.0624,
+        "youtube": 0.0107,
+        "content_assembly": 0.4981,
+        "monetization": 0.0781,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "Lombardy_9b46d3_abbiate_guazzone_cas_ba1c3a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7295,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0131,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.0575,
+        "youtube": 0.0104,
+        "content_assembly": 0.4905,
+        "monetization": 0.0809,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Lombardy_9b46d3_lombardy_report_proc_7ef31b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7757,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0115,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.0658,
+        "youtube": 0.0123,
+        "content_assembly": 0.5236,
+        "monetization": 0.0787,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Lombardy_9b46d3_lombardy_sky_illusio_d04109",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7631,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0087,
+        "content_cleanup_final": 0.033,
+        "media_svg": 0.0568,
+        "youtube": 0.0091,
+        "content_assembly": 0.5147,
+        "monetization": 0.0827,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Lombardy_9b46d3_milan_airspace_misid_955ffb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.692,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0061,
+        "content_cleanup_final": 0.0134,
+        "media_svg": 0.0603,
+        "youtube": 0.0088,
+        "content_assembly": 0.4655,
+        "monetization": 0.0774,
+        "quality_write": 0.0433
+      }
+    },
+    {
+      "base_name": "Lombardy_9b46d3_vatican_recovery_cla_b93e7c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9966,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0069,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.327,
+        "youtube": 0.0162,
+        "content_assembly": 0.4947,
+        "monetization": 0.0748,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Marche_113fca_ancona_coastal_wave_7ad705",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8145,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0841,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.0605,
+        "youtube": 0.0105,
+        "content_assembly": 0.4977,
+        "monetization": 0.0763,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_alitalia_1973_encoun_9596cc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 12.732,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.022,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.0554,
+        "youtube": 0.0136,
+        "content_assembly": 0.544,
+        "monetization": 12.0043,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Marche_113fca_portonovo_formation_4a4e17",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7929,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0204,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.0596,
+        "youtube": 0.0174,
+        "content_assembly": 0.5281,
+        "monetization": 0.0779,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Marche_113fca_falconara_aviation_c_e3b9b5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.784,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0141,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.0551,
+        "youtube": 0.0093,
+        "content_assembly": 0.5335,
+        "monetization": 0.0764,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "Marche_113fca_sea_entry_horizon_il_8d401e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7668,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.01,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.0586,
+        "youtube": 0.0083,
+        "content_assembly": 0.525,
+        "monetization": 0.0738,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7924,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0934,
+        "content_cleanup_final": 0.0145,
+        "media_svg": 0.0596,
+        "youtube": 0.0089,
+        "content_assembly": 0.5112,
+        "monetization": 0.038,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_turin_ufo_archives_a1f7cb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7298,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0117,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.0673,
+        "youtube": 0.0116,
+        "content_assembly": 0.4853,
+        "monetization": 0.0745,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Lazio_2e255a_ponza_military_sight_926e1d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 11.6102,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.008,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.06,
+        "youtube": 0.0125,
+        "content_assembly": 0.4815,
+        "monetization": 10.9758,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_caselle_1973_radar_v_03dd82",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1823,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0082,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.0624,
+        "youtube": 0.0078,
+        "content_assembly": 0.4934,
+        "monetization": 0.5321,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "Marche_113fca_adriatic_radar_claim_9debc0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9513,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0854,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.0552,
+        "youtube": 0.0122,
+        "content_assembly": 0.5205,
+        "monetization": 4.1889,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_judging_piedmont_ufo_9fbe9d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7585,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0102,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.0633,
+        "youtube": 0.0053,
+        "content_assembly": 0.5148,
+        "monetization": 0.0772,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_corio_2018_mini_flap_18e166",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8831,
+      "phases": {
+        "preparation": 0.1097,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0865,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.0622,
+        "youtube": 0.0093,
+        "content_assembly": 0.4981,
+        "monetization": 0.0517,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_official_ufo_investi_b5c390",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7292,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0092,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.061,
+        "youtube": 0.0098,
+        "content_assembly": 0.4914,
+        "monetization": 0.0778,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_piedmont_1978_ufo_wa_795a4f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.768,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0192,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.054,
+        "youtube": 0.0096,
+        "content_assembly": 0.5229,
+        "monetization": 0.0787,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_monte_musine_encount_776fc7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9766,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0864,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.0675,
+        "youtube": 0.0099,
+        "content_assembly": 0.4926,
+        "monetization": 1.2422,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_piedmont_aviation_ca_ad5924",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.745,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0079,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.0643,
+        "youtube": 0.0106,
+        "content_assembly": 0.4962,
+        "monetization": 0.0929,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_piedmont_media_legen_277f26",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7322,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0091,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.0599,
+        "youtube": 0.009,
+        "content_assembly": 0.4966,
+        "monetization": 0.0796,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "Apulia_98f3e8_cisu_apulia_map_c05912",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8683,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0845,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.059,
+        "youtube": 0.0135,
+        "content_assembly": 0.5373,
+        "monetization": 0.0853,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Apulia_98f3e8_apulia_1978_wave_64d36d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8311,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0805,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.0575,
+        "youtube": 0.0086,
+        "content_assembly": 0.5233,
+        "monetization": 0.0785,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "Apulia_98f3e8_apulia_ufo_hotspots_bb076b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7619,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.0677,
+        "youtube": 0.0079,
+        "content_assembly": 0.5044,
+        "monetization": 0.0765,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Apulia_98f3e8_barletta_multiwitnes_bcc811",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8583,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0226,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.0643,
+        "youtube": 0.0142,
+        "content_assembly": 0.5785,
+        "monetization": 0.0814,
+        "quality_write": 0.0505
+      }
+    },
+    {
+      "base_name": "Apulia_98f3e8_official_ufo_process_66dd84",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8072,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0121,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.0676,
+        "youtube": 0.012,
+        "content_assembly": 0.5489,
+        "monetization": 0.0798,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9982,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.102,
+        "content_cleanup_final": 0.0349,
+        "media_svg": 0.0638,
+        "youtube": 0.0119,
+        "content_assembly": 0.6177,
+        "monetization": 0.0901,
+        "quality_write": 0.056
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_campeda_lost_film_f9d377",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8001,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0846,
+        "content_cleanup_final": 0.0136,
+        "media_svg": 0.0623,
+        "youtube": 0.0107,
+        "content_assembly": 0.4948,
+        "monetization": 0.0759,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_elmas_airport_case_86fce1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7623,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0117,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.0584,
+        "youtube": 0.0098,
+        "content_assembly": 0.523,
+        "monetization": 0.0781,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Piedmont_9fde2b_piedmont_sky_explana_17e16f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8534,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0203,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.0666,
+        "youtube": 0.0117,
+        "content_assembly": 0.5173,
+        "monetization": 3.1569,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_official_ufo_files_98c8b0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7698,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0195,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.0682,
+        "youtube": 0.0083,
+        "content_assembly": 0.5174,
+        "monetization": 0.0777,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_sardinia_1954_wave_8285e3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7817,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0078,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.1106,
+        "youtube": 0.0095,
+        "content_assembly": 0.5275,
+        "monetization": 0.0495,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_sardinia_1978_wave_b1a97b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8255,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0876,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.0661,
+        "youtube": 0.0069,
+        "content_assembly": 0.5272,
+        "monetization": 0.0518,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_modern_ufo_explanati_6eaf8b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8508,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0357,
+        "media_svg": 0.0699,
+        "youtube": 0.0104,
+        "content_assembly": 0.5704,
+        "monetization": 0.0793,
+        "quality_write": 0.0512
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_salto_quirra_rockets_178764",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1214,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0253,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.3617,
+        "youtube": 0.0082,
+        "content_assembly": 0.5586,
+        "monetization": 0.0641,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_southern_sardinia_cl_ad8c9f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8289,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.0636,
+        "youtube": 0.0372,
+        "content_assembly": 0.5663,
+        "monetization": 0.0528,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_military_ranges_ligh_a36ce2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3823,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0176,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 0.0603,
+        "youtube": 0.0072,
+        "content_assembly": 0.5842,
+        "monetization": 1.6022,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "Sardinia_83a1a0_why_cases_unresolved_fdb70d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7875,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0144,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.0602,
+        "youtube": 0.008,
+        "content_assembly": 0.5524,
+        "monetization": 0.0551,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8483,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0931,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.057,
+        "youtube": 0.0097,
+        "content_assembly": 0.5328,
+        "monetization": 0.0745,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_air_force_ufo_record_e3988d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8209,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0883,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.066,
+        "youtube": 0.0145,
+        "content_assembly": 0.4973,
+        "monetization": 0.0782,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_bolzano_red_lights_b6714a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8955,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0983,
+        "content_cleanup_final": 0.0325,
+        "media_svg": 0.0614,
+        "youtube": 0.0089,
+        "content_assembly": 0.5713,
+        "monetization": 0.0534,
+        "quality_write": 0.0516
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_bolzano_radar_limits_be0e28",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8183,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0238,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.0664,
+        "youtube": 0.0134,
+        "content_assembly": 0.5324,
+        "monetization": 0.0871,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_cortellazzi_ufo_arch_a8e210",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7692,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0192,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.071,
+        "youtube": 0.0097,
+        "content_assembly": 0.5221,
+        "monetization": 0.0559,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_formation_sighting_c_931d69",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7455,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0085,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.0617,
+        "youtube": 0.0106,
+        "content_assembly": 0.5256,
+        "monetization": 0.0512,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_regional_ufo_timelin_832582",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8016,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0162,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.061,
+        "youtube": 0.003,
+        "content_assembly": 0.5639,
+        "monetization": 0.0551,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_space_objects_ufo_co_13f3c8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0213,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0129,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 0.3023,
+        "youtube": 0.0164,
+        "content_assembly": 0.5311,
+        "monetization": 0.0633,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_ufo_witness_testimon_845b45",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8445,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.015,
+        "content_cleanup_final": 0.0373,
+        "media_svg": 0.0633,
+        "youtube": 0.0102,
+        "content_assembly": 0.5664,
+        "monetization": 0.0797,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8673,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.082,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.0601,
+        "youtube": 0.0097,
+        "content_assembly": 0.5386,
+        "monetization": 0.0785,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_sciliar_light_disput_987d39",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6706,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0087,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.071,
+        "youtube": 0.0094,
+        "content_assembly": 0.5173,
+        "monetization": 2.9838,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_la_thuile_photo_55d22d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8161,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0143,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.0585,
+        "youtube": 0.0102,
+        "content_assembly": 0.5462,
+        "monetization": 0.0952,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_air_force_reporting_bc5e2a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8277,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0785,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.06,
+        "youtube": 0.0164,
+        "content_assembly": 0.5162,
+        "monetization": 0.0759,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Trentino-Alto_Adige_27eb8f_alpine_distance_illu_9444d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8337,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0185,
+        "content_cleanup_final": 0.0415,
+        "media_svg": 0.0642,
+        "youtube": 0.0105,
+        "content_assembly": 0.5973,
+        "monetization": 6.0346,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_local_press_and_memo_3aabf8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8841,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0785,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.064,
+        "youtube": 0.0077,
+        "content_assembly": 0.54,
+        "monetization": 0.0958,
+        "quality_write": 0.0489
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_postwar_sighting_tim_0c3127",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7625,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0172,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.0606,
+        "youtube": 0.0104,
+        "content_assembly": 0.4976,
+        "monetization": 0.0943,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_alpine_cloud_misiden_0da585",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.529,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0215,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 0.0613,
+        "youtube": 0.0154,
+        "content_assembly": 0.5775,
+        "monetization": 1.752,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_meteors_and_reentry_985ee0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4754,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0077,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.0633,
+        "youtube": 0.0104,
+        "content_assembly": 0.5291,
+        "monetization": 2.7821,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_rai_shape_changing_f_4ab9de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8377,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0123,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.0643,
+        "youtube": 0.0158,
+        "content_assembly": 0.5441,
+        "monetization": 0.1004,
+        "quality_write": 0.0498
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_rhemes_campsite_obje_6be8a8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7657,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0076,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.0608,
+        "youtube": 0.01,
+        "content_assembly": 0.5196,
+        "monetization": 0.094,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Aosta_Valley_ccb120_rutor_manoeuvring_li_0750ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7518,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0066,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.0573,
+        "youtube": 0.0081,
+        "content_assembly": 0.5115,
+        "monetization": 0.0929,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "Veneto_862600",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9227,
+      "phases": {
+        "preparation": 0.0205,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0737,
+        "content_cleanup_final": 0.0373,
+        "media_svg": 0.0622,
+        "youtube": 0.0175,
+        "content_assembly": 0.5915,
+        "monetization": 0.0672,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "Veneto_862600_veneto_1978_wave_dbaa0e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.866,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0682,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.0651,
+        "youtube": 0.0104,
+        "content_assembly": 0.5566,
+        "monetization": 0.0796,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Veneto_862600_cecconi_encounter_7c42de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8518,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0673,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.0614,
+        "youtube": 0.0113,
+        "content_assembly": 0.5327,
+        "monetization": 0.0889,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "Veneto_862600_cecconi_photographs_e35280",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9234,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0126,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.2042,
+        "youtube": 0.0093,
+        "content_assembly": 0.5284,
+        "monetization": 0.079,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Veneto_862600_common_ufo_explanati_51afb7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8074,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0193,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.0571,
+        "youtube": 0.0026,
+        "content_assembly": 0.5524,
+        "monetization": 0.0792,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "Veneto_862600_istrana_airfield_rep_ad5cae",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7693,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0095,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.0636,
+        "youtube": 0.0132,
+        "content_assembly": 0.5286,
+        "monetization": 0.0777,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Veneto_862600_official_ufo_process_66dd84",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7446,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0087,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.0637,
+        "youtube": 0.0123,
+        "content_assembly": 0.5036,
+        "monetization": 0.0763,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Veneto_862600_venice_1988_sighting_a22415",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.7149,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0055,
+        "content_cleanup_final": 0.0118,
+        "media_svg": 0.0606,
+        "youtube": 0.0115,
+        "content_assembly": 0.495,
+        "monetization": 0.0732,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "Veneto_862600_villafranca_incomple_d76b4a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8075,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0126,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.0617,
+        "youtube": 0.0116,
+        "content_assembly": 0.5432,
+        "monetization": 0.0814,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Veneto_862600_treviso_balloon_theo_d3ad1b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2441,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0078,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.0588,
+        "youtube": 0.0098,
+        "content_assembly": 0.531,
+        "monetization": 1.5463,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "Veneto_862600_airport_sighting_clu_54b581",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.903,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0171,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.0672,
+        "youtube": 0.0103,
+        "content_assembly": 0.5377,
+        "monetization": 3.1824,
+        "quality_write": 0.0461
+      }
+    }
+  ],
   "parallel": {
     "enabled": true,
     "mode": "process",
@@ -13,20 +3238,161 @@
     "workers_raw": "auto",
     "max_workers": 3,
     "progress_interval_seconds": 60.0,
-    "queued_rebuild_pages": 0,
-    "reused_pages": 220,
-    "rebuilt_pages": 0,
+    "queued_rebuild_pages": 169,
+    "reused_pages": 51,
+    "rebuilt_pages": 169,
     "error_pages": 0,
-    "page_work_wall_seconds": 19.1259,
-    "rebuilt_pages_per_minute": 0.0,
-    "queued_rebuild_pages_per_minute": 0.0,
-    "apparent_page_work_speedup": 0.0,
+    "page_work_wall_seconds": 95.1853,
+    "rebuilt_pages_per_minute": 106.5291,
+    "queued_rebuild_pages_per_minute": 106.5291,
+    "apparent_page_work_speedup": 2.5039,
+    "youtube_cache_prepare": {
+      "entries": 44908,
+      "updated": true,
+      "elapsed_seconds": 3.1059
+    },
     "process_worker_diagnostics": {
-      "completed_pages": 0,
-      "successful_pages": 0,
+      "completed_pages": 169,
+      "successful_pages": 169,
       "failed_pages": 0,
-      "worker_summary": {},
-      "slowest_worker_pages": []
+      "worker_summary": {
+        "31436": {
+          "pages": 54,
+          "successes": 54,
+          "failures": 0,
+          "total_worker_seconds": 84.0495,
+          "max_worker_seconds": 12.7712,
+          "last_base_name": "Veneto_862600_airport_sighting_clu_54b581"
+        },
+        "35796": {
+          "pages": 66,
+          "successes": 66,
+          "failures": 0,
+          "total_worker_seconds": 81.3724,
+          "max_worker_seconds": 4.5788,
+          "last_base_name": "Veneto_862600_villafranca_incomple_d76b4a"
+        },
+        "10548": {
+          "pages": 49,
+          "successes": 49,
+          "failures": 0,
+          "total_worker_seconds": 79.7314,
+          "max_worker_seconds": 11.651,
+          "last_base_name": "Veneto_862600_treviso_balloon_theo_d3ad1b"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Lazio_2e255a_alitalia_1973_encoun_9596cc",
+          "level": 2,
+          "success": true,
+          "worker_pid": 31436,
+          "worker_duration_seconds": 12.7712,
+          "total_seconds": 12.732,
+          "worker_started_at_utc": "2026-07-28T21:08:07.154892Z",
+          "worker_finished_at_utc": "2026-07-28T21:08:19.886905Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Lazio_2e255a_ponza_military_sight_926e1d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 10548,
+          "worker_duration_seconds": 11.651,
+          "total_seconds": 11.6102,
+          "worker_started_at_utc": "2026-07-28T21:08:13.003983Z",
+          "worker_finished_at_utc": "2026-07-28T21:08:24.614211Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Trentino-Alto_Adige_27eb8f_alpine_distance_illu_9444d8",
+          "level": 2,
+          "success": true,
+          "worker_pid": 10548,
+          "worker_duration_seconds": 6.8731,
+          "total_seconds": 6.8337,
+          "worker_started_at_utc": "2026-07-28T21:08:34.267936Z",
+          "worker_finished_at_utc": "2026-07-28T21:08:41.101646Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Marche_113fca_adriatic_radar_claim_9debc0",
+          "level": 2,
+          "success": true,
+          "worker_pid": 31436,
+          "worker_duration_seconds": 4.9918,
+          "total_seconds": 4.9513,
+          "worker_started_at_utc": "2026-07-28T21:08:19.927784Z",
+          "worker_finished_at_utc": "2026-07-28T21:08:24.879134Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Tuscany_2685d2_military_chaff_theor_fa54af",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35796,
+          "worker_duration_seconds": 4.5788,
+          "total_seconds": 4.5394,
+          "worker_started_at_utc": "2026-07-28T21:07:52.023450Z",
+          "worker_finished_at_utc": "2026-07-28T21:07:56.562925Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Abruzzo_4c71bb",
+          "level": 1,
+          "success": true,
+          "worker_pid": 31436,
+          "worker_duration_seconds": 4.214,
+          "total_seconds": 4.1717,
+          "worker_started_at_utc": "2026-07-28T21:07:24.868624Z",
+          "worker_finished_at_utc": "2026-07-28T21:07:29.040347Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Abruzzo_4c71bb_abruzzo_1978_sightin_0ce986",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35796,
+          "worker_duration_seconds": 4.156,
+          "total_seconds": 4.1164,
+          "worker_started_at_utc": "2026-07-28T21:07:26.907821Z",
+          "worker_finished_at_utc": "2026-07-28T21:07:31.024253Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Abruzzo_4c71bb_fishing_boat_tragedy_28eb64",
+          "level": 2,
+          "success": true,
+          "worker_pid": 10548,
+          "worker_duration_seconds": 4.0925,
+          "total_seconds": 4.0529,
+          "worker_started_at_utc": "2026-07-28T21:07:28.963691Z",
+          "worker_finished_at_utc": "2026-07-28T21:07:33.016638Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Veneto_862600_airport_sighting_clu_54b581",
+          "level": 2,
+          "success": true,
+          "worker_pid": 31436,
+          "worker_duration_seconds": 3.9419,
+          "total_seconds": 3.903,
+          "worker_started_at_utc": "2026-07-28T21:08:45.074116Z",
+          "worker_finished_at_utc": "2026-07-28T21:08:48.977137Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Piedmont_9fde2b_piedmont_sky_explana_17e16f",
+          "level": 2,
+          "success": true,
+          "worker_pid": 31436,
+          "worker_duration_seconds": 3.8941,
+          "total_seconds": 3.8534,
+          "worker_started_at_utc": "2026-07-28T21:08:26.940459Z",
+          "worker_finished_at_utc": "2026-07-28T21:08:30.793890Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
     }
   }
 }
