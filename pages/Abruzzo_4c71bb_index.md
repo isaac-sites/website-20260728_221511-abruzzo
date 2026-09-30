@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /abruzzo-4c71bb-index/
 description: Focused pages that expand on Why Abruzzo Became Italy's UFO Hotspot.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Abruzzo_4c71bb
 parent_title: Why Abruzzo Became Italy's UFO Hotspot

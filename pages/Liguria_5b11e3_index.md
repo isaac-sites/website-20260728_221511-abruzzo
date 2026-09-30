@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /liguria-5b11e3-index/
 description: Focused pages that expand on Why Liguria Became Italy's UFO Coast.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Liguria_5b11e3
 parent_title: Why Liguria Became Italy's UFO Coast

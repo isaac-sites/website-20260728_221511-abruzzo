@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /emilia-romagna-e1c904-index/
 description: Focused pages that expand on Why Emilia Romagna Became a UFO Hotspot.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Emilia-Romagna_e1c904
 parent_title: Why Emilia Romagna Became a UFO Hotspot

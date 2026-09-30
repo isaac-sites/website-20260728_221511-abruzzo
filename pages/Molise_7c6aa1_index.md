@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /molise-7c6aa1-index/
 description: Focused pages that expand on Why Molise Has So Few Strong UFO Cases.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Molise_7c6aa1
 parent_title: Why Molise Has So Few Strong UFO Cases

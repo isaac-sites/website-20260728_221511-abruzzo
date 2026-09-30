@@ -222,6 +222,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 18:18:16'
+last_modified_at: '2026-07-26 18:18:16'
 parent_title: Friuli UFO Files
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFO Files

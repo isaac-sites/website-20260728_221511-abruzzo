@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sicily-77b465-index/
 description: Focused pages that expand on Why Sicily's UFO Stories Still Resist Easy....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sicily_77b465
 parent_title: Why Sicily's UFO Stories Still Resist Easy...

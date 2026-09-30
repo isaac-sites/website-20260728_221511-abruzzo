@@ -222,6 +222,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 14:43:24'
+last_modified_at: '2026-07-26 14:43:24'
 parent_title: Abruzzo
 parent_permalink: /why-abruzzo-became-italys-ufo-hotspot/
 parent_nav_short_title: Abruzzo

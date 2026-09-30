@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /friuli-venezia-giuli-608dd8-index/
 description: Focused pages that expand on Friuli Venezia Giulia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Friuli-Venezia_Giuli_608dd8
 parent_title: Friuli Venezia Giulia

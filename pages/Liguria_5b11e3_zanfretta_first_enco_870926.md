@@ -222,6 +222,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 19:28:53'
+last_modified_at: '2026-07-26 19:28:53'
 parent_title: Liguria
 parent_permalink: /why-liguria-became-italys-ufo-coast/
 parent_nav_short_title: Liguria

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /basilicata-3ea395-index/
 description: Focused pages that expand on Which Basilicata UFO Cases Still Withstand....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Basilicata_3ea395
 parent_title: Which Basilicata UFO Cases Still Withstand...

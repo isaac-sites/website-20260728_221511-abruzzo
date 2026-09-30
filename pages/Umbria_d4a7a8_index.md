@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /umbria-d4a7a8-index/
 description: Focused pages that expand on Why Umbria's UFO Stories Still Resist Easy....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Umbria_d4a7a8
 parent_title: Why Umbria's UFO Stories Still Resist Easy...
