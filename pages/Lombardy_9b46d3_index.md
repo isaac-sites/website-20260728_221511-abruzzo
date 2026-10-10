@@ -8,6 +8,7 @@ permalink: /lombardy-9b46d3-index/
 description: Focused pages that expand on Lombardy's UFO History Between Evidence
   and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lombardy_9b46d3
 parent_title: Lombardy's UFO History Between Evidence and...

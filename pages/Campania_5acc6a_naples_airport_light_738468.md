@@ -222,6 +222,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 16:53:05'
+last_modified_at: '2026-07-26 16:53:05'
 parent_title: Campania
 parent_permalink: /why-campanias-ufo-waves-looked-so/
 parent_nav_short_title: Campania

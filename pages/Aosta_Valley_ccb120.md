@@ -234,6 +234,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-27 03:52:28'
+last_modified_at: '2026-07-27 03:52:28'
 sibling_links:
 - basename: Friuli-Venezia_Giuli_608dd8
   title: Friuli UFO Files

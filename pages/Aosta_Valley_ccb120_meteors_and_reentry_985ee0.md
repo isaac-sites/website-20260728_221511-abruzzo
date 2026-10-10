@@ -222,6 +222,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-27 05:24:41'
+last_modified_at: '2026-07-27 05:24:41'
 parent_title: Aosta Valley
 parent_permalink: /why-aosta-valleys-ufo-record-looks-so/
 parent_nav_short_title: Aosta Valley

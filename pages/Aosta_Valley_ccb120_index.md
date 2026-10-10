@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /aosta-valley-ccb120-index/
 description: Focused pages that expand on Why Aosta Valley's UFO Record Looks So....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Aosta_Valley_ccb120
 parent_title: Why Aosta Valley's UFO Record Looks So...

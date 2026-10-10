@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /apulia-98f3e8-index/
 description: Focused pages that expand on Why Apulia's UFO Record Still Resists Easy....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Apulia_98f3e8
 parent_title: Why Apulia's UFO Record Still Resists Easy...
