@@ -927,7 +927,6 @@ Within Abruzzo’s UFO history, the fishermen matter less as flawless identifier
 
 23.<a id="endnote-23"></a>
    Source: nap.nationalacademies.org  
-   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 
 24.<a id="endnote-24"></a>
    Source: nationalacademies.org  
