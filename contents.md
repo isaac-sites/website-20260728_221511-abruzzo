@@ -36,7 +36,7 @@ description: Browse the full structured site index.
 <section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
 <div class="home-structure-intro-copy">
 <p class="home-structure-intro-kicker">Topic guide</p>
-<h1 class="home-structure-intro-title">Research Map</h1>
+<h2 class="home-structure-intro-title">Research Map</h2>
 <p class="home-structure-intro-summary">Browse the main routes through the research across major topics and focused guides.</p>
 <div class="home-structure-actions" aria-label="Homepage starting points">
 <a class="home-structure-action home-structure-action-primary" href="{{ 'why-apulias-ufo-record-still-resists/' | relative_url }}">Start here</a>
